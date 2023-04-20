@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+
+body {
+  font-size: xx-large;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h1 {
+  font-size: 2.2em;
+  color: white;
+}
+h2 {
+  font-size: 1.7em;
+}
+p{
+  font-size: 1.3em;
+  font-family: 'Mukta malar', sans-serif;
+}
+
+footer p {
+  text-align: center;
+}
+
+/* Container for song title and lyrics */
+#song-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Song title */
+#song-title {
+  font-size: 3em;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Song lyrics */
+#lyrics {
+  font-size: 1.5em;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+/* Verse styles */
+verse {
+  display: flex;
+  line-height: 1.4;
+  padding: 20px;
+  border: 2px solid blue
+}
+
+verse[name*="c"] {
+  background-color: rgb(145, 235, 247);
+}
+
+verse[name*="v"] {
+  background-color: rgb(233, 232, 232);
+}
+
+/* Search bar styles */
+#search-container {
+  max-width: 1348px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  background-image: url('ColorStretched\ -\ Bloom.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+#search-input {
+  width: 80%;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  font-size: 1.2em;
+}
+
+#search-button, #clear-button, #copy-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+#search-button:hover {
+  background-color: #2980b9;
+}
+
+datalist {
+  position: absolute;
+  max-height: 20em;
+  border: 0 none;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+datalist option {
+  font-size: 0.8em;
+  padding: 0.3em 1em;
+  background-color: #ccc;
+  cursor: pointer;
+}
+
+datalist option:hover, datalist option:focus {
+  color: #fff;
+  background-color: #036;
+  outline: 0 none;
+}
+
+#songarea {
+padding: 20px;
+}
+
+.loading {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+.loading::after {
+  content: "";
+  display: flex;
+  border-radius: 50%;
+  width: 0;
+  height: 0;
+  margin: 8px;
+  box-sizing: border-box;
+  border: 32px solid #000;
+  border-color: #000 transparent #000 transparent;
+  animation: loading 1.2s infinite;
+}
+
+@keyframes loading {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+#loading{
+  width: 50%;
+  text-align: center;
+  left: 50%;
+  top: 50%;
+
+}
+
+label {
+  color: white;
+}
