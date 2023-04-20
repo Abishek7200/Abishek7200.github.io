@@ -4,37 +4,18 @@ const clearButton = document.getElementById('clear-button');
 const loading = document.getElementById('loading');
 
 const allSongsRadio = document.getElementById('all-songs');
-const selectedSongsRadio = document.getElementById('selected-songs');
+const worshipSongsRadio = document.getElementById('worship-songs');
+const songSearch = document.getElementById('search-input');
 const songList = document.getElementById('options');
 
 allSongsRadio.addEventListener('change', function() {
-  // Show all songs
-  Array.from(songList.options).forEach(function(option) {
-    option.style.display = 'block';
-  });
+  searchInput.removeAttribute('list')
+  searchInput.setAttribute('list','all')
 });
 
-selectedSongsRadio.addEventListener('change', function() {
-  // Filter selected songs
-  Array.from(songList.options).forEach(function(option) {
-    if (option.song-type === 'worship') {
-      option.style.display = 'block';
-    } else {
-      option.style.display = 'none';
-    }
-  });
-});
-
-searchInput.addEventListener('input', function() {
-  // Filter songs based on search query
-  const query = searchInput.value.toLowerCase();
-  Array.from(songList.children).forEach(function(song) {
-    if (song.textContent.toLowerCase().indexOf(query) === -1) {
-      song.style.display = 'none';
-    } else {
-      song.style.display = 'block';
-    }
-  });
+worshipSongsRadio.addEventListener('change', function() {
+  searchInput.removeAttribute('list')
+  searchInput.setAttribute('list','worship')
 });
 
 // add a click event listener to the search button
@@ -110,10 +91,10 @@ copyButton.addEventListener('click', () => {
   try {
     navigator.clipboard.writeText(text)
       .then(() => {
-        copyButton.innerHTML = 'Copied';
+        copyButton.innerHTML = 'Copied!';
         setTimeout(() => {
           copyButton.innerHTML = 'Copy';
-        }, 3000); // Change back to 'Copy' after 5 seconds
+        }, 2000); // Change back to 'Copy' after 5 seconds
       })
       .catch((error) => {
         console.error('Failed to copy lyrics: ', error);
@@ -125,9 +106,9 @@ copyButton.addEventListener('click', () => {
     textArea.select();
     document.execCommand("Copy");
     textArea.remove();
-    copyButton.innerHTML = 'Copied';
+    copyButton.innerHTML = 'Copied!';
     setTimeout(() => {
       copyButton.innerHTML = 'Copy';
-    }, 3000); // Change back to 'Copy' after 5 seconds
+    }, 2000); // Change back to 'Copy' after 5 seconds
   }
 });
