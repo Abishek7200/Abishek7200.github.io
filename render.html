@@ -10,13 +10,12 @@
         <h1>Tamil Christian Song Lyrics</h1>
         <input type="radio" id="all-songs" name="filter" checked>
         <label for="all-songs">All Songs</label>
-
-        <input type="radio" id="selected-songs" name="filter">
-        <label for="selected-songs">Worship songs</label>
+        <input type="radio" id="worship-songs" name="filter">
+        <label for="worship-songs">Worship Songs</label>
     <div style="width:900px;">
-        <input type="search" id="search-input" placeholder="Search song here in tanglish">
-        <datalist id="options">
-            <option value="Aadhi Pitha Kumaran (Others).xml" song-type="worship"></option>
+        <input type="text" id="search-input" list="all" placeholder="Search song here in tanglish">
+        <datalist id="all">
+            <option value="Aadhi Pitha Kumaran (Others).xml"></option>
             <option value="Aadhi Thiru Vaarthai (Others).xml"></option>
             <option value="Aagaathathu ethuvum illa ummal (Ft. Berckmans).xml"></option>
             <option value="Aalugai seiyum aaviyaanavare (Ft. Berckmans).xml"></option>
@@ -24,6 +23,8 @@
             <option value="Aananthamaai naame aarparippome (Ft. Berckmans).xml"></option>
             <option value="Aananthamaga anbarai paduven (Others).xml"></option>
             <option value="Aananthamai inba kanaan (Others).xml"></option>
+        </datalist>
+        <datalist id="worship">
             <option value="Aananthame paramananthame yesu annalai (Others).xml"></option>
             <option value="Aandavar padaitha vetriyin naalithu (Ft. Berckmans).xml"></option>
             <option value="Aandavare naan enna seiya sithamai (Ft. Berckmans).xml"></option>
