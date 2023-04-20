@@ -78,7 +78,6 @@ searchButton.addEventListener('click', () => {
 
 clearButton.addEventListener('click', () => {
   searchInput.value = ''; // reset the value of the input field
-  songarea.style.display='none'
 });
 
 const copyButton = document.querySelector('#copy-button');
