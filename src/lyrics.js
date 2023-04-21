@@ -40,6 +40,11 @@ searchButton.addEventListener('click', () => {
       const xml = parser.parseFromString(data, 'application/xml');
       const title = xml.querySelector('title').textContent;
       const lyrics = xml.querySelector('lyrics').innerHTML;
+      
+      // Remove verse with first child br element
+      const verseElements = xml.querySelectorAll('verse br:nth-child(1)');
+      verseElements.forEach(element => element.parentNode.remove());
+      lyrics = xml.querySelector('lyrics').innerHTML;
 
       // remove the loading animation and display the search button text
       loading.classList.remove('loading');
