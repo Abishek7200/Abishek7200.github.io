@@ -159,7 +159,7 @@ label {
   color: white;
 }
 
-input[type=radio] {
+input[type="radio"] {
   border: 0px;
   width: 2%;
   height: 1.5em;
