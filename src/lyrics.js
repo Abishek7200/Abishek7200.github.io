@@ -41,9 +41,11 @@ searchButton.addEventListener('click', () => {
       const title = xml.querySelector('title').textContent;
       let lyrics = xml.querySelector('lyrics').innerHTML;
       
-      // Remove verse with first child br element
-      const verseElements = xml.querySelectorAll('verse br:nth-child(1)');
-      verseElements.forEach(element => element.remove());
+      // Remove <br> element that is the first child of each <verse> element
+      const brElements = xml.querySelectorAll('verse > br:first-child');
+      brElements.forEach(element => {
+        element.remove();
+      });
       lyrics = xml.querySelector('lyrics').innerHTML;
 
       // remove the loading animation and display the search button text
