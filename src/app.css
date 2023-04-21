@@ -86,6 +86,7 @@ verse[name*="v"] {
   color: #fff;
   font-size: 1.2em;
   cursor: pointer;
+  margin-right: 20px;
 }
 
 #search-button:hover {
@@ -133,7 +134,7 @@ padding: 20px;
   margin: 8px;
   box-sizing: border-box;
   border: 32px solid #000;
-  border-color: #000 transparent #000 transparent;
+  border-color: #f34425 transparent #f34425 transparent;
   animation: loading 1.2s infinite;
 }
 
@@ -158,6 +159,7 @@ padding: 20px;
 label {
   color: white;
   padding-right: 40px;
+  font-size: larger;
 }
 
 input[type="radio"] {
