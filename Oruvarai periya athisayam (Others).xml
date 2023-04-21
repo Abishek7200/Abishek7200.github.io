@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Oruvarai periya athisayam</title>
+      <title>Oruvarai periya athisayam</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஒருவராய் பெரிய அதிசயம்<br/>செய்பவர் நீர் தானே இயேசையா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இந்த நாளில் செய்யுமே<br/>இறங்கி வந்து செய்யுமே<br/>ஒரு அற்புதம் நாங்கள்<br/>காணச்செய்யுமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>அல்லேலூயா....அல்லேலூயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>தழும்புகளால் சுகமாக்குவேன்<br/>என்றவர் நீர் தானே இயேசையா</lines>
+    </verse>
+  </lyrics>
+</song>

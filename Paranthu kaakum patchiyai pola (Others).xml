@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Paranthu kaakum patchiyai pola</title>
+      <title>yaaweh rofeka</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பறந்து காக்கும் பட்சியைபோல<br/>எங்களை காக்கும் கர்த்தாவே<br/>பட்சிக்க எண்ணும் சத்துரு முன்னே<br/>ஆதரவாக இருப்பவரே (2)<br/>வாதை என்னை அணுகாமல்<br/>கூடாரமாக இருப்பவரே (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>யாவே (7) ரொஃபேகா<br/>யாவே ரொஃபேகா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உம் ஆவி என்னில் வசிப்பதினால்<br/>மரித்தவை எல்லாம் உயிர்த்திடுமே (2)<br/>உயிர்த்தெழுந்த உம் வல்லமையால்<br/>என்னையும் உயிர்பிக்கும் ஆவியே (2) யாவே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என் சார்ப்பில் நீர் பலியானீர்<br/>எந்தன் இடத்தை எடுத்து கொண்டீர் (2)<br/>நீர் கொண்ட தழும்புகளால்<br/>நிரந்திர சுகத்தை தந்தவரே (2) யாவே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>மருத்துவரின் அறிக்கையினை<br/>சிலுவையின் இரத்தம் மாற்றிடுமே (2)<br/>நீடித்த நாட்களினால் (ஆயுளினால்)<br/>எங்களை திருப்தி செய்பவரே (2) யாவே</lines>
+    </verse>
+  </lyrics>
+</song>

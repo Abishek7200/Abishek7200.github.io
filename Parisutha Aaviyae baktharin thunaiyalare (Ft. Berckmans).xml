@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Parisutha Aaviyae baktharin thunaiyalare</title>
+      <title>Parisutha Aaviyae baktharin thunaiyalare</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பரிசுத்த ஆவியே பக்தர்கள் துணையாளரே<br/>கூட இருப்பவரே கறைகள் தீர்ப்பவரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. தேற்றிடும் தெய்வமே<br/>திடம் தருபவரே<br/>ஊற்றுத் தண்ணீரே<br/>உள்ளத்தின் ஆறுதலே – எங்கள்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பயங்கள் நீக்கிவிட்டீர்<br/>பாவங்கள் போக்கிவிட்டீர்<br/>ஜெயமே உம் வரவால்<br/>ஜெபமே உம் தயவால் – தினம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. அபிஷேக நாதரே<br/>அச்சாரமானவரே<br/>மீட்பின் நாளுக்கென்று<br/>முத்திரையானவரே – எங்கள்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. விடுதலை தருபவரே<br/>விண்ணப்பம் செய்பவரே<br/>சாட்சியாய் நிறுத்துகிறீர்<br/>சத்தியம் போதிக்கிறீர் – தினம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. அயல் மொழி பேசுகிறோம்<br/>அதிசயம் காண்கிறோம்<br/>வரங்கள் பெறுகிறோம்<br/>வளமாய் வாழ்கிறோம்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. சத்துரு வரும் போது<br/>எதிராய் கொடி பிடிப்பீர்<br/>எக்காளம் ஊதுகிறோம்<br/>எதிரியை வென்று விட்டோம்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Penthecoste anubavam thaarume</title>
+      <title>Penthecoste anubavam thaarume</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v1 v2 v4 v1 v2 v5 v1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. பெந்தெகொஸ்தே அனுபவம் தாருமே<br/>பின்மாரி ஆவியை ஊற்றுமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>மேலான வல்லமை<br/>மேலான தரிசனம்<br/>மேலான வரங்களைத் தாருமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என்னை நிரப்புமே (2) என்னை நிரப்பியே அனுப்புமே<br/>என் பாத்திரம் நிரம்பி வழிந்திட<br/>உம் ஆவியை ஊற்றுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. அனலான ஊழியம் தாருமே<br/>என்னை அக்கினி ஜீவாலையாய் மாற்றுமே - மேலான</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. நிழல்பட்டு மரித்தோர்கள் எழும்பிட<br/>அற்புதத்தின் அபிஷேகம் தாருமே - மேலான</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. அக்கினி நாவுகள் தாருமே எனக்கு<br/>அதிகார நாவுகள் தாருமே - மேலான</lines>
+    </verse>
+  </lyrics>
+</song>

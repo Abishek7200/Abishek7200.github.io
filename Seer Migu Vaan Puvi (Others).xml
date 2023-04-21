@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Seer Migu Vaan Puvi</title>
+      <title>Seer migu vaan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சீர்மிகு வான்புவி தேவா தோத்ரம்<br/>சிருஷ்டிப்பு யாவையும் படைத்தாய், தோத்ரம்<br/>ஏர்குணனே தோத்ரம் அடியர்க்கு<br/>இரங்கிடுவாய் தோத்ரம் மா நேசா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நேர்மிகு அருள் திரு அம்பா தோத்ரம்<br/>நித்தமு முமக் கடியார்களின் தோத்ரம்<br/>ஆர் மணனே தோத்ரம் உனது<br/>அன்பினுக்கே தோத்ரம் மா நேசா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>ஜீவன் சுகம் பெலன் யாவுக்கும் தோத்ரம்<br/>தினம் தினம் அருள் நன்மைக்காவும் தோத்ரம்<br/>ஆவலுடன் தோத்ரம் உனது<br/>அன்பினுக்கே தோத்ரம் மா நேசா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஆத்தும நன்மைகட்காகவும் தோதரம்<br/>அதிசய நடத்துதற்காகவும் தோத்ரம்<br/>சாற்றுகிறோம் தோத்ரம் உனது<br/>தகுமன்புக்கே தோத்ரம் மா நேசா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>மாறாப் பூரண நேசா தோத்ரம்<br/>மகிழொடு ஜெபமொழி மாலையின் தோதரம்<br/>தாராய்துணை தோத்ரம் இந்த<br/>தருணமே கொடு தோத்ரம் மா நேசா</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Neenga pothum yesappa</title>
+      <title>Neenga pothum yesappa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நீங்க போதும் இயேசப்பா<br/>உங்க சமூகம் எனக்கப்பா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எத்தனை இன்பமே உந்தன் சமூகமே<br/>உள்ளமும் உடலுமே உமக்காய் ஏங்குதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. புதுபெலன் தருகிறீர் புது எண்ணேய் பொழிகிறீர்<br/>கனிதரும் மரங்களாய் செழித்தோங்கச் செய்கிறீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. அப்பா உம் சந்நிதியில் எப்போ நான் வந்து நிற்பேன்<br/>திருமுகம் கண்டு நான் திருப்தியில் மூழ்குவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. தேனிலும் இனிமையே தெவிட்டாத அமுதமே<br/>தேடியும் கிடைக்காத ஒப்பற்ற செல்வமே</lines>
+    </verse>
+  </lyrics>
+</song>

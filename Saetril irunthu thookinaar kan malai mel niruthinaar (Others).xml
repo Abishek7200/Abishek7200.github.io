@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Saetril irunthu thookinaar kan malai mel niruthinaar</title>
+      <title>Saetril irunthu thookinaar kan malai mel niruthinaar</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சேற்றிலிருந்து தூக்கினார்<br/>கன்மலைமேல் நிறுத்தினார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பாவமான வாழ்க்கையை<br/>மாற்றித் தந்தாரே<br/>துன்பமான வாழ்க்கையில்<br/>இன்பம் தந்தாரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>அவர் எந்தன் கன்மலை<br/>அவர் எந்தன் கன்மலையானர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Picked me up from the Miry Clay...<br/>Put Me on the Rock to Stay....</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Oh my life was in a Mess....<br/>I thought theres No Way Out....<br/>Then I Cried On Jesus Name And<br/>He Gave Me a Brand New Start.......</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>He is Rock ........ He is Rock ............!<br/>Jesus is the Rock On whom I Stand..!</lines>
+    </verse>
+  </lyrics>
+</song>

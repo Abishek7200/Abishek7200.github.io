@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Singa gebiyil naan nadanthen</title>
+      <title>Singa gebiyil naan nadanthen</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சிங்க கெபியில் நான் விழுந்தேன்<br/>அவர் என்னோடு அமர்ந்திருந்தார்<br/>சுட்டெரிக்கும் அக்கினியில் நடந்தேன்<br/>பனித்துளியாய் என்னை நனைத்தார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>சிங்க கெபியோ சூளை நெருப்போ<br/>அவர் என்னை காத்திடுவார் - 2<br/>அவரே என்னை காப்பவர்<br/>அவரே என்னை காண்பவர் - 2<br/>சிங்க கெபியோ சூளை நெருப்போ<br/>அவர் என்னை காத்திடுவார் - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>எதிரிகள் எனை சுற்றி வந்தாலும்<br/>தூதர் சேனைகள் கொண்டென்னை காப்பாரே - 2<br/>ஆவியினால் யுத்தம் வெல்வேனே<br/>சாத்தானை சமுத்திரம் விழுங்குமே - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>அவரே என்னை காப்பவர்<br/>அவரே என்னை காண்பவர் - 2<br/>சிங்க கெபியோ சூளை நெருப்போ<br/>அவர் என்னை காத்திடுவார் - 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>இராஜ்ஜியம் எனக்குள்ளே வந்ததால்<br/>சூழ்ச்சிகள் எனை ஒன்றும் செய்யாதே - 2<br/>அற்புதம் எனக்காக செய்பவர்<br/>என்னை அதிசயமாய் வழி நடத்துவார் - 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>அவரே என்னை காப்பவர்<br/>அவரே என்னை காண்பவர் - 2<br/>சிங்க கெபியோ சூளை நெருப்போ<br/>அவர் என்னை காத்திடுவார் - 2<br/>                                - சிங்க கெபியில்</lines>
+    </verse>
+  </lyrics>
+</song>

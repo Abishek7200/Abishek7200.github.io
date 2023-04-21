@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Pisasanavan Thotruponavan</title>
+      <title>Pisasanavan Thotruponavan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பிசாசானவன் தோற்றுப்போனவன்<br/>சிலுவையில் அவன் தலை நசுங்கினதே -2<br/>வல்லமையின் அதிகாரம் நம் கையிலே<br/>சிலுவையிலே ஏசு நமக்கு தந்தார் -2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பிசாசானவன் நம் காலின் கீழே<br/>தேவ பிள்ளைகள் மேலே அவனுக்கு அதிகாரம் இல்லை -2<br/>ஒன்று சேர்ந்து நாம் ஏசுவை துதிக்கும் போது<br/>அவன் கிரியைகளை நாம் அழித்திடலாம் -2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பிசாசானவன் பொய்யன்தானே<br/>அவனின் வார்த்தைகள் நம்பவேண்டாம்<br/>சத்திய ஆவி நமக்குளே<br/>சகலமும் போதித்து நடத்திடுவார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. ஆவியானவர் என் மேலே இருக்கிறார்<br/>அனுதினமும் என்னை நடத்துகிறார்<br/>பரிசுத்த அக்கினி எனக்குளே<br/>அனைத்திட யாரலும் முடியாது</lines>
+    </verse>
+  </lyrics>
+</song>

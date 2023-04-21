@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Puthiya naalukul ennai nadathum</title>
+      <title>puthu kirubai thaarum deva</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>புதிய நாளுக்குள் (ஆண்டுக்குள்) என்னை நடத்தும்<br/>புதிய கிருபையால் என்னை நிரப்பும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>புது கிருபை தாரும் தேவா<br/>புது பெலனை தாரும் தேவா --- புதிய</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. ஆரம்பம் அற்பமனாலும்<br/>முடிவு சம்பூர்ணமாய்<br/>குறைவுகள் நிறைவாகட்டும் - எல்லா<br/>என் வறட்சி செழிப்பாகட்டும் --- புது</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. வெட்கத்துக்கு பதிலாக (இரட்டிப்பு)<br/>நன்மை தாரும் தேவா - (2)<br/>கண்ணீர்க்கு பதிலாக (எந்தன்) - (2)<br/>களிப்பை தாரும் தேவா (ஆனந்த) - (2) --- புது</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. சவால்கள் சந்தித்திட (இன்று)<br/>உலகத்தில் ஜெயமெடுக்க - (2)<br/>உறவுகள் சீர்பொருந்த (குடும்ப) - (2)<br/>சமாதானம் நான் பெற்றிட (மனதில்) - (2) --- புது</lines>
+    </verse>
+  </lyrics>
+</song>

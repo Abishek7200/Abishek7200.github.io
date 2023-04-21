@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Ootru thanneerae endhan</title>
+      <title>Ootru thanneerae endhan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஊற்றுத் தண்ணீரே எந்தன் தேவ ஆவியே<br/>ஜீவ நதியே என்னில் பொங்கிப் பொங்கிவா (2)<br/>ஆசீர்வதியும் என் நேசக் கர்த்தரே<br/>ஆவியின் வரங்களினால் என்னை நிரப்பும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. கன்மலையைப் பிளந்து வனாந்திரத்திலே<br/>கர்த்தாவே உம் ஜனங்களின் தாகம் தீர்த்தீரே<br/>பள்ளத்தாக்கிலும் மலைகளிலும்<br/>தண்ணீர் பாயும் தேசத்தை நீர் வாக்களித்தீரே -</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. ஜீவத் தண்ணீராம் எந்தன் நல்ல கர்த்தாவே<br/>ஜீவ ஊற்றினால் என்னை நிறைத்திடுவீர்<br/>கனி தந்திட நான் செழித்தோங்கிட<br/>கர்த்தரின் கரத்தால் நித்தம் கனம் பெற்றிட --- </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. திறக்கப்பட்டதாம் ஊற்று சிலுவையிலே<br/>இரட்சகரின் காயங்கள் வெளிப்படுதே<br/>பாவக்கறைகள் முற்றும் நீங்கிட<br/>பரிசுத்தர் சமுகத்தில் ஜெயம் பெற்றிட	--- </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கிருபையின் ஊற்றுகள் பெருகிடவே<br/>புதுபெலன் அடைந்து நான் மகிழ்ந்திடவே<br/>பரிசுத்தத்தை பயத்துடனே<br/>பூரணமாக்கிட தேவ பெலன் தாருமே --- ஊற்று</lines>
+    </verse>
+  </lyrics>
+</song>

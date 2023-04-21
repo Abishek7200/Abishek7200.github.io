@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Rathame Sinthapatta Rathame</title>
+      <title>Rathame Sinthapatta Rathame</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Joseph Aldrin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இரத்தமே சிந்தப்பட்ட இரத்தமே<br/>விலையேறப்பெற்ற வல்ல இரத்தமே<br/>இயேசு கிறிஸ்துவின் இரத்தமே<br/>(எனக்கு) விலையாக சிந்தப்பட்டதே – 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. பாவங்கள் யாவையும் கழுவி என்னை<br/>பரிசுத்தமாகின வல்ல இரத்தமே<br/>சுத்தமனச்சாட்சியை எனக்குத் தத்து<br/>சுத்திகரித்த பரிசுத்த இரத்தமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. தூரமான புறஜாதி எனக்கு<br/>சொந்தம் என்ற உறவைத் தந்த இரத்தமே<br/>ஜீவனுள்ள புதிய மார்க்கத்தினுள்<br/>பிரவேசிக்க தைரியம் தந்த இரத்தமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. நித்திய மீட்பை எனக்குத் தர<br/>எதிர்க்கும் சாத்தான் மேல் ஜெயம் பெற<br/>நன்மைகள் எனக்காய் பேசுகிற<br/>தெளிக்கப்படும் பரிசுத்த இரத்தமே</lines>
+    </verse>
+  </lyrics>
+</song>

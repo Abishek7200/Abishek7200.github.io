@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Neerindri vaazhvethu iraiva um</title>
+      <title>Neerindri vaazhvethu iraiva um</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v1 v3 c1 v1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நீரின்றி வாழ்வேது இறைவா<br/>உம் நினைவின்றி மகிழ்வேது தேவா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உலகத்தில் நூறாண்டு நான் வாழ்ந்த போதும்<br/>உம் இல்லத்தில் வாழும் ஒரு நாளே போதும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. பல கோடி வார்த்தைகள் நான் கேட்ட போதும்<br/>இயேசுவே நீர் பேசும் ஒரு வார்த்தை போதும்<br/>ஓராயிரம் ஜீவன் உயிர் வாழுமே<br/>உம் வார்த்தையிலே உண்டு அற்புதமே --- நீரின்றி</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. கல்லுக்குள் தேரையை வைத்தவர் நீர்<br/>அதற்குள் உம் ஜீவனை தந்தவர் நீர்<br/>உம்மையன்றி அணுவேதும் அசையாதையா<br/>உம் துணையின்றி உயிர் வாழ முடியாதைய்யா --- நீரின்றி</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. எத்தனை நன்மைகள் செய்தீரையா<br/>அதில் எதற்கென்று நன்றி சொல்லி துதிப்பேன் ஐயா<br/>அத்தனையும் சொல்ல வேண்டும் என்றால்<br/>ஆயிரம் ஆண்டுகள் போதாதையா --- நீரின்றி</lines>
+    </verse>
+  </lyrics>
+</song>

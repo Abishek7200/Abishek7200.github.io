@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-01T13:06:47">
+  <properties>
+    <titles>
+      <title>Raasa raasapitha</title>
+      <title>Raasa raasapitha</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ராச ராச பிதா மைந்த தேசுலாவுசதா நந்த<br/>யேசு நாயகனார் சொந்த மேசியா நந்தனே!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>ஜெகதீசு ரேசுரன் சுக நேச மீசுரன் மக – ராச</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. மாசிலா மணியே! மந்த்ர ஆசிலா அணியே! சுந்தர<br/>நேசமே பணியே, தந்திர மோசமே தணியே!<br/>நிறைவான காந்தனே! இறையான சாந்தனே! மறை – ராச</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. ஆதியந்த மில்லான் அந்த மாதினுந்தியிலே, முந்த<br/>வேத பந்தனமாய் வந்த பாதம் வந்தனமே,<br/>பத ஆமனாமனா! சுதனாமனாமனா! சித – ராச</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. மேன்மையா சனனே, நன்மை மேவுபோசனனே தொன்மை<br/>பான்மை வாசனனே, புன்மை பாவ மோசனனே<br/>கிருபா கரா நரா! சருவேசுரா, பரா ஸிரீ – ராச</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. வீடு தேடவுமே, தந்தை நாடு கூடவுமே, மைந்தர்<br/>கேடு மூடவுமே, விந்தையோடு பாடவுமே<br/>நரவேட மேவினான், சுரராடு கோவினான், பர – ராச</lines>
+    </verse>
+  </lyrics>
+</song>

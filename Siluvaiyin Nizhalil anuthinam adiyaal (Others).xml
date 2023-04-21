@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Siluvaiyin Nizhalil anuthinam adiyaal</title>
+      <title>Siluvaiyin Nizhalil anuthinam adiyaal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v1 v3 c1 v1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சிலுவையில் நிழலில் அனுதினம் அடியான்<br/>சாய்ந்திளைப் பாரிடுவேன் – ஆ ஆ</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>சிலுவையின் அன்பின் மறைவில்<br/>கிருபையின் இனிய நிழலில்<br/>ஆத்தும நேசரின் அருகில்<br/>அடைகிறேன் ஆறுதல் மனதில் – சிலுவையில்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. பாவப் பாரச்சுமையதால் சோர்ந்து<br/>தளர்ந்தென் ஜீவியமே ஆ ஆ<br/>சிலுவையண்டை வந்ததினால்<br/>சிறந்த சந்தோஷங் கண்டதினால்<br/>இளைப்படையாது மேலோகில்<br/>ஏகுவேன் பறந்தே வேகம் – சிலுவையில்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. எவ்வித கொடிய இடருக்கும் அஞ்சேன்<br/>ஏசுவை சார்ந்து நிற்பேன் – ஆ ஆ<br/>அவனியில் வியாகுலம் வந்தால்<br/>அவரையே நான் அண்டிக் கொண்டால்<br/>அலைமிக மோதிடும் அந்நாள்<br/>ஆறுதல் அளிப்பதாய்ச் சொன்னார் – சிலுவையில்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. இன்பம் சுரந்திடும் திருமொழி கேட்டே<br/>இன்னல்கள் மறந்திடுவேன் – ஆ ஆ<br/>திருமறை இன்னிசை நாதம்<br/>தேனிலுமினிய வேதம்<br/>தருமெனக்கனந்த சந்தோஷம்<br/>தீர்க்குமென் இதயத்தின் தோஷம் – சிலுவையில்</lines>
+    </verse>
+  </lyrics>
+</song>

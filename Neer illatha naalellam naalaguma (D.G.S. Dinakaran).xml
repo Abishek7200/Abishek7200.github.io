@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Neer illatha naalellam naalaguma</title>
+      <title>Neer illatha naalellam naalaguma</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">D.G.S. Dinakaran</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நீ இல்லாத நாளெல்லாம் நாளாகுமா<br/>நீ இல்லாத வாழ்வெல்லாம் வாழ்வாகுமா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. உயிரின் ஊற்றே நீ ஆவாய்<br/>உண்மையின் வழியே நீ ஆவாய்<br/>உறவின் பிறப்பே நீ ஆவாய்<br/>உள்ளத்தின் மகிழ்வே நீ ஆவாய்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. எனது ஆற்றலும் நீ ஆவாய்<br/>எனது வலிமையும் நீ ஆவாய்<br/>எனது அரணும் நீ ஆவாய்<br/>எனது கோட்டையும் நீ ஆவாய்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. எனது நினைவும் நீ ஆவாய்<br/>எனது மொழியும் நீ ஆவாய்<br/>எனது மீட்பும் நீ ஆவாய்<br/>எனது உயிர்ப்பும் நீ ஆவாய்</lines>
+    </verse>
+  </lyrics>
+</song>

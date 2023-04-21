@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Paavangal pokkave saabangal neekkave</title>
+      <title>Paavangal pokkave saabangal neekkave</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பாவங்கள் போக்கவே, சாபங்கள் நீக்கவே<br/>பூலோகம் வந்தாரைய்யா<br/>மனிதனை மீட்கவே, பரலோகம் திறக்கவே<br/>சிலுவையை சுமந்தோரையா<br/>கண்ணீரை துடைத்தாரைய்யா, சந்தோஷம் தந்தாரைய்யா - (2)<br/>எந்தன் இயேசுவே - (4)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>தங்கத்தை கேட்கவில்லை, வைரத்தை கேட்கவில்லை<br/>உள்ளத்தை கேட்டாரைய்யா<br/>ஆஸ்தியை கேட்கவில்லை, அந்தஸ்தை கேட்கவில்லை<br/>உள்ளத்தை கேட்டாரைய்யா<br/>நான் தேடி போகவில்லை, என்னைத் தேடி வந்தாரைய்யா - (2)<br/>எந்தன் இயேசுவே - (4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>தாய் உன்னை மறந்தாலும், தந்தை உன்னை மறந்தாலும்<br/>அவர் உன்னை மறக்கமாட்டார்<br/>நண்பர் உன்னை மறந்தாலும், உற்றார் உன்னை மறந்தாலும்<br/>அவர் உன்னை மறக்கமாட்டார்<br/>கரம் பிடித்து நடத்திடுவார், கன்மலை மேல் நிறுத்திடுவார் - (2)<br/>எந்தன் இயேசுவே - (4)</lines>
+    </verse>
+  </lyrics>
+</song>

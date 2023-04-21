@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Santhosham Santhosham Santhoshame</title>
+      <title>Santhosham Santhosham Santhoshame</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சந்தோஷம் சந்தோஷம் சந்தோஷமே<br/>பரலோக சந்தோஷமே<br/>சந்தோஷம் சந்தோஷம் சந்தோஷமே<br/>அவர் சமூகத்தில் சந்தோஷமே<br/>இயேசுவின் சமூகத்தில் சந்தோஷமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>கர்த்தரின் யுத்தத்தில் நாம் நிற்கும்போது <br/>கலங்கிடத் தேவையில்லை<br/>கைகளை உயர்த்தி ஆராதித்தால்<br/>பெரும் வெற்றியைத் தந்திடுவார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>போராட்டம் பாடுகள் நம் வாழ்வில் வந்தாலும்<br/>சோர்ந்திடவே வேண்டாம்<br/>உலகத்தை ஜெயித்தவர் நம்முடன் இருக்கையில்<br/>ஜெயம் ஜெயம் ஜெயம் நமக்கே</lines>
+    </verse>
+  </lyrics>
+</song>

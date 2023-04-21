@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Neer Ennai Thedi Varathirunthal</title>
+      <title>Neer Ennai Thedi Varathirunthal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நீர் என்னை தேடி வராதிருந்தால்<br/>நான் என்றோ மரிச்சிருப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உம் கிருபை என்னில் தராதிருந்தால்<br/>நான் என்றோ அழிந்திருப்பேன்<br/>என் தேவா ..என் ராஜா<br/>உம் கிருபை போதுமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. தட்டு தடுமாறி நான் தள்ளாடி நடந்தேன்<br/>என்னை தொட்டு தூக்கி விட நீர் ஓடோடி வந்தீர்<br/>சொத்தோ சுகமோ தேவை இல்ல சொந்தம் பந்தம் நாட இல்ல<br/>என் தேவா ..என் ராஜா<br/>உம் கிருபை போதுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. உளையான சேற்றினிலே நான் உழன்று கிடந்தேன்<br/>உன்னதத்தின் தேவா என்னை உயர்த்தி வைத்தீரே<br/>பேரோ புகழோ தேவை இல்ல<br/>பேர் சொல்லி அழைத்தவர் நீர் போதும்<br/>என் தேவா ..என் ராஜா<br/>உம் கிருபை போதுமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. தாயின் கருவினிலே என்னை சுமந்து கொண்டீரே<br/>தாங்கி தாங்கி என்னை உந்தன் தோளில் சுமந்தீரே<br/>அன்பே எந்தன் ஆருயிரே ஆயுள் முழுதும் ஆராதிப்பேன்<br/>என் தேவா ..என் ராஜா<br/>உம் கிருபை போதுமே</lines>
+    </verse>
+  </lyrics>
+</song>

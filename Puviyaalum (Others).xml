@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Puviyaalum</title>
+      <title>Puviyaalum</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>புவியாளும் புனித தேவன்	<br/>மனுவாக வந்தேனோ<br/>புவியாளும் புனித தேவன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>புவியாளும் புனித தேவன் இங்கு<br/>பாவம் போக்க வந்ததேனோ<br/>மரியாளின் மைந்தனாக<br/> மனுவாக வந்ததேனோ-புவியாளும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>மேய்ப்பர் அறிஞர் போற்ற-இந்த<br/>இகம் மீட்க வந்த தேவன்<br/>விண் தூதர் சூழ்ந்து வானில்<br/>துதி கீதம் கூடி பாட<br/>மகிழ்ந்திட பாலன் பிறந்தார்-புவியாளும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>அறிஞர் விரைந்து வாழ்த்தி – மா<br/>மறையோர்கள் ஏந்தி போற்ற<br/>காரிருளை நீக்கும் தீபம்<br/>அருணோதயம் என் இயேசு<br/>கருணாகரன் பிறந்தார் – புவியாளும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>ஞானம் வளர்த்தி தேவ கிருபை<br/>மானிடரின் தயவில் வளர்ந்தார்<br/>தந்தை சொல்லை கேட்டு நடந்தார்<br/>தாய் வார்த்தை கீழ்படிந்தார்<br/>தயவுள்ள தேவ தேவன் – புவியாளும்</lines>
+    </verse>
+  </lyrics>
+</song>

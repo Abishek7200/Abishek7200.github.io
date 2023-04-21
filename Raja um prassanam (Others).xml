@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Raja um prassanam</title>
+      <title>Raja um prassanam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1 v7 v1 c1 v8 v1 c1 v9 v1 c1 v10 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ராஜா உம் பிரச்னனம் போதுமையா<br/>எப்போதும் எனக்குப் போதுமையா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பிரசன்னம் பிரசன்னம் தேவ பிரசன்னம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. அதிகாலமே தேடுகிறேன்<br/>ஆர்வமாய் நாடுகிறேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. உலகமெல்லாம் மாயையையா<br/>உம் அன்பொன்றே போதுமையா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. இன்னும் உம்மை அறியணுமே<br/>இன்னும் கிட்டி சேரணுமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. கரம் பிடித்த நாயகரே<br/>கைவிடாத தூயவரே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. ஆட்கொண்ட அதிசயமே<br/>ஆறுதலே அடைக்கலமே</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6. துதியினிலே வாழ்பவரே<br/>துணையாளரே என் மணவாளரே</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>7. அநாதி தேவன் அடைக்கலமே<br/>அவர் புயங்கள் ஆதாரமே</lines>
+    </verse>
+    <verse name="v9">
+      <lines><br/>8. சகாயம் செய்யும் கேடகமே<br/>மகிமை நிறை பட்டயமெ</lines>
+    </verse>
+    <verse name="v10">
+      <lines><br/>9. சீர்படுத்தும் சிருஷ்டிகரே<br/>ஸ்திரப்படுத்தும் துணையாளரே</lines>
+    </verse>
+  </lyrics>
+</song>

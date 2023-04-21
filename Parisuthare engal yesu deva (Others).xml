@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Parisuthare engal yesu deva</title>
+      <title>Parisuthare engal yesu deva</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 v1 v2 c1 v6 v4 v1 v2 c1 v7 v4 v1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பரிசுத்தரே எங்கள் இயேசு தேவா<br/>நானிலத்தில் நீ என்றும் ராஜா<br/>உம்மைப் பாடுவதால் என்னில் தோல்வியில்லை<br/>உம்மைத் துதிப்பதினால் என்னில் குறைவேயில்லை</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அல்லேலூயா (4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உம்மை உயர்த்துவதே எங்கள் நோக்கமையா<br/>உம்மை பாடுவதே எங்கள் மேன்மையையா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>1. நான் கொண்ட திட்டங்கள் சிறிதாயினும் - ஐயா<br/>எனக்காய் உம் திட்டங்கள் பெரிதல்லவோ<br/>புழுதியிலிருந்தென்னை உயர்த்தினீரே<br/>ராஜாக்களோடு அமர்த்தினீரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>உந்தன் கிருபைகளை எண்ணி நான் பாடுவேன்<br/>உந்தன் மகிமைதனை தினம் நான் ருசிப்பேன்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/><br/>2. ஊழிய எல்லைகள் பெரிதாக்கினீர்<br/>அதில் இராஜாக்கள் உதிக்கவும் உதவிசெய்தீர்<br/>அறியாத ஜாதியை வரவழைத்தீர்<br/>நீர் தந்த வாக்கினை நிறைவேற்றினீர்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/><br/>3. வருத்தங்கள் பசிதாகம் ஏற்ப்பட்டாலும்<br/>எங்கள் விசுவாச கேடகம் வீழ்ந்திடாதே<br/>நம்பினோர் நட்டாத்தில் கைவிட்டாலும்<br/>என்னை காப்பற்ற நீர் உண்டு பயமில்லையே</lines>
+    </verse>
+  </lyrics>
+</song>

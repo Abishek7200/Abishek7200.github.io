@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Nigare Illatha Sarvesa</title>
+      <title>Nigare Illatha Sarvesa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நிகரே இல்லாத சர்வேசா<br/>திகழும் ஒளி பிரகாசா<br/>துதிபாடிட இயேசு நாதா<br/>பதினாயிரம் நாவுகள் போதா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>துங்கன் ஏசு மெய் பரிசுத்தரே<br/>எங்கள் தேவனைத் தரிசிக்கவே<br/>துதிகளுடன் கவிகளுடன்<br/>தூய தூயனை நெருங்கிடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கல்லும் மண்ணும் எம் கடவுளல்ல<br/>கையின் சித்திரம் தெய்வமல்ல<br/>ஆவியோடும் உண்மையோடும்<br/>ஆதி தேவனை வணங்கிடுவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>பொன் பொருள்களும் அழிந்திடுமே<br/>மண்ணும் மாயையும் மறைந்திடுமே<br/>இதினும் விலை பெரும் பொருளே<br/>இயேசு ஆண்டவர் திருவருளே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>தேவ மைந்தனாய் அவதரித்தார்<br/>பாவ சோதனை மடங்கடித்தார்<br/>மனிதனுக்காய் உயிர் கொடுத்தார்<br/>மாளும் மாந்தரை மீட்டெடுத்தார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>கொந்தளிக்கும் அலைகளையும்<br/>கால் மிதிக்கும் கர்த்தரவர்<br/>அடங்கிடுமே அதற்றிடவே<br/>அக்கரை நாமும் சேர்ந்திடவே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>ஜீவன் தந்தவர் மரித்தெழுந்தார்<br/>ஜீவ தேவனே உயிர்த்தெழுந்தார்<br/>மறுபடியும் வருவேனென்றார்<br/>மாசந்தோஷ நாள் நெருங்கிடுதே</lines>
+    </verse>
+  </lyrics>
+</song>

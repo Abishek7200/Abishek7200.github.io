@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Paadi pugazhven naan Gerson</title>
+      <title>Paadi pugazhven naan Gerson</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ps. Jersson Edinbaro</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பாடி புகழ்வேன் நான் ஆடி மகிழ்வேன்<br/>அவர் நன்மைகளை எங்கும் சொல்லுவேன்<br/>அப்பா சமுகத்தில் ஆடி பாடி மகிழ்ந்திருப்பேன்<br/>அவர் இஸ்ரவேலின் வல்லவரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பாடுவேன் அல்லோயா துதி அல்லோயா<br/>கிருபையை புகழ்ந்திடுவேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>எளியவனை நீர் உயர்த்திடுவீர்<br/>ஆயிரமாக பெருக செய்வீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கூப்பிட்ட நேரத்தில் பதில் அளித்து<br/>குறைகள் தீர்த்திட வருபவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>பகைகும் ஜனங்களின் நடுவிலே<br/>பந்தியை கொடுத்து உயர்த்திடுவீர்</lines>
+    </verse>
+  </lyrics>
+</song>

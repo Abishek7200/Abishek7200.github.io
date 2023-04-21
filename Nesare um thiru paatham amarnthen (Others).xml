@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Nesare um thiru paatham amarnthen</title>
+      <title>Nesare um thiru paatham amarnthen</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 v5 v6 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. நேசரே உம்திரு பாதம் அமர்ந்தேன்<br/>நிம்மதி நிம்மதியே<br/>ஆர்வமுடனே பாடித் துதிப்பேன்<br/>ஆனந்தம் ஆனந்தமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அடைக்கலமே அதிசயமே<br/>ஆராதனை ஆராதனை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. உம் வல்ல செயல்கள் நினைத்து நினைத்து<br/>உள்ளமே பொங்குதய்யா<br/>நல்லவரே நன்மை செய்தவரே<br/>நன்றி நன்றி ஐயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>வல்லவரே நல்லவரே<br/>ஆராதனை ஆராதனை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. பலியான செம்மறி பாவங்களெல்லாம்<br/>சுமந்து தீர்த்தவரே<br/>பரிசுத்த இரத்தம் எனக்காக அல்லோ<br/>பாக்கியம் பாக்கியமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>பரிசுத்தரே படைத்தவரே<br/>ஆராதனை ஆராதனை</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>4. எத்தனை இன்னல்கள் என் வாழ்வில் வந்தாலும்<br/>உம்மை பிரியேன் ஐயா<br/>சித்தமே செய்து சாட்சியாய் வாழ்வேன்<br/>நிச்சயம் நிச்சயமே</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>இரட்சகரே இயேசு நாதா<br/>ஆராதனை ஆராதனை</lines>
+    </verse>
+  </lyrics>
+</song>

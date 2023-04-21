@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Rajathi Raja Vai Kondaduvom</title>
+      <title>Rajathi Raja Vai Kondaduvom</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ராஜாதி ராஜாவைக் கொண்டாடுவோம்<br/>நாள்தோறும் துதிபாடி கொண்டாடுவோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. வந்தாரே தேடி வந்தாரே<br/>தன் ஜீவன் எனக்காய் தந்தாரே<br/>என்னை வாழவைக்கும் தெய்வம்தான் இயேசு<br/>என்னை வழிநடத்தும் தீபம்தானே இயேசு</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. கலக்கம் இல்லே எனக்கு கவலை இல்லே<br/>கர்த்தர் என் மேய்ப்பராய் இருக்கிறார்<br/>என்னை பசும்புல் மேய்ச்சலுக்கு நடத்துவார்<br/>நான் பசியாற உணவு ஊட்டி மகிழுவார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. வென்றாரே சாத்தானை வென்றாரே<br/>வல்லமைகள் அனைத்தையும் உரிந்தாரே<br/>அந்த சாத்தான் மேலே அதிகாரம் தந்தாரே<br/>என் இயேசு நாமம் சொல்லச் சொல்லி<br/>முறியடிப்பேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கரங்களிலே என்னை பொறித்து உள்ளார்<br/>கண்முன்னே தினம் என்னை நிறுத்தியுள்ளார்<br/>ஏற்ற காலத்திலே உயர்த்துவார் – அவர்<br/>கரங்களுக்குள் அடங்கி நான் காத்திருப்பேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. முடிவில்லாத தம் மகிமையிலே<br/>பங்கு பெற என்னை தெரிந்து கொண்டார்<br/>என்னை சீர்படுத்தி ஸ்திரப்படுத்தி நடத்துவார்<br/>பெலப்படுத்தி நிலைநிறுத்தி மகிழுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

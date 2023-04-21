@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Santhoshamaayirungal</title>
+      <title>Santhoshamaayirungal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சந்தோஷமாயிருங்கள்<br/>எப்பொழுதும் சந்தோஷமாயிருங்கள்<br/>உயர்வானாலும் தாழ்வானாலும்<br/>சர்வ வல்ல தேவன் நம்மோடிருக்கிறார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>நெருக்கத்தின் நேரத்திலும்<br/>கண்ணீரின் பாதையிலும்<br/>நம்மை காண்கிற தேவன்<br/>நம்மோடிருப்பதால் சந்தோஷமாயிருங்கள்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>விசுவாச ஓட்டத்திலும் ஊழிய பாதையிலும்<br/>நம்மை வழி நடத்தும் தேவன்<br/>நம்மோடிருப்பதால் சந்தோஷமாயிருங்கள்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>தோல்விகள் வந்தாலும்<br/>நஷ்டங்கள் வந்தாலும்<br/>நமக்கு ஜெயம் கொடுக்கும் தேவன்<br/>நம்மோடிருப்பதால் சந்தோஷமாயிருங்கள்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>என்னதான் நேர்ந்தாலும்<br/>சோர்ந்து போகாதீங்க<br/>நம்மை அழைத்த தேவன்<br/>கைவிடமாட்டார் சந்தோஷமாயிருங்கள்</lines>
+    </verse>
+  </lyrics>
+</song>

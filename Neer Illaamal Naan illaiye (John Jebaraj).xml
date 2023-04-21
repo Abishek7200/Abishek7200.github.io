@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Neer Illaamal Naan illaiye</title>
+      <title>Unga prasannam thaan enaku mugavari</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2</verseOrder>
+    <authors>
+      <author>John Jebaraj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நீர் இல்லாமல் நான் இல்லயே<br/>நீர் சொல்லாமல் உயர்வு இல்லயே<br/>உங்க பிரசன்னம் தான் எனக்கு முகவரி<br/>உங்க பிரசன்னம் தான் எனது தகுதி</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அழைத்த நாள் முதல் இதுவரை<br/>என்னை விலகாத வாக்குத்தத்தம் பிரசன்னமே<br/>உடைந்த நாட்களில் கூடவே இருந்து<br/>சுகமாகும் மருத்துவம் பிரசன்னமே<br/>விலை போக என்னையும் மலை மேலே நிறுத்தி<br/>அழகு பார்ப்பதும் பிரசன்னமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கல்வி அறியும் பல்கலை சான்றும்<br/>இல்லாமல் பயன்படுத்தும் பிரசன்னமே<br/>அழைக்கப்பட்டேன் நியமிக்கப்பட்டேன்<br/>நிரூபிப்பதும் உங்க பிரசன்னமே<br/>பிற பாஷை பேசுவோம்<br/>பிற தேசம் வாழுவோம்<br/>என  வேண்டி கேட்பதும் பிரசன்னமே</lines>
+    </verse>
+  </lyrics>
+</song>

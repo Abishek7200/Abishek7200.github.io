@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-11-26T05:51:14">
+  <properties>
+    <titles>
+      <title>Piranthar Piranthar Kiristhu</title>
+      <title>Piranthar Piranthar Kiristhu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பிறந்தார் பிறந்தார் <br/>கிறிஸ்து பிறந்தார்<br/>வின்னிலும் மன்னிலும் <br/>வெற்றி முழங்க</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. மன்னில் சமாதானம் வின்னில் மகிழ்ச்சி<br/>என்றென்றும் தொனிக்க நம் மன்னன் பிறந்தார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. தூதர் சேனைகள் எக்காளம் முழங்க<br/>என்னாளும் அதிர நம் இயேசு பிறந்தார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. மாந்தர் யாவரும் போற்றிப்பாடுங்கள்<br/>இராஜன் இயேசுவை வாழ்திப்பாடுங்கள்</lines>
+    </verse>
+  </lyrics>
+</song>

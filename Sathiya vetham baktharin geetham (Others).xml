@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Sathiya vetham baktharin geetham</title>
+      <title>Sathiya vetham baktharin geetham</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v1 v5 c1 v6 c1 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சத்திய வேதம் பக்தரின் கீதம்<br/>சுத்தர்கள் போகும் பாதையின் தீபம்<br/>உத்தம மார்க்கம் காட்டும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>எத்தனை துன்பம் துயரம் வந்து<br/>பக்தனை தேற்றிடும் ஒளஷதம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நித்தம் விரும்பும் கர்த்தர் வசனம்<br/>சுத்த பசும்பொன் தெளிந்திடும் தேன்<br/>இதயம் மகிழும் கண்கள் தெளியும்<br/>இருண்ட ஆத்துமா உயிரடையும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>பேதைகளிடம் ஞானம் அருளும்<br/>தேவ புத்தகம் மேன்மை தரும்<br/>இரவும் பகலும் இதன் தியானம்<br/>இனிமை தங்கும் தனிமையிலும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>வேதப் பிரியர் தேவப் புதல்வர்<br/>சேதமடையா நடத்திடுவார்<br/>இலைகள் உதிரா மரங்கள் போல<br/>இவர்கள் நல்ல கனி தருவார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>உள்ளம் உதிக்கும் உறுதி அளிக்கும்<br/>கள்ளங் கபடெல்லாம் அகற்றும்<br/>கடிந்து கொள்ளும் கறைகள் போக்கும்<br/>கனமடைய வழி நடத்தும்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>கர்த்தர் வசனம் வல்ல சம்மட்டி<br/>கன்மலையையும் நொறுக்கிடுமே<br/>இதய நினைவை வகையாய் அறுக்கும்<br/>இரு புறமும் கருக்குள்ளதே</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>வானம் அகலும் பூமி அழியும்<br/>வேத வசனம் நிலைத்திருக்கும்<br/>பரமன் வேதம் எனது செல்லவம்<br/>பரவசம் நிதம் அருளும் </lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>உள்ளம் உதிக்கும் உறுதி அளிக்கும்<br/>கள்ளங்கபடெல்லாம் அகற்றும் <br/>கடிந்து கொள்ளும் கறைகள் போக்கும்<br/>கனமடைய வழி நடத்தும்<br/>சத்திய வேதம்</lines>
+    </verse>
+    <verse name="v9">
+      <lines><br/>கர்த்தர் வசனம் வல்ல சம்மட்டி<br/>கன்மலையையும் நொறுக்கிடுமே<br/>இதய நினைவை வகையாய் அறுக்கும்<br/>இருபுறமும் கருக்குள்ளதே<br/>சத்திய வேதம்</lines>
+    </verse>
+    <verse name="v10">
+      <lines><br/>வானம் அகலும் பூமி அழியும்<br/>வேத வசனம் நிலைத்திருக்கும்<br/>பரமன் வேதம் எனது செல்வம்<br/>பரவசம் நிதம் அருளும்<br/>சத்திய வேதம்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Pithave aarathikinrom yesuve</title>
+      <title>Pithave aarathikinrom yesuve</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பிதாவே ஆராதிக்கின்றோம்<br/>இயேசுவே ஆர்ப்பரிக்கின்றோம்<br/>ஆவியானவரே அன்பு செய்கின்றோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆராதிக்கின்றோம்<br/>ஆர்ப்பரிக்கின்றோம்<br/>அன்பு செய்கின்றோம் – உம்மை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. மகனாக (மகளாக) தெரிந்து கொண்டீர்<br/>மறுபடி பிறக்க வைத்தீர்<br/>ராஜாக்களும் நாங்களே<br/>ஆசாரியர்களும் நாங்களே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. சகலமும் படைத்தவரே<br/>சர்வ வல்லவரே<br/>மகிமைக்கு பாத்திரரே<br/>மங்காத பிரகாசமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. ஸ்தோத்திரமும் கனமும்<br/>வல்லமையும் பெலனும்<br/>மாட்சிமையும் துதியும்<br/>எப்போதும் உண்டாகட்டும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. பரிசுத்தர் பரிசுத்தரே<br/>பரலோக ராஜாவே<br/>எப்போதும் இருப்பவரே<br/>இனிமேலும் வருபவரே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. உமது செயல்களெல்லாம்<br/>அதிசயமானவைகள்<br/>உமது வழிகளெல்லாம்<br/>சத்தியமானவைகள்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Ninaivellam yekkamellam</title>
+      <title>Ninaivellam yekkamellam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நினைவெல்லாம் ஏக்கமெல்லாம் <br/>வாஞ்சையெல்லாம் நீரே<br/>உம்மோடு நான் நடக்கணுமே<br/>உம்மோடு நான் பழகணுமே<br/>உந்தன் சித்தம் செய்யவே<br/>என் அன்பே, என் உயிரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. மழைக்காக காத்திருக்கும் பயிர் போல நான் காத்திருந்தேன்<br/>கீழ்காற்று வீசும் என்று ஆவலுடன் எதிர்பார்த்திருந்தேன்<br/>மழையாக இறங்கணுமே என்னை முழுதும் நனைக்கணுமே<br/>என் அன்பே, என் உயிரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. தாயின்றி தகப்பனின்றி தனிமையிலே எந்தன் துணை என்பேன்<br/>சிநேகிதரே சிறந்தவரே மார்போடு என்னை அணைப்பவரே<br/>மணவாட்டி என்றவரே மணவாளன் என் இயேசுவே<br/>என் அன்பே, என் உயிரே</lines>
+    </verse>
+  </lyrics>
+</song>

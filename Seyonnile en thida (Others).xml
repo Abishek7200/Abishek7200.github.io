@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-31T18:53:12">
+  <properties>
+    <titles>
+      <title>Seyonnile en thida</title>
+      <title>Seyonnile en thida</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>சீயோனிலே என் திட அஸ்திபாரம் கிறிஸ்துவே<br/>அவர் நான் என்றும் நம்பும் கன்மலை (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. கலங்கிடுவேனோ ?பதறிடுவேனோ ?<br/>கர்த்தரில் விசுவாசம் இருக்கையிலே<br/>அசையா என் நம்பிக்கை நங்கூரமே<br/>இயேசுவில் மாத்திரமே (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. புயலடித்தாலும் அலை மோதினாலும்<br/>எவர் எனக்கெதிராய் எழும்பினாலும்<br/>எனக்கு எட்டாத உயரத்திலே<br/>எடுத்தவர் நிறுத்திடுவார் (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. வியாதியினாலே காயம் வருந்தி<br/>வாடியே மரண நிழல் சூழினும்<br/>விசுவாசத்தின் கரத்தாலவர்<br/>வாக்கை நான் பற்றிடுவேன் (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. மா பரிசுத்த விசுவாசத்தாலே<br/>மா பரிசுத்த ஸ்தலம் ஏகிடவே<br/>திரை வழியாம் தன் சரீரத்தினால்<br/>திறந்தாரே தூய வழி (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. நான் விசுவாசிப்போர் இன்னாரென்றறிவேன்<br/>என்னையே படைத்திட்டேன்<br/>அவர் கரத்தில் முடிவுவரை<br/>நடத்திடுவார் முற்றுமாய் இரட்சிப்பாரே (2)</lines>
+    </verse>
+  </lyrics>
+</song>

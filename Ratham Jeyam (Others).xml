@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Ratham Jeyam</title>
+      <title>Ratham Jeyam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இரத்தம் ஜெயம் இரத்தம் ஜெயம்<br/>கல்வாரி இயேசவின் இரத்தம் ஜெயம்<br/>காருண்ய தேவனின் இரத்தம் ஜெயம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எதிரியை துரத்திடும் இரத்தம் ஜெயம்<br/>எந்நாளும் சுகம் தரும் இரத்தம் ஜெயம்<br/>அதிகாரம் தந்திடும் இரத்தம் ஜெயம்<br/>அதிசயம் செய்திடும் இரத்தம் ஜெயம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பாவங்கள் போக்கிடும் இரத்தம் ஜெயம்<br/>பரிசுத்தமாக்கிடும் இரத்தம் ஜெயம்<br/>சாபங்கள் நீக்கிடும் இரத்தம் ஜெயம்<br/>சமாதானம் நீக்கிடும் இரத்தம் ஜெயம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. விடுதலை தருகின்ற இரத்தம் ஜெயம்<br/>வெற்றிமேல் வெற்றிதரும் இரத்தம் ஜெயம்<br/>பெலவீனம் நீக்கிடும் இரத்தம் ஜெயம்<br/>பெலவானாய் மாற்றிடும் இரத்தம் ஜெயம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. நமக்காய் பரிந்துபேசும் இரத்தம் ஜெயம்<br/>நாள்தோறும் பாதுகாக்கும் இரத்தம் ஜெயம்<br/>நீதிமானாக்கிடும் இரத்தம் ஜெயம்<br/>நித்திய ஜீவன் தரும் இரத்தம் ஜெயம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. பிரிவனை நீக்கிடும் இரத்தம் ஜெயம்<br/>பிளவுகள் போக்கிடும் இரத்தம் ஜெயம்<br/>ஒப்புரவாக்கிடும் இரத்தம் ஜெயம்<br/>ஒருமனமாக்கிடும் இரத்தம் ஜெயம்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. குற்றமில்லா இயேசுவின் இரத்தம் ஜெயம்<br/>குறைகளை போக்கிடும் இரத்தம் ஜெயம்<br/>விலையேறப் பெற்ற இரத்தம் ஜெயம்<br/>விண்ணகம் நடத்திடும் இரத்தம் ஜெயம்</lines>
+    </verse>
+  </lyrics>
+</song>

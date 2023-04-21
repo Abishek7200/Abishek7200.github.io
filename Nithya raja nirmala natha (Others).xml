@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Nithya raja nirmala natha</title>
+      <title>Nithya raja nirmala natha</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 c1 v3 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நித்திய இராஜா நிர்மல நாதா<br/>நின் பாதம் பணிந்தேன் இக்காலையிலே<br/>நின் பாதம் பணிந்தேன் இவ்வேளையிலே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>என் மன ராஜ்யத்தில்<br/>என்றும் அரசாளுகின்ற<br/>ராஜாதி ராஜாவுக்கே ஸ்தோத்திரம்<br/>இயேசு மகா ராஜாவுக்கே ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கண்ணயர்ந்த வேளையிலும்<br/>கணிமைப்போல் காத்தவரே<br/>கற்பகமே உமக்கு ஸ்தோத்திரம்<br/>கண் விழித்த வேளையிலும்<br/>கண் மேல் உம் கண் வைத்து<br/>கருத்தாய் போதித்தவாய் ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>இப்பகல் வேளையிலும்<br/>எப்பக்கம் சூழ்ந்து நிற்கும்<br/>இம்மானுவேலனே ஸ்தோத்திரம்<br/>உம்முடனே நான் இணைய<br/>என்னுடனே நீர் பிணைய<br/>வாழ்ந்திடும் வாழ்வுக்காய் ஸ்தோத்திரம்</lines>
+    </verse>
+  </lyrics>
+</song>

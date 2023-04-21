@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Ratchagar Vanthathaal</title>
+      <title>Ratchagar Vanthathaal</title>
+    </titles>
+    <verseOrder>c1 v1 c2 v2 c2 c1 v3 c2 c1 v4 c2 c1</verseOrder>
+    <authors>
+      <author type="words">Ps. Alwin Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இரட்சகர் வந்ததால்<br/>இரட்சிப்பும் வந்ததே - 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>மன்னிப்பும் கிடைத்ததே<br/>மறுவாழ்வும் கிடைத்ததே<br/>மன்னிப்பும் கிடைத்ததே<br/>மறுவாழ்வும் பிறந்ததே</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>இம்மானுவேல் தேவன்<br/>நம்மோடு - 3</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>பகலிலே மேக ஸ்தம்பமாய்<br/>இரவிலே அக்கினி<br/>ஸ்தம்பமாய்<br/>முன் செல்லும் தூதனாய்<br/>வழிநடத்தும் மேய்ப்பனாய்<br/>                      - இம்மானுவேல்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஆறுகள் நான்<br/>கடக்கையில்<br/>அக்கினியில் நான்<br/>நடக்கையில்<br/>என்னை தூக்கி சுமக்க<br/>தகப்பன் என்னோடே<br/>என்னை என்றும் காக்க<br/>நேசர் என்னோடே<br/>                      - இம்மானுவேல்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>அல்லேலூயா - 6<br/>அவர் இம்மானுவேல்<br/>அல்லேலூயா - 6<br/>அவர் இம்மானுவேல்<br/>இம்மானுவேல் என்<br/>தேசத்தோடே<br/>இம்மானுவேல் என்<br/>குடும்பத்தோடே</lines>
+    </verse>
+  </lyrics>
+</song>

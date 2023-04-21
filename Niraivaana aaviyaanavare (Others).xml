@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Niraivaana aaviyaanavare</title>
+      <title>Niraivaana aaviyaanavare</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. நிறைவான ஆவியானவரே <br/>நீர் வரும்போது குறைவுகள் மாறுமே<br/>நீர் வந்தால் சூழ்நிலை மாறுமே <br/>முடியாததும் சாத்தியமாகுமே </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நிறைவே நீர் வாருமே <br/>நிறைவே நீர் வேண்டுமே <br/>நிறைவே நீர் போதுமே <br/>ஆவியானவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. வனாந்திரம் வயல் வெளி ஆகுமே <br/>பாழானது பயிர் நிலம் ஆகுமே <br/>நீர் வந்தால் சூழ்நிலை மாறுமே <br/>முடியாததும் சாத்தியமாகுமே </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. பெலவீனம் பெலனாய் மாறுமே <br/>சுகவீனம் சுகமாய் மாறுமே <br/>நீர் வந்தால் சூழ்நிலை மாறுமே <br/>முடியாததும் சாத்தியமாகுமே </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Siluvai sumantha uruvam</title>
+      <title>Siluvai sumantha uruvam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Good Friday"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சிலுவை சுமந்த உருவம்<br/>சிந்தின ரத்தம் புரண்டோடியே நதி போலவே பாய்கின்றதே <br/>நம்பியே இயேசுவண்டை வா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பொல்லா உலக சிற்றின்பங்கள் எல்லாம் அழியும் மாயை<br/>காணாய் நிலையான சந்தோசம் பூவினில் கர்த்தாவின் அன்பண்டை வா………</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. ஆத்தும மீட்பை பெற்றிடாமல் ஆத்மா நஷ்டம் அடைந்தால்<br/>உலகம் முழுவதும் ஆதாயம் ஆக்கியும் லாபம் ஒன்றும் இல்லையே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. பாவ மனித ஜாதிகளைப் பாசமாய் மீட்க வந்தார்<br/>பாவப் பரிகாரி கர்த்தர் இயேசு நாதர் பாவமெல்லாம் சுமந்தார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. நித்திய ஜீவன் வாஞ்சிப்பாயோ நித்திய மோட்சவாழ்வில்<br/>தேடி வாராயோ பரிசுத்த ஜீவியம் தேவை அதை அடைவாய்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. தாகமடைந்தோர் எல்லோருமே தாகத்தைத் தீர்க்க வாரும்<br/>ஜீவத்தண்ணீரான கர்த்தர் இயேசு நாதர் ஜீவன் உனக்களிப்பார்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. உந்தன் பெலத்தில் வாழ்ந்திடாதே நிம்மதி நீ இழப்பாய்<br/>கர்த்தரே தஞ்சம் என்று நீ வந்துட்டால் நிம்மதி நீ பெறுவாய்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Poorana azhagullavare</title>
+      <title>Poorana azhagullavare</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பூரண அழகுள்ளவரே என் இயேசுவே<br/>பூரண அழகுள்ளவரே<br/>சாரோனின் ரோஜாவே லீலி புஷ்பமே<br/>பதினாயிரம் பேரிலும் சிறந்த நேசரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>போற்றுவேன் வணங்குவேன் <br/>துதி பாடி மகிழ்வேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. பாவமதை போக்க வந்த தேவாட்டுக்குட்டியே<br/>பரிசுத்த இரத்தம் ஈன்ற ஜீவாதிபதியே (2)<br/>மருதோன்றி பூங்கொத்து கிச்சிலிப் பழமே<br/>ஒருவராய் மாபெரும் காரியம் செய்பவரே --- போற்றுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. மனுக்குல இருள் நீக்கும் நீதியின் சூரியனே<br/>ஒருவரும் சேராத ஒளியில் இருப்பவரே (2)<br/>ஏக சக்ராதிபதி விடிவெள்ளி நட்சத்திரமே<br/>அல்பாவும் ஒமெகாவும் ஆதியும் அந்தமுமே --- போற்றுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. அழகினை இழந்தே அந்தே கேடடைந்தீரே<br/>முள்முடி சூடியே ஐங்காயம் ஏற்றவரே (2)<br/>என் பாவம் போக்க உம்மை பாழாக்க<br/>உம் ஜீவன் தந்தே ஈசனான எனக்காய் --- போற்றுவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

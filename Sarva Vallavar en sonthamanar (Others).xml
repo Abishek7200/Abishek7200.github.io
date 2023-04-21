@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-09T00:55:57">
+  <properties>
+    <titles>
+      <title>Sarva Vallavar en sonthamanar</title>
+      <title>Sarva Vallavar en sonthamanar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சர்வ வல்லவர் <br/>என் சொந்தமானர் (எஜமானன்)<br/>சாவை வென்றவர் <br/>என் ஜீவனானவர் (மணவாளன்)</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>ஆ…இது அதிசயம் தானே<br/>ஓ…இது உண்மைதானே</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>1. கண்டுகொண்டேன் ஒரு புதையல்<br/>பெற்றுக்கொண்டேன் ஒரு பொக்கிஷம்<br/>இயேசுதான் என் இரட்சகர்<br/>இயேசு தான் என் ராஜா</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. சந்தோஷமும் சமாதானமும்<br/>என் உள்ளத்தில் பொங்குதய்யா<br/>பாவமெல்லாம் போக்கிவிட்டார்<br/>பயங்களெல்லாம் நீக்கிவிட்டார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. பரலோகத்தில் எனது பெயர்<br/>எழுதி விட்டார் என் இயேசு<br/>என் வாழ்வின் நோக்கமெல்லாம்<br/>இயேசுவுக்காய் வாழ்வது தான்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. ஊரெல்லாம் சொல்லிடுவேன்<br/>உலகமெங்கும் பறைசாற்றுவேன்<br/>ஜீவிக்கின்றார் என் இயேசு<br/>சீக்கிரமாய் வந்தீடுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

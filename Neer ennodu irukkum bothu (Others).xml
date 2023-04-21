@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Neer ennodu irukkum bothu</title>
+      <title>Neer ennodu irukkum bothu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v1 c1 v3 c1 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நீர் என்னோடு இருக்கும்போது<br/>எந்நாளும் வெற்றி வெற்றியே (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>தோல்வி எனக்கில்லையே<br/>நான் தோற்றுப்போவதில்லையே (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. மலைகளைத் தாண்டிடுவேன்<br/>கடும் பள்ளங்களைக் கடந்திடுவேன் (2)<br/>சதிகளை முறியடிப்பேன்<br/>சாத்தானை ஜெயித்திடுவேன் (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. சிறைச்சாலை கதவுகளும்<br/>என் துதியினால் உடைந்திடுமே (2)<br/>அபிஷேகம் எனக்குள்ளே - நான்<br/>ஆடிப் பாடி மகிழ்ந்திடுவேன் (2)</lines>
+    </verse>
+  </lyrics>
+</song>

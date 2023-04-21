@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Nandriyodu nalla deva</title>
+      <title>Nandriyodu nalla deva</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 c1 v4 c1 v1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Johnsam Joyson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நன்றியோடு நல்ல தேவா<br/>நன்மைகளெல்லாம் நினைக்கின்றேன்<br/>நல்லவரே உம்மைத் துதிக்கின்றேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>குறைவில்லாமல் நடத்தினீரே<br/>தடை எல்லாம் நீர் அகற்றினீரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என்னை தாழ்த்தி உம்மை உயர்த்திடுவேன்<br/>என் வாழ்வின் நாயகன் நீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உயர்விலும் தாழ்விலும்-என்<br/>துணையாக வந்தீரே <br/>நிறைவிலும் என் குறைவிலும் <br/>என் நம்பிக்கையானவரே<br/>எல்லா நட்சத்திரங்கள் பெயர் அறிந்தவரே<br/>என் முகத்தை உம் கையில் வரைந்தவரே<br/>என்னை மறவாமல் நினைப்பவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>சோதனையில் வேதனையில்<br/>என் பக்கமாய் நின்றவரே<br/>முன்னும் பின்னும் பாதுகாக்கும்<br/>நல் கோட்டையாய் இருப்பவரே<br/>எல்லா வியாதி பெலவீன நேரங்களில்<br/>உன் பரிகாரி நானென்று சொன்னவரே<br/>எனக்கும் ஜீவன் தந்தவரே</lines>
+    </verse>
+  </lyrics>
+</song>

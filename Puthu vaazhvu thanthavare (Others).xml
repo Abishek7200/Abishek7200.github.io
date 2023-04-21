@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-27T12:30:42">
+  <properties>
+    <titles>
+      <title>Puthu vaazhvu thanthavare</title>
+      <title>Puthu vaazhvu thanthavare</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>புது வாழ்வு தந்தவரே <br/>புது துவக்கம் தந்தவரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>நன்றி உமக்கு நன்றி<br/>முழு மனதுடன் சொல்கின்றோம்<br/>நன்றி உமக்கு நன்றி <br/>மன நிறைவுடன் சொல்கின்றோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>பிள்ளைகளை மறவாமல்<br/>ஆண்டு முழுவதும் போஷித்தீரே – உம்<br/>குறைவுகளை கிறிஸ்துவுக்குள்<br/>மகிமையில் நிறைவாக்கி நடத்தினீரே – என்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>முந்தினதை யோசிக்காமல்<br/>பூர்வமானதை சிந்திக்காமல்<br/>புதியவைகள் தோன்றச் செய்தீர்<br/>சாம்பலை சிங்காரமாக்கி விட்டீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>கண்ணீருடன் விதைத்ததெல்லாம்<br/>கெம்பீரத்தோடு அறுக்கச் செய்தீர்<br/>ஏந்தி நின்ற என் கரங்கள் எல்லாம்<br/>கொடுக்கும் கரங்களாய் மாற்றி விட்டீர்</lines>
+    </verse>
+  </lyrics>
+</song>

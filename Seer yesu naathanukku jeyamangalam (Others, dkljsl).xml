@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Seer yesu naathanukku jeyamangalam</title>
+      <title>Seer yesu naathanukku jeyamangalam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v1 c1</verseOrder>
+    <authors>
+      <author type="words">dkljsl</author>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சீர் இயேசு நாதனுக்கு ஜெயமங்களம் ஆதி<br/>திரியேக நாதனுக்கு சுபமங்களம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பாரேறு நீதனுக்கு பரம பொற்பாதனுக்கு<br/>நேரேறு போதனுக்கு நித்திய சங்கீதனுக்கு</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>ஆதி சரு வேசனுக்கு ஈசனுக்கு மங்களம்<br/>அகிலப் பிரகாசனுக்கு நேசனுக்கு மங்களம்<br/>நீதிபரன் பாலனுக்கு நித்திய குணாலனுக்கு<br/>ஓதும் அனுகூலனுக்கு உயர் மனுவேலனுக்கு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>மானாபி மானனுக்கு வானனுக்கு மங்களம்<br/>வளர் கலைக் கியானனுக்கு ஞானனுக்கு மங்களம்<br/>கானான் நல் தேயனுக்குக் கன்னி மரிசேயனுக்கு<br/>கோனார் சகாயனுக்கு கூறு பெத்த லேயனுக்கு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>பத்து லட்சணத்தனுக்குச் சுத்தனுக்கு மங்களம்<br/>பரம பதத்தனுக்கு நித்தனுக்கு மங்களம்<br/>சத்திய விஸ்தாரனுக்குச் சருவாதி காரனுக்கு<br/>பத்தர் உபகாரனுக்குப் பரம குமாரனுக்கு</lines>
+    </verse>
+  </lyrics>
+</song>

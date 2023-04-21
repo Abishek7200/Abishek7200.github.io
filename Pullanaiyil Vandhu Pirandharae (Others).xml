@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-24T05:42:18">
+  <properties>
+    <titles>
+      <title>Pullanaiyil Vandhu Pirandharae</title>
+      <title>Pullanaiyil Vandhu Pirandharae</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v3 v1 v4 v5 v1 v6 v7 v1 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>புல்லணையில் வந்து பிறந்தாரே<br/>பரலோக இராஜா இவர்<br/>பூமியிலே வந்து ஜெனித்தாரே <br/>விண்ணக மைந்தன் இவர் (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>அவர் மேசியா அவர் இரட்சகர் <br/>அவர் இம்மானுவேல் அவர் இயேசு (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>சத்திரத்திலே இடமில்லையே<br/>சர்வ வல்ல தேவனுக்கு <br/>முன்னனையில் இடம் கொடுத்தார் <br/>முன் குறித்த மன்னனுக்கு (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>நீயும் உன்னையே கொடுத்திட ஆயத்தமா<br/>சிறந்ததோர் கிறிஸ்மஸ் காணிக்கையாய் (2)<br/>	- அவர் மேசியா </lines>
+    </verse>
+    <verse name="v4">
+      <lines>நட்சத்திரமும் அறிவித்ததே <br/>மேசியா பிறப்பதனை <br/>சாஸ்திரியரும் விரைந்தனரே<br/>பாலனை பணிந்திடவே (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>நீயும் இயேசுவை அறிவிக்க ஆயத்தமா <br/>மாந்தர்கள் அவர் நாமம் பணிந்திடவே (2)<br/>	- அவர் மேசியா </lines>
+    </verse>
+    <verse name="v6">
+      <lines>வெள்ளைப்போளமும் தூபவர்க்கமும்<br/>ஞானியர் கொண்டு வந்தார் <br/>வானம் பூமியும் படைத்தவர்க்கு <br/>அது காணிக்கை ஆகிடுமா (2) </lines>
+    </verse>
+    <verse name="v7">
+      <lines>நீயும் உன்னையே கொடுத்திட ஆயத்தமா<br/>சிறந்ததோர் கிறிஸ்மஸ் காணிக்கையாய் (2)<br/>	- அவர் மேசியா</lines>
+    </verse>
+  </lyrics>
+</song>

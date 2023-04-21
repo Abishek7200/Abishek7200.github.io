@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Saalemin raaja sangaiyin raja</title>
+      <title>Saalemin raaja sangaiyin raja</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. சாலேமின் ராசா, சங்கையின் ராசா<br/>ஸ்வாமி வாருமேன் – இந்த<br/>தாரணி மீதினில் ஆளுகை செய்திட<br/>சடுதி வாருமேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>2. சீக்கிரம் வருவேனென்று ரைத்துப்போன<br/>செல்வக் குமாரனே – இந்த<br/>சீயோனின் மாதுகள் தேடித் திரிகின்ற<br/>சேதி கேளீரோ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>3. எட்டி எட்டி உம்மை அண்ணாந்து பார்த்துக்<br/>கண் பூத்துப் போகுதே;- நீர்<br/>சுட்டிக் காட்டிப் போன வாக்குத்தத்தம்<br/>நிறைவேறலாகுதே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>4. நங்கை எருசலேம் பட்டினம் உம்மை<br/>நாடித் தேடுதே ; – இந்த<br/>நானிலத்திலுள்ள ஜீவ பிராணிகள்<br/>தேடிவாடுதே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>5. சாட்சியாக சுபவிசேஷம்<br/>தாரணிமேவுதே; – உந்தன்<br/>சாட்சிகளுடைய இரத்தங்களெல்லாம்<br/>தாவிக்கூவுதே</lines>
+    </verse>
+  </lyrics>
+</song>

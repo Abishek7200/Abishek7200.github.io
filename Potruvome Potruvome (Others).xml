@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Potruvome Potruvome</title>
+      <title>Potruvome Potruvome</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>போற்றுவோமே போற்றுவோமே<br/>எம் தேவாீரை இவ்வேளையிலே - நன்றியுடனே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1.துங்கவன் இயேசுவே துயா உமக்கே துதிகள் சாற்றிடுவேன்<br/>மங்கா புகழும் மகிழ்ந்துபோற்றி எங்கும் துதித்திடுவேன்<br/>கங்குல் அற எங்குமெ ஒளி மங்கிடாமலே தங்கிடவேணும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.ஆழ்ந்த சேற்றினில் அமிழ்ந்த எம்மையே அணைத்து எடுத்தோனே<br/>ஆழிதனிலெம்பாவ மெறிந்த அன்னை உத்தமனே<br/>அன்றும் இன்றும் என்றும் துதிப்பேன் மன்னவனையே மனதினிலே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.பாவம் போக்கியே கோபம் மாற்றிய ரோகம் தொலைத்தோனே<br/>துரோகி என்னையே சுத்திகரித்த துய வேந்தனே<br/>துயாநேயா காயமாற்றிய கருணாநிதியே பரிகாரியே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.பாரிலென்னையே பிரித்தெடுத்தோனே தாவிவந்தோனே<br/>அகமதினிலே ஆவி ஈந்திட அருள் நிறைந்தவனே<br/>தரிசனம் தந்த தேவனே பரிசுத்தமாய் பாரில் ஜீவிக்க</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.பூரணர் ஆகவே பூவில் வாழ்ந்திட கிருபை அளித்தோனே<br/>புகழை விரும்பேன் மகிழ்வேன் தினமே மகிமை செலுத்திடுவேன்<br/>கோனே தேனே கோதில்லாதோனே கானம் பாடியே துதித்திடுவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

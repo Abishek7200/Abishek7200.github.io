@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Oru naalum ennai</title>
+      <title>Oru naalum ennai</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 v5 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஒரு நாளும் எனை மறவா தெய்வம் நீரே<br/>நன்றியோடு உம்மைத் துதிக்கிறேன் (2)<br/>நன்றி இயேசுவே எந்நாளும் இயேசுவே (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>வருடங்கள் காலங்களாய்<br/>என்னை வழுவாமல் காத்தீரையா (2)<br/>உம் வல்லக்கரத்தில்<br/>நீர் என்னைத் தாங்கினீர்<br/>உம் சிறகாலே மூடிக் காத்திட்டீர் (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>நன்றி இயேசுவே எந்நாளும் இயேசுவே (2)<br/>ஒரு நாளும் எனை மறவா தெய்வம் நீரே<br/>நன்றியோடு உம்மைத் துதிக்கிறேன் </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>வாக்குத்தத்தம் தந்தவரே<br/>உந்தன் வாக்கில் உண்மை உள்ளவரே (2)<br/>யார் மறந்தாலும்<br/>நான் மறவேனே<br/>என்று வாக்கெனக்கு அளித்தவரே (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>நன்றி இயேசுவே எந்நாளும் இயேசுவே (2)<br/>ஒரு நாளும் எனை மறவா தெய்வம் நீரே<br/>நன்றியோடு உம்மைத் துதிக்கிறேன் </lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>எதிர்காலம் உம் கையிலே<br/>எந்தன் பயம் யாவும் நீங்கியதே (2)<br/>நீரென் பக்கத்தில்<br/>நான் பயப்படேனே<br/>என் துணையாக இருக்கின்றீரே (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>நன்றி இயேசுவே எந்நாளும் இயேசுவே (2)<br/>ஒரு நாளும் எனை மறவா தெய்வம் நீரே<br/>நன்றியோடு உம்மைத் துதிக்கிறேன் </lines>
+    </verse>
+  </lyrics>
+</song>

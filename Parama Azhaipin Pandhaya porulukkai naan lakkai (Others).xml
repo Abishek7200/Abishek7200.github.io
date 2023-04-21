@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Parama Azhaipin Pandhaya porulukkai naan lakkai</title>
+      <title>Parama Azhaipin Pandhaya porulukkai naan lakkai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பரம அழைப்பின் பந்தய பொருளுக்காய்<br/>நான் இலக்கை நோக்கி ஓடுகிறேன்<br/>ஓடுகிறேன் நான் ஓடுகிறேன்<br/>இயேசுவுக்காய் நான் ஓடுகிறேன்<br/>அல்லேலுயா அல்லேலுயா -2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. இலாபமான அனைத்தையுமே<br/>நான் நஷ்டமென்று கருதுகிறேன்<br/>இயேசு ராஜவின் இந்த வேலைக்காக<br/>மகிழ்ச்சியுடன் நான் ஓடுகிறேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. எத்தனை தான் இடர்கள் வந்தாலும்<br/>விசுவாசத்திலே நிலைத்திருப்பேன்<br/>எனக்காக இயேசு நியமித்த<br/>இந்த பாதையிலே நான் ஓடுகிறேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. என் மணவாளன் இயேசு ராஜாவை<br/>நான் காணவே வாஞ்சிக்கிறேன்<br/>என் ஆசை எல்லாம் என் இயேசு தானே<br/>அவர் பொன்முகம் தான் நான் பார்க்கணுமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. என் ஆவி ஆத்மா சரீரமெல்லாம்<br/>என் இயேசுவுக்காய் அர்ப்பணிக்கிறேன்<br/>நான் உயிர் வாழும் இந்த நாட்கள் எல்லாம்<br/>இயேசுவுக்காய் நான் ஓடுகிறேன்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-22T01:16:46">
+  <properties>
+    <titles>
+      <title>Oru varthai sollum karthave</title>
+      <title>Oru varthai sollum karthave</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஒரு வார்த்தை சொல்லும் கர்த்தாவே<br/>எங்கள் வாழ்க்கையெல்லாம் செழிப்பாகுமே<br/>உம் வார்த்தையிலே சுகம்<br/>உம் வார்த்தையிலே மதுரம்<br/>உம் வார்த்தையிலே எல்லாம் சந்தோஷம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>மாராவின் தண்ணீரெல்லாம்<br/>மதுரமாக மாறிப்போகும்<br/>கண்ணீர் மாறியிடும்<br/>துக்கம் மாறியிடும்<br/>ஒரு வார்த்தை சொன்னால் போதும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ஒரே ஒரு வார்த்தை சொன்னாரே<br/>வேலைக்காரன் சொஸ்தமானானே<br/>சுத்தமாகு என்று சொன்னாரே<br/>குஷ்டரோகி சுத்தமானானே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>கூடாது ஒன்றுமில்லையே -3<br/>என் தேவனால் கூடாது<br/>கூடாது ஒன்றுமில்லை</lines>
+    </verse>
+  </lyrics>
+</song>

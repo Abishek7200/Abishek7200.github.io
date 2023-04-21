@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Raja Neer Seitha Nanmaikal</title>
+      <title>Raja Neer Seitha Nanmaikal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ராஜா நீர் செய்த நன்மைகள்<br/>அவை எண்ணி முடியாதையா<br/>ஏறெடுப்பேன் நன்றிபலி என் ஜீவ நாளெல்லாம்<br/>நன்றி ராஜா இயேசு ராஜா (4)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. அதிகாலை நேரம் தட்டிதட்டி எழுப்பி<br/>புது கிருபை தந்தீரையா<br/>ஆனந்த மழையில் நனைத்து நனைத்து<br/>தினம் நன்றி சொல்ல வைத்தீரையா-2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. வேதத்தின் இரகசியம் அறிந்திட புரிந்திட<br/>உம் வெளச்சம் தந்தீரையா<br/>பாதம் அமர்ந்து நான் உம் குரல்<br/>கேட்கும் பாக்கியம் தந்தீரையா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. ஒவ்வொரு நாளும் உணவும் உடையும் தந்து<br/>பாதுகாத்து வந்தீரையா<br/>உடல் சுகம் தந்து ஒரு குறைவின்றி<br/>வழிநடத்தி வந்தீரையா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. துன்பத்தின் பாதையில் நடந்த அந்நாளில்<br/>தூக்கிச் சென்நீரையா<br/>அன்பர் உம்கரத்தால் அணைத்துஅணைத்து தினம்<br/>அதிசயம் செய்தீரையா</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. கூப்பிட்ட நாளில் மறுமொழி கொடுத்து<br/>விடுதலை தந்தீரையா<br/>குறைகளை நீக்கி கரைகபை போக்கி<br/>கூடவே வந்தீரையா</lines>
+    </verse>
+  </lyrics>
+</song>

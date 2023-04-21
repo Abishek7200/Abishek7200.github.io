@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Senaiyathiban nam karththarukkae</title>
+      <title>Senaiyathiban nam karththarukkae</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Easter"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. சேனையதிபன் நம் கர்த்தருக்கே<br/>செலுத்துவோம் கனமும் மகிமையுமே<br/>அற்புதமே தம் அன்பெமக்கு – அதை<br/>அறிந்து அகமகிழ்வோம்</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>ஜெயக் கிறிஸ்து முன் செல்கிறார்<br/>ஜெயமாக நடத்திடுவார்<br/>ஜெயக்கீதங்கள் நாம் பாடியே<br/>ஜெயக் கொடியும் ஏற்றிடுவோம்<br/>ஜெயம் அல்லேலூயா அவர் நாமத்திற்கே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. தாய் மறந்தாலும் நான் மறவேன்<br/>திக்கற்றோராய் விட்டு விடேன்<br/>என்றுரைத்தெம்மைத் தேற்றுகிறார்<br/>என்றும் வாக்கு மாறிடாரே — ஜெய</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. மேய்ப்பனில்லாத ஆடுகட்கே<br/>நானே நல்ல மேய்ப்பன் என்றார்<br/>இன்பச் சத்தம் பின் சென்றிடுவோம்<br/>இன்பப் பாதைக் காட்டிடுவார் — ஜெய</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. சத்துருவின் கோட்டை தகர்ந்தொழிய<br/>சத்தியம் நித்தியம் நிலைத்தோங்க<br/>சாத்தானின் சேனை நடுங்கிடவே – துதி<br/>சாற்றி ஆர்ப்பரிப்போம் — ஜெய</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. கறை, திரை முற்றும் நீங்கிடவே<br/>கர்த்தர் நம்மைக் கழுவிடுவார்<br/>வருகையில் எம்மைச் சேர்க்கும் வரை<br/>வழுவாமல் காத்துக் கொள்வார் — ஜெய</lines>
+    </verse>
+  </lyrics>
+</song>

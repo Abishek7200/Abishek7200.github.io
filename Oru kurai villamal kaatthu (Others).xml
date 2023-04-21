@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Oru kurai villamal kaatthu</title>
+      <title>Oru kurai villamal kaatthu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஒரு குறைவில்லாமல் காத்து வந்தீரே<br/>கோடி ஸ்தோத்திரமே<br/>என்னை அதிசயமாக நடத்தி வந்தீரே<br/>ஆயிரம் ஸ்தோத்திரமே<br/>பதினாயிரம் ஸ்தோத்திரமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆருயிரே ஆறுதலே<br/>ஆயுளெல்லாம் காப்பவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என் முன்னே சென்றீரே<br/>பயணத்தை காத்தீரே<br/>மகிமையால் மூடிக்கொண்டீரே<br/>எங்கள் குடும்பத்தைக் காத்து வந்தீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>வருஷத்தை நன்மையினால்<br/>முடி சூட்டி மகிழ்ந்தீரே<br/>பாதைகள் நெய்யாய் பொழிந்தீரே<br/>எல்லா வாதைகள் நீக்கி மகிழ்ந்தீரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>என் விளக்கை ஏற்றினீரே<br/>என் இருளை அகற்றினீரே<br/>எதிரியின் கண்கள் முன்பாக<br/>என் தலையை நிமிரச் செய்தீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>உள்ளங்கைகளிலே<br/>என்னை வரைந்து வைத்தீரே<br/>நீர் என் தாசன் என்றீரே<br/>உன்னை எப்படி மறப்பேன் என்றீரே</lines>
+    </verse>
+  </lyrics>
+</song>

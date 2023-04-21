@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Pani pola peiyum parisuthare</title>
+      <title>Pani pola peiyum parisuthare</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பனி போல பெய்யும் பரிசுத்தரே<br/>மழையாக பொழியும் ஆவியே….<br/>ஆவியே ஆவியே<br/>மழையாக பொழியும் ஆவியே…-பனி</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. மென்மையானவரே<br/>மேகஸ்தம்பமே!<br/>ஊற்றுத்தண்ணீர், ஜீவநதி<br/>ஆனந்த தைலமே – பனி</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. யுத்தங்கள் செய்யவரே<br/>யோர்தானை பிளந்தவரே<br/>பெருமழையாய் பிரவேசித்த<br/>உள்ளங்கை மேகமே – பனி</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. வறண்ட நிலங்களிலே<br/>வாய்க்கால்கள் அமைப்பவரே<br/>கனிதரும் மரமாக<br/>காப்பாற்றி வளர்ப்பவரே – பனி</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. ஆவியானவரே<br/>ஆற்றல் தருபவரே<br/>தேற்றரவே துணையாளரே<br/>விண்ணகத் துபமே – பனி</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. அக்கினியானவரே<br/>அன்பின் ஜவாலையே<br/>ஆசீர்வதியும் அரவணையும்<br/>ஆன்மீகத் தீபமே – பனி</lines>
+    </verse>
+  </lyrics>
+</song>

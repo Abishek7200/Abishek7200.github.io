@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T02:08:18">
+  <properties>
+    <titles>
+      <title>Neer enakku pothum neer enakku</title>
+      <title>Neer enakku pothum neer enakku</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நீர் எனக்கு போதும் - (4)<br/>எந்நாளும் எப்போதும் நீரே எந்தன் சொந்தம் - (2)<br/>இயேசுவே நீர் எனக்கு போதும் - (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>என் தாயும் தந்தையும் நீர்தானே <br/>தாங்கிடும் துருகமும் நீர்தானே (2)<br/>சுற்றமும் நட்பும் நீர்தானே <br/>சுமந்திடும் சுமைதாங்கி நீர்தானே (2) --- நீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>தேற்றிடும் சினேகிதன் நீர்தானே <br/>ஆறுதல் தேறுதல் நீர்தானே (2)<br/>ஞானமும் அறிவும் நீர்தானே <br/>என் சுகம் பெலனும் நீர்தானே (2) --- நீர்</lines>
+    </verse>
+  </lyrics>
+</song>

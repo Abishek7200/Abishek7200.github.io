@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-02-19T01:09:53">
+  <properties>
+    <titles>
+      <title>Potri Thuthipom En Deva Devanai</title>
+      <title>Potri Thuthipom En Deva Devanai</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>போற்றித் துதிப்போம் எம் தேவ தேவனை<br/>புதிய இதயமுடனே – நேற்றும்<br/>இன்றும் என்றும் மாறா இயேசுவை<br/>நாம் என்றும் பாடித்துதிப்போம்</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>இயேசுவென்னும் நாமமே<br/>என் ஆத்துமாவின் கீதமே<br/>என் நேசரேசுவை நான் என்றும்<br/>போற்றி மகிழ்ந்திடுவேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>கோர பயங்கரமான புயலில்<br/>கொடிய அலையின் மத்தியில் – காக்கும்<br/>கரம்கொண்டு மார்பில் சேர்த்தணைத்த<br/>அன்பை என்றும் பாடுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>யோர்தான் நதிபோன்ற சோதனையிலும்<br/>சோர்ந்தமிழ்ந்து மாளாதே<br/>ஆர்ப்பின் ஜெய தொனியோடே<br/>பாதுகாத்த அன்பை என்றும் பாடுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>தாய் தன் பாலகனையே மறப்பினும்<br/>நான் மறவேன் என்று சொன்னதால்<br/>தாழ்த்தி என்னையவர் கையில் தந்து<br/>ஜீவ பாதை என்றும் ஓடுவேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>பூமியகிலமும் சாட்சியாகவே<br/>போங்களென்ற கட்டளையதால் – ஆவி<br/>ஆத்துமாவும் தேகம் யாவும் இன்று<br/>ஈந்து தொண்டு செய்குவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

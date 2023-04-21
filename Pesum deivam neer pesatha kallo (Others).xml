@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Pesum deivam neer pesatha kallo</title>
+      <title>Pesum deivam neer pesatha kallo</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v2 c1 v4 v2 c1 v5 v2 c1 v6 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பேசும் தெய்வம் நீர்<br/>பேசாத கல்லோ மரமோ நீர் அல்ல</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>என்னைப் படைத்தவர் நீர்<br/>என்னை வளர்த்தவர் நீர்<br/>என் பாவம் நீக்கி என்னைக் குணமாக்கி<br/>என்னோடிருப்பவர் நீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>இயேசுவே -4</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என் பாரம் சுமப்பவர் நீர்<br/>என் தகம் தீர்ப்பவர் நீர்<br/>என்னைப் போஷித்து என்னை உடுத்தி<br/>என்னோடிருப்பவர் நீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>என் குடும்ப வைத்தியர் நீர்<br/>ஏற்ற நல் ஒளஷதம் நீர்<br/>எந்தன் வியாதி பெலவீனங்களில்<br/>என்னோடிருப்பவர் நீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>என்னை அழைத்தவர் நீர்<br/>என்றும் நடத்துபவர் நீர்<br/>என்மேல் கண்வைத்து ஆலோசனை தந்து<br/>என்னோடிருப்பவர் நீர்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>எனக்காய் வருபவர் நீர்<br/>என் கண்ணீர் துடைப்பவர் நீர்<br/>எல்லாம் முடித்து சீயோனில் சேர்த்து<br/>என்னோடிருப்பவர் நீர்</lines>
+    </verse>
+  </lyrics>
+</song>

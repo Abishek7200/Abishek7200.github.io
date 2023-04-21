@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Nenjinile niranthavare</title>
+      <title>Nenjinile nirainthavare</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v3 v4 v3 v5</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>நெஞ்சினிலே நிறைந்தவரே<br/>நிம்மதியை தந்தவரே<br/>நேசக்கரம் நீட்டி என்னை<br/>பாசத்துடன் அணைப்பவரே<br/>நன்றி ராஜா இயேசு ராஜா - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1.மாராவின் தண்ணீரை<br/>மதுரமாய் மாற்றினீர்<br/>மாறாத என் வாழ்வை<br/>இனிமையாய் ஆக்கினீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உமக்கே நன்றியப்பா - இயேசப்பா 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2.துன்பத்தின் பாதையில்<br/>துணையாக வந்தீரே<br/>துவண்டு வேளையில்<br/>தோள் மீது சுமந்தீரே - உமக்கே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>3.கண்ணீரின் வாழ்க்கையை<br/>களிப்பாக மாற்றினீர்<br/>பாலைவன வாழ்க்கையை<br/>நீரூற்றாய் ஆக்கினீர் - உமக்கே</lines>
+    </verse>
+  </lyrics>
+</song>

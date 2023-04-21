@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Paarer gethsamene poongaavil</title>
+      <title>Paarir gethsamene poongaavil</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பாரீர் கெத்சமனே பூங்காவிலென் நேசரையே<br/>பாவியெனக்காய் வேண்டுதல்<br/>செய்திடும் சத்தம் தொனித்திடுதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. தேகமெல்லாம் வருந்தி சோகமடைந்தவராய்<br/>தேவாதி தேவன் ஏக சுதன் படும் பாடுகள் எனக்காயே – பாரீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. அப்பா இப்பாத்திரமே நீக்கும் நின் சித்தமானால்<br/>எப்படியுமும் சித்தம் செய்ய என்னைத் தத்தம் செய்தேன் என்றாரே – பாரீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. இரத்தத்தின் வேர்வையாலே மெத்தவுமே நனைந்தே<br/>இம்மானுவேலன் உள்ளமுருகியே வேண்டுதல் செய்தனரே- பாரீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. மும்முறை தரை மீதே தாங்கொண்ணா வேதனையால்<br/>முன்னவன் தானே வீழ்ந்து ஜெபித்தாரே பாதகர் மீட்புறவே – பாரீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. அன்பின் அருள் மொழியால் ஆறுதல் அளிப்பவர்<br/>துன்ப வேளையில் தேற்றுவாரின்றியே நொந்து அலறுகின்றார் – பாரீர்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. என்னையும் தம்மைப் போல மாற்றும் இம்மா நேசத்தை<br/>எண்ணி யெண்ணியே உள்ளம் கனிந்து நான் என்றும் புகழ்ந்திடுவேன் – பாரீர்</lines>
+    </verse>
+  </lyrics>
+</song>

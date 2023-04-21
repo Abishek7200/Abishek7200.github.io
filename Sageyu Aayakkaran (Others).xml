@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Sageyu Aayakkaran</title>
+      <title>Sageyu Aayakkaran</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சகேயு ஆயக்காரன் மிக குள்ளமானவன்<br/>ஒரு நாள் இயேசு வருவதை அறிந்தான் 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>எரிகோவின் மாந்தரெல்லாம் திரண்டு கூடவே<br/>ஏறினானே குள்ள சகேயு கட்டத்தி மரத்தில் 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>இறைவன் இயேசு வருகையில் மரத்தில் அவனை காணவே 2 <br/>இறங்கி வா நான் உந்தன் வீட்டில் தங்குவேன் என்றார் 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>இன்று இந்த வீட்டிற்கு மீட்பு வந்தது <br/>என்று கூறி இயேசுவும் உள்ளம் பூரித்தார் 2<br/>அன்று போல இன்றுமே இயேசு வந்த வீட்டிலே 2<br/>இந்த நிலமை என்றுமே எந்த நாளுமே 2</lines>
+    </verse>
+  </lyrics>
+</song>

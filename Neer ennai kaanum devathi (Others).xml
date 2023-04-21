@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Neer ennai kaanum devathi</title>
+      <title>Neer ennai kaanum devathi</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>நீர் என்னை காணும் தேவாதி தேவன் அல்லோ <br/>யார் என்னை மறந்தாலும் மறவாத நாதன் அல்லோ</lines>
+    </verse>
+    <verse name="v1b">
+      <lines><br/>1. பரதேசியாய் திரிந்தேனையா<br/>பரிவோடென்னை அணைத்தீரையா <br/>துதியோடு தினம் நானும் உம்மைத் தேடி வருவேன்<br/>புதுராகம் நான் பாடுவேன் - நீர் என்னை காணும் </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. தடுமாறினேன் தவிப்பாயினேன்<br/>திருப்பாதத்தை நான் நாடினேன் <br/>கனிவோடு எம்மைக் காக்க ஓடோடி வந்தீர் <br/>துதிப்பாடல் நான் பாடுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. எபிநேசரே யேகோவாயீரே <br/>என் வாழ்வினில் துணையாளரே <br/>நீரே அல்லாமல் எது ஒன்றும் செய்யேன் <br/>என்னை மீட்ட எஜமானரே</lines>
+    </verse>
+  </lyrics>
+</song>

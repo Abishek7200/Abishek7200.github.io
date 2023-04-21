@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T01:49:44">
+  <properties>
+    <titles>
+      <title>Neer enaku vendumaiya</title>
+    </titles>
+    <authors>
+      <author>Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>நீர் எனக்கு வேண்டுமையா<br/>நீர் எனக்கு போதுமையா</lines>
+    </verse>
+    <verse name="v2">
+      <lines>உம்மை ஆராதிக்க உம்மை  துதித்திட<br/>உம்மை வாழ்த்திட –  நீர் எனக்கு வேண்டுமையா</lines>
+    </verse>
+    <verse name="v3">
+      <lines>தாயின் கர்ப்பத்தில் என்னை அறிந்தவர் நீரே<br/>தகப்பன் சுமப்பதுபோல் என்னை சுமந்து வந்த தேவன் நீரே -2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>அப்பாவும் அம்மாவுமாய் எனக்கு நீர் போதும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>உமக்கு செலவிடும் நேரமெல்லாம் எனது ஆவி ஆத்துமா உமக்குள்ளே வாழுமையா -2<br/>உம்மை ஆராதித்து சுகமாய் வாழ்ந்திடுவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

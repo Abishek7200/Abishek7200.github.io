@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Siluvai sumanthorai seeshan</title>
+      <title>Siluvai sumanthorai seeshan</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v2 v1 v4 v2 v1 v5 v2 v1 v6 v2 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சிலுவை சுமந்தோராய் சீஷனாகுவோம்<br/>சிந்தை வாழ்விலும் தாழ்மை தரிப்போம்<br/>நிந்தை சுமப்பினும் சந்தோஷம் கொள்வோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இயேசு தாங்குவார் அவரே சுமப்பார்<br/>ஒருபோதும் கைவிடவே மாட்டார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>அல்லேலூயா(4)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>சொந்தம் பந்தங்கள் சொல்லால் கொல்லலாம்<br/>மாற்றோர் சதிசெய்து மதிப்பைக் கெடுக்கலாம்<br/>அவருக்காகவே அனைத்தும் இழந்தாலும்<br/>அதை மகிமை என்றெண்ணிடுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>வாழ்வும் இயேசுவே சாவும் இலாபமே<br/>அவர் பெருகவும் நான் சிறுகவும் வேண்டுமே<br/>கிருபை தருகிறார் விருதாவாக்கிடேன்<br/>அதை நித்தமும் காத்துக்கொள்வேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>சீஷன் என்பவன் குருவைப் போலவே<br/>தனக்காய் வாழாமல் தன்னையும்த் தருவானே<br/>பரலோக சிந்தை கொண்டு உமக்காய்<br/>பணிசெய்வேன் நான் அனுதினமும்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>விண்ணைவிட்டு என் கண்ணை அகற்றிடேன்<br/>மண்ணின் வாழ்வையும் குப்பையாய் எண்ணுகிறேன்<br/>விண்ணின் வார்த்தைக்கு என்னைத் தருகிறேன்<br/>உண்மையுள்ளவன் என்றழைப்பீர்</lines>
+    </verse>
+  </lyrics>
+</song>

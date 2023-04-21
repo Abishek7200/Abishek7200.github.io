@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Parama Yerusalame Paralogam vittiranguthe</title>
+      <title>Parama Yerusalame Paralogam vittiranguthe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பரம எருசலேமே பரலோகம் விட்டிறங்குதே<br/>அலங்கார மணவாட்டியாய் அழகாக ஜொலித்திடுதே<br/>ஆமென் அல்லேலூயா – (4)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எருசலேமே கோழி தன் குஞ்சுகளை<br/>ஏற்றணைக்கும் ஏக்கத்தின் குரல் கேட்டேன்<br/>தாய்ப்பறவை துடித்திடும் பாசம் கண்டேன்<br/>தாபரமாய் சிறகினில் தஞ்சமானேன் – கனிவான எருசலேமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. ஜீவ தேவன் நகரினில் குடிபுகுந்தேன்<br/>சீயோன் மலைச் சீருக்குச் சொந்தமானேன்<br/>நீதி தேவன் நீளடி சிரம் புதைத்தேன்<br/>நீதிமான்கள் ஆவியில் மருவி நின்றேன் – மேலான எருசலேமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சர்வ சங்க சபையின் அங்கமானேன்<br/>சர்வலோக நடுவரின் அருகில் வந்தேன்<br/>பரிந்துரைக்கும் இரத்தத்தில் மூழ்கி நின்றேன்<br/>பரிவாரமாய் தூதர்கள் ஆடி நின்றார் – ஆஹா என் எருசலேமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. விடுதலையே விடுதலை விடுதலையே<br/>லோகமதின் மோகத்தில் விடுதலையே<br/>நானேயெனும் சுய வாழ்வில் விடுதலையே<br/>நாதர் தனில் வாழ்வதால் விடுதலையே – சுயாதீன எருசலேமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. கண்ணீர் யாவும் கனிவோடு துடைத்திடுவார்<br/>எண்ணமதின் ஏக்கங்கள் தீர்த்திடுவார்<br/>மரணமில்லை மனநோயின் துயரமில்லை<br/>அலறலில்லை அழுகையின் சோகமில்லை – தலைநகராம் எருசலேமே</lines>
+    </verse>
+  </lyrics>
+</song>

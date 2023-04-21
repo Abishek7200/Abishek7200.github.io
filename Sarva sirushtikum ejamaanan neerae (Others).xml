@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Sarva sirushtikum ejamaanan neerae</title>
+      <title>Sarva sirushtikum ejamaanan neerae</title>
+    </titles>
+    <verseOrder>c1 c2 v2 c2 v3 c2 v4 c2 v5</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சர்வ சிருஷ்டிக்கும் எஜமானன் நீரே<br/>சர்வ சிருஷ்டியைக் காப்பவர் நீரே<br/>எங்கள் இதயத்தில் உம்மை போற்றிடுவோம்<br/>என்றென்றும் பணிந்து தொழுவோம்</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>ஆ ஆ ஆ.. அல்லேலூயா ஆமென்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>வானம் பூமி ஒழிந்து போனாலும்<br/>உம் வார்த்தை என்றும் மாறாதே<br/>இவ்வாழ்க்கை அழிந்து மறைந்து போம்<br/>விசுவாசி என்றென்றும் நிலைப்பான்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>சாத்தான் உன்னை எதிர்த்த போதும்<br/>ஜெயகிறிஸ்து உன்னோடு உண்டே<br/>தோல்வி என்றும் உனக்கில்லையே<br/>துதி கானம் தொனித்து மகிழ்வாய்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>கர்த்தர் கரத்தின் கிரியைகள் நாங்கள்<br/>கிருபை எங்கள் மேல் ஊற்றுவீரே<br/>ஆவி ஆத்துமா சரீரம் உம் சொந்தமே<br/>அதை சாத்தான் தொடாமல் காப்பீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>எல்லா மனிதர்க்கும் ஆண்டவர் நீரே<br/>எல்லா ஆசீர்வாதத்திற்கும் ஊற்றே<br/>எங்கள் இதயத்தை உம்மிடம்<br/>படைக்கின்றோமே – ஏங்குகின்றோம்<br/>உம் ஆசீர் பெறவே</lines>
+    </verse>
+  </lyrics>
+</song>

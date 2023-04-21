@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Siluvai naathar yesuvin peroli</title>
+      <title>Siluvai naathar yesuvin peroli</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Good Friday"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சிலுவை நாதர் இயேசுவின்<br/>பேரொளி வீசிடும் தூயக் கண்கள்<br/>என்னை நோக்கிப் பார்க்கின்றன - தம்<br/>காயங்களையும் பார்க்கின்றன</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>என் கைகள் பாவங்கள் செய்திட்டால்<br/>தம் கையின் காயங்கள் பார்க்கின்றாரே<br/>தீய வழியில் என் கால்கள் சென்றால்<br/>தம் காலின் காயங்கள் பார்க்கின்றாரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>தீட்டுள்ள எண்ணம் என் இதயம் கொண்டால்<br/>ஈட்டி பாய்ந்த நெஞ்சை நோக்குகின்றார்<br/>வீண் பெருமை என்னில் இடம் பெற்றால்<br/>முள்முடி பார்த்திட ஏங்குகின்றார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>திருந்திடா பாவிக்காய் அழுகின்றார்<br/>வருந்திடா பிள்ளைக்காய் கலங்குகின்றார்<br/>தம் கண்ணீர் காயத்தில் விழுந்திட<br/>கண்ணீரும் இரத்தமும் சிந்துகின்றார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>அவர் இரத்தம் என் பாவம் கழுவிடும்<br/>அவர் கண்ணீர் என்னை மெருகேற்றிடும்<br/>கலங்கரை விளக்காக ஒளி வீசுவேன்<br/>கலங்குவோரை அவர் மந்தை சேர்ப்பேன்</lines>
+    </verse>
+  </lyrics>
+</song>

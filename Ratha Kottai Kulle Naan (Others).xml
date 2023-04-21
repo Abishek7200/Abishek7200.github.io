@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Ratha Kottai Kulle Naan</title>
+      <title>Ratha Kottai Kulle Naan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இரத்தகோட்டைக்குள்ளே<br/>நான் நுழைந்து விட்டேன்<br/>இனி எதுவும் அணுகாது<br/>எந்தத் தீங்கும் தீண்டாது</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நேசரின் இரத்தம் என் மேலே<br/>நெருங்காது சாத்தான்<br/>பாசமாய் சிலுவையில் பலியானார்<br/>பாவத்தை வென்று விட்டார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>இம்மட்டும் உதவின எபினேசரே<br/>இனியும் காத்திடுவார்<br/>உலகிலே இருக்கும் அவனை விட<br/>என் தேவன் பெரியவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>தேவனே ஓளியும் மீட்புமானார்<br/>யாருக்கு அஞ்சிடுவேன்<br/>அவரே என் வாழ்வின் பெலனானார்<br/>யாருக்கு பயப்படுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>தாய் தன் பிள்ளையை மறந்தாலும்<br/>மறவாத என் நேசரே<br/>ஆயனைப் போல நடத்துகிறீர்<br/>அபிஷேகம் செய்கின்றீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>மலைகள் குன்றுகள் விலகினாலும்<br/>மாறாது உம் கிருபை<br/>அனாதி சிநேகத்தால் இழுத்துக் கொண்டீர்<br/>அணைத்து சேர்த்துக் கொண்டீர்</lines>
+    </verse>
+  </lyrics>
+</song>

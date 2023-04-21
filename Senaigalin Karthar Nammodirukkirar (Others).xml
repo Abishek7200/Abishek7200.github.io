@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Senaigalin Karthar Nammodirukkirar</title>
+      <title>Senaigalin Karthar nammodirukkirar</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சேனைகளின் கர்த்தர் நம்மோடிருக்கிறார்<br/>யாக்கோபின் தேவன் நமக்கு உயர்ந்த அடைக்கலம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பூமி நிலை மாறினாலும்<br/>மலைகள் பெயர்ந்து போனாலும்<br/>பர்வதங்கள் அதிர்ந்தாலும்<br/>நாம் பயப்படோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>தேவன் பூமி அனைத்திற்கும் இராஜா<br/>கருத்துடனே போற்றி பாடுவோம்<br/>யூத இராஜ சிங்கம் நம் கர்த்தர்<br/>தாழ விழுந்து பணிந்து தொழுகுவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>தேவன் மகா உன்னதமானவர்<br/>கெம்பீரமாக போற்றி பாடுவோம்<br/>கர்த்தர் மிகவும் துதிக்கப்படத் தக்கவர்<br/>துதித்துப் பாடி அவரை மகிமைப்படுத்துவோம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>கர்த்தர் துதிகளில் பயப்படத்தக்கவர்<br/>பயத்துடனே போற்றி பாடுவோம்<br/>தமக்கு பயந்த பிள்ளைகளை காப்பவர்<br/>அவர் கிருபையை நினைத்து போற்றி பாடுவோம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>தேவன் நமது இரட்சணயக் கன்மலை<br/>ஆர்ப்பரித்து போற்றி பாடுவோம்<br/>கர்த்தர் ஸ்தோத்தரிக்கப்படத் தக்கவர்<br/>ஆனந்தமாய் ஆர்ப்பரித்துப் பாடுவோம்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>தேவன் சத்தியத்தோடு நியாயந் தீர்ப்பார்<br/>பயத்துடனே அவரை சேவிப்போம்<br/>அவர் சீக்கிரமாய் நியாயந் தீர்க்க வருகிறார்<br/>பரிசுத்தமாய் அவரை கிட்டி சேருவோம்</lines>
+    </verse>
+  </lyrics>
+</song>

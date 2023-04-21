@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:32">
+  <properties>
+    <titles>
+      <title>Piriyamaanavane un aathuma</title>
+      <title>Piriyamaanavane un aathuma</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பிரியமானவனே – உன்<br/>ஆத்துமா வாழ்வது போல் – நீ<br/>எல்லாவற்றிலும் வாழ்ந்து<br/>சுகமாய் இரு மகனே (மகளே)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. வாழ்க்கை என்பது போராட்டமே<br/>நல்லதொரு போராட்டமே<br/>ஆவிதரும் பட்டயத்தை<br/>எடுத்துப் போராடி வெற்றி பெறு</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பிரயாணத்தில் மேடு உண்டு<br/>பள்ளங்களும் உண்டு<br/>மிதித்திடுவாய் தாண்டிடுவாய்<br/>மான் கால்கள் உனக்குண்டு மறவாதே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. ஓட்டப் பந்தயம் நீ ஓடுகிறாய்<br/>ஒழுங்கின்படி ஓடு மகனே (மகளே)<br/>நெருங்கி வரும் பாவங்களை<br/>உதறித் தள்ளிவிட்டு ஓடு மகனே (மகளே)</lines>
+    </verse>
+  </lyrics>
+</song>

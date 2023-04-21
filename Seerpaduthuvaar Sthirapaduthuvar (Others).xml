@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:33">
+  <properties>
+    <titles>
+      <title>Seerpaduthuvaar Sthirapaduthuvar</title>
+      <title>Seerpaduthuvaar Sthirapaduthuvar</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>இல்லாமல் செய்வேன் என்று சொன்னோர் முன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>இடம் கொள்ளாமல் பெருகச்செய்யும் தேவன் <br/>உன்னை இல்லாமல் செய்வேன் என்று சொன்னோர் முன்<br/>இடம் கொள்ளாமல் பெருகச்செய்யும் தேவன் <br/>நேராகும் வாய்ப்பில்லா உன் வாழ்வை <br/>சீராக மாற்றிட வருவாரே </lines>
+    </verse>
+    <verse name="c1">
+      <lines>சீர்படுத்துவார் ஸ்திரப்படுத்துவார் பெலப்படுத்தி நிலைநிறுத்துவார்<br/>உன்னை சீர்படுத்துவார் ஸ்திரப்படுத்துவார் பெலப்படுத்தி நிலைநிறுத்துவார்<br/>உன்னை பெலப்படுத்தி நிலைநிறுத்துவார் </lines>
+    </verse>
+    <verse name="v3">
+      <lines>கொஞ்சகாலம் கண்ட பாடுகள் எல்லாமே <br/>பனிபோல உந்தன் முன்னே உருகிப்போகும் - 2<br/>உன் கஷ்டங்கள் நஷ்டங்கள் எல்லாமே மாறும் - 2<br/>புது நன்மைகள் உன்னை சேரும் </lines>
+    </verse>
+    <verse name="v4">
+      <lines>மேன்மையை தடுக்க நின்ற கூட்டங்கள் எல்லாமே <br/>தேவன் உன் கூட என்று வணங்கி நிற்கும் - 2<br/>உனை பகைத்தவர் தந்திட்ட காயங்கள் மாறும் - 2<br/>உன் மேன்மை உன் கையில் சேரும்</lines>
+    </verse>
+  </lyrics>
+</song>
