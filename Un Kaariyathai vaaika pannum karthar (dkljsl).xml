@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Un Kaariyathai vaaika pannum karthar</title>
+      <title>Un Kaariyathai vaaika pannum karthar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1</verseOrder>
+    <authors>
+      <author type="words">dkljsl</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உன் காரியத்தை வாய்க்கப்பண்ணும் கர்த்தர்<br/>உன்னோடு இருக்கின்றார்<br/>உன்னைப் பேர் சொல்லி அழைக்கும் கர்த்தர்<br/>உன்னைக் கடைசி வரை நடத்திச் செல்லுவார் – 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>உன் காரியம் வாய்க்கும் கர்த்தர் நேரத்தில்<br/>கர்த்தரால் காரியம் வாய்க்கும் – 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. உன் கண்ணீரைத் துடைத்திடும் கர்த்தர்<br/>உனக்குள் வசிக்கின்றார் – 2<br/>உன்னைத் தமக்கென்று பிரித்தெடுத்து<br/>தம் மகிமையால் நிரப்பிடுவார் – 2 – உன் காரியம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. உன் நினைவு அவர் நினைவு அல்ல<br/>மேலானதை செய்வார் – 2<br/>உன்னை உடைத்து உருவாக்கும் குயவன் அவர்<br/>உன்னை சிறப்பாய் வனைந்திடுவார் – 2 – உன் காரியம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. உன் ஜெபத்தினை தொடர்ந்திடு மகனே (மகளே)<br/>ஜெபத்தால் ஜெயம் ஜெயமே<br/>உன் பாதைகளைக் கர்த்தர் உயர்த்திடுவார்<br/>உன் தடைகளை நொறுக்கிடுவார் – 2 – என் காரியம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>என் காரியத்தை வாய்க்கப் பண்ணும் கர்த்தர்<br/>என்னோடு இருக்கின்றார்<br/>என்னைப் பெயர் சொல்லி அழைக்கும் கர்த்தர்<br/>என்னைக் கடைசி வரை நடத்திச் செல்லுவார் – 2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>என் காரியம் வாய்க்கும் கர்த்தர் நேரத்தில்<br/>கர்த்தரால் காரியம் வாய்க்கும் – 3</lines>
+    </verse>
+  </lyrics>
+</song>

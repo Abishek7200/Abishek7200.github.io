@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Ummai paadadha naatkalum</title>
+      <title>Ummai paadadha naatkalum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம்மை பாடாத நாட்களும் இல்லையே<br/>உம்மை தேடாத நாட்களும் இல்லையே (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. உம்மையல்லாமல் யாரை நான் நேசிப்பேன் (2)<br/>உமக்காக அல்லாமல் யாருக்காக வாழுவேன் <br/>நம்புங்கப்பா உந்தன் பிள்ளையை (2) --- உம்மை </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. வெள்ளியை புடமிடும் போல என்னை புடமிட்டீர் (2)<br/>அதனால் நான் சுத்தமானேனே <br/>பொன்னாக விளங்கச் செய்தீரே (2) --- உம்மை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. பொருத்தனைகள் நிறைவேற்றி ஸ்தோத்திரங்கள் செலுத்துவேன் (2)<br/>ஆராதித்து உம்மை உயர்த்துவேன்<br/>நம்புங்கப்பா உந்தன் பிள்ளையை (2) --- உம்மை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. என் அலைச்சல்களை எண்ணினீர் கண்ணீரும் துருத்தியில் (2)<br/>வைத்து நன்மை தருபவரே<br/>நம்புவேன் நான் எல்லா நாளிலும் (2) --- உம்மை </lines>
+    </verse>
+  </lyrics>
+</song>

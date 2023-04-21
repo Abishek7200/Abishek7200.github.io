@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thuthipom Alleluya Padi magizhvom</title>
+      <title>Thuthipom Alleluya Padi magizhvom</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>துதிப்போம் அல்லேலூயா பாடி<br/>மகிழ்வோம் மகிபனைப் போற்றி<br/>மகிமை தேவ மகிமை<br/>தேவ தேவனுக்கே மகிமை – அல்லேலூயா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. தேவன் நம்மை வந்தடையச் செய்தார்<br/>தம்மை என்றும் அதற்காகத் தந்தார்<br/>அற்புதங்கள் செய்யும் சர்வ வல்ல தேவன்<br/>அடைக்கலம் கொடுத்திடுவார் – துதிப்போம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. கூப்பிடும் வேளைகளில் என்னை<br/>தப்புவிக்க ஆத்திரமாய் வந்தார்<br/>சிங்கத்தின் மேலே நடந்திடுவேனே<br/>சர்ப்பங்களை மிதித்திடுவேன் – துதிப்போம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. பாதம் கல்லில் என்றும் இடறாமல்<br/>கரங்களில் தாங்கிடுவார் தூதர்<br/>ஒரு போதும் வாதை உன் கூடாரத்தை<br/>அணுகாமல் காத்திடுவார் – துதிப்போம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. அஞ்சிடேனே இருளிலே என்றும்<br/>நடமாடும் கொள்ளை நோயைக் கண்டும்<br/>பயங்கரத்திற்கும் பறக்கும் அம்பிற்கும்<br/>பயந்திடேன் ஜெயித்திடுவேன் – துதிப்போம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. தேவன் எந்தன் அடைக்கலமாமே<br/>ஒரு போதும் பொல்லாப்பு வராதே<br/>சர்வ வல்ல தேவன் தாபரமாய் நின்றே<br/>விடுவித்துக் காத்திடுவார் – துதிப்போம்</lines>
+    </verse>
+  </lyrics>
+</song>

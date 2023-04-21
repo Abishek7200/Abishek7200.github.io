@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thuthi umake yesu natha</title>
+      <title>Thuthi umake yesu natha</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>துதி உமக்கே இயேசு நாதா<br/>வாழ்த்திடுவோம் உம்மையே<br/>நித்தமும் காக்கும் உம் கிருபைகளை<br/>எண்ணியே துதித்திடுவேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆதி அந்தமில்லா அனாதிதேவனே<br/>அடைக்கலமானீர் எமக்கு நீரே<br/>மாறா விசுவாசத்தை எமக்குத் தந்தீரே<br/>எண்ணியே துதித்திடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கடந்த நாளெல்லாம் வழுவாமல் எம்மை<br/>காருண்யத்தாலே காத்தீரே<br/>வல்ல தேவனே உம் வாக்குகளையே<br/>எண்ணியே துதித்திடுவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>தாயினும் மேலாய் அன்பு கூர்ந்தீரே<br/>தந்தைபோல் எம்மை சுமந்தீரே<br/>ஜீவனைத் தந்த உம் அன்பினையே<br/>எண்ணியே துதித்திடுவோம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>உன்னதா உந்தன் மகிமையைக் காண<br/>சீயோனை எமக்கு காட்டினீரே<br/>இயேசுவே உந்தன் வருகையின் நாளை<br/>எண்ணியே துதித்திடுவோம்</lines>
+    </verse>
+  </lyrics>
+</song>

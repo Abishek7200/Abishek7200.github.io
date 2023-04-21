@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Sthothiram Paadiye Potriduven</title>
+      <title>Sthothiram Paadiye Potriduven</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஸ்தோத்திரம் பாடியே போற்றிடுவேன்<br/>தேவாதி தேவனை ராஜாதி ராஜனை<br/>வாழ்த்தி வணங்கிடுவேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. அற்புதமான அன்பே – என்னில்<br/>பொற்பரன் பாராட்டும் தூய அன்பே<br/>என்றும் மாறா தேவ அன்பே<br/>என்னுள்ளம் தங்கும் அன்பே – ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. ஜோதியாய் வந்த அன்பே – பூவில்<br/>ஜீவன் தந்து என்னை மீட்ட அன்பே<br/>தியாகமான தேவ அன்பே<br/>திவ்விய மதுர அன்பே – ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. மாய உலக அன்பை – நம்பி<br/>மாண்ட என்னைக் கண்டழைத்த அன்பே<br/>என்னை வென்ற தேவ அன்பே<br/>என்னில் பொங்கும் பேரன்பே – ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. ஆதரவான அன்பே – நித்தம்<br/>அன்னை போல் என்னையும் தாங்கும் அன்பே<br/>உன்னத மா தேவ அன்பே<br/>உள்ளங் கவரும் அன்பே – ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. வாக்கு மாறாத அன்பே – திரு<br/>வார்த்தை உரைத்தென்னைத் தேற்றும் அன்பே<br/>சர்வ வல்ல தேவ அன்பே<br/>சந்ததம் ஓங்கும் அன்பே – ஸ்தோத்திரம்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Unnai athisayam kaana seiven</title>
+      <title>Unnai athisayam kaana seiven</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உன்னை அதிசயம் காணச் செய்வேன்<br/>நீ அற்புதம் கண்டிடுவாய் </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இன்று வாக்களித்தார் தேவன்<br/>இன்று நிறைவேற்ற வந்து விட்டார் --- உன்னை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. வழிதிறக்கும் அதிசயம் நடந்திடுமே<br/>செங்கடலும் திறந்தே வழிவிடுமே <br/>தடைகளெல்லாம் தகர்ந்தே போகுமே<br/>இடைஞ்சலெல்லாம் இன்றே மறைந்திடுமே --- உன்னை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. குறைகளெல்லாம் நிறைவாகும் அதிசயமே<br/>இறைமகனாம் இயேசுவால் நடந்திடுமே<br/>வாதையெல்லாம் மறைந்தே போகுமே<br/>பாதையெல்லாம் நேயாய் பொழிந்திடுமே --- உன்னை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. வழிநடத்தும் அதிசயம் நடந்திடுமே<br/>காரிருளில் பேரொளி வீசிடுமே<br/>வனாந்திரமே வழியாய் வந்தாலும்<br/>வல்லவரின் கரமே நடத்திடுமே --- உன்னை</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thollai kashtangal soolnthidum</title>
+      <title>Thollai kashtangal soolnthidum</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 v2 v5 v6 v2</verseOrder>
+    <authors>
+      <author type="words">D.G.S. Dinakaran</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தொல்லைக் கஷ்டங்கள் சூழ்ந்திடும்<br/>துன்பம் துக்கம் வரும்<br/>இன்பத்தில் துன்பம் நேர்ந்திடும்<br/>இருளாய் தோன்றும் எங்கும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>சோதனை வரும் வேளையில்<br/>சொற் கேட்கும் செவியிலே<br/>பரத்திலிருந்து ஜெயம் வரும்<br/>பரன் உன்னைக் காக்க வல்லோர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>காக்கும் வல்ல மீட்பர் உண்டெனக்கு<br/>உண்டெனக்கு உண்டெனக்கு<br/>காக்கும் வல்ல மீட்பர் உண்டெனக்கு<br/>காத்திடுவார் என்றுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஐயம் மிகுந்ததோர் காலத்தில்<br/>ஆவி குறைவால் தான் - மீட்பர்<br/>உதிர பெலத்தால் சத்துருவை வென்றேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>என் பயம் யாவும் நீங்கிற்று<br/>இயேசு கை தூக்கினார்<br/>முற்றும் என்னுள்ளம் மாறிற்று<br/>இயேசென்னைக் காக்க வல்லோர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>என்ன வந்தாலும் நம்புவேன்<br/>என் நேச மீட்பரை - யார் கைவிட்டாலும்<br/>பின் செல்வேன் எனது இயேசுவை</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>அகல ஆழ உயரமாய்<br/>எவ்வளவன்பு கூர்ந்தார்<br/>என்ன துன்பங்கள் வந்தாலும்<br/>அவர் என்னைக் கைவிடமாட்டார்</lines>
+    </verse>
+  </lyrics>
+</song>

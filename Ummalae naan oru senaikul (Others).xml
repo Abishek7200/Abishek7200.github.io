@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Ummalae naan oru senaikul</title>
+      <title>Ummalae naan oru senaikul</title>
+    </titles>
+    <verseOrder>c1 v1 v9 c1 v2 v9 c1 v3 v9 c1 v4 v9 c1 v5 v9 c1 v6 v9 c1 v7 v9 c1 v8 v9 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம்மாலே நான் ஒரு சேனைக்குள் பாய்வேன்<br/>மதிலைத் தாண்டிடுவேன் (2)<br/>ஐயா ஸ்தோத்திரம் இயேசையா ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எனது விளக்கு எரியச் செய்தீர்<br/>இருளை ஒளியாக்கினீர் </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. மான்களைப் போல ஓடச் செய்தீர்<br/>உயர அமரச் செய்தீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. பெலத்தால் இடைக்கட்டி வழியை செவ்வையாக்கி<br/>வாழ வைத்தவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. நீரே என் கன்மலை நீரே என் கோட்டை<br/>எனது அடைக்கலமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. இரட்சிப்பின் கேடயம் எனக்கு தந்தீர்<br/>எந்நாளும் தாங்கிக் கொண்டீர்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. கால்கள் வழுவாமல் நடக்கும் பாதையை<br/>அகலமாக்கிவிட்டீர்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>7. இம்மட்டும் காத்தீர் இனிமேலும் காப்பீர்<br/>எந்நாளும் துதித்திடுவேன்</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>8. அற்புதம் செய்தீர் அதிசயம் செய்தீர்<br/>அப்பனே உம்மைத் துதிப்பேன்</lines>
+    </verse>
+    <verse name="v9">
+      <lines>ஐயா ஸ்தோத்திரம் இயேசையா ஸ்தோத்திரம்</lines>
+    </verse>
+  </lyrics>
+</song>

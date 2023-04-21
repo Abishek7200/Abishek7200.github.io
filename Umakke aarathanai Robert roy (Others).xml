@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Umakke aarathanai Robert roy</title>
+      <title>Umakke aarathanai Robert roy</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசுவே உம்மை உயர்த்திடுவேன்<br/>என் நேசரே உம்மைப் பாடுவேன்<br/>நீர் செய்த எல்லா நன்மைகட்காக<br/>உமக்கே ஆராதனை</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உமக்கே ஆராதனை-ஐயா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நீர் தான் என் தஞ்சமே<br/>நீர் தான் என் கோட்டையே<br/>துன்ப வேளையில் தூக்கி என்னை<br/>தோளில் சுமந்தவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>நீரே என் ஆதாரமே<br/>நீரே என் துனையாளரே<br/>சோர்ந்திடும் நேரம் சார்ந்திட உந்தன்<br/>கிருபை ஈந்தவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>நீர் தான் என் பெலன்<br/>நீர் தான் என் சுகமே<br/>கண்ணீர் துடைத்து கவலை போக்கி<br/>ஆறுதல் அளிப்பவரே</lines>
+    </verse>
+  </lyrics>
+</song>

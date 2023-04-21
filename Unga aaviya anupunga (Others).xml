@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Unga aaviya anupunga</title>
+      <title>Unga aaviya anupunga</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உங்க ஆவியை அனுப்புங்க<br/>என்னை உயிரடைய செய்யுங்க<br/>உலர்ந்த எலும்புகள் இந்த நாளில்<br/>உயிரடைய வேண்டுமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உயிரடைய வேண்டுமே உயிரடைய வேண்டுமே<br/>உயிரடைய வேண்டுமே உயிரடைய வேண்டுமே<br/>உந்தன் உயிர்த்தெழுந்த வல்லமை வேண்டுமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>பாதளக் கட்டுகள் உடையட்டுமே<br/>பார்வோனின் வல்லமை அழியட்டுமே<br/>உமக்காக நாங்கள் ஒடிட <br/>உயிரடைய வேண்டுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கவலையின் கட்டுகள் உடையட்டுமே<br/>சந்தோஷத்தாலே நிரப்பிடுமே<br/>என் இரவுகளெல்லாம் துதிநேரமாய் <br/>உயிரடைய வேண்டுமே</lines>
+    </verse>
+  </lyrics>
+</song>

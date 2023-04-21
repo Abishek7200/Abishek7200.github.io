@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Sontham endru solli kolla</title>
+      <title>Sontham endru solli kolla</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சொந்தம் என்று சொல்லிக் கொள்ள <br/>உம்மை விட யாரும் இல்ல <br/>சொத்து என்று அள்ளிக் கொள்ள<br/>உம்மை விட ஏதும் இல்ல <br/>இயேசுவே இயேசுவே எல்லாம் இயேசுவே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. உம் தழும்புகளால் நான் சுகமானேன் <br/>உம் வார்த்தையினால் நான் பெலனானேன் ...<br/>நான் பெலனானேன், நான் பெலனானேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. உம் கிருபையினால் நான் பிழைத்துக் கொண்டேன் <br/>உம் பாசத்தினால் நான் திகைத்துப் போனேன் ... <br/>நான் திகைத்துப் போனேன், நான் திகைத்துப் போனேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. உம் ஆவியினால் நான் பிறந்து விட்டேன் <br/>உம் ஊழியத்துக்காய் நான் உயிர் வாழ்வேன் ...<br/>நான் உயிர் வாழ்வேன், நான் உயிர் வாழ்வேன்</lines>
+    </verse>
+  </lyrics>
+</song>

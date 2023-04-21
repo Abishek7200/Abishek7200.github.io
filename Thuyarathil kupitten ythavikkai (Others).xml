@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thuyarathil kupitten ythavikkai</title>
+      <title>Thuyarathil kupitten ythavikkai</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 v5 v6 v7 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. துயரத்தில் கூப்பிட்டேன் உதவிக்காய் கதறினேன்<br/>அழுகுரல் கேட்டீரையா - (2)<br/>குனிந்து தூக்கினீர் பெரியவனாக்கினீர்<br/>உமது காருண்யத்தால் - (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>குனிந்து தூக்கினீரே பெரியவனாக்கினீரே<br/>உமது காருண்யத்தால் பெரியவனாக்கினீரே - (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. எனது விளக்கு எரியச் செய்தீர்<br/>இரவைப் பகலாக்கினீர் - (2)<br/>எரிந்து கொண்டிருப்பேன் எப்போதும் உமக்காய்<br/>என் ஜீவன் பிரியும் வரை - (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>எரிந்து கொண்டேயிருப்பேன் எப்போதுமே உமக்காய்<br/>என் ஜீவன் பிரியும் வரை எரிந்து கொண்டேயிருப்பேன் - (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. நான் நம்பும் கேடகம் விடுவிக்கும் தெய்வம்<br/>நீர்தான் நீர்தானையா - (2)<br/>தூயவர் தூயவர் துதிக்குப் பாத்திரர்<br/>ஆறுதல் நீர்தானையா - (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>தூயவர் தூயவரே துதிக்குப் பாத்திரரே<br/>ஆறுதல் நீர்தானையா துதிக்குப் பாத்திரரே - (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>4. சேனைக்குள் பாய்ந்தேன் உந்தன் தயவாலே<br/>மதிலைத் தாண்டிடுவேன் - (2)<br/>புகழ்ந்து பாடுவேன் உம்மையே உயர்த்துவேன்<br/>உயிர் வாழும் நாட்களெல்லாம் - (2)</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>புகழ்ந்து பாடிடுவேன் உம்மையே உயர்த்திடுவேன்<br/>உயிர் வாழும் நாட்களெல்லாம் உம்மையே உயர்த்திடுவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

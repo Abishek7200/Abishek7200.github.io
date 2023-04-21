@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thuthikka thuthikka inbam peruguthe</title>
+      <title>Thuthikka thuthikka inbam peruguthe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>துதிக்க துதிக்க இன்பம் பெருகுதே<br/>உம்மை துதிக்க துதிக்க கிருபை பெருகுதே<br/>துதிக்க துதிக்க உயர்த்தப்படுகிறேன் உம்மை<br/>துதிக்க துதிக்க மதிலை தாண்டுவேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பவுலும் சீலாவும் இரவெல்லாம் துதிச்சாங்க<br/>துதிச்சது இரண்டு பேர் விடுதலை பலருக்கு<br/>துதிக்க துதிக்க தான் விடுதலை உண்டு<br/>துதிக்க துதிக்க தான் இரட்சிப்பு உண்டு</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. அசைவில்லா இராஜ்ஜியத்தை பெறப்போகும் நாமெல்லோரும்<br/>பயத்தோடும் பக்தியோடும் ஆராதனை செய்யணும்<br/>துதிக்க துதிக்க தான் விடுதலை உண்டு<br/>துதிக்க துதிக்க தான் இரட்சிப்பு உண்டு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சாம்பலுக்கு பதிலாக சிங்காரம் தருவாரே<br/>அழுகைக்கு பதிலாக களிப்பை தருவாரே<br/>துதிக்க துதிக்க தான் விடுதலை உண்டு<br/>துதிக்க துதிக்க தான் இரட்சிப்பு உண்டு</lines>
+    </verse>
+  </lyrics>
+</song>

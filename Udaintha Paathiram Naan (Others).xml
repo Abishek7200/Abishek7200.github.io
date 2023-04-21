@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Udaintha Paathiram Naan</title>
+      <title>Udaintha Paathiram Naan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உடைந்த பாத்திரம் நான் <br/>எதற்கும் உதவாதவன்  <br/>உருகுலைந்த பாத்திரம் நான்<br/>எவரும் விரும்பாதவன் </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>குயவன் கையில் <br/>பிசையும் களிமண் போல-2 <br/>என் சித்தமல்ல <br/>உம்சித்தம் போலாக்கும் -2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>அந்த உலக இன்பம் எல்லாம் மாயையே<br/>உங்க விருப்பப்படி என்னை மாற்றுமே<br/>என் பெலவீன காலங்களில் <br/>உம் பெலத்தாலே பாதுகாக்கிறீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என்னை அறிந்த மனிதர் மறந்து போகலாம்<br/>கிருபை என்மேல் என்றும் இருக்குமே, <br/>என் அக்கிரமங்களை சிலுவையில் சுமந்தீர்<br/>அபிஷேகத்தாலே  மூழ்க நனைத்திட்டீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>உன்னத பாத்திரம் நான் <br/>உலகிற்கு ஒளியானவன் <br/>தேவ அழகின் பாத்திரம் நான் <br/>உம்மை விட்டு விலகாதவன்</lines>
+    </verse>
+  </lyrics>
+</song>

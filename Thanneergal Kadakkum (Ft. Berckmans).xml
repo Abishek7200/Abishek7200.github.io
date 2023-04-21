@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T02:07:28">
+  <properties>
+    <titles>
+      <title>Thanneergal Kadakkum</title>
+      <title>Thanneergal Kadakkum</title>
+    </titles>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>தண்ணீர்கள் கடக்கும் போது<br/>என்னோடு இருக்கின்றீர்<br/>அக்கினியில் நடக்கும் போது கூடவே வருகின்றீர்<br/>மூழ்கிப் போவதில்லை<br/>எரிந்து போவதில்லை</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>என் மேல் அன்பு கூர்ந்து<br/>எனக்காய் இரத்தம் சிந்தி<br/>என் பாவம் கழுவி விட்டீரே<br/>எனக்கு விடுதலை தந்து விட்டீரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>நன்றி ஐயா, நன்றி ஐயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines>உமது பார்வையிலே<br/>விலையேறப் பெற்றவன் நான்<br/>மதிப்பிற்கு உரியவன் நானே - இன்று<br/>மகிழ்வுடன் நடனமாடுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>பாலைவன வாழ்க்கையிலே<br/>பாதைகள் காணச் செய்தீர்<br/>ஆறுகள் ஓடச் செய்தீரே - தினம்<br/>பாடி மகி ழச் செய்தீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>பெற்ற தாய் தனது<br/>பிள்ளையை மறந்தாலும்<br/>நீர் என்னை மறப்பதில்லையே - உமது<br/>உள்ளங்கையில் பொறித்து வைத்துள்ளீர்</lines>
+    </verse>
+    <verse name="v6">
+      <lines>என்னைப் படைத்தவரே<br/>உருவாக்கி மகிழ்ந்தவரே<br/>பெயர் சொல்லி அழைத்துக் கொண்டீரே<br/>உமக்கு உரிமையாக்கிக் கொண்டீரே</lines>
+    </verse>
+  </lyrics>
+</song>

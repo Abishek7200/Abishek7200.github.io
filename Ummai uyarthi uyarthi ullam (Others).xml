@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Ummai uyarthi uyarthi ullam</title>
+      <title>Ummai uyarthi uyarthi ullam</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v2 c1 v4 v2 c1 v5 v2 c1 v6 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம்மை உயர்த்தி உயர்த்தி<br/>உள்ளம் மகிழுதையா<br/>உம்மை நோக்கிப் பார்த்து<br/>இதயம் துள்ளுதையா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. கரம்பிடித்து நடத்துகிறீர்<br/>காலமெல்லாம் சுமக்கின்றீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நன்றி நன்றி (2) – உம்மை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. கண்ணீரெல்லாம் துடைக்கின்றீர்<br/>காயமெல்லாம் ஆற்றுகிறீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. நல்லவரே வல்லவரே<br/>காண்பவரே காப்பவரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. இருப்பவரே இருந்தவரே<br/>இனிமேலும் வருபவரே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. வலுவூட்டும் திருஉணவே<br/>வாழ வைக்கும் நல்மருந்தே</lines>
+    </verse>
+  </lyrics>
+</song>

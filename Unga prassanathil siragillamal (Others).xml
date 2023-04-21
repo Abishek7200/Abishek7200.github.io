@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Unga prassanathil siragillamal</title>
+      <title>Unga prassanathil siragillamal</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உங்க பிரசன்னத்தில்<br/>சிறகில்லாமல் பறக்கிறேன்<br/>உங்க சமுகத்தில்<br/>குறைவில்லாமல் வாழ்கிறேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என் தஞ்சமானீரே<br/>என் கோட்டையானீரே<br/>என் துருகமானீரே<br/>என் நண்பனானீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உதவாதே என்னையே<br/>உருவாக்கும் உறவே<br/>குறைவான என்னையே<br/>நிறைவாக்கும் நிறைவே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>பொய்யான வாழ்வையே<br/>மெய்யாக மாற்றினீர்<br/>மண்ணான என்னையே<br/>உம் கண்கள் கண்டதே</lines>
+    </verse>
+  </lyrics>
+</song>

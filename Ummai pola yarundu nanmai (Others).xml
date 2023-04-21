@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Ummai pola yarundu nanmai</title>
+      <title>Ummai pola yarundu nanmai</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v2 v4 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம்மைப் போல யாருண்டு<br/>நன்மை செய்ய நீருண்டு<br/>உம்மைத் தானே நம்புவேன்<br/>என் தேவா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உம்மைதான் எந்தன் வாழ்வில்<br/>ஆதாரமாய் நினைத்து உள்ளேன்<br/>நீர் இல்லா எந்தன் வாழ்க்கை<br/>வீணாய் தானே போகுதைய்யா </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>எல்ஷடாய் ஆராதிப்பேன்<br/>எலோஹிம் ஆராதிப்பேன்<br/>அடோனாய் ஆராதிப்பேன்<br/>இயேசுவே ஆராதிப்பேன் </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கலங்கி நின்ற என்னைக் கண்டு<br/>கண்ணீரைத் துடைத்தவரே<br/>காலமெல்லாம் கண்மணிபோல<br/>கரம்பிடித்து காத்தவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>மரணத்தின் பாதைதனில்<br/>மனம் தளர்ந்து நின்ற என்னை<br/>மருத்துவராய் நீரே வந்து<br/>மறுவாழ்வு தந்தீரைய்யா -</lines>
+    </verse>
+  </lyrics>
+</song>

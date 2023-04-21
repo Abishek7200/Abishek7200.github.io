@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thulluthayya Um Naamam Solla solla</title>
+      <title>Thulluthayya Um Naamam Solla solla</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>துள்ளுதையா, உம்நாமம் சொல்ல சொல்ல<br/>துதித்து துதித்து, தினம் மகிழ்ந்து மகிழ்ந்து<br/>மனம் துள்ளுதையா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. அன்பு பெருகுதையா -என்<br/>அப்பாவின் நிழல்தனிலே<br/>அபிஷேகம் வளருதையா<br/>எபிநேசர் பார்வையிலே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. உள்ளங்கள் மகிழுதையா<br/>உம்மோடு இருக்கையிலே<br/>பள்ளங்கள் நிரம்புதையா<br/>பாடி துதிக்கையிலே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. நம்பிக்கை வளருதையா<br/>நாதா உம் பாதத்திலே<br/>நன்மைகள் பெருகுதையா<br/>நாள்தோறும் துதிக்கையிலே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. நோய்கள் நீங்குதையா –உம்மை<br/>கர்த்தர் உம் சமூகத்திலே<br/>காயங்கள் ஆறுதையா<br/>கருத்தோடு துதிக்கையிலே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. கண்ணீர்கள் மறையுதையா<br/>கர்த்தர் உம் சமூகத்திலே<br/>காயங்கள் ஆறுதையா<br/>கருத்தோடு துதிக்கையிலே</lines>
+    </verse>
+  </lyrics>
+</song>

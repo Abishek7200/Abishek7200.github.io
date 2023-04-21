@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-27T08:53:13">
+  <properties>
+    <titles>
+      <title>Sthothiram Yesu Nadha umakendrum</title>
+      <title>Sthothiram Yesu Nadha umakendrum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஸ்தோத்திரம் இயேசுநாதா உமக்கென்றும்<br/>ஸ்தோத்திரம் இயேசுநாதா<br/>ஸ்தோத்திரம் செய்கின்றோம் நின்னடியார்<br/>திருநாமத்தின் ஆதரவில்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>வான தூதர் சேனைகள் மனோகர<br/>கீதங்களால் எப்போதும்<br/>ஒய்வின்றிப் பாடி துதிக்க மாபெரும்<br/>மன்னவனே உமக்கு</lines>
+    </verse>
+    <verse name="v2">
+      <lines>நின் உதிரமதினால் திறந்த<br/>நின்ஜீவ புது வழியாம்<br/>நின் அடியார்க்கும் பிதாவின் சந்நிதி<br/>சேரவுமே சந்ததம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>இத்தனை மகத்துவமுள்ள பதவி<br/>இப்புழுக்களாம் எங்களுக்கு<br/>எத்தனை மாதயவு நின்கிருபை<br/>எத்தனை ஆச்சரியம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>இன்றைத் தினமதிலும் ஒருமித்து<br/>கூட உம் நாமத்தினால்<br/>தந்த நின் கிருபைக்காக உமக்கென்றும்<br/>ஸ்தோத்திரம் ஸ்தோத்திரமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>நீரல்லால் எங்களுக்கு பரலோகில்<br/>யாருண்டு ஜீவநாதா<br/>நீரேயன்றி இகத்தில் வேறோரு<br/>தேற்றமில்லைப் பரனே</lines>
+    </verse>
+  </lyrics>
+</song>

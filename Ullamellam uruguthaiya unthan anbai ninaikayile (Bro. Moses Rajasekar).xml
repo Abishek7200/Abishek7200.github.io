@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Ullamellam uruguthaiya unthan anbai ninaikayile</title>
+      <title>Ullamellam uruguthaiya unthan anbai ninaikayile</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Bro. Moses Rajasekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உள்ளம் எல்லாம் உருகுதய்யா உந்தன்<br/>அன்பை நினைக்கையிலே<br/>தன்னாலே கண்ணு கலங்குது<br/>கர்த்தாவே உம்மை நினைக்குது</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இந்த தெள்ளுப் பூச்சிக்கும்<br/>நல்ல வாழ்க்கையை தந்தீரே – என்னை<br/>நல்லவனாக்கி அல்லையில் வைத்துக் கொண்டீரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கருவினில் அநாதையானேன்<br/>தெருவினில் நான் கிடந்தேன்<br/>அருகினில் வந்து என்னை<br/>அணைத்த அன்பு தெய்வமே<br/>அற்புதமே அதிசயமே உம்மை<br/>நான் என்றும் மறவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>தேற்றிட ஒருவரில்லை<br/>ஆற்றிட யாருமில்லை<br/>தூற்றிட பலருண்டு<br/>சேற்றை வீசும் மனிதருண்டு<br/>ஏற்றிடும் என் விளக்கை<br/>தேற்றும் எந்தன் தெய்வமே<br/>சற்பரனே பொற்பரனே உம்மை<br/>நான் என்றும் துதிப்பேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>ஊரெல்லாம் சென்றிடுவேன்<br/>உந்தன் நாமம் பறை சாற்றிடுவேன்<br/>தெருவெல்லாம் ஏசுவே என்று<br/>உம் நாமம் உயர்த்திடுவேன்<br/>ஆளுகை செய்யும் என்னை<br/>எந்தன் அன்பு தெய்வமே<br/>உம்மையன்றி இவ்வுலகில்<br/>ஆறுதல் எனக்கு யாருமில்லை</lines>
+    </verse>
+  </lyrics>
+</song>

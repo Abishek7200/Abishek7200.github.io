@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-23T09:47:05">
+  <properties>
+    <titles>
+      <title>Ummai Nesithu naan vaazhnthida</title>
+      <title>Ummai Nesithu naan vaazhnthida</title>
+    </titles>
+    <authors>
+      <author type="words">Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம்மை நேசித்து நான் வாழ்ந்திட உங்க கிருபை தாருமே<br/>உம்மை வாஞ்சையாய் என்றும் தொடர்ந்திட உங்க கிருபை தாருமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>என்னை அழைத்தவரே உம்மை என்றென்றும் ஆராதிப்பேன் <br/>உண்மையுள்ளவரே உம்மை என்றென்றும் துதித்திடுவேன் </lines>
+    </verse>
+    <verse name="v3">
+      <lines>1. வேண்டான்னு  கிடந்த எந்தன் வாழ்வை வேண்டும் என்றீரே <br/>கைவிடப்பட்ட  என்னையும் ஒரு பொருட்டாய் எண்ணினீரே </lines>
+    </verse>
+    <verse name="v4">
+      <lines>2. இருளாய் கிடந்த எந்தன் வாழ்வில் இரட்சிப்பை தந்தீரே<br/>அநேகர் வாழ்வை வெளிச்சமாய் மாற்றும் விளக்காய் வைத்தீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3. நிலையில்லாத எந்தன் வாழ்வில் நிலையாய் வந்தீரே<br/>நித்தியமான வீட்டை குறித்த நம்பிக்கை தந்தீரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>இயேசுவே உந்தனின் அன்பையே பாடிடுவேன் <br/>இயேசுவே உந்தனின் கிருபையை உயர்த்திடுவேன் </lines>
+    </verse>
+  </lyrics>
+</song>

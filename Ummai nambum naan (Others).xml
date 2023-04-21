@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-14T02:58:58">
+  <properties>
+    <titles>
+      <title>Ummai nambum naan</title>
+      <title>Ummai nambum naan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம்மை நம்பும் நான் பாக்கியவான்<br/>உம்மையே நம்பியிருப்பேன்<br/>உம் அன்பை நம்பும் நான் பாக்கியவான்<br/>உம் அன்பையே நம்பியிருப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>உம்மை நம்புவேன்<br/>நான் உம்மை நம்புவேன்<br/>உம்மையே நம்பியிருப்பேன்<br/>உம்மை நம்புவேன்<br/>நான் உம்மை நம்புவேன்<br/>உம் அன்பையே நம்பியிருப்பேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>நீர் தானே என் துணையானீர்<br/>என் கேடகமுமானீர்<br/>என்னை நினைப்பவரே ஆசீர்வதிப்பவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>உம்மை நம்புவேன்<br/>நான் உம்மை நம்புவேன்<br/>முடிவுப்பரியந்தம் உம்மை நம்புவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>உம்மை நம்பும் மனிதர்கள் யாவரையும்<br/>உம் கிருபை சூழ்ந்து கொள்ளும்<br/>உம்மை நம்பும் மனிதர்கள் யாவருக்கும்<br/>உம் நன்மை மிகுந்திருக்கும்<br/>குற்றப்பட்டுப்போவதில்லை<br/>நான் வெட்கப்பட்டுபோவதில்லை</lines>
+    </verse>
+    <verse name="v5">
+      <lines>சீயோன் பர்வதம் இருப்பதைப்போல்<br/>அசையாமல் நிலைத்திருப்பேன்<br/>ஆகாமியத்தின் கொடுங்கோல்<br/>என் மேல் நிலைப்பதில்லை</lines>
+    </verse>
+  </lyrics>
+</song>

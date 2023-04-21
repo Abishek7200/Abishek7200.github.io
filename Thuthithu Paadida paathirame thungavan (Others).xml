@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thuthithu Paadida paathirame thungavan</title>
+      <title>Thuthithu Paadida paathirame thungavan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 v3 v1 v4 v1 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. துதித்துப் பாடிட பாத்திரமே<br/>துங்கவன் இயேசுவின் நாமமதே<br/>துதிகளின் மத்தியில் வாசம் செய்யும்<br/>தூயனை நேயமாய் ஸ்தோத்தரிப்போமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆ! அற்புதமே அவர் நடத்துதலே<br/>ஆனந்தமே பரமானந்தமே<br/>நன்றியால் உள்ளமே மிக பொங்கிடுதே<br/>நாம் அல்லேலூயா துதி சாற்றிடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. கடந்த நாட்களில் கண்மணிபோல்<br/>கருத்துடன் நம்மைக் காத்தாரே<br/>கர்த்தரையே நம்பி ஜீவித்திட<br/>கிருபையும் ஈந்ததால் ஸ்தோத்தரிப்போமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. அக்கினி ஊடாய் நடந்தாலும்<br/>ஆழியில் தண்ணீரைக் கடந்தாலும்<br/>சோதனையோ மிகப் பெருகினாலும்<br/>ஜெயம் நமக்கீந்ததால் ஸ்தோத்தரிப்போமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. இந்த வனாந்திர யாத்திரையில்<br/>இன்பராம் இயேசு நம்மோடிருப்பார்<br/>போகையிலும் நம் வருகையிலும்<br/>புகலிடம் ஆனதால் ஸ்தோத்தரிப்போமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. வாஞ்சைகள் தீர்த்திட வந்திடுவார்<br/>வாரும் என்றே நாம் அழைத்திடுவோம்<br/>வானத்திலே ஒன்று சேர்ந்திடும் நாள்<br/>விரைந்து நெருங்கிட ஸ்தோத்தரிப்போமே</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-27T09:24:09">
+  <properties>
+    <titles>
+      <title>Um naamam vaazhga raja</title>
+      <title>Um naamam vaazhga raja</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ps. Alwin Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம் நாமம் வாழ்க ராஜா விண் தந்தையே <br/>உம் அரசு வருக ராஜா என் தந்தையே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>வாழ்க ராஜா அல்லேலுயா (4)<br/>அல்லேலுயா ஓசன்னா (4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>யேகோவா யீரே உம் நாமம் பரிசுத்தப்படுவதாக (2)<br/>யேகோவா நிசியே எந்நாளும் வெற்றி தருவீர் (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>யேகோவா ரூவா உம் நாமம் பரிசுத்தப்படுவதாக (2)<br/>யேகோவா ரஃபா சுகம் தருபவர் நீர் (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ராஜாதி ராஜா நீரே உம் நாமம் பரிசுத்தப்படுவதாக (2)<br/>உயிரோடு எழுந்தவரே வேகமாய் வாருமையா (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>மாரநாதா அல்லேலூயா (4)<br/>அல்லேலூயா ஓசன்னா (4)</lines>
+    </verse>
+  </lyrics>
+</song>

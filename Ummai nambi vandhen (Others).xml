@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-26T01:44:30">
+  <properties>
+    <titles>
+      <title>Ummai nambi vandhen</title>
+      <title>Ummai nambi vandhen</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம்மை நம்பி வந்தேன் நான் வெட்கப்படல<br/>உம் தயை என்னைக் கைவிடல (2)<br/>வெறுங்கையாய் நான் கடந்துவந்தேன்<br/>இரு பரிவாரங்கள் எனக்குத் தந்தீர் (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஏல்-எல்லோகே ஏல்-எல்லோகே<br/>ஏல்-எல்லோகே நான்<br/>உம்மைத் துதிப்பேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>காயப்பட்டு நின்றேன் கண்ணீரில் சென்றேன்<br/>கலங்கின எனக்காக இறங்கி வந்தீர் (2)<br/>உடன்படிக்கை என்னோடு செய்து<br/>இழந்திட்ட யாவையும் திரும்பத் தந்தீர் (2) –-- ஏல்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>வேண்டினோரெல்லாம் விடைபெற்ற போதும்<br/>வேண்டியதெல்லாம் எனக்குத் தந்தீர் (2)<br/>பரதேசியாய் நான் தங்கினதை<br/>சுதந்திரமாக மாற்றித் தந்தீர் (2) --- ஏல்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Unakkoruvar irukkirar unnai visaarika</title>
+      <title>Unakkoruvar irukkirar unnai visaarika</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உனக்கொருவர் இருக்கிறார்<br/>உன்னை விசாரிக்கத் துடிக்கிறார்<br/>உன்னையும் என்னையும் இயேசு நேசிக்கிறார்<br/>நம்மை உள்ளங்கைகளில் வரைந்திருக்கிறார் – 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. ஆகாதவன் என்று உன்னை யார்தள்ளினாலும்<br/>ஆபிரகாமின் தேவன் உன்னை தள்ளிவிடுவாரோ<br/>தஞ்சம் என்று வருபவரைத் தள்ளாத நேசர் அவர் – 2<br/>அஞ்சிடாதே மகளே, மகனே என்று உன்னைத் தேற்றிடவே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. வியாதியஸ்தன் என்று உன்னை ஒதுக்கி வைப்பார்கள்<br/>வேண்டாத வார்த்தைகளைச் சொல்லி புண்படுத்துவார்கள்<br/>வாழ்வதா சாவதா என்று நீ அழுது புலம்பிடுவாய்<br/>வாழத்தான் வேண்டுமென்று வியாதியிலே சுகம் தரவே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சாதிசனம் மறந்திட்டாலும் மறந்திடாதவர்<br/>ஜோதிகளின் பிதாவாம் இயேசுவானவர்<br/>சூழ்நிலைகள் மாறினாலும் இயேசு உன்னை மறப்பதில்லை<br/>சிலுவையில் ஜீவன் விடும் நேரத்திலும் வெறுக்கவில்லை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கஷ்டப்படும் போதும் நமக்கு உதவுவாரில்லை<br/>கடன்பட்ட போது அதை தீர்ப்பவரில்லை<br/>இஷ்டப்பட்ட தெய்வத்தையெல்லாம் கும்பிட்டும் பாத்தாச்சு<br/>நம்ம கஷ்டங்களை தீர்க்க அவை முன் வரவில்லை</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. உலகத்தில் தெய்வங்கள் உண்டென்று<br/>சொல்வதெல்லாம் சும்மாங்க<br/>இயேசு கிறிஸ்து ஒருவரே மெய்யான தெய்வமுங்க<br/>ஜனங்களின் பாவம் நீக்கி இரட்சிக்க வந்த தெய்வமுங்க</lines>
+    </verse>
+  </lyrics>
+</song>

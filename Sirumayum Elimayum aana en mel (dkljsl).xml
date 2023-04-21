@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Sirumayum Elimayum aana en mel</title>
+      <title>Sirumayum Elimayum aana en mel</title>
+    </titles>
+    <verseOrder>c1 v3 v1 v3 c1 v2 v3 c1</verseOrder>
+    <authors>
+      <author type="words">dkljsl</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சிறுமையும் எளிமையும் ஆன என்மேல்<br/>நினைவாய் இருப்பவரே…<br/>என் பெலனும் நீரே<br/>கோட்டையும் நீரே<br/>உம்மை தேடுகிறேன்….<br/>உம்மை வாஞ்சிக்கிறேன்…</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1.தகப்பனே உந்தன் தயை கொண்ட அன்பால்<br/>தழுவி என்னை தாங்குமே….2<br/>தயங்கிடும் நேரத்தில் தேவா <br/>உந்தன் தோளில் சுமந்திடுமே..2  -கர்த்தாவே…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. உலர்ந்த என் எலும்புகள் உயிரடைந்தோங்க<br/>தேவா உம் பெலன் தாருமே…2<br/>உயிருள்ள வரையில் உமக்காக <br/>வாழும் உணர்வினை உருவாக்குமே…2  கர்த்தாவே…</lines>
+    </verse>
+    <verse name="v3">
+      <lines>கர்த்தாவே நான் நிலையற்றவன்…<br/>என் கால்களை ஸ்திரப்படுத்தும்- என் பெலனும்<br/>என் பெலனும் நீரே<br/>கோட்டையும் நீரே<br/>உம்மை தேடுகிறேன்….<br/>உம்மை வாஞ்சிக்கிறேன்…</lines>
+    </verse>
+  </lyrics>
+</song>

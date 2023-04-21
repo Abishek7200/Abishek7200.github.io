@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thuthipaaduvaai nenjame</title>
+      <title>Thuthipaaduvai nenjame</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>துதிபாடுவாய் நெஞ்சமே இயேசுவை<br/>அவர் துதி சொல்லி வரவே<br/>தேவன் தந்திட்ட வாழ்வு இதுவே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>முன் அறிந்தார் முன் குறித்தார்<br/>நம்மை அழைத்தார்<br/>மகிமைப்படுத்தினார்- இன்னும்<br/>மகிமைப்படுத்துவார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>பூமியின் மண்ணை மரக்காலால்<br/>அளந்தவரும் அவரே- வானங்களை<br/>திரைப்போல விரித்தவரும் அவரே<br/>நட்சத்திரங்களைப் பெயர் சொல்லி<br/>அழைத்தவரும் அவரே<br/>உன்னையும் என்னையும்<br/>உள்ளங்கையில் வரைந்தவரும் அவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>வானம் திறந்து மன்னாவால்<br/>போஷிப்பவரும் அவரே- செங்கடல்<br/>தனை இரண்டாக பிளந்தவரும் அவரே<br/>மோசேயின் கைக்கோலால்<br/>அற்புதங்கள் செய்தவரே<br/>உலகம் முடியும் வரை துணையாய்<br/>நம்முடன் இருப்பவரே</lines>
+    </verse>
+  </lyrics>
+</song>

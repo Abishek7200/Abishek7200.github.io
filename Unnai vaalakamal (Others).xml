@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T12:45:46">
+  <properties>
+    <titles>
+      <title>Unnai vaalakamal</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>உன்னை வாலாக்காமல் இயேசு தலையாக்குவார்<br/>உன்னை கீழாக்காமல் இயேசு மேலாக்குவார்<br/>ஜெயம் ஜெயம் அல்லேலுயா (4)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>இஸ்ரவேலே நீ பயப்படாதே – 2<br/>கரம் பிடித்து உன்னை நடத்தி செல்வார் -2<br/>ஜெயம் ஜெயம் அல்லேலுயா (4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>செங்கடலும் யோர்தானும் -2<br/>உம்மை கண்டு விலகி ஓடுமே -2<br/>ஜெயம் ஜெயம் அல்லேலுயா (4)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>சிறியவனை குப்பையிலிருந்து -2<br/>உயர்த்துகிறீர் அப்பா உயர்த்துகிறீர்-2<br/>ஜெயம் ஜெயம் அல்லேலுயா (4)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ஒன்றும் இல்லாத என்னை அழைத்தீரே<br/>பயன்படுத்தும் இன்னும் பயன்படுத்தும்<br/>ஜெயம் ஜெயம் அல்லேலுயா (4)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>பாலும் தேனும் ஓடுகின்ற-2<br/>தேசத்தை போல் உன்னை மாற்றிடுவார் -2<br/>ஜெயம் ஜெயம் அல்லேலுயா (4)</lines>
+    </verse>
+  </lyrics>
+</song>

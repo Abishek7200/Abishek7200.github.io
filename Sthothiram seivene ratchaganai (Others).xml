@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Sthothiram seivene ratchaganai</title>
+      <title>Sthothiram seivene ratchaganai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஸ்தோதிரம் செய்வேனே இரட்சகனை<br/>பாத்திரமாக இம்மாத்திரம் கருணை வைத்த<br/>பாத்திரனை யூத கோத்திரனை -என்றும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அன்னை மரிசுதனை<br/>புல்மீது அமிழ்ந்துக் கழுதவனை<br/>முன்னணை மீதுற்ற சின்னக் குமாரனை<br/>முன்னுரை நூற்படி இந்நிலத்துற்றோனை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கந்தை பொதிந்தவனை<br/>வானோர்களும் வந்தடி பணிபவனை<br/>மந்தையர்கானந்த மாட்சியளித் தோனை<br/>வான பரன் என்னும் ஞான குருவானை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>செம்பொன்னுருவானைத்<br/>தேசிகர்கள் தேடும் குரவானை<br/>அம்பரமேவிய உம்பர் கணத்தோடு<br/>அன்பு பெற நின்று பைம்பொன் மலர் துவி</lines>
+    </verse>
+  </lyrics>
+</song>

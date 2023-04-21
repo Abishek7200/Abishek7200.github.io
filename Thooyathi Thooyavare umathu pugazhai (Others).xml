@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thooyathi Thooyavare umathu pugazhai</title>
+      <title>Thooyathi Thooyavare umathu pugazhai</title>
+    </titles>
+    <verseOrder>c1 c2 c1 v1 c2 c1 v2 c2 c1 v3 c2 c1 v4 c2 c1 c2 v5</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தூயாதி தூயவரே <br/>உமது புகழை, நான் பாடுவேன்</lines>
+    </verse>
+    <verse name="c2">
+      <lines>பாரில் எனக்கு வேறென்ன வேண்டும்<br/>உயிருள்ள வரை நின் புகழ் பாட வேண்டும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. சீடரின் கால்களைக் கழுவினவர்<br/>செந்நீரால் என்னுள்ளம் கழுவினீரே – பாரில்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. மக்களின் நோய்களை நீக்கினவர்<br/>பாவி என் பாவ நோய் நீக்கினீரே – பாரில்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. துயரங்கள் பாரினில் அடைந்தவரே<br/>துன்பங்கள் தாங்கிட பெலன் தந்தீரே – பாரில்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. பரலோகில் இடமுண்டு என்றவரே<br/>பரிவாக எனக்கிடம் தந்தவரே – பாரில்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ஜீவனுள்ள நாளெல்லாம் நான் என்ன செய்ய வேண்டும்<br/>கர்த்தாதி கர்த்தரின் புகழ் பாட வேண்டும்<br/>உயிருள்ள காலம்வரை என்ன செய்ய வேண்டும்<br/>கர்த்தாதி கர்த்தரின் புகழ் பாட வேண்டும்<br/>நித்திய காலம்வரை என்ன செய்ய வேண்டும்<br/>கர்த்தாதி கர்த்தரின் புகழ் பாட வேண்டும்</lines>
+    </verse>
+  </lyrics>
+</song>

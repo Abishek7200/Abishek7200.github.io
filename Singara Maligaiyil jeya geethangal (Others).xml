@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Singara Maligaiyil jeya geethangal</title>
+      <title>Singara Maligaiyil jeya geethangal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சிங்கார மாளிகையில் ஜெயகீதங்கள் பாடிடுவோம்<br/>சீயோன் மணவாளனுடன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆனந்தம் பாடி அன்பரைச் சேர்ந்து<br/>ஆறுதலடைந்திடுவோம் – அங்கே<br/>அலங்கார மகிமையின் கிரீடங்கள் சூடி<br/>அன்பரில் மகிழ்ந்திடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. துயரப்பட்டவர் துதித்துப்பாடுவார்<br/>துதியின் உடையுடனே அங்கே<br/>உயரமாம் சீயோன் உன்னதரோடு<br/>களித்து கவி பாடுவோம் – சிங்கார</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. முள் முடி நமக்காய் அணிந்த மெய் இயேசுவின்<br/>திருமுகம் கண்டிடுவோம் – அங்கே<br/>முத்திரையிட்ட சுத்தர்கள் வெள்ளங்கி<br/>தரித்தோராய் துதித்திடுவார் – சிங்கார</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. பூமியின் அரசை புதுபாட்டாய் பாடி<br/>புன்னகை பூத்திடுவோம் புது<br/>எண்ணெயால் அபிஷேகம் பண்ணப்பட்டோராய்<br/>மண்ணாசை ஒழித்திடுவோம் – சிங்கார</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. அவருரைத்த அடையாளங்களெல்லாம்<br/>தவறாமல் நடக்கிறதே – அவர்<br/>வரும்வேளை யறியாதிருப்பதால் எப்போதும்<br/>ஆயத்தமாயிருப்போம் – சிங்கார</lines>
+    </verse>
+  </lyrics>
+</song>

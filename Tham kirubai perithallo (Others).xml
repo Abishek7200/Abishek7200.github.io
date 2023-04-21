@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-22T00:48:46">
+  <properties>
+    <titles>
+      <title>Tham kirubai perithallo</title>
+      <title>Tham kirubai perithallo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தம் கிருபை பெரிதல்லோ<br/>எம் ஜீவனிலும் அதே<br/>இம்மட்டும் காத்ததுவே<br/>இன்னும் தேவை கிருபை தாருமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. தாழ்மையுள்ளவரிடம் தங்கிடுதே கிருபை<br/>வாழ்நாளெல்லாம் அது போதுமே<br/>சுகமுடன் தம் பெலமுடன்<br/>சேவை செய்ய கிருபை தாருமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. நிர்மூலமாகாததும் நிற்பதுமோ கிருபை<br/>நீசன் என் பாவம் நீங்கினதே<br/>நித்திய ஜீவன் பெற்றுக் கொண்டேன்<br/>காத்துக் கொள்ள கிருபை தாருமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. தினம் அதிகாலையில் தேடும் புது கிருபை<br/>மனம் தளர்ந்த நேரத்திலும்<br/>பெலவீன சரீரத்திலும்<br/>போதுமே உம் கிருபை தாருமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. மாபரிசுத்த ஸ்தலம் கண்டடைவேன் கிருபை<br/>மூடும் திரை கிழிந்திடவே<br/>தைரியமாய் சகாயம் பெற<br/>தேடி வந்தேன் கிருபை தாருமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. ஒன்றை ஒன்று சந்திக்கும் சத்தியமும் கிருபை<br/>என்றும் மறவேன் வாக்குத்தத்தம்<br/>நீதியுமே சமாதானமே<br/>நிலை நிற்கும் கிருபை தாருமே</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. ஸ்தோத்திர ஜெபத்தினால் பெருகுதே கிருபை<br/>ஆத்தும பாரம் கண்ணீரோடே<br/>சோர்வின்றி நானும் வேண்டிடவே<br/>ஜெபவரம் கிருபை தாருமே</lines>
+    </verse>
+  </lyrics>
+</song>

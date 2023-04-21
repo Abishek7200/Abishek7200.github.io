@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Ullam aanantha geethathile</title>
+      <title>Ullam aanantha geethathile</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உள்ளம் ஆனந்த கீதத்திலே<br/>வெள்ளமாகவே பாய்ந்திடுதே<br/>எந்தன் ஆத்தும நேசரையே<br/>என்றும் வாழ்த்தியே பாடிடுவேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பாவ பாரம் நிறைந்தவனாய்<br/>பல நாட்களாய் நான் அலைந்தேன்<br/>அந்த பாரச் சிலுவையிலே<br/>எந்தன் பாரங்கள் சுமந்தவரே – உள்ளம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. மலை போன்றதோர் சோதனையில்<br/>மகிபன் அவர் கைபிடாரே<br/>கல்வாரியின் அன்பினிலே<br/>கனிவோடுன்னை அணைத்திடுவார் – உள்ளம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. உலகம் முடியும் வரைக்கும்<br/>உந்தனோடிருப்பேன் என்றவர்<br/>வாக்கு மாறிடா நேசரையே<br/>நம்பிடுவாய் துணை அவரே – உள்ளம்</lines>
+    </verse>
+  </lyrics>
+</song>

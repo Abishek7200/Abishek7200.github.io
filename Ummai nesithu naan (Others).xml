@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Ummai nesithu naan</title>
+      <title>Ummai nesithu naan</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>உம்மை நேசித்து நான் வாழ்ந்திட உங்க கிருபை தாருமே<br/>உம்மை வாஞ்சையாய் என்றும் தொடர்ந்திட உங்க கிருபை தாருமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என்னை அழைத்தவரே உம்மை என்றென்றும் ஆராதிப்பேன்<br/>உண்மையுள்ளவரே உம்மை என்றென்றும் துதித்திடுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>வேண்டான்னு கிடந்த எந்தன் வாழ்வை வேண்டும் என்றீரே<br/>கைவிடப்பட்ட என்னையும் ஒரு பொருட்டாய் எண்ணினீரே<br/>இயேசுவே உந்தனின் அன்பையே பாடிடுவேன்<br/>இயேசுவே உந்தனின் கிருபையை உயர்த்திடுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>இருளாய் கிடந்த எந்தன் வாழ்வில் இரட்சிப்பை தந்தீரே<br/>அநேகர் வாழ்வை வெளிச்சமாய் மாற்றும் விளக்காய் வைத்தீரே<br/>இயேசுவே உந்தனின் அன்பையே பாடிடுவேன்<br/>இயேசுவே உந்தனின் கிருபையை உயர்த்திடுவேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>நிலையில்லாத எந்தன் வாழ்வில் நிலையாய் வந்தீரே<br/>நித்தியமான வீட்டை குறித்த நம்பிக்கை தந்தீரே<br/>இயேசுவே உந்தனின் அன்பையே பாடிடுவேன்<br/>இயேசுவே உந்தனின் வருகைக்காய் காத்திருப்பேன்<br/><br/> </lines>
+    </verse>
+    <verse name="v6">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

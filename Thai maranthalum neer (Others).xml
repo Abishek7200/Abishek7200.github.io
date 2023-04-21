@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-26T01:02:45">
+  <properties>
+    <titles>
+      <title>Thai maranthalum neer</title>
+      <title>Thai maranthalum neer</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author type="music">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>தாய் மறந்தாலும் நீர் மறப்பதில்லையே<br/>தந்தை வெறுத்தாலும் நீர் வெறுப்பதில்லையே-2<br/>தந்தை தாயினும் மேலானவர்<br/>தாங்கியென்றும் என்னை சுமப்பவர் - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. மேற்கிற்கும் கிழக்கிற்கும் எவ்வளவு தூரமோ<br/>அத்தனை தூரம் என் பாவம் அகற்றினீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. மலை போன்ற எந்தன் மாபெரும் பாவங்களை<br/> முதுகுக்குப் பின்னால் எறிந்து விட்டீரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. காலமெல்லாம் கண்ணீரை வரவழைத்த பாவங்களை<br/>கடலின் ஆழத்திலே போட்டு விட்டீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. விலையேறப் பெற்ற உந்தனின் இரத்தத்தால்<br/>என்னை நீதிமான் ஆக்கி விட்டீரே</lines>
+    </verse>
+    <verse name="v6">
+      <lines>5. இரத்தாம்பரம் போல் சிவப்பான பாவங்களை<br/>பஞ்சைப் போல வெண்மையாக்கினீர்</lines>
+    </verse>
+  </lyrics>
+</song>

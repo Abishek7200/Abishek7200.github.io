@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Unakkulle irukkindra un yesu</title>
+      <title>Unakkulle irukkindra un yesu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உனக்குள்ளே இருக்கின்ற – உன்<br/>இயேசு என்றும் பெரியவரே நீ<br/>அறியாததும் உனக்கு எட்டாததுமான<br/>பெரிய காரியம் செய்திடுவார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நம்பிக்கை இல்லா நிலையானதோ<br/>விசுவாசம் உன்னில் குறைவானதோ<br/>அற்புதர் உனக்குள்ளே இருக்கின்றார்<br/>அதிசயம் செய்வார் கலங்காதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>சூழ்நிலை எல்லாம் எதிரானதோ<br/>சுற்றத்தார் உன்னில் பகையானரோ<br/>வல்லவர் உனக்குள்ளே இருக்கின்றார்<br/>வலக்கரம் தாங்குவார் கலங்காதே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>மதுரமான வாழ்வு கசப்பானதோ<br/>ஒளிவரும் நேரம் இருளானதோ<br/>ஜீவனுள்ள தேவன் இருக்கின்றார்<br/>யாவையும் செய்வார் கலங்காதே</lines>
+    </verse>
+  </lyrics>
+</song>

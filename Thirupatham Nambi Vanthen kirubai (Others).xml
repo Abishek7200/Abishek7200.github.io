@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thirupatham Nambi Vanthen kirubai</title>
+      <title>Thirupatham Nambi Vanthen kirubai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. திருப்பாதம் நம்பி வந்தேன்<br/>கிருபை நிறை இயேசுவே<br/>தமதன்பைக் கண்டடைந்தேன்<br/>தேவ சமூகத்திலே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>2. இளைப்பாறுதல் தரும் தேவா<br/>களைத்தோரை தேற்றிடுமே<br/>சிலுவை நிழல் எந்தன் தஞ்சம்<br/>சுகமாய் அங்கு தாங்கிடுவேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>3. என்னை நோக்கி கூப்பிடு என்றீர்<br/>இன்னல் துன்ப நேரத்திலும்<br/>கருத்தாய் விசாரித்து என்றும்<br/>கனிவோடென்னை நோக்கிடுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>4. மனம் மாற மாந்தன் நீரல்ல<br/>மன வேண்டுதல் கேட்டிடும்<br/>எனதுள்ளம் ஊற்றி ஜெபித்தே<br/>இயேசுவே உம்மை அண்டிடுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>5. என்னைக் கைவிடாதிரும் நாதா<br/>என்ன நிந்தை நேரிடினும்<br/>உமக்காக யாவும் சகிப்பேன்<br/>உமது பெலன் ஈந்திடுமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>6. உம்மை ஊக்கமாய் நோக்கிப் பார்த்தே<br/>உண்மையாய் வெட்கம் அடையேன்<br/>தமது முகப் பிரகாசம்<br/>தினமும் என்னில் வீசிடுதே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>7. சத்துரு தலை கவிழ்ந்தோட<br/>நித்தமும் கிரியை செய்திடும்<br/>என்னைத் தேற்றிடும் அடையாளம்<br/>இயேசுவே இன்று காட்டிடுமே</lines>
+    </verse>
+  </lyrics>
+</song>

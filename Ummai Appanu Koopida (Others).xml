@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-02-19T02:13:24">
+  <properties>
+    <titles>
+      <title>Ummai Appanu Koopida</title>
+      <title>Ummai Appanu Koopida</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>உம்மை அப்பானு கூப்பிடத்தான் ஆசை<br/>அப்பானு கூப்பிடவா<br/>உம்மை அம்மானு கூப்பிடவும் ஆசை<br/>அம்மானும் கூப்பிடவா (2)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>உம்மை அப்பானு கூப்பிடவா<br/>உம்மை அம்மானும் கூப்பிடவா</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. கருவில் என்னை காத்தத பார்த்தா<br/>அம்மானு சொல்லனும்<br/>உம் தோளில் என்னை சுமப்பதை பார்த்தா<br/>அப்பானு சொல்லனும்</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>என்னை கெஞ்சுவதும் கொஞ்சுவதும் பார்த்தா<br/>அம்மானு சொல்லனும்<br/>என்னை ஆற்றுவதும் தேற்றுவதும் பார்த்தா<br/>அப்பானு சொல்லனும் – உம்மை அப்பானு கூப்பிடவா…</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>2. என் கண்ணீரை துடைப்பதை பார்த்தா<br/>அம்மானு சொல்லனும்<br/>என் விண்ணப்பத்தை கேட்பதை பார்த்தா<br/>அப்பானு சொல்லனும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>என்னை ஏந்துவதும் தாங்குவதும் பார்த்தா<br/>அம்மானு சொல்லனும்<br/>உம் இரக்கத்தை உருக்கத்தை பார்த்தா<br/>அப்பானு சொல்லனும் – உம்மை அப்பானு கூப்பிடவா</lines>
+    </verse>
+  </lyrics>
+</song>

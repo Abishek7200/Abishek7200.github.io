@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Thadumaarum Kaalgalai kanden</title>
+      <title>Thadumaarum Kaalgalai kanden</title>
+    </titles>
+    <authors>
+      <author type="words">Ps. Alwin Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தடுமாறும் கால்களைக் கண்டேன்<br/>கண்கள் குளமாகிப்போனதையா<br/>பாரமான சிலுவை என்று இறக்கி வைக்கவில்லை<br/>கூர்மையான ஆணி என்று புறக்கணிக்கவில்லை</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எனை யோசித்திரே எனை நேசித்தீரே<br/>எனக்காக ஜீவன் தந்தீரே …<br/>தடுமாறும் கால்களைக் கண்டேன்<br/>கண்கள் குளமாகிப்போனதையா!!!!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. குருதி சிந்தி பாடு பட்டும் மறுதலிக்கவில்லை ..<br/>மரணம் சேர்ந்த நேரத்திலும் விட்டுகொடுக்கவிலை ..<br/>எனை யோசித்திரே எனை நேசித்தீரே<br/>எனக்காக ஜீவன் தந்தீரே -2 (தடுமாறும்)</lines>
+    </verse>
+  </lyrics>
+</song>

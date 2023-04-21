@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-22T00:53:47">
+  <properties>
+    <titles>
+      <title>Ummodu irukanume</title>
+      <title>Ummodu irukanume</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>உம்மோடு இருக்கணுமே ஐயா<br/>உம்மைப் போல் மாறணுமே<br/>உலகின் ஒளியாய் மலைமேல் அமர்ந்து<br/>வெளிச்சம் கொடுக்கணுமே</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>1. ஓடும் நதியின் ஓரம் வளரும்<br/>மரமாய் மாறணுமே<br/>எல்லா நாளும் இலைகளோடு<br/>கனிகள் கொடுக்கணுமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. உலகப் பெருமை இன்பமெல்லாம்<br/>குப்பையாய் மாறணுமே<br/>உம்மையே என் கண்முன் வைத்து<br/>ஓடி ஜெயிக்கணுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. ஆத்ம பார உருக்கத்தோடு<br/>அழுது புலம்பணுமே<br/>இரவும் பகலும் விழித்து ஜெபிக்கும்<br/>மேய்ப்பன் ஆகணுமே – நான்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. பேய்கள் ஓட்டும் வல்லமையோடு<br/>பிரசங்கள் பண்ணணுமே<br/>கடினமான பாறை இதயம்<br/>உடைத்து நொறுக்கணுமே – நான்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. வார்த்தை என்னும் வாளையேந்தி<br/>யுத்தம் செய்யணுமே<br/>விசுவாசம் என்னும் கேடயத்தால்<br/>பிசாசை வெல்லணுமே – நான்</lines>
+    </verse>
+  </lyrics>
+</song>

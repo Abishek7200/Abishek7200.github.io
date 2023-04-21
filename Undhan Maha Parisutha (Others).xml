@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Undhan Maha Parisutha</title>
+      <title>Undhan Maha Parisutha</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உந்தன் மஹா பரிசுத்த ஸ்தலத்துக்குள்ளே<br/>என்னையும் அழைத்து செல்லும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உம் பரிசுத்த ரத்தத்தினாலே<br/>என்னை கழுவிடும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உம் பரிசுத்த ரத்தத்தினாலே<br/>தூய்மை ஆக்கிடும்<br/>உள்ளே அழைத்துச் செல்லும்<br/>உம் பிரசன்னத்தால் நிறப்பிடும்<br/>உம் மகிமை காண்பித்திடும்<br/>உம்மை போல் மாற்றிடும்</lines>
+    </verse>
+  </lyrics>
+</song>

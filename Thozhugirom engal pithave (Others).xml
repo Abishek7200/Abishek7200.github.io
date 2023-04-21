@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thozhugirom engal pithave</title>
+      <title>Thozhugirom engal pithave</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தொழுகிறோம் எங்கள் பிதாவே<br/>பொழுதெல்லாம் ஆவி உண்மையுடனே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பரிசுத்த அலங்காரத்துடனே<br/>தரிசிப்பதினால் சரணம் சரணம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>வெண்மையும் சிவப்புமானவர்<br/>உண்மையே உருவாய்க் கொண்டவர் (2)<br/>என்னையே மீட்டுக் கொண்டவர்<br/>அன்னையே இதோ சரணம் சரணம் – தொழுகிறோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கண்கள் புறாக்கண்கள் போல<br/>கன்னங்கள் பாத்திகள் போல (2)<br/>சின்னங்கள் சிறந்ததாலே<br/>எண்ணில்லாத சரணம் சரணம் – தொழுகிறோம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>அடியார்களின் அஸ்திபாரம்<br/>அறிவுக்கெட்டாத விஸ்தாரம் (2)<br/>கூடிவந்த எம் அலங்காரம்<br/>கோடா கோடியாம் சரணம் சரணம் – தொழுகிறோம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>பாவிநேசன் பாவநாசன்<br/>பரமபாதன் வரமே வாசன் (2)<br/>துங்காசிங்கன் மங்காதங்கன்<br/>துய்ய அங்கனே சரணம் சரணம் – தொழுகிறோம்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>பார்த்திபனே கன தோத்திரம்<br/>கீர்த்தனம் மங்களம் நித்தியம் (2)<br/>வாழ்க வாழ்க வாழ்க என்றும்<br/>அல்லேலூயா ஆமென் ஆமென் – தொழுகிறோம்</lines>
+    </verse>
+  </lyrics>
+</song>

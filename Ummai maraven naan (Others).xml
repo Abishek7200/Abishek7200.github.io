@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T02:39:00">
+  <properties>
+    <titles>
+      <title>Ummai maraven naan</title>
+      <title>Ummai maraven naan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம்மை மறவேன் நான் - 2<br/>என் இயேசய்யா உம்மை மறவேன் நான்<br/>என் தாழ்வினில் என்னை நினைத்தீரே - 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. ஆபத்து காலத்தில்<br/>அரணான கோட்டையும்<br/>கன்மலையும் மீட்பரும் நீர்தானையா<br/>கன்மலையும் மீட்பரும் நீர்தானையா - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. என் வாழ்வில் நீர் செய்த<br/>எண்ணில்லா நன்மைகள்<br/>ஆயிரம் பதினாயிரம் அதற்கும் மேலய்யா<br/>ஆயிரம் பதினாயிரம் அதற்கும் மேலய்யா - 2</lines>
+    </verse>
+  </lyrics>
+</song>

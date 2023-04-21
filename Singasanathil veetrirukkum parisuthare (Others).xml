@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Singasanathil veetrirukkum parisuthare</title>
+      <title>Singasanathil veetrirukkum parisuthare</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சிங்காசனத்தில் வீற்றிருக்கும்<br/>பரிசுத்தரே பரிசுத்தரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆராதனை உமக்கு ஆராதனை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கேருபீன்கள் சேராபீன்கள்<br/>போற்றிடும் எங்கள் பரிசுத்தரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஏழு குத்து விளக்கின் மத்தியிலே<br/>உலாவிடும் எங்கள் பரிசுத்தரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>ஆதியும் அந்தமும் ஆனவரே<br/>அல்பாவும் ஒமேகாவும் ஆனவரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>அக்கினி ஜுவாலை போன்ற கண்களையும்<br/>வெண்கல பாதங்களை உடையவரே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>பரிசுத்தமும் சத்தியமும் - தவிதின்<br/>திறவுகோலை உடையவரே</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-02-19T02:30:43">
+  <properties>
+    <titles>
+      <title>Thuthi Paaduvaai Nenjame</title>
+      <title>Avar Thuthi Solli Varave</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>துதி பாடுவாய் நெஞ்சமே இயேசுவை<br/>அவர் துதி சொல்லி வரவே தேவன் தந்திட்ட வாழ்வு இதுவே<br/>முன் அறிந்தார் முன் குறித்தார் நம்மை அழைத்தார்<br/>மகிமை படுத்தினார், இன்னும் மகிமை படுத்துவார்</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>பூமியின் மண்ணை மரக்காலால் அளந்தவரும் அவரே<br/>வானங்களை திரைப்போலாய் விரித்தவரும் அவரே<br/>நட்சத்திரங்களை பெயர் சொல்லி அழைத்தவரும் அவரே<br/>உன்னையும் என்னையும் உள்ளங்கையில் வரைந்தவரும் அவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>வானம் திறந்து மன்னாவால் போஷித்தவரும் அவரே<br/>செங்கடல்தனை இரண்டாக பிளந்தவரும் அவரே<br/>மோசேயின், கைகோலால் அற்புதங்கள் செய்தவரே<br/>உலகம் முடியும் வரை துணையாய், நம்முடன் இருப்பவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>இழந்து போன என்னை தேடி இரட்சிக்க வந்தவரே<br/>பாவ குழியில் என்னை மீட்டு புது வாழ்வு தந்தவரே<br/>ஜீவனுள்ள நாளெல்லாம் கிருபையால் காப்பவரே<br/>உலகம் முடிவில் என்னை அழைத்து பரலோகில் சேர்ப்பவரே</lines>
+    </verse>
+  </lyrics>
+</song>

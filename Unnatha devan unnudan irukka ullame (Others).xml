@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Unnatha devan unnudan irukka ullame</title>
+      <title>Unnatha devan unnudan irukka ullame</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உன்னத தேவன் உன்னுடன் இருக்க<br/>உள்ளமே கலங்காதே<br/>அவர் நல்லவரே என்றும் வல்லவரே<br/>நன்மைகள் குறையாதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பாவத்தில் இருந்த உன்னை<br/>பரிசுத்தமாக்கினாரே<br/>தாழ்மையில் கிடந்த உன்னை<br/>தம் தயவால் தூக்கினாரே – உன்னத</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>அந்நாளில் தம் பாதம்<br/>அமர்ந்த அந்நாளின் ஜெபம் கேட்டார்<br/>அனாதையாய் திரிந்த<br/>அந்த ஆகாரின் ஜெபம் கேட்டார் – உன்னத</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>இயேசு உன் முன் நடந்தால்<br/>நீ யோர்தானைக் கடந்திடலாம்<br/>விசுவாசம் உனக்கிருந்தால்<br/>அந்த எரிகோவைத் தகர்த்திடலாம் – உன்னத</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-26T02:05:31">
+  <properties>
+    <titles>
+      <title>Ummai Thaan Nambiyirukkirom</title>
+      <title>Ummai Thaan Nambiyirukkirom</title>
+    </titles>
+    <verseOrder>v1 c1 v1 v2 c1 v1 v3 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>உம்மைத்தான் நம்பியிருக்கிறோம்<br/>உம்மையன்றி<br/>யாரும் இல்லையப்பா - 2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>அற்புதம் செய்யுங்கப்பா<br/>எங்க வாழ்க்கையிலே<br/>உம்மை தான் நம்பியிருக்கோம்<br/>இயேசப்பா - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. நீங்கதான் எதாவது செய்யணும்<br/>என்று எதிர்ப்பார்த்து<br/>காத்திருக்கிறோம் - 2<br/>நீர் சொன்ன வார்த்தையை<br/>பிடித்துக்கொண்டு - 2<br/>உங்க முகத்தையே<br/>நோக்கி இருக்கிறோம் - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. நிந்தையும் அவமானமும்<br/>சகித்துக் கொண்டு<br/>உம் செட்டை நிழலிலே<br/>வந்து நிற்கிறோம் - 2<br/>நிச்சயமாய் செய்வீர்<br/>என்ற நம்பிக்கையில் - 2<br/>உங்க கரத்தை நோக்கி<br/>இருக்கிறோம் - 2</lines>
+    </verse>
+  </lyrics>
+</song>

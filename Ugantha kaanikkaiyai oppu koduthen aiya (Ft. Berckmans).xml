@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Ugantha kaanikkaiyai oppu koduthen aiya</title>
+      <title>Ugantha kaanikkaiyai oppu koduthen aiya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உகந்த காணிக்கையாய்<br/>ஒப்புக் கொடுத்தேனைய்யா<br/>சுகந்த வாசனையாய்<br/>முகர்ந்து மகிழுமைய்யா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>தகப்பனே உம் பீடத்தில்<br/>தகனப்பலியானேன்<br/>அக்கினி இறக்கிவிடும்<br/>முற்றிலும் எரித்துவிடும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>வேண்டாத பலவீனங்கள்<br/>ஆண்டவா முன் வைக்கின்றேன்<br/>மீண்டும் தலை தூக்காமல்<br/>மாண்டு மடியட்டுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கண்களை தூய்மையாக்கும்<br/>கர்த்தா உமைப் பார்க்கணும்<br/>காதுகள் திறந்தருளும்<br/>கர்த்தர் உம் குரல் கேட்கணும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>அப்பா உம் சமுகத்தில்<br/>ஆர்வமாய் வந்தேனைய்யா<br/>தப்பாமல் வனைந்து கொள்ளும்<br/>உப்பாக பயன்படுத்தும்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-14T02:55:32">
+  <properties>
+    <titles>
+      <title>Thagappane Thanthaiye</title>
+      <title>Thagappane Thanthaiye</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தகப்பனே தந்தையே<br/>தலைநிமிரச் செய்பவர் நீரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>கேடகம் நீரே மகிமையும் நீரே<br/>தலை நிமிரச் செய்பவர் நீரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>எதிரிகள் எவ்வளவாய் பெருகிவிட்டனர்<br/>எதிர்த்தெழுவோர் எத்தனை<br/>மிகுந்து விட்டனர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ஆனாலும் சோர்ந்து போவதில்லை<br/>தளர்ந்து விடுவதில்லை<br/>தகப்பன் நீர் தாங்குகிறீர்<br/>என்னைத் தள்ளாட விடமாட்டீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>படுத்துறங்கி மகிழ்வுடனே<br/>விழித்தெழுவேன்<br/>ஏனெனில் கர்த்தர்<br/>என்னை ஆதரிக்கின்றீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>அச்சமில்லையே கலக்கமில்லையே<br/>வெற்றி தரும் கர்த்தர் என்னோடு<br/>தோல்வி என்றும் எனக்கில்லையே</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ஒன்றுக்கும் நான் கலங்காமல்<br/>ஸ்தோத்தரிப்பேன்<br/>அறிவுக்கெட்டா பேர் அமைதி<br/>பாதுகாக்குதே</lines>
+    </verse>
+    <verse name="v7">
+      <lines>நீர் விரும்பத்தக்கவை,தூய்மையானவை<br/>அவைகளையே தியானம் செய்கின்றேன்<br/>தினம் அறிக்கை செய்து ஜெயம் எடுப்பேன்</lines>
+    </verse>
+  </lyrics>
+</song>

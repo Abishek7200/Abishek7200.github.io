@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Ummal aagadha kaariyam</title>
+      <title>Ummal aagadha kaariyam</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 c1 v4 v5 c1 v6 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம்மால் ஆகாத காரியம் ஒன்றுமில்லை (3)<br/>எல்லாமே உமால் ஆகும் அல்லேலுயா <br/>எல்லாமே உம்மால் ஆகும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆகும் எல்லாம் ஆகும், உம்மாலேதான் எல்லாம் ஆகும் (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. சொல்லி முடியாத அற்புதம் செய்பவர் நீரே (ஐயா நீரே)<br/>எண்ணி முடியாத அதிசயம் செய்பவர் நீரே (ஐயா நீரே) (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>அப்பா உமக்கு ஸ்தோத்திரம், அன்பே உமக்கு ஸ்தோத்திரம் (2) --- உம்மால்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2. எனக்கு குறித்ததை நிறைவேற்றி முடிப்பவர் நீரே (ஐயா நீரே)<br/>எனக்காக யாவையும் செய்து முடிப்பவர் நீரே (ஐயா நீரே) (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>அப்பா உமக்கு ஸ்தோத்திரம், அன்பே உமக்கு ஸ்தோத்திரம் (2) --- உம்மால்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>3. வறண்ட நிலத்தை நீருற்றாய் மாற்றுபவர் நீரே (ஐயா நீரே)<br/>அவாந்தர வெளியை தண்ணீராய் மாற்றுபவர் நீரே (ஐயா நீரே) (2)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>அப்பா உமக்கு ஸ்தோத்திரம், அன்பே உமக்கு ஸ்தோத்திரம் (2) --- உம்மால்</lines>
+    </verse>
+  </lyrics>
+</song>

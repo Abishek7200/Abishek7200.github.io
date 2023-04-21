@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Unga mugatha paarkanumae</title>
+      <title>Unga mugatha paarkanumae</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உங்க முகத்தைப் பார்க்கணுமே இயேசையா - 4<br/>அல்லேலூயா அல்லேலூயா - 4</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எந்தன் பாடுகள் வேதனை மறைந்துவிடும்<br/>எந்தன் துயரங்கள் கலக்கங்கள் மாறிவிடும் - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. யோர்தானின் வெள்ளங்கள் விலகிவிடும்<br/>எரிகோவின் மதில்கள் இடிந்து விழும் - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. எங்கள் தேசத்தின் கட்டுக்கள் முறிந்து விடும்<br/>எங்கள் சபைகளில் எழுப்புதல் பரவி விடும் - 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. பெலவீனத்தில் உம் பெலன் விளங்கிவிடும்<br/>உம் கிருபை என்றும் எனக்குப் போதும் - 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. கல்வாரியில் நீர் எந்தன் பாவம் தீர்த்தீர்<br/>என் நோய்களை சிலுவையில் சுமந்துவிட்டீர் - 2</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. எந்தன் பாவத்தின் தோஷத்தை சுமந்தவரே<br/>எங்கள் தேசத்தின் சாபத்தை மாற்றிடுமே - 2</lines>
+    </verse>
+  </lyrics>
+</song>

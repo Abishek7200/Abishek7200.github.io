@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-22T01:33:09">
+  <properties>
+    <titles>
+      <title>Umathu Mugam Nokki</title>
+      <title>Umathu Mugam Nokki</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உமது முகம் நோக்கிப் பார்த்தவர்கள்<br/>வெட்கப்பட்டு போவதில்லை<br/>உமது திரு நாமம் அறிந்தவர்கள்<br/>கைவிடப்படுவதில்லை</lines>
+    </verse>
+    <verse name="v1">
+      <lines>நம்பினோரை நீர் மறப்பதில்லை<br/>உம்மை தேடி வந்தோரை வெறுப்பதில்லை</lines>
+    </verse>
+    <verse name="v2">
+      <lines>உடைந்த பாத்திரம் என்று<br/>நீர் எவரையும் தள்ளுவதில்லை<br/>ஒன்றுக்கும் உதவாதோர் என்று<br/>நீர் எவரையும் சொல்லுவதில்லை</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>இயேசு மகா ராஜா எங்கள் நேசா<br/>இரக்கத்தின் சிகரம் நீரே</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>ஏழைகளின் பெலன் நீரே<br/>எளியோரின் நம்பிக்கை நீரே<br/>திக்கற்றோர் வேதனை அறிந்து<br/>உதவுடும் தகப்பன் நீரே</lines>
+    </verse>
+  </lyrics>
+</song>

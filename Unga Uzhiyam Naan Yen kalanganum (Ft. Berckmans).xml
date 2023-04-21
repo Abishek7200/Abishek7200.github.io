@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Unga Uzhiyam Naan Yen kalanganum</title>
+      <title>Unga Uzhiyam Naan Yen kalanganum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உங்க ஊழியம் நான் ஏன் கலங்கணும்<br/>அழைச்சது நீங்க நடத்திச் செல்வீங்க</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. திட்டங்கள் தருபவரும் நீர்தானையா<br/>செயல்படுத்தி மகிழ்பவரும் நீர்தானையா<br/>எஜமானனே என்ராஜனே<br/>எஜமானன் நீர் இருக்க<br/>ேலைக்காரனுக்கு ஏன் கவலை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. எலியாவை காகம் கொண்டு போஷித்தீரே<br/>சூரைச்செடி சோர்வு நீங்க பேசினீரே<br/>தெய்வமே பேசும் தெய்வமே<br/>எலியாவின் தேவன் இருக்க<br/>எதுவும் என்னை அசைப்பதில்லை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. பவுலையும் சீலாவையும் பாடவைத்தீரே<br/>சிறையிலே நள்ளிரவில் ஜெபிக்க வைத்தீரே<br/>கதவு திறந்தன கட்டுகள் உடைந்தன<br/>காக்கும் தெய்வம் நீர் இருக்க<br/>கவலை எனக்கு எதற்கு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. ஆயன் நான் ஆடுகளை அறிந்திருக்கிறேன்<br/>ஒருவராலும் பறித்துக் கொள்ள முடியாதென்றீர்<br/>நல் ஆயனே என் மேய்ப்பரே<br/>என் ஆயன் நீர் இருக்க<br/>ஆட்டுக்குட்டிக்கு ஏன் கவலை</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. தகப்பன் தன் பிள்ளைகளை சுமப்பதுபோல<br/>இறுதிவரை உங்களை நான் சுமப்பேன் என்றீர்<br/>தகப்பனே தாங்கும் தெய்வமே<br/>தகப்பன் நீர் இருக்கையிலே<br/>ிள்ளை எனக்கு ஏன் கவலை</lines>
+    </verse>
+  </lyrics>
+</song>

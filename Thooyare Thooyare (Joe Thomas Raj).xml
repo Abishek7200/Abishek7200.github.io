@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Thooyare Thooyare</title>
+      <title>Thooyare Thooyare</title>
+    </titles>
+    <authors>
+      <author type="words">Joe Thomas Raj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>தூயரே தூயரே<br/>சர்வ வல்லவர் நீரே<br/>துதி உமக்கே துதி உமக்கே<br/>தூயரே தூயரே<br/>சர்வ வல்லவர் நீரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>துதி உமக்கே துதி உமக்கே<br/>தூயரே தூயரே சர்வ வல்லவர் நீரே<br/>துதி உமக்கே துதி உமக்கே<br/>ஆமென்</lines>
+    </verse>
+  </lyrics>
+</song>

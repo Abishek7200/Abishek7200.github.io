@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Thaavithai pola nadanamadi appavai</title>
+      <title>Thaavithai pola nadanamadi appavai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தாவீதைப் போல நடனமாடி<br/>அப்பாவை ஸ்தோத்தரிப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இயேசப்பா ஸ்தோத்திரம் – 4</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. என்ன வந்தாலும் எது நடந்தாலும்<br/>அப்பாவை ஸ்தோத்தரிப்பேன் – இயேசப்பா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. கைத்தாளத்தோடும் மத்தாளத்தோடும்<br/>அப்பாவை ஸ்தோத்தரிப்பேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. பரிசுத்த இரத்தத்தால் பாவங்கள் கழுவிய<br/>அப்பாவை ஸ்தோத்தரிப்பேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. ஆவியினாலே அபிஷேகம் செய்த<br/>அப்பாவை ஸ்தோத்தாப்பேன்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. கிறிஸ்துவுக்குள்ளாய் முன் குறித்தாரே<br/>அப்பாவை ஸ்தோத்தரிப்பேன்</lines>
+    </verse>
+  </lyrics>
+</song>

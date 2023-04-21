@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Ummai Pola Nalla Devan</title>
+      <title>Ummai Pola Nalla Devan</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>உம்மை போல நல்ல தேவன் யாரும் இல்லையே<br/>உம்மை போல வல்ல தேவன் யாரும் இல்லையே (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உம்மை போல என்னை காத்திட<br/>உம்மை போல என்னை தாங்கிட<br/>உம்மை போல என்னை நடத்திட</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>யாரும் இல்லையே<br/>ஏசையா யாரும் இல்லையே (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>உம்மை நான் போற்றுகிறேன் …<br/>உம்மை நான் வாழ்த்துகிறேன் …<br/>உம்மை நான் வணங்குகிறேன் …<br/>என் தெய்வமே என் இயேசுவே (2)<br/>என் தெய்வமே என் இயேசுவே (3)</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>உம்மை போல என்னை நிரப்பிட<br/>உம்மை போல என்னை தேற்றிட<br/>உம்மை போல என்னை அனைத்திட</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>யாரும் இல்லையே<br/>ஏசையா யாரும் இல்லையே (2)</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>உம்மை நான் போற்றுகிறேன் …<br/>உம்மை நான் வாழ்த்துகிறேன் …<br/>உம்மை நான் வணங்குகிறேன் …<br/>என் தெய்வமே என் இயேசுவே (2)<br/>என் தெய்வமே என் இயேசுவே (3)</lines>
+    </verse>
+  </lyrics>
+</song>

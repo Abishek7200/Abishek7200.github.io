@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Thanthen ennai yesuve</title>
+      <title>Thanthen ennai yesuve</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>தந்தேன் என்னை ஏசுவே<br/>இந்த நேரமே உமக்கே<br/>உந்தனுக்கே ஊழியம் செய்ய<br/>தந்தேன் என்னை தாங்கியருளும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. ஜீவ காலம் முழுதும்<br/>தேவ பணி செய்திடுவேன்<br/>ஊரில் கடும் போர் புரிகையில்<br/>காவும் உந்தன் கரந்தனில் வைத்து – தந்தேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. உந்தன் சித்தம் நான் செய்வேன்<br/>எந்தன் சித்தம் ஒழித்திடுவேன்<br/>எந்த இடம் எனக்கு கட்டினும்<br/>ஏசுவே அங்கே இதோ போகிறேன் – தந்தேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. ஒன்றுமில்லை நான் ஐயா<br/>உம்மால் அன்றி ஒன்றும் செய்யேன்<br/>அன்று சீடருக்கு அளித்த ஆவியால்<br/>இன்றே அடியேனை நிரப்பும் – தந்தேன்<br/><br/> </lines>
+    </verse>
+  </lyrics>
+</song>

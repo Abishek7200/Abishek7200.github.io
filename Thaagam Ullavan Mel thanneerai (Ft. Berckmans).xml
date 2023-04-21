@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-26T03:10:49">
+  <properties>
+    <titles>
+      <title>Thaagam Ullavan Mel thanneerai</title>
+      <title>Thaagam Ullavan Mel thanneerai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1 v7 v1 c1 v8 v1 c1 v9 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தாகமுள்ளவன் மேல் தண்ணீரை<br/>ஊற்றுவேன் என்றீர்<br/>வறண்ட நிலத்தில் ஆறுகளை<br/>ஊற்றுவேன் என்றீர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>ஊற்றுமையா உம் வல்லமையை<br/>தாகத்ததோடு காத்திருக்கிறேன் – நான்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. மாம்சமான யாவர்மேலும் ஊற்ற வேண்டுமே<br/>மக்களெல்லாம் இறைவாக்கு உரைக்க வேண்டுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. முதியோர் மேலும் இளைஞர் மேலும் ஊற்ற வேண்டுமே<br/>கனவுகள் காட்சிகள் காணவேண்டுமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. நீரோடை அருகிலுள்ள மரங்களைப்போல<br/>நித்தமும் தவறாமல் கனிதர வேண்டும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4. புதிய கூர்மையான கருவியாகணும்<br/>பூமியெங்கும் சுவைதரும் உப்பாகணும்</lines>
+    </verse>
+    <verse name="v6">
+      <lines>5. கல்லான இதயத்தை எடுத்திட வேண்டும்<br/>சதையான இதயத்தைப் பொருத்திட வேண்டும்</lines>
+    </verse>
+    <verse name="v7">
+      <lines>6. வனாந்திரம் செழிப்பான தோட்டமாகனும்<br/>வயல்வெளி அடர்ந்த காடாகனும்</lines>
+    </verse>
+    <verse name="v8">
+      <lines>7. நீதியும் நேர்மையும் தழைக்க வேண்டுமே<br/>நல்வாழ்வும் நம்பிக்கையும் வளரவேண்டுமே</lines>
+    </verse>
+    <verse name="v9">
+      <lines>8. தூய நீரை எங்கள் மேல் தெளித்திட வேண்டும்<br/>எல்லாவித அசுத்தங்கள் நீங்கிட வேண்டும்</lines>
+    </verse>
+  </lyrics>
+</song>

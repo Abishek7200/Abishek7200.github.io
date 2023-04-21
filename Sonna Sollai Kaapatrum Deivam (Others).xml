@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Sonna Sollai Kaapatrum Deivam</title>
+      <title>Sonna Sollai Kaapatrum Deivam</title>
+    </titles>
+    <verseOrder>c1 c2 c1 v2 c1 v3 c1 v4 c1 v5 c1 c2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சொன்ன சொல்லை காப்பாற்றும் தெய்வம்<br/>உம்மை அன்றி யாரும் இல்ல<br/>முடிந்ததில் துவக்கத்தை பார்க்கும்<br/>உங்களுக்கு ஈடே இல்லை -2</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>நீர் சொல்லி அமராத புயல் ஒன்றை பார்த்தது இல்ல<br/>நீர் சொல்லி கேளாத சூழ்நிலை எதுவும் இல்ல</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>ஆராதனை ஆராதனை<br/>சொன்ன சொல்லை காப்பாற்றும் இயேசுவுக்கே<br/>ஆராதனை ஆராதனை<br/>வார்த்தையை நிறைவேற்றும் இயேசுவுக்கே -2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>நீர் பாய்ச்சி காப்பாற்றுவேன்<br/>கை விட மாட்டேன் என்றீர் – 2<br/>நான் வரண்டிடும் அறிகுறி தோன்றுமுன்<br/>வாய்க்காலாய் வருபவரே -2 ஆராதனை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>சொன்னதை செய்யும் அளவும்<br/>கை விட மாட்டேன் என்றீர் -2<br/>இந்த எத்தனை இஸ்ரவேலக்கி<br/>தேசத்தின் தலை ஆக்கினீர் – 2 ஆராதனை</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>பூர்வத்தில் அடைப்பட்டதை<br/>எனக்காக திறந்து வைத்தீர் -2<br/>ஒரு மனிதனும் அடைக்கமுடியாத<br/>ரெஹபோத்தை எனக்கு தந்தீர்<br/>ஒரு மனிதனும் தடுக்கமுடியாத<br/>ரெஹபோத்தை எனக்கு தந்தீர் – ஆராதனை</lines>
+    </verse>
+  </lyrics>
+</song>

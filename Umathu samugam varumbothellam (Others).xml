@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Umathu samugam varumbothellam</title>
+      <title>Umathu samugam varumbothellam</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம் சமூகம் வரும்போதெல்லாம்<br/>எங்க கண்ணீரெல்லாம் மாறுகின்றது (2)<br/>உமது சமூகத்தில் நித்திய மகிழ்ச்சி<br/>உமது சமூகத்தில் பேரானந்தம் ஒரு நாளும் மாறாதையா<br/>ஒரு நாளும் ஒரு போதும் மாறாது, மாறாது<br/>உம் சமூகமே, உம் சமூகமே!</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/> 1.  மேற்கிலும் கிழக்கிலும்,<br/>வடக்கிலும் தெற்கிலும்<br/>அலைந்து நான் திரிந்தாலும் விடுதலை  இல்லையே!<br/>நித்திய ஜீவனுள்ள வார்த்தைகள் உம்மிடமுண்டு (2)<br/>உமது வார்த்தையால் திருப்தி ஆகிறேன் (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2.பன்னிரெண்டு வருடமாய் பெரும் பாடுள்ள<br/>ஒரு பெண் அநேக வைத்தியரால் கைவிடப்பட்டவளாய்<br/>இயேசுவின் சமூகத்திற்கு ஓடோடி வந்தாளே<br/>இயேசுவின் வஸ்திரத்தைத் தொட்டதால் சுகமானாள்!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3.இஸ்ரவேலின் சேனைகள் முன்னே கடந்திட்ட<br/>தேவ சமூகம் ஒருவரும் பெலவீனராய் இருந்ததும் இல்லையே!<br/>இரவினில் அக்கினி ஸ்தம்பம் பகலில் மேகஸ்தம்பம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>பாதுகாத்து நடத்தினீரே சேனைகளின் தெய்வமே!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Thanimayin paathaiyil thagapane um</title>
+      <title>Thanimayin paathaiyil thagapane um</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தனிமையின் பாதையில்<br/>தகப்பனே உம் தோளில்<br/>சுமந்ததை நான் மறப்பேனோ - 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆ.. எத்தனை அன்பு என் மேல்<br/>எத்தனை பாசம் என் மேல்<br/>இதற்கு ஈடு என்ன தருவேன் நான் - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. சோர்ந்து போகும் நேரங்களெல்லாம்<br/>மார்போடு அணைத்துக் கொண்டீரே<br/>கண்ணீரை கணக்கில் வைத்தீரே<br/>ஆறுதல் எனக்கு தந்தீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. உடைக்கப்பட்ட நேரங்களெல்லாம்<br/>அடைக்கலம் எனக்கு தந்தீரே<br/>தடுமாறும் வேலையிலெல்லாம்<br/>தகப்பன் போல சுமந்து சென்றீரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. பலர் சபித்து என்னை தூற்றும்போதெல்லாம்<br/>என்னை ஆசீர்வதித்து உயர்த்தி மகிழ்ந்தீரே<br/>உம் உள்ளத்துக்குள் என்னை வரைந்தீரே<br/>இதற்கு ஈடு என்ன தருவேன் நான் </lines>
+    </verse>
+  </lyrics>
+</song>

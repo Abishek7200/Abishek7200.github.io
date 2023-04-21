@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:34">
+  <properties>
+    <titles>
+      <title>Sornthu pogathe maname sornthu pogathe</title>
+      <title>Sornthu pogathe maname sornthu pogathe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v1 v3 c1 v1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">D.G.S. Dinakaran</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சோர்ந்து போகாதே மனமே<br/>சோர்ந்து போகாதே </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>கண்டுன்னை அழைத்த தேவன் கைவிடுவாரோ</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>வாக்களித்த தேவனை நீ<br/>பாடிக் கொண்டாடு<br/>ஊக்கமான ஆவி உன்னை<br/>தாங்க மன்றாடு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>துன்பங்கள் தொல்லைகள் உன்னை<br/>சூழ்ந்து கொண்டாலும்<br/>அன்பர் உன்னை தேற்றும் நேரம்<br/>ஆனந்தமல்லோ</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>சோதனைகளை சகிப்போன்<br/>பாக்கியவானல்லோ<br/>ஜீவ கிரீடம் சூடும் நேரம் என்ன பேரின்பம்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:36">
+  <properties>
+    <titles>
+      <title>Unga kirubai than ennai</title>
+      <title>Unga kirubai than ennai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உங்க கிருபைதான் என்னை தாங்குகின்றது<br/>உங்க கிருபைதான் என்னை நடத்துகின்றது <br/>கிருபையே கிருபையே மாறாத நல்ல கிருபையே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/><br/>1. உடைக்கப்பட்ட நேரத்திலெல்லாம் <br/>என்னை உருவாக்கின கிருபை இது <br/>கிருபையே கிருபையே மாறாத நல்ல கிருபையே </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. சோர்ந்துபோன நேரத்திலெல்லாம் <br/>என்னை சூழ்ந்துகொண்ட கிருபை இது <br/>கிருபையே கிருபையே மாறாத நல்ல கிருபையே </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. ஒன்றுமில்லா நேரத்திலெல்லாம் <br/>எனக்கு உதவி செய்த கிருபை இது <br/>கிருபையே கிருபையே மாறாத நல்ல கிருபையே </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. ஊழியத்தின் பாதையிலெல்லாம் <br/>என்னை உயர்த்திவைத்த கிருபை இது <br/>கிருபையே கிருபையே மாறாத நல்ல கிருபையே </lines>
+    </verse>
+  </lyrics>
+</song>

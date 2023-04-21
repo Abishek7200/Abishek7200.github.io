@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:35">
+  <properties>
+    <titles>
+      <title>Um azhagaana kangal</title>
+      <title>Um azhagaana kangal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உம் அழகான கண்கள் என்னை கண்டதாலே<br/>முடிந்த தென்று நினைத்த நான் உயிர் வாழ்கின்றேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>யாரும் அறியாத என்னை<br/>நன்றாய் அறிந்து<br/>தேடி வந்த நல்ல நேசரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>தூக்கி எறிப்பட்ட என்னை<br/>வேண்டுமென்று சொல்லி<br/>சேர்த்துக் கொண்ட நல்ல நேசரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஒன்றுமில்லாத என்னை<br/>உம் காருண்யத்தாலே<br/>உயர்த்தி வைத்த நல்ல நேசரே</lines>
+    </verse>
+  </lyrics>
+</song>
