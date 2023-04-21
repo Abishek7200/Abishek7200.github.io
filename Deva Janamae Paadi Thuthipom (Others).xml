@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T03:09:51">
+  <properties>
+    <titles>
+      <title>Deva Janamae Paadi Thuthipom</title>
+      <title>Deva Janamae Paadi Thuthipom</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேவ ஜனமே பாடி துதிப்போம்<br/>தேவ தேவனை போற்றிடுவோம்<br/>துதிகள் என்றும் ஏற்றியே<br/>அவரைப் பணிந்திடுவோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. சென்ற நாளில் கண்ணின் மணிபோல்<br/>காத்த தேவனை துதித்திடுவோம்<br/>நீதி தயவு கிருபை நல்கும்<br/>ஜீவ தேவனைத் துதித்திடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. வானம் பூமி ஆளும் தேவன்<br/>வாக்கை என்றுமே காத்திடுவார்<br/>அவரின் உண்மை என்றும் நிலைக்கும்<br/>மகிமை தேவனைத் துதித்திடுவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. கர்த்தர் நாமம் ஓங்கிப்படர<br/>தேவ மகிமை விளங்கிடவே<br/>தேவ சுதராய் சேவை செய்து<br/>தேவ ராஜனை வாழ்த்திடுவோம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. தம்மை நோக்கி வேண்டும் போது<br/>தாங்கி என்றுமே ஆதரிப்பார்<br/>மறந்திடாமல் உறங்கிடாமல்<br/>நினைத்த தேவனை துதித்திடுவோம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. நமது போரை தாமே முடித்து<br/>ஜெயமே என்றும் அளித்திடுவார்<br/>சேனை அதிபன் நமது தேவன்<br/>அவரை என்றும் போற்றிடுவோம்<br/>துதிகள் என்றும் ஏற்றுறிடுவோம்</lines>
+    </verse>
+  </lyrics>
+</song>

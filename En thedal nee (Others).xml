@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En thedal nee</title>
+      <title>En thedal nee</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v1 v4 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் தேடல் நீ, என் தெய்வமே<br/>நீ இன்றி என் வாழ்வு நிறம் மாறுதே <br/>உனை மனம் தேடுதே, நீ வழி காட்டுமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இறைவா இறைவா வருவாய் இங்கே<br/>இதயம் அருகில் அமர்வாய் இன்றே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. ஒரு கோடி விண்மீன்கள் தினம் தோன்றினும்<br/>நீ இன்றி என் வாழ்வு இருள் சூழ்ந்திடும்<br/>பிறர் அன்பை என் பணியில் நான் ஏற்கையில்<br/>உன் அன்பு உயிர் தந்து வாழ்வாகிடும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>இறை வார்த்தையில் நிறைவாகுவேன்<br/>மறை வாழ்விலே நிலையாகுவேன்<br/>வழிதேடும் எனை காக்க நீ வேண்டுமே --- </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2. உன்னோடு நான் காணும் உறவானது<br/>உள்ளத்தை உருமாற்றி உனதாக்கிடும்<br/>பலியான உனை நானும் தினம் ஏற்கையில்<br/>எளியோனில் உன் வாழ்வு ஒளியாகிடும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>உன் மீட்டலால் எனில் மாற்றங்கள்<br/>உன் தேடலால் எனில் ஆற்றல்கள்<br/>வழி தேடும் எனை காக்க நீ வேண்டுமே --- </lines>
+    </verse>
+  </lyrics>
+</song>

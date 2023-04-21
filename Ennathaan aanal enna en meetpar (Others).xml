@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-02T01:02:02">
+  <properties>
+    <titles>
+      <title>Ennathaan aanal enna en meetpar</title>
+      <title>Ennathaan aanal enna en meetpar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்னதான் ஆனால் என்ன<br/>என் மீட்பர் உயிரோடு உண்டு<br/>தொடர்ந்து பயணம் செய்வேன்<br/>என் துணையாளர் முன் செல்கிறார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. காடு மேடு கடந்து சென்றாலும்<br/>கரம் பிடித்து என்னை நடத்துகிறாரே<br/>ஆறுகளை நான் கடக்கும் போதும்<br/>மூழ்கி நானும் போவதில்லை<br/>அக்கினியில் நடக்கும் போதும்<br/>எரிந்து நானும் போவதில்லை</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. மரணமே ஆனாலும் என்ன<br/>ஜீவனே ஆனாலும் என்ன<br/>பரிசுத்தரின் பின்னே செல்வேன்<br/>திரும்பி நானும்பார்க்கமாட்டேன்<br/>எனது ஜீவன் உமது கரத்தில்<br/>ஒருவரும் பறிப்பது இல்லை</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. கிறிஸ்து எனக்கு ஜீவன் தானே<br/>சாவு எனக்கு ஆதாயமே<br/>தேவனின் அன்பிலிருந்து<br/>பிரிப்பவர்கள் யாரும் இல்லை<br/>உமது பாதம் எனது தஞ்சம்<br/>எனது கோட்டை நீர்தானே</lines>
+    </verse>
+  </lyrics>
+</song>

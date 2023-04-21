@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En Paraloga Raajavukku Munbaaga</title>
+      <title>En Paraloga Raajavukku Munbaaga</title>
+    </titles>
+    <verseOrder>c1 c2 c3 v1 c1 v2 c1 v3 c1 v4 c1 c2 c3</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் பரலோக ராஜாவுக்கு முன்பாக<br/>நான் ஒன்றுமில்லை(2)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>என்னை படைத்த என் தெய்வத்திற்கு முன்பாக<br/>நான் ஒன்றுமில்லை(2)</lines>
+    </verse>
+    <verse name="c3">
+      <lines>என் வார்த்தையான தெய்வத்திற்கு முன்பாக<br/>நான் ஒன்றுமில்லை(2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>என்னை உருவாக்கின தெய்வமும் இயேசுதான்<br/>என்னை வாழ வைத்த தெய்வமும் இயேசுதான்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>என்னை இயக்குகின்ற தெய்வமும் இயேசுதான்<br/>என்னை நடத்துகின்ற தெய்வமும் இயேசுதான்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>என்னை தேடிவந்த தெய்வமும் இயேசுதான்<br/>என்னை உயர்த்தி வைத்த தெய்வமும் இயேசுதான்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>என்னை அபிஷேகித்த தெய்வமும் இயேசுதான்<br/>என்னை ஆசீர்வதித்த தெய்வமும் இயேசுதான்</lines>
+    </verse>
+  </lyrics>
+</song>

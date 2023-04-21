@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai kandavarae ennai</title>
+      <title>Ennai kandavarae ennai</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v1</verseOrder>
+    <authors>
+      <author>Gersson Edinbaro</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அல்லேலுயா அல்லேலுயா <br/>அல்லேலுயா அல்லேலுயா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>என்னை கண்டவரே <br/>என்னை காண்பவரே <br/>என்னை காத்தவரே <br/>என்னை காப்பவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. பாவீயாய் இருந்த என்னை கண்டு கொண்டீரே <br/>பாசமாய் மார்போடு அணைத்து கொண்டீரே <br/>நெருக்கத்தில் இருந்த என்னை தேடி வந்தீரே <br/>நெருங்கி அன்பாக சேர்த்து கொண்டீரே </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. கடந்த காலம் எல்லாம் காத்து கொண்டீரே <br/>வருகிற காலத்திலும் காத்து கொள்வீரே <br/>கொடுத்த வாக்குத்தத்தம் பூர்த்தீ செய்தீரே <br/>புதிய வாக்குறுதி கொடுத்து விட்டீரே </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. தள்ளாடி நடந்த என்னை தேடி வந்தீரே <br/>மதில்களை தாண்டும்படி தூக்கி விட்டீரே <br/>நெரிந்த நாணலை போல் வாழ்ந்து வந்தேனே <br/>எரியும் தீப்பிளம்பாய் மாற்றி விட்டீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

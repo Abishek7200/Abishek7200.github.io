@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Enna nirapungappa unga vallamaiyaale</title>
+      <title>Enna nirapungappa unga vallamaiyaale</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1 v7 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்ன நிரப்புங்கப்பா உங்க வல்லமையாலே<br/>என்ன நிரப்புங்கப்பா உங்க அக்கினியாலே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நிரப்பிடுங்க என்ன நிரப்பிடுங்க<br/>ஆவியினாலே நிரப்பிடுங்க<br/>நிரப்பிடுங்க என்ன நிரப்பிடுங்க<br/>வல்லமையாலே நிரப்பிடுங்க</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நிழலை தொடுவோர் சுகத்தை பெறணும்<br/>கச்சயை தொடுவோர் அற்புதம் பெறணும்<br/>பேதுரு போல் என்ன நிரப்பிடுங்க<br/>பவுலை போல் பயன் படுத்திடுங்க - நிரப்பிடுங்க</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>காலியான பாத்திரமாக வாழ்ந்த வாழ்க்கை<br/>முடிவுக்கு வரணும் - நான்<br/>மூழ்கணுமே நான் மூழ்கணுமே<br/>ஆவியின் நதியிலே மூழ்கணுமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>நிரம்பணுமே நான் நிரம்பணுமே<br/>பரிசுத்த ஆவியால் நிரம்பணுமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>தெருவெல்லாம் உம் அக்கினி நதியை<br/>என்னை கொண்டு பாய்ந்திட செய்யும் - என்<br/>செய்திடுங்க ஐயா செய்திடுங்க<br/>நதியாய் பாய்ந்திட செய்திடுங்க - நிரப்பிடுங்க</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>என்ன நிரப்புங்கப்பா உங்க வல்லமையாலே<br/>என்ன நிரப்புங்கப்பா உங்க அக்கினியாலே</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>நிரப்பிடுங்க என்ன நிரப்பிடுங்க<br/>ஆவியினாலே நிரப்பிடுங்க<br/>நிரப்பிடுங்க என்ன நிரப்பிடுங்க<br/>வல்லமையாலே நிரப்பிடுங்க</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-12T01:06:43">
+  <properties>
+    <titles>
+      <title>En nesar neerthanaiya</title>
+      <title>En nesar neerthanaiya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் நேசர் நீர்தானையா<br/>நேசிக்கிறேன் உம்மைத்தானையா</lines>
+    </verse>
+    <verse name="v1">
+      <lines>எனது ஆன்மா உம்மை நினைத்து<br/>எந்நாளும் ஏங்குதையா<br/>எந்தன் படுக்கையிலும் உம்மை நினைக்கின்றேன்<br/>நடுராவிலும் தியானிக்கின்றேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>உம் ரத்தத்தால் என்னை மீட்டுகொண்டீர்<br/>நன்றி இயேசைய்யா<br/>உந்தன் அன்பாலே எந்தன் உள்ளம் கவர்ந்தீர்<br/>இனி நானல்ல எல்லாம் நீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>துன்பமோ துயரமோ வேதனையோ<br/>உம்மை விட்டு பிரிப்பதில்லை<br/>உயிருள்ளவரை உம்மைத் தான் நேசிப்பேன்<br/>வேறெதற்கும் நான் அடிமைப்படேன்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Endrum Anandham en yesu tharugiraar</title>
+      <title>Endrum Anandham en yesu tharugiraar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1 v7 v1 c1 v8 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்றும் ஆனந்தம் என் இயேசு தருகிறார்<br/>துதிப்பேன் துதிப்பேன்<br/>துதித்துக் கொண்டேயிருப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அல்லேலூயா ஆனந்தமே (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. உன்னதர் மறைவில் வல்லவர் நிழலில்<br/>என்றும் தங்குவேன்<br/>தேவனை நோக்கி அடைக்கலப் பாறை<br/>என்றே சொல்லுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. தமது சிறகால் என்னை மூடி<br/>காத்து நடத்துவார்<br/>அவரது வசனம் ஆவியின் பட்டயம்<br/>எனது கேடகம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. வழிகளிளெல்லாம் என்னைக் காக்க<br/>தூதர்கள் எனக்குண்டு<br/>பாதம் கல்லில் மோதாமல் காத்து<br/>கரங்களில் ஏந்துவார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. சிங்கத்தின் மேலும் பாம்பின் மேலும்<br/>நடந்தே செல்லுவேன்<br/>சாத்தானின் சகல வலிமையை வெல்ல<br/>அதிகாரம் எனக்குண்டு</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. ஆபத்து நேரம் கூப்பிடும் எனக்கு<br/>என்றும் பதிலுண்டு<br/>என்னோடு இருந்து விடுதலை கொடுத்து<br/>என்னை உயர்த்துவார்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6. இரவின் பயங்கரம் பகலின் அம்பு<br/>எதற்கும் பயமில்லை<br/>உன்னத தேவன் எனது அடைக்கலம்<br/>தங்கும் உறைவிடம்</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>7. தேவனைச் சார்ந்து வாழ்கின்ற எனக்கு<br/>என்றும் விடுதலை<br/>அவரது நாமம் அறிந்த எனக்கு<br/>அவரே அடைக்கலம்</lines>
+    </verse>
+  </lyrics>
+</song>

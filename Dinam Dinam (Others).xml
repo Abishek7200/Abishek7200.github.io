@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Dinam Dinam</title>
+      <title>Dinam Dinam</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தினம் தினம் நம் தேவனையே <br/>மனம் மகிழ்ந்து துதித்திடுவோம்  (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1.இரக்கம் உருக்கம் நிறைந்தவரே <br/>மறவாமல் நம்மை காப்பவரே (2) <br/>சிறந்த நாமம் உடையவரே <br/>அரணான துணையாய் இருப்பவரே (2) - தினம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2.அன்பின் உருவம் உடையவரே <br/>ஆண்டவர் அகிலத்தை சிருஷ்டித்தாரே (2)<br/>ஆறுதல் எல்லோருக்கும் தருபவரே <br/>அன்னையை போல அணைப்பவரே (2) - தினம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3.விண்ணில் மகிமை உடையவரே <br/>மண்ணில் சமதானம் தருபவரே  (2)<br/>என்னில் தினமும் வாழ்பவரே <br/>உன்னில் அழைத்தால் வருபவரே  (2) - தினம்</lines>
+    </verse>
+  </lyrics>
+</song>

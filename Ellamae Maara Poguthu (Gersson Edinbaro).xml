@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>Ellamae Maara Poguthu</title>
+      <title>Maara Poguthu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>Gersson Edinbaro</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>எல்லாமே மாறப் போகுது<br/>எல்லாமே மாறப் போகுதே<br/>என் வாழ்க்கை Fulla மாறப் போகுது<br/>நான் ஜெபித்ததெல்லாம் நடக்கப் போகுது</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/><br/>மாறப்போகுதே, மாறப்போகுதே<br/>இயேசுவின் வல்லமையால் மாறப்போகுதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என் நெருக்கமெல்லாம் மாறப்போகுதே<br/>அது விசாலமாய் மாறப்போகுதே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என் ஜெபநேரம் அதிகமாகுதே<br/>என் துதிநேரம் அதிகமாகுதே<br/>அக்கினியா மாறப்போகுதே<br/>வாழ்க்கை வல்லமையாய் மாறப்போகுதே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>என் கவலையெல்லாம் மாறப்போகுதே<br/>என் கண்ணீரெல்லாம் நீங்கப்போகுதே<br/>என் அழுகையெல்லாம் மாறப்போகுதே<br/>அது ஆனந்தமாய் மாறப்போகுதே</lines>
+    </verse>
+  </lyrics>
+</song>

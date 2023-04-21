@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Ekkala satham vaanil thonithidave</title>
+      <title>Ekkala satham vaanil thonithidave</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எக்காள சத்தம் வானில் தொனித்திடவே<br/>எம் இயேசு மாராஜனே வந்திடுவார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. அந்த நாள் மிக சமீபமே<br/>சுத்தர்கள் யாவரும் சேர்ந்திடவே<br/>தேவ எக்காளம் வானில் முழங்க<br/>தேவாதி தேவனை சந்திப்போமே – எக்காள</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. கர்த்தரின் வேளையை நாம் அறியோம்<br/>கர்த்தரின் சித்தமே செய்திடுவோம்<br/>பலன்கள் யாவையும் அவரே அளிப்பார்<br/>பரமனோடென்றும் வாழ்ந்திடுவோம் – எக்காள</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. கண்ணிமை நேரத்தில் மாறிடுவோம்<br/>விண்ணிலே யாவரும் சேர்ந்திடுவோம்<br/>கண்ணீர் கவலை அங்கே இல்லை<br/>கர்த்தர் தாமே வெளிச்சமாவார் – எக்காள</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>Ellame neer thanayya</title>
+      <title>Ellame neer thanayya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எல்லாமே நீர்தானய்யா – 4<br/>என் துவக்கமும் நீர்<br/>என் முடிவும் நீர்<br/>எல்லாமே நீர்தானய்யா- 4<br/>எல்லாமே நீர்தானய்யா- 4</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. இந்த பூமியில் உம்மையல்லாமல்<br/>யாருமே இல்லை நாதா – 2<br/>பூமியில் வாழ்ந்தாலும்<br/>பரலோகம் நான் சென்றாலும் – 2<br/>நீர் இன்றி யாருமில்லை – 4<br/>நீர் இன்றி யாருமில்லை – என் துவக்கமும்…</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. என் ஜீவனை பார்க்கிலும் கிருபை<br/>போதுமே இயேசு நாதா – 2<br/>பரிசுத்தமானவரே<br/>ஜீவனின் அதிபதியே – 2<br/>கிருபையை தாருமய்யா – 4<br/>கிருபையை தாருமய்யா – என் துவக்கமும்…</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. இந்த பூமியும் சொந்தமுமில்லை<br/>எனக்கு எல்லாம் நீரே – 2<br/>எனக்கென்று எதுவும் இல்லை<br/>கூடவும் வருவதில்லை – 2<br/>கடைசிவரை நீரே – 4<br/>கடைசிவரை நீரே – என் துவக்கமும்…</lines>
+    </verse>
+  </lyrics>
+</song>

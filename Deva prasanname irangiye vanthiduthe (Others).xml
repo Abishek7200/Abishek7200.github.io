@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Deva prasanname irangiye vanthiduthe</title>
+      <title>deva prasanname irangiye vanthiduthe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேவ பிரசன்னமே இறங்கியே வந்திடுதே (2) </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>தேவனின் மகிமை நம்மை எல்லாம் <br/>பரிசுத்த ஸ்தலத்தில் மூடுதே (2) --- தேவ பிரசன்னமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. தேவனின் நல்ல தூதர்கள் <br/>நம்மை சுற்றிலும் இங்கு நிற்கிறார் (2) --- தேவனின் </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. தேவனின் தூய அக்கினி <br/>இங்கு நமக்குள்ளே இறங்கி வந்திடுதே (2) --- தேவனின் </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. வானத்தின் அபிஷேகமே <br/>இன்று நமக்குள்ளே நிரம்பி வழியுதே (2) --- தேவனின் </lines>
+    </verse>
+  </lyrics>
+</song>

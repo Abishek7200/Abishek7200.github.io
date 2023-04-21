@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-02-26T01:22:52">
+  <properties>
+    <titles>
+      <title>Ennai Marava Yesu Natha unthan thayaval</title>
+      <title>Ennai Marava Yesu Natha unthan thayaval</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்னை மறவா இயேசு நாதா<br/>உந்தன் தயவால் என்னை நடத்தும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>வல்ல ஜீவ வாக்குத்தத்தங்கள்<br/>வரைந்தெனக்காய் ஈந்ததாலே ஸ்தோத்திரம்<br/>ஆபத்திலே அரும் துணையே<br/>பாதைக்கு நல்ல தீபமிதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>பயப்படாதே வலக்கரத்தாலே<br/>பாதுகாப்பேன் என்றதாலே ஸ்தோத்திரம்<br/>பாசம் என் மேல் நீர் வைத்ததினால்<br/>பறிக்க இயலாதெவருமென்னை</lines>
+    </verse>
+    <verse name="v3">
+      <lines>தாய் தன் சேயை மறந்து விட்டாலும்<br/>மறவேன் உன்னை என்றதாலே ஸ்தோத்திரம்<br/>வரைந்தீரன்றோ உம் உள்ளங்கையில்<br/>வல்லவா எந்தன் புகலிடமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>திக்கற்றோராய் கைவிடேனே<br/>கலங்கிடீரே என்றதாலே ஸ்தோத்திரம்<br/>நீர் அறியா யாதும் நேரிடா<br/>என் தலை முடியும் எண்ணினீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>உன்னை தொடுவேன் என் கண்மணியை<br/>தொடுவதாக உரைத்ததாலே ஸ்தோத்திரம்<br/>அக்கினியின் மதிலாக<br/>அன்பரே என்னைக் காத்திடும்</lines>
+    </verse>
+    <verse name="v6">
+      <lines>உனக்கெதிராய் எழும்பும் ஆயுதம்<br/>வாய்த்திடாதே என்றதாலே ஸ்தோத்திரம்<br/>பறந்திடுமே உம் நாமத்திலே<br/>பரனே எனக்காய் ஜெயக் கொடியே</lines>
+    </verse>
+    <verse name="v7">
+      <lines>என்னை முற்றும் ஒப்புவித்தேனே<br/>ஏற்று என்றும் நடத்துவீரே ஸ்தோத்திரம்<br/>எப்படியும் உம் வருகையிலே<br/>ஏழை என்னை சேர்த்திடுமே</lines>
+    </verse>
+  </lyrics>
+</song>

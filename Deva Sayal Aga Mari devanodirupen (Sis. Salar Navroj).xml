@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Deva Sayal Aga Mari devanodirupen</title>
+      <title>Deva Sayal Aga Mari devanodirupen</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேவ சாயல் ஆக மாறி<br/>தேவனோடிருப்பேன் நானும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. அந்த நாளும் நெருங்கிடுதே<br/>அதி விரைவாய் நிறைவேறுதே<br/>மண்ணின் சாயலை நான் களைந்தே தம்<br/>விண்ணவர் சாயல் அடைவேன் – தேவ சாயல்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பூமியின் கூடாரம் என்றும்<br/>பெலவீனமே அழிந்திடுமே<br/>கைவேலை யல்லாத பொன் வீடு<br/>கண்டடைந்து வாழ்ந்திடுவேன் – தேவ சாயல்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சோரும் உள்ளான மனிதன்<br/>சோதனையில் பெலமடைய<br/>ஆற்றித் தேற்றிடும் தேற்றரவாளன்<br/>ஆண்டவர் என்னோடிருப்பார் – தேவ சாயல்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. ஆவியின் அச்சாரமீந்தார்<br/>ஆயத்தமாய் சேர்ந்திடவே<br/>ஜீவனே எனது கிறிஸ்தேசு<br/>சாவு எந்தன் ஆதாயமே – தேவ சாயல்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. காத்திருந்து ஜெபிப்பதினால்<br/>கழுகுபோல பறந்தெழும்பி<br/>ஜீவயாத்திரை ஓடி முடித்து<br/>ஜீவ கிரீடம் பெற்றிடுவேன் – தேவ சாயல்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. மூன்றில் ஒன்றாய் ஜொலிப்பவரை<br/>முகமுகமாய் தரிசித்திட<br/>வாஞ்சையாய்த் தவிக்கும் எனதுள்ளம்<br/>வாரும் என்று கூப்பிடுதே – தேவ சாயல்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>7. உன்னத சீயோன் மலைமேல்<br/>எனதருமை இயேசுவுடன்<br/>ஜெப வீட்டினிலே மகிழ்ந்தே நான்<br/>ஜீவீப்பேனே நீடுழியாய் – தேவ சாயல்</lines>
+    </verse>
+  </lyrics>
+</song>

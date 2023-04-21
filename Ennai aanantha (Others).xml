@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai aanantha</title>
+      <title>Ennai aanatha</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>என்னை ஆனந்த தைலத்தால்<br/>அபிஷேகம் செய்திடும் ஆவியானவரே – (4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>ஆவியானவரே அன்பின் ஆவியானவரே – (4)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>1. வறண்ட நிலங்கள்<br/>வயல்வெளியாகட்டும் ஆவியானவரே – (2)<br/>அன்பின் ஆவியானவரே – (2) — என்னை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2. உலர்ந்த எலும்புகள் உயிரோடு எழும்பட்டும் ஆவியானவரே – (2)<br/>அன்பின் ஆவியானவரே – (2)  </lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>. என்னை அக்கினி ஆவியால்<br/>அபிஷேகம் செய்திடும் ஆவியானவரே – (2)<br/>அன்பின் ஆவியானவரே – (2) — என்னை</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>4. என்னை பெலத்தின் ஆவியால்<br/>அபிஷேகம் செய்திடும் ஆவியானவரே – (2)<br/>அன்பின் ஆவியானவரே – (2) — என்னை</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>5. என்னை வல்லமை ஆவியால்<br/>அபிஷேகம் செய்திடும் ஆவியானவரே – (2)<br/>அன்பின் ஆவியானவரே – (2) — என்னை</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>6. என்னை வரங்களின் ஆவியால்<br/>அபிஷேகம் செய்திடும் ஆவியானவரே – (2)<br/>அன்பின் ஆவியானவரே – (2) — என்னை</lines>
+    </verse>
+    <verse name="v9">
+      <lines><br/>7. என்னை கிருபையின் ஆவியால்<br/>அபிஷேகம் செய்திடும் ஆவியானவரே – (2)<br/>அன்பின் ஆவியானவரே – (2) — என்னை</lines>
+    </verse>
+  </lyrics>
+</song>

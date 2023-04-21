@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>El Eshurin Enakkaga</title>
+      <title>El Eshurin Enakkaga</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஏல்-எஷுரன் எனக்காக யாவையும் செய்து முடிப்பவரே<br/>ஏல்-எஷுரன் எங்கள் துதிகளில் வாசம் செய்பவரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>பெலவானாய் என்னை மாற்றினவர்<br/>நீதிமான் என்று அழைக்கின்றவர்<br/>எனக்காக யுத்தங்கள் செய்கின்றவர்<br/>முன்னின்று சத்துருவை துரத்துபவர்<br/>இஸ்ரவேலின் மகிமை அவர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>பயப்படாதே என்றவரே<br/>நான் உன்னை மறவேன் என்றவரே<br/>சந்ததி மேல் உம் ஆவியையும்<br/>சந்தானத்தின் மேல் ஆசீயையும்<br/>ஊற்றி ஊற்றி நிறைப்பவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>நீ என் தாசன் என்றவரே<br/>நான் உன்னை தெரிந்தேன் என்றவரே<br/>பாவங்கள் யாவும் மன்னித்தீரே<br/>சாபங்கள் யாவையும் நீக்கினீரே<br/>மீட்டுக் கொண்டேன் என்றவரே</lines>
+    </verse>
+  </lyrics>
+</song>

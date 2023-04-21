@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Devan thangum ullam athu devaalyam</title>
+      <title>Devan thangum ullam athu devaalyam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேவன் தங்கும் உள்ளம்<br/>அது தேவாலயம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அசுத்தம் இல்லா உள்ளம் அது தேவாலயம்<br/>அதில் ஆணவம் இல்லா உள்ளம் அது தேவாலயம்<br/>கறைகள் இல்லா உள்ளம் அது தேவாலயம்<br/>வீண் பெருமைகள் இல்லா உள்ளம் அதுவே தேவாலயம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>துதிகள் உள்ள உள்ளம் அது தேவாலயம்<br/>இயேசு துங்கவன் மகிழும் உள்ளம் அது தேவாலயம்<br/>இன்முகம் காட்டும் உள்ளம் அது தேவாலயம்<br/>இயேசு என்றும் வாழும் உள்ளம் அது தேவாலயம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>அன்பு நிறைந்து உள்ளம் அது தேவாலயம்<br/>அதில் அமைதி வாழும் உள்ளம் அது தேவாலயம்<br/>அடக்கம் மிகுந்த இதயம் அது தேவாலயம்<br/>இவை அனைத்தும் நிறைந்த மனிதன் அவன் தேவாலயம்</lines>
+    </verse>
+  </lyrics>
+</song>

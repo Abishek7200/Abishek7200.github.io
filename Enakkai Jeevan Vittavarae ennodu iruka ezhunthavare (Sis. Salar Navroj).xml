@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-09T00:33:00">
+  <properties>
+    <titles>
+      <title>Enakkai Jeevan Vittavarae ennodu iruka ezhunthavare</title>
+      <title>Enakkai Jeevan Vittavarae ennodu iruka ezhunthavare</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+    <songbooks>
+      <songbook name="Easter"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எனக்காய் ஜீவன் விட்டவரே<br/>என்னோடிருக்க எழுந்தவரே<br/>என்னை என்றும் வழி நடத்துவாரே <br/>என்னை சந்திக்க வந்திடுவாரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>இயேசு போதுமே<br/>இயேசு போதுமே<br/>எந்த நாளிலுமே என் நிலையிலுமே<br/>எந்தன் வாழ்வினிலே<br/>இயேசு போதுமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. பிசாசின் சோதனை பெருகிட்டாலும்<br/>சோர்ந்து போகாமல் முன்செல்லவே<br/>உலகமும் மாமிசமும் மயக்கிட்டாலும்<br/>மயங்கிடாமல் முன்னேறவே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. புல்லுள்ள இடங்களில் மேய்த்திடுவார்<br/>அமர்ந்த தண்ணீரண்டை நடத்திடுவார்<br/>ஆத்துமாவை தினம் தேற்றிடுவார்<br/>மரணப் பள்ளத்தாக்கில் காத்திடுவார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. மனிதர் என்னை கைவிட்டாலும்<br/>மாமிசம் அழுகி நாறிட்டாலும்<br/>ஐசுவரியம் யாவும் அழிந்திட்டாலும்<br/>ஆகாதவன் என்று தள்ளி விட்டாலும்</lines>
+    </verse>
+  </lyrics>
+</song>

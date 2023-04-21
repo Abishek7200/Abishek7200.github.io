@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-02-26T01:27:37">
+  <properties>
+    <titles>
+      <title>Enni enni thuthi seivaai</title>
+      <title>Enni enni thuthi seivaai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எண்ணி எண்ணி துதி செய்வாய்<br/>எண்ணடங்காத கிருபைகட்காய்<br/>இன்றும் தாங்கும் தம் புயமே<br/>இன்ப இயேசுவின் நாமமே – 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. யோர்தான் புரண்டு வரும்போல்<br/>எண்ணற்ற பாரங்களோ – 2<br/>எலியாவின் தேவன் எங்கே<br/>உந்தன் விசுவாச சோதனையில் – 2 (…எண்ணி)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. உனக் கெதிராகவே<br/>ஆயுதம் வாய்க்காதே – 2<br/>உன்னை அழைத்தவர் உண்மை தேவன்<br/>அவர் தாசர்க்கு நீதியவர் – 2 (…எண்ணி)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. உன்னை நோக்கும் எதிரியின்<br/>கண்ணின் முன்னில் பதறாதே – 2<br/>கண்மணி போல் காக்கும் கரங்களில்<br/>உன்னை மூடி மறைத்தாரே – 2 (…எண்ணி)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. சோர்ந்திடும் நேரத்தில்<br/>சார்ந்திட தேவன் உண்டே – 2<br/>உலகத்தில் இருப்பவனிலும்<br/>உன்னில் இருப்பவர் பெரியவரே – 2 (…எண்ணி)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. ஓட்டத்தை முடித்திட<br/>கிரீடத்தை சூடிட – 2<br/>உதவிடுவார் உயர்த்திடுவார்<br/>உந்தன் கண்ணீர் மாறிடுமே – 2 (…எண்ணி)</lines>
+    </verse>
+  </lyrics>
+</song>

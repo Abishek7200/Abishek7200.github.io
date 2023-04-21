@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Engum pugazh yesu raajanukke</title>
+      <title>Engum pugazh yesu raajanukke</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எங்கும் புகழ் யேசு ராசனுக்கே<br/>எழில் மாட்சிமை வளர் வாலிபரே!</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உங்களையல்லவோ உண்மை வேதங் காக்கும் ,<br/>உயர்வீரரெனப் பக்தர் ஓதுகிறார் --- எங்கும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. ஆயிரத் தொருவர் ஆவிரல்லோ நீரும்<br/>அதை அறிந்து துதி செய்குவீர் ;<br/>தாயினும் மடங்குசதம் அன்புடைய<br/>சாமி யேசுவிக்கிதயம் தந்திடுவீர் --- எங்கும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. கல்வி கற்றவர்கள் கல்வி கல்லாதோர்க்குக்<br/>கடன்பட்டவர்கள் கண்திறக்கவே ;<br/>பல்வழி அலையும் பாதை தப்பினோரைப்<br/>பரிந்து திருப்ப நிதம் பார்த்திடுவீர் --- எங்கும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. தாழ்மை சற்குணமும் தயை காருண்யமும்<br/>தழைப்பதல்லோ தகுந்த கல்வி?<br/>பாழுந்துர்க்குணமும் பாவச் செய்கையாவும்<br/>பறந்தோடப் பார்ப்பதுங்கள் பாரமன்றோ? --- எங்கும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. சுத்த சுவிசேஷம் துரிதமாய்ச் செல்ல<br/>தூதர் நீங்களே தூயன்வீரரே ;<br/>கர்த்தரின் பாதத்தில் காலைமாலை தங்கிக்<br/>கருணை நிறை வசனம் கற்றிடுவீர் --- எங்கும்</lines>
+    </verse>
+  </lyrics>
+</song>

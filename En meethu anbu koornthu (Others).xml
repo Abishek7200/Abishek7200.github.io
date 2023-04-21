@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En meethu anbu koornthu</title>
+      <title>en meethu anbu koornthu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v1 v2 v3 v5 v1 v2 v3 v6 v1 v2 v3</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>என்மீது அன்புகூா்ந்து<br/>பலியானீா் சிலுவையிலே<br/>எனக்காய் இரத்தம் சிந்தி<br/>கழுவினீா் குற்றம் நீ்ங்க</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>பிரித்தெடுத்தீா் பிரக்கும் முன்னால்<br/>உமக்கென்று வாழ்ந்திட</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஆராதனை உமக்கே<br/>அனுதினமும் உமக்கே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>1. பிதாவான என் தேவனே<br/>தகப்பனே என் தந்தையே<br/>மாட்சிமையும் மகத்துவமும்<br/>உமக்குத்தானே என்றென்றைக்கும்<br/>வல்லமையும் மகிமையும்<br/>தகப்பனே உமக்குத்தானே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>2. உம் இரத்தத்தால் பிதாவோடு<br/>ஒப்புரவாக்கி மகிழ்கின்றீா்<br/>கறைபடாத மகனா(ளா)க<br/>நிறுத்தி தினம் பாா்க்கின்றீா்<br/>வல்லமையும் மகிமையும்<br/>தகப்பனே உமக்குத்தானே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>3. மாம்சமான திரையை<br/>அன்று கிழித்து புது வழி திறந்தீா்<br/>மகா மகா பரிசுத்த உம் திருச்சமுகம்<br/>நுழையச் செய்தீா்<br/>வல்லமையும் மகிமையும்<br/>தகப்பனே உமக்குத்தானே</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai valladikku neeki um karangalin</title>
+      <title>Ennai valladikku neeki um karangalin</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">John Jebaraj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்னை வல்லடிக்கு நீக்கி உம் கரங்களால் தூக்கி<br/>உன்னதத்தில் வைத்ததை மறப்பேனோ<br/>நீர் சொன்னதினால் நான் பிழைத்துக்கொண்டேன்<br/>நீர் கண்டதினால் நான் ஜீவன் பெற்றேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>எங்கள் ஆதரவே எங்கள் அடைக்கலமே<br/>எங்கள் மறைவிடமே. உம்மை ஆராதிப்பேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. ஆழத்தில் இருத்தென்னை தூக்கிவிட்டீர்<br/>உயர்வான தளங்களில் நிறுத்தி வைத்தீர்<br/>எதிரான யோசனை அதமாக்கினர்<br/>உந்தனின் யோசனை நிறைவேற்றினீர் – எங்கள்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. ஆயிரம் என்னோடு போரிட்டாலும்<br/>என்னை மேற்கொள்ளும் அதிகாரம் பெறவில்லையே<br/>கிருபையினால் என்னை மூடிக்கொண்டீர்<br/>நான் தள்ளுண்ட இடங்களில் உயர்த்தி வைத்தீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. கரடான பாதையில் தூக்கிச் சென்றீர்<br/>முள்ளுள்ள இடங்களில் சுமந்து கொண்டீர்<br/>எனக்காக குறித்ததை எனக்கு தந்தீர்<br/>நீர்தந்த தரிசனம் நிறைவேற்றினீர் – எங்கள்</lines>
+    </verse>
+  </lyrics>
+</song>

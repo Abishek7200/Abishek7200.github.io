@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Devapitha Enthan Maippan allo</title>
+      <title>Devapitha Enthan Maippan allo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. தேவ பிதா எந்தன் மேய்ப்பன் அல்லோ<br/>சிறுமை தாழ்ச்சி அடைகிலனே<br/>ஆவலதாய் என்னை பைம்புல் மேல்<br/>அவர் மேய்த்தவர் நீர் அருளுகின்றார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>2. ஆத்துமம் தன்னை குளிரப்பண்ணி<br/>அடியேன் கால்களை நீதியென்னும்<br/>நேர்த்தியாம் பாதையில் அவர் நிமித்தம்<br/>நிதமும் சுகமாய் நடத்துகின்றார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>3. சா நிழல் பள்ளத்திறங்கிடினும்<br/>சற்றும் தீங்கு கண்டஞ்சேனே<br/>வானபரன் என்னோடிருப்பார்<br/>வளை தடியும் கோலுமே தேற்றும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>4. பகைவர்க் கெதிரே ஒரு பந்தி<br/>பாங்காய் எனக்கென்றேர்ப்படுத்தி<br/>சுக தைலம் கொண்டேன் தலையை<br/>சுகமாய் அபிஷேகம் செய்குவார்</lines>
+    </verse>
+  </lyrics>
+</song>

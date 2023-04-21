@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En Athumavum Sariramum</title>
+      <title>En Athumavum Sariramum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் ஆத்துமாவும் சரீரமும்<br/>என் ஆண்டவர்க்கே சொந்தம்<br/>இனி வாழ்வது நானல்லா<br/>என்னில் இயேச வாழ்கின்றார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இயேசு தேவா அர்ப்பணித்தேன்<br/>என்னையே நான் அர்ப்பணித்தேன்<br/>ஏற்றுக்கொள்ளும் ஏந்திக்கொள்ளும்<br/>என் இதயம் வாசம் செய்யும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. அப்பா உம் திருசித்தம் – என்<br/>அன்றாட உணவையா<br/>நான் தப்பாமல் உம் பாதம்<br/>தினம் எப்போதும் அமர்ந்திருப்பேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. கர்த்தாவே உம் கரத்தில்<br/>நான் களிமண் போலானேன்<br/>உந்தன் இஷ்டம்போல் வனைந்திடும்<br/>என்னை எந்நாளும் நடத்திடும்</lines>
+    </verse>
+  </lyrics>
+</song>

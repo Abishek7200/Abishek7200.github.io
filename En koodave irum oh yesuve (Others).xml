@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En koodave irum oh yesuve</title>
+      <title>En koodave irum oh yesuve</title>
+    </titles>
+    <verseOrder>c1 c2 c1 v1 v2 c1 v3 v4 c1 v5 v6 c1 c2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் கூடவே இரும் ஓ இயேசுவே<br/>நீரில்லாமல் நான் வாழ முடியாது</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>என் பக்கத்திலே இரும் ஓ இயேசுவே<br/>நீரில்லமால் நான் வாழ முடியாது – 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. இருளான வாழ்க்கையிலே<br/>வெளிச்சம் ஆனீரே<br/>உயிரற்ற வாழ்க்கையிலே<br/>ஜீவன் ஆனீரே – 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>என் வெளிச்சம் நீரே<br/>என் ஜீவனும் நீரே<br/>எனக்கெல்லாமே நீங்கதானப்பா – 2 – என் கூடவே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. கண்ணீர் சிந்தும் நேரத்தில்<br/>நீர் தாயுமானீரே<br/>காயப்பட்ட நேரத்தில் நீர்<br/>தகப்பனானீரே – 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>என் அம்மாவும் நீரே<br/>என் அப்பாவும் நீரே<br/>எனக்கெல்லாமே நீங்க தானப்பா – 2 – என் கூடவே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3. வியாதியின் நேரத்தில்<br/>வைத்தியரானீரே<br/>சோதனை நேரத்தில்<br/>நண்பரானிரே – 2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>என் வைத்தியர் நீரே<br/>என் நண்பரும் நீரே<br/>எனக்கெல்லாமே நீங்க தானப்பா – 2 – என் கூடவே</lines>
+    </verse>
+  </lyrics>
+</song>

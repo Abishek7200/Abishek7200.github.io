@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai kondru pottalum</title>
+      <title>Ennai kondru pottalum</title>
+    </titles>
+    <authors>
+      <author type="words">Bro. Ben Samuel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>என்னைகொன்றுபோட்டாலும்<br/>உம்மைநம்பியிருப்பேன்<br/>நான்சாகும்வரையில்<br/>உம்மைநம்பியிருப்பேன்-2</lines>
+    </verse>
+    <verse name="v1b">
+      <lines><br/>என்னைஅழைத்தவரே<br/>உம்மைஆராதிப்பேன்<br/>உண்மையுள்ளவரே<br/>உம்மைஆராதிப்பேன்-2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நான்ஆராதிக்கும்தேவன்<br/>என்னைதப்புவிப்பாரே<br/>என்னைவிடுவியாமல்போனாலும்<br/>(நான்)ஆராதிப்பேன்-2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>தாவீதைப்போல்என்னைவிரட்டி<br/>கொல்லநினைத்தாலும்<br/>ஆமான்தூக்குமரங்களை<br/>எனக்காய்செய்தாலும்-2</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>என்னைஅழைத்தவரே<br/>உம்மைஆராதிப்பேன்<br/>உண்மையுள்ளவரே<br/>உம்மைஆராதிப்பேன்-2</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>நான்ஆராதிக்கும்தேவன்<br/>என்னைதப்புவிப்பாரே<br/>என்னைவிடுவியாமல்போனாலும்<br/>(நான்)ஆராதிப்பேன்-2</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>யோசேப்பைபோல்என்னைஅடித்து<br/>குழியில்போட்டாலும்<br/>யூதாசைபோல்முத்தம்கொடுத்து<br/>காட்டிக்கொடுத்தாலும்-2</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>என்னைஅழைத்தவரே<br/>உம்மைஆராதிப்பேன்<br/>உண்மையுள்ளவரே<br/>உம்மைஆராதிப்பேன்-2</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>நான்ஆராதிக்கும்தேவன்<br/>என்னைதப்புவிப்பாரே<br/>என்னைவிடுவியாமல்போனாலும்<br/>(நான்)ஆராதிப்பேன்-2-என்னைகொன்று</lines>
+    </verse>
+  </lyrics>
+</song>

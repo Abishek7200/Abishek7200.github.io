@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai kandar yesu</title>
+      <title>Ennai kandar yesu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Robert Roy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>என்னைக் கண்டார் – இயேசு<br/>என்னைக் கண்டார் – உள்ளங்கையில்<br/>என்னை வரைந்து கொண்டார்<br/>கண்ணுக்குள்ளே என்னை வைத்து<br/>கடைசி வரைக்கும் காத்துக் கொள்வார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>இயேசு என் தேவன் இயேசு என் ஜீவன்<br/>இயேசு தான் எனக்கு எல்லாம் எல்லாம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கட்டவிழ்த்தார் என்னை கட்டவிழ்த்தார்<br/>சத்துருவை அவர் துரத்தி விட்டார்<br/>சாபத்தையும் வியாதியையும்<br/>சாவினால் வென்று ஜெயம் கொடுத்தார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>மீட்டுக் கொண்டார் – என்னை<br/>மீட்டுக் கொண்டார் – பாவத்திலிருந்தென்னை<br/>மீட்டுக் கொண்டார்<br/>சொந்த பிள்ளை என்றும் என்னை<br/>உறுதிப்படுத்த தம் ஆவி தந்தார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>ஜெயம் தந்தார் இயேசு ஜெயம் தந்தார்<br/>சத்துருவின் மேல் அவர் ஜெயம் தந்தார்<br/>உலகத்தின் மேல் ஜெயமெடுக்க<br/>விசுவாசத்தின் வலிமை தந்தார்</lines>
+    </verse>
+  </lyrics>
+</song>

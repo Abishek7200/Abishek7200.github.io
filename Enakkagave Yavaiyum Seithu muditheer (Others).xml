@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>Enakkagave Yavaiyum Seithu muditheer</title>
+      <title>Enakkagave Yavaiyum Seithu muditheer</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எனக்காகவே யாவையும் செய்து முடித்தீர்<br/>நன்றி நன்றி ஐயா<br/>என் பாவங்கள் யாவையும் சுமந்து கொண்டீரே<br/>நன்றி நன்றி ஐயா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நினைப்பதற்கும் ஜெபிப்பதற்கும் அதிகமாக தருபவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. நான் எனது பிள்ளைக்கு நல்ல ஈவைக் கொடுக்கின்றேன்<br/>பரம பிதா அதைப்பார்க்கிலும் கொடுத்துடுவாரே<br/>நினைப்பதற்கும் ஜெபிப்பதற்கும் அதிகமாக தருபவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. அன்றாடம் வேண்டிய ஆகாரம் தாருமே<br/>தீமை என்னை அணுகாமல் காக்கும் தேவனே<br/>நினைப்பதற்கும் ஜெபிப்பதற்கும் அதிகமாக தருபவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. ஆபிரகாமை அழைத்திரே ஆசீர்வாதம் கொடுத்தீரே<br/>அது போல என்னையும் ஆசிர்வதியும்<br/>நினைப்பதற்கும் ஜெபிப்பதற்கும் அதிகமாக தருபவரே</lines>
+    </verse>
+  </lyrics>
+</song>

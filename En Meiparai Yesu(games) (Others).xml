@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-18T07:27:47">
+  <properties>
+    <titles>
+      <title>En Meiparai Yesu(games)</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7</verseOrder>
+    <authors>
+      <author>Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் மேய்ப்பராய் இயேசு இருக்கின்றபோது<br/>என் வாழ்விலே குறைகள் என்பது ஏது?<br/> </lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. என்னை அவர் பசும்புல் பூமியிலே<br/>எந்நேரமும் _________ __________</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>என்றும் இன்பம் ஆஹா என்றும் இன்பம்<br/>ஆஹா என்றென்றும் இன்பமல்லவா</lines>
+    </verse>
+    <verse name="v3b">
+      <lines><br/>2. தம் பாதையில் என்னை நடத்திடவே<br/>என் கரத்தை பிடித்தே முன் நடப்பார்<br/>அஞ்சிடேனே நான் அஞ்சிடேனே<br/>நான் ஒன்றுக்கும் அஞ்சிடேனே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. என்னோடவர் நடந்திடும் போதினிலே<br/>எங்கே இருள் சூழ்ந்திடும் பாதையிலே<br/>எங்கும் ஒளி ஆஹா எங்கும் ஒளி<br/>ஆஹா எங்கெங்கும் ஒளியல்லவா</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. என்னை அவர் அன்பால் நிரப்பியதால்<br/>எல்லோருக்கும் நண்பராய் ஆகியதால்<br/>என்னுள்ளமே ஆஹா என் தேவனே ஆஹா<br/>எந்நாளும் புகழ்ந்திடுவேன்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. என் வாழ்க்கையை தூய்மையாய் காத்துக்கொள்ள<br/>என்னை என்றும் போதித்து நடத்துகின்றார்<br/>என் கிரீடத்தை நான் பெற்றுக்கொள்ள<br/>என் ஓட்டத்தை தொடர்ந்திடுவேன்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6. விண்மீதினில் வேகம் தம் வருகைக்காய்<br/>என்னையவர் ஆயத்தமாக்கினார்<br/>என்னானந்தம் ஆஹா என்னானந்தம்<br/>எனக்கென்றும் பேரானந்தமே</lines>
+    </verse>
+  </lyrics>
+</song>

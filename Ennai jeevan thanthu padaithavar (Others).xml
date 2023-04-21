@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai jeevan thanthu padaithavar</title>
+      <title>Ennai jeevan thanthu padaithavar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்னை ஜீவன் தந்து படைத்தவர் நீரே<br/>உன் கிருபைக்காக நன்றி இயேசய்யா - (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உன் அன்புக்காக ஏங்குகின்றவரை<br/>உன் கரத்தினாலே தாங்கி கொள்ளுமைய்யா - 2<br/>கொடிய நோய்களினால் அவதிப் பட்டவரை<br/>நீர் கண்ணோக்கி பாரும் இயேசய்யா - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>எங்கள் சீயோனின் மகா ராஜனே<br/>நல்ல உள்ளம் கொண்ட அன்பு தேவனே -2<br/>நீர் எங்களுக்காக சிலுவை சுமந்தீரே<br/>உன் தியாகத்துக்கு நன்றி இயேசய்யா -2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>இந்த உலகத்தையே படைத்தவர் நீரே<br/>எங்கள் ஜீவனையும் காப்பவர் நீரே -2<br/>என்ன துன்பம் வந்து என்னை சூழ்ந்தாலும்<br/>என் ஆண்டவரை கைவிட மாட்டேன் -2</lines>
+    </verse>
+  </lyrics>
+</song>

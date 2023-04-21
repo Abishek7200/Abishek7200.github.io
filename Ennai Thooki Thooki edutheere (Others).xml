@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-09T00:44:06">
+  <properties>
+    <titles>
+      <title>Ennai Thooki Thooki edutheere</title>
+      <title>Ennai Thooki Thooki edutheere</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>உயிரோடு எழுந்த இயேசுவே<br/>நான் வாழுவேன் உமக்காகவே-2<br/>நீர் ஒருவரே ஆண்டவர்<br/>நீர் ஒருவரே ரட்சகர்-2</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>என்னை தூக்கி தூக்கி எடுத்தீரே<br/>நீர் சர்வ வல்லவரே<br/>என்னை தூக்கி தூக்கி எடுத்தீரே<br/>நீர் சமாதான காரணரே-2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>அல்லேலுயா-4</lines>
+    </verse>
+    <verse name="v3">
+      <lines>மரித்து போன அந்த லாசாரு<br/>அன்று தேடியே இயேசு வந்தீரே-2<br/>உங்கள் வாயின் வார்த்தையால்<br/>அங்கு ஜீவன் வந்தது-2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>சிலுவையின் அந்த போரிலே<br/>இயேசு நீரே மரித்து போனீரே-2<br/>ஆனால் உயிரோடு எழுந்தீரே<br/>அந்த எதிரியை ஜெயித்தீரே-2</lines>
+    </verse>
+  </lyrics>
+</song>

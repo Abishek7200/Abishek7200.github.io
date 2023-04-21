@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En sirumayai kannoki paarthavar neer</title>
+      <title>En sirumayai kannoki paarthavar neer</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v2 c1 v4 v2 c1 v1</verseOrder>
+    <authors>
+      <author type="words">John Jebaraj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் சிறுமையை கண்ணோக்கி பார்த்தவர் நீர்<br/>என் எளிமையில் கைதூக்க வந்தவர் நீர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>துரத்தப்பட்ட என்னை மீண்டும் சேர்த்துக்கொண்டீர்<br/>ஒதுக்கப்பட்ட என்னை பெரிய ஜாதியாய் மாற்றினீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>பீர்லாகாய் ரோயீ<br/>என்னை காண்கின்ற தேவன் நீர்<br/>பீர்லாகாய் ரோயீ<br/>எங்கள் ஜீவ நீரூற்று நீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>வனாந்திரம் என் வாழ்வானதே<br/>பாதைகள் எங்கும் இருளானதே<br/>எந்தன் அழுகுரல் கேட்டு<br/>நீரூற்றாய் வந்தவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>புறஜாதி என்னை தேடி வந்தீர்<br/>சுதந்தரவாளியாய் மாற்றிவிட்டீர்<br/>வாக்குதத்தம் செய்தீர்<br/>நீர் சொன்னதை நிறைவேற்றினீர்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Eena Logathil Yesu Yen Piranthar</title>
+      <title>Eena Logathil Yesu Yen Piranthar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஈனலோகத்தில் இயேசு ஏன் பிறந்தார்<br/>ஈன பாவிகளை மீட்க தான் பிறந்தார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆ அதிசயம் ஆ அதிசயம்<br/>அன்பரின் ஜெனிப்பு அதிசயம்<br/>அன்பரின் பிறப்பு அதிசயம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>மா மகிமையே மா மகிமையே<br/>மனுக்குலம் மீட்ட மகிமையே<br/>மனு உரு எடுத்த மகிமையே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>மா பரிசுத்தர் மா பரிசுத்தர்<br/>பரலோக மேன்மை துறந்ததால்<br/>பாவியின் சாயல் அணிந்ததால்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>ஆ அல்லேலூயா ஆ அல்லேலூயா<br/>ஆகாய மகிமை ஜொலித்ததால்<br/>ஆட்டிடையர் கண்டு இரசித்ததால்</lines>
+    </verse>
+  </lyrics>
+</song>

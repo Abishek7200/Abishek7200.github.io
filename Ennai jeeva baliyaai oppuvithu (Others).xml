@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai jeeva baliyaai oppuvithu</title>
+      <title>Ennai jeeva baliyaai oppuvithu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்னை ஜீவபலியாய் ஒப்புவித்தேன் ,<br/>ஏற்றுக் கொள்ளும் , யேசுவே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அன்னை தந்தை உந்தம் சன்னதி முன்னின்று<br/>சொன்ன வாக்குத்தத்த மல்லாது , இப்போது --- என்னை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. அந்தகாரத்தி னின்றும் , பவப் பேய்<br/>அடிமைத் தனத்தி னின்றும் ,<br/>சொந்த ரத்தக் கிரயத்தால் எனைமீட்ட<br/>எந்தையே , உந்தனுக்கிதோ ! படைக்கிறேன் --- என்னை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. ஆத்ம சரீரமதை உமக்கு<br/>ஆதீன மாக்கி வைத்தேன் ;<br/>பாத்ரமதாய் அதை பாவித்துக் கொள்ளக்<br/>காத்திருக்கின்றேன் ; கருணைசெய் , தேவா --- என்னை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. நீதியி னாயுதமாய் அவயவம்<br/>நேர்ந்து விட்டேன் உமக்கு ;<br/>ஜோதி பரிசுத்த ராலய மாகவே<br/>சொந்தமாய்த் தந்தேன் என்றன் சரீரத்தை --- என்னை</lines>
+    </verse>
+  </lyrics>
+</song>

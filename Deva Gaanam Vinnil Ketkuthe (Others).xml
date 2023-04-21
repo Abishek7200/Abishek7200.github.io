@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-24T06:00:11">
+  <properties>
+    <titles>
+      <title>Deva Gaanam Vinnil Ketkuthe</title>
+      <title>Deva Gaanam Vinnil Ketkuthe</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேவ கானம் விண்ணில் கேட்குதே  - இன்று <br/>தேவ மைந்தன் புவில்  உதித்ததால் </lines>
+    </verse>
+    <verse name="c2">
+      <lines>ஏழை கோலம் எடுத்தார் <br/>எளியோர்  நம்மை மீட்க <br/>மேன்மை யாவும் துறந்தார் <br/>மாந்தர் நம்மை காக்க (2) </lines>
+    </verse>
+    <verse name="c3">
+      <lines>மகிபன் அன்பை மகிழ்ந்து போற்றுவோம் <br/>இறை மைந்தன் அன்பை வியந்து பாடுவோம் <br/>ஆடுவோம் பாடுவோம் அகம் மகிழ்ந்து புகழுவோம் </lines>
+    </verse>
+    <verse name="v2">
+      <lines>உன்னதத்தில் மகிமை பூமியில்  சமாதானம்<br/>என்றே  தூதர்  வாழ்த்து கூறினார்  <br/>வானமும் பூமியும் ஒன்றாய் <br/>இணைந்தது அவர் வரவால் <br/>வல்லவர் நாமம் உயர்த்தி பாடுவோம்  <br/>நாம் மீட்பர் புகழை எங்கும் கூறுவோம் <br/>ஆடுவோம் பாடுவோம் அகம் மகிழ்ந்து புகழுவோம் </lines>
+    </verse>
+    <verse name="v3">
+      <lines>வானில் மீண்டும் வருவார் இயேசு மகாராஜன் <br/>நீதி செய்யும் அரசராகவே <br/>விழித்திருந்து நாமும் ஜெபித்திடுவோம்  <br/>இணைந்திடுவோம் அவர் வருகையில் <br/>வாக்குகள் தந்தவரை பற்றி வாழுவோம் <br/>நித்திய ஜீவனை பெற்று மகிழுவோம்  <br/>ஆடுவோம் பாடுவோம் அகம் மகிழ்ந்து புகழுவோம் </lines>
+    </verse>
+  </lyrics>
+</song>

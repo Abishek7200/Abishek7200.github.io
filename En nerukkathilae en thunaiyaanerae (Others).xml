@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En nerukkathilae en thunaiyaanerae</title>
+      <title>En nerukkathilae en thunaiyaanerae</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் நெருக்கத்திலே என் துணையானீரே(2)<br/>என் ஓடுக்கத்தையே நீர் மாற்றினீரே<br/>என் தகப்பனே, என் இயேசுவே(2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>வேறு துணையேயில்லை<br/>நீர் விலகவில்லை<br/>உம் கரமோ கைவிடவேயில்லை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>புயலில் சிக்குண்ட சிறு ஓடம் நானே<br/>வறண்ட வயல்வெளி நான் தானே- (2)<br/>என் தேகம் எல்லாம் பெலவீனம் தானே<br/>என் தேகம் எல்லாம் பெலவீனம் தானே<br/>தூக்கி நிறுத்தினீரே, பெலப்படுத்தினீரே (2) - வேறு---</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உருக்குலைந்த பாத்திரம் நானே,<br/>மதில் இடிந்த பட்டணம் நானே- (2)<br/>என் இதயம் முழுதும் பல காயம் தானே<br/>என் இதயம் முழுதும் பல காயம் தானே<br/>ஆற்றி தேற்றினீர, உருமாற்றினீரே (2) - வேறு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>கடல் அளவு சொந்தங்கள் தானே<br/>அதில் வானளவு பிரிவுகள் தானே- (2)<br/>நான் நம்பினோரும் என்னை நம்பலையே<br/>நான் நம்பினோரும் என்னை நம்பலையே<br/>என்னை அரவணைத்த என் தகப்பன் நீரே (2) - வேறு</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En Samugam Un Mun Sellum</title>
+      <title>En Samugam Un Mun Sellum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் சமூகம் உன் முன் செல்லும்<br/>ஒன்றுக்கும் கலங்காதே<br/>உன்னை ஒரு போதும் கைவிடமாட்டேன்<br/>அழைத்தது நான் தானே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. ஆதி தகப்பனான அந்த ஆபிரகாமை<br/>அழைத்தது நான் – 2<br/>கரம் பிடித்தவனை கடல் மணலளவாய்<br/>கர்த்தர் நான் நடத்தவில்லையா? – 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. ஈசாக்கின் தேவனும் நான் அந்த<br/>யாக்கோபின் தேவனும் நான்<br/>அடிமையாய் போன யோசேப்பை தேசத்தின்<br/>அதிபதியாக்கியதும் நான்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. ஆடுகள் பின் அலைந்த அந்த<br/>தாவீதை அழைத்ததும் நான்<br/>அந்த தாவீதின் வேரில் கிளையாய் துளிர்த்தவர்<br/>தலையை நான் உயர்த்தவில்லையா?</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. யாருக்கும் அடிமை இல்லை – நீ<br/>எவரிலும் தாழ்வதில்லை<br/>ராஜாவைத் தள்ளி உன்னை ராஜாவாய் ஆக்கும்<br/>ராஜாதி ராஜனும் நான்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai nadathidum dhevan</title>
+      <title>Ennai nadathidum dhevan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்னை நடத்திடும் தேவன்<br/>என்னோடு இருக்க<br/>பயமே எனக்கில்லையே<br/>நான் நம்பிடும் தேவன்<br/>என் துருகமாய் இருப்பதால்<br/>கலக்கமே எனக்கில்லையே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பயமில்லை (2) பயமில்லையே<br/>நம் சார்பில் கர்த்தர் உண்டு பயமில்லையே<br/>பயமில்லை (2) பயமில்லையே<br/>நமக்காக யுத்தம் செய்வார் பயமில்லையே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>சிறு கூட்டமே நீ பயப்படாதே<br/>கர்த்தர் என்றும் நம் துணை நிற்கின்றார்<br/>எதிரிகள் வெள்ளம் போல் எதிராக வந்தாலும்<br/>ஆவியானவர் கொடியேற்றுவார் - பயமில்லை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>பாதைகள் எங்கும் தடைகற்களோ<br/>தாமதம் மட்டும் பதிலானதோ<br/>நேர்வழியாய் நம்மை நடத்திடும் தேவன்<br/>நிச்சயம் நடத்துவார் பயமில்லையே - பயமில்லை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>முந்தினதை நீ யோசிக்காதே<br/>பூர்வமானதை சிந்திக்காதே<br/>மேலானதை நீ சுதந்தரிக்க<br/>வேரூன்ற செய்வார் பயமில்லையே - பயமில்லை</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>அல்லேலூயா - (6)<br/>ஒசன்னா - (6)</lines>
+    </verse>
+  </lyrics>
+</song>

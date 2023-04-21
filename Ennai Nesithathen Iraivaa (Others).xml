@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-11-13T07:33:56">
+  <properties>
+    <titles>
+      <title>Ennai Nesithathen Iraivaa</title>
+      <title>Ennai Nesithathen Iraivaa</title>
+    </titles>
+    <verseOrder>c1 c2 c1 v1 c1 c2 v2 c1 c2 v3 c1 c2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்னை நேசித்ததேன் <br/>இறைவா</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. பாவம் அறியாத பரம் பொருளே<br/>உம்மை நாட மறந்தேன் நாயகனே  - 2<br/>தாழ்மையில் நீர் உதிக்க பாவி என் பாவமன்றோ  - (2)<br/>காரணமோ கருணைப்பொருளே  - (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. மாளிகை மாடங்கள் தேடலையோ- புவி<br/>மாமன்னர் மஞ்சங்கள் நாடலையோ  - 2<br/>கூடுண்டு பறவைகட்கு  குழியுண்டு நரிகளுக்கு - (2)<br/>ஸ்தலமியில்லையோ தலை  சாய்த்துறங்க  - (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. ஆயர்கள் சேர்நதும்மை தேடி வர- தேவ <br/>தூதர்கணம் சூழ்ந்து பாடிவர  - 2<br/>தாய் மாடி தேடினீரோ வேறிடம் உமக்கில்லையோ  - (2)<br/>தாபரமே  தயவே அருள்வாய்  - (2)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>ஏராளமாய் கிருபை ஏழை என் மேல் சொரிந்து <br/>நேசித்ததேன் இறைவா</lines>
+    </verse>
+  </lyrics>
+</song>

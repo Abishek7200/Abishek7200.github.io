@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-14T03:00:00">
+  <properties>
+    <titles>
+      <title>Ebenesare aarathanai</title>
+      <title>Ebenesare aarathanai</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எபிநேசரே ஆராதனை<br/>என் துணையாளரே ஆராதனை<br/>மறப்பேனோ உமது அன்பை<br/>நான் மறப்பேனோ உமது அன்பை<br/>மண்டியிடுவேன் உம் பாதத்திலே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. எழியோனை கண்நோக்கி பார்த்தீரையா<br/>பெயர் சொல்லி என்னை அழைத்தீரையா<br/>உமை விட்டு எங்கோ நான் சென்றபோதும்<br/>எனை தேடி என்ன பின்னே வந்தீரய்யா</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. நீர் என் மேல் வைத்த உம் கிருபையினால்<br/>நிர்மூலமகாமல் காத்தீரையா<br/>கடுங்கோபத்தால் என்னை அடித்தாலுமே<br/>கனிவாக என்னை நீர் தேற்றினீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. இருள் என்னை சுழ்ந்திட்ட நேரத்திலே<br/>வழி ஒன்றும் அறியாமல் தவிக்கயிலே<br/>மறந்தீரோ என்று நான் அழுதேனையா<br/>மறப்பேனோ என்று சொல்லி அணைத்தீரையா</lines>
+    </verse>
+  </lyrics>
+</song>

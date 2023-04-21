@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En Uyirae Andavarai potru</title>
+      <title>En Uyirae Andavarai potru</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் உயிரே ஆண்டவரைப் போற்று<br/>முழு உள்ளமே அவர் பெயரைப் போற்று<br/>அவர் செய்த சகல உபகாரங்களை நீ<br/>ஒருநாளும் மறவாதே – ஒருபோதும் மறவாதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. குற்றங்களை எல்லாம் மன்னிக்கின்றார்<br/>நோய்களை குணமாக்கி நடத்துகிறார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. படுகுழியினின்று விடுவிக்கிறார்<br/>இரக்கத்தை முடியாக சூட்டுகிறார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. வாழ்நாளெல்லாம் நன்மைகளால்<br/>நிறைவாக்க நம்மைநடத்திச் செல்வார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கழுகுபோல் இளமையை புதுப்பிக்கிறார்<br/>காலமெல்லாம் நம்மை சுமக்கின்றார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. மோசேக்கு வழிகள் வெளிப்படுத்தினார்<br/>அதிசய செயல்கள் காணச் செய்வார்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. இரக்கமும் உருக்கமும் நீடியசாந்தமும்<br/>மிகுந்த கிருபையும் உள்ளவரே</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>7. எப்போதும் கடிந்து கொள்பவரல்ல<br/>என்றென்றும் கோபம் கொள்பவரல்ல</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>8. பாவங்களுக்கேற்ப நம்மை நடத்துவதில்லை<br/>குற்றங்களுக்கேற்ப நம்மை தண்டிப்பதில்லை</lines>
+    </verse>
+  </lyrics>
+</song>

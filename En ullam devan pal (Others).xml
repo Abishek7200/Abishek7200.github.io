@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En ullam devan pal</title>
+      <title>en ullam devan pal</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>என் உள்ளம் தேவன்பால் <br/>பொங்கி வழியுதே<br/>இயேசுசென்னை இரட்சித்தார்<br/>நான் ஆடிப் பாடுவேன்<br/>எவருமறியாரே என் உள்ளம் பொங்குதே<br/>என் உள்ளம் பொங்கி, பொங்கி, பொங்கி<br/>பொங்கி வழியுதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>It’s bubbling, it’s bubbling, it’s bubbling in my soul.<br/>There’s singing and laughing since Jesus made me whole.<br/>Folks don’t understand it, nor can I keep it quiet.<br/>It’s bubbling bubbling bubbling, bubbling , bubbling day and night.</lines>
+    </verse>
+  </lyrics>
+</song>

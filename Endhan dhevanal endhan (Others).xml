@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Endhan dhevanal endhan</title>
+      <title>Endhan dhevanal endhan</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எந்தன் தேவனால் எந்தன் தேவனால்<br/>நிச்சயம் நான் ஆசீர்வாதம் பெற்றுக்கொள்ளுவேன்<br/>உந்தன் வசனம் கைக்கொள்ளுவேன் நான்<br/>உந்தன் வழிகளில் நடந்திடுவேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. தேசத்தில் நான் ஆசீர்வாதமாயிருப்பேன்<br/>வேலையிலும் ஆசீர்வாதமாயிருப்பேன் <br/>என் வீட்டில் ஆகாரக் குறைவில்லையே<br/>என் தேவைகள் ஒன்றும் தடையில்லையே </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. எனக்கெதிராய் வரும் ஆயுதமெல்லாம்<br/>நிர்மூலமாய் போய்விடும் எந்தன் தேவனால் <br/>என் பெலன் ஆரோக்கியம் தேவதானமே<br/>எந்தன் சரீரம் ஆசீர்வதிக்கப்படும் </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. வாழ்கைத் துணையும் என் பிள்ளைகளும்<br/>எந்தன் சம்பத்தும் ஆசீர்வதிக்கப்படும் <br/>எந்தன் நன்மைக்காய் செழித்தோங்கிடச் செய்வார்<br/>என்னையவர் பரிசுத்த ஜனம் ஆக்குவார் </lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. இனி என்றும் கடன் வாங்க விடமாட்டார்<br/>கொடுத்ததை செழித்தோங்கச் செய்திடுவார் (2)<br/>உயர்வடைவேன் என் வாழ்க்கையிலே<br/>உன்னதங்களில் என்னை உயர்த்திடுவார் </lines>
+    </verse>
+  </lyrics>
+</song>

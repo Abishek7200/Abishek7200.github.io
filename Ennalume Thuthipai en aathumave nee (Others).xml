@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennalume Thuthipai en aathumave nee</title>
+      <title>Ennalume Thuthipai en aathumave nee</title>
+    </titles>
+    <verseOrder>c1 v1 v7 v2 v7 v3 v7 v4 v7 v5 v7 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எந்நாளுமே துதிப்பாய் – என்னாத்துமாவே நீ<br/>எந்நாளுமே துதிப்பாய்<br/>இந்நாள் வரையிலே உன்னாதனார் செய்த<br/>எண்ணில்லா நன்மைகள் யாவு மறவாது- எந்நாளுமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பாவங்கள் எத்தனையோ – நினையாதிருந்தாருன்<br/>பாவங்கள் எத்தனையோ<br/>பாழான நோயை அகற்றிக் குணமாக்கிப்<br/>பாரினில் வைத்த மா தயவை நினைத்து – எந்நாளுமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. எத்தனையோ கிருபை – உன்னுயிர்க்குச் செய்தாரே<br/>எத்தனையோ கிருபை<br/>நித்தமுனை முடி சூட்டினதுமன்றி<br/>நித்தியமாயுன் ஜீவனை மீட்டதால் – எந்நாளுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. நன்மையாலுன் வாயை – நிறைத்தாரே பூர்த்தியாய்<br/>நனமையாலுன் வாயை<br/>உன் வயது கழுகைப்போல் பலங்கொண்டு<br/>இன்னும் இளமை போலாகவே செய்ததால் – எந்நாளுமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. பூமிக்கும் வானத்துக்கும் – உள்ள தூரம் போலவே<br/>பூமிக்கும் வானத்துக்கும்<br/>சாமி பயமுள்ளவர் மேல் அவர் அருள்<br/>சாலவும் தங்குமே சத்தியமேயிது – எந்நாளுமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. மன்னிப்பு மாட்சிமையாம் – மா தேவனருளும்<br/>மன்னிப்பு மாட்சிமையாம்<br/>எண்ணுவாயோ கிழக்கும் மேற்கும் தூரமே<br/>மண்ணில் உன்பாவன் அகன்றத் தூரமே – எந்நாளுமே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. தந்தை தன பிள்ளைகட்கு – தயவோ டிரங்கானோ<br/>தந்தை தன பிள்ளைகட்கு<br/>எந்த வேளையும் அவரோடு தங்கினால்<br/>சொந்தம் பாராட்டியே தூக்கிச் சுமப்பாரே – எந்நாளுமே</lines>
+    </verse>
+    <verse name="v7">
+      <lines>எந்நாளுமே துதிப்பாய் – என்னாத்துமாவே நீ<br/>எந்நாளுமே துதிப்பாய்</lines>
+    </verse>
+  </lyrics>
+</song>

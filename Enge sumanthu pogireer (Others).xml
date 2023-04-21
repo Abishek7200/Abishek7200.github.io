@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Enge sumanthu pogireer</title>
+      <title>Enge sumanthu pogireer</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எங்கே சுமந்து போகிறீர் ? சிலுவையை நீர்<br/>எங்கே சுமந்து போகிறீர் ?</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எங்கே சுமந்து போறீர் ? இந்தக் கானலில் உமது <br/>அங்கம் சுமந்து நோக , ஐயா , என் ஏசுநாதா --- எங்கே </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. தோளில் பாரம் அழுத்த , தூக்கப் பெலம் இல்லாமல் , <br/>தாளுந் தத்தளிக்கவே , தாப சோபம் உற , நீர்--- எங்கே </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. வாதையினால் உடலும் வாடித் தவிப்புண்டாக , <br/>பேதம் இல்லாச் சீமோனும் பின்னாகத் தாங்கிவர --- எங்கே </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. தாயார் அழுதுவர சார்ந்தவர் பின் தொடர , <br/>மாயம் இல்லாத ஞான மாதர் புலம்பி வர --- எங்கே </lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. வல்ல பேயைக் கொல்லவும் , மரணந்தனை வெல்லவும் , <br/>எல்லை இல்லாப் பாவங்கள் எல்லாம் நாசமாகவும்--- எங்கே </lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. மாசணுகாத சத்திய வாசகனே , உமது <br/>தாசர்களைக் காக்கவும் தாங்காச் சுமையை எடுத்து --- எங்கே</lines>
+    </verse>
+  </lyrics>
+</song>

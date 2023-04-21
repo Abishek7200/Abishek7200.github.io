@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai maravaadhavarae ennil</title>
+      <title>Ennai maravaadhavarae ennil</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்னை மறவாதவரே என்னில் நினைவானவரே<br/>உம்மை நான் நம்புவேனைய்யா நேசர் இயேசய்யா<br/>உயிருள்ள நாளெல்லாம் நான் நம்புவேனைய்யா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. தாயானவள் தன் பாலனை மறந்தாலும் நான் மறவேனே <br/>உன்னை எந்தன் உள்ளங்கையில் வரைந்து வைத்தேனே <br/>உன்னை மறவாமல் எந்நாளும் நினைத்திடுவேனே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. இமைப்பொழுது எந்தன் முகத்தை மறைத்தாலும் உனக்கு இரங்குவேன்<br/>மலைகள் விலகி பர்வதங்கள் நிலைபெயர்ந்தாலும் <br/>எந்தன் சமாதானம் உன்னைவிட்டு விலகிவிடாது</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. உன் தாய் உன்னை தேற்றிடும் போல நான் உன்னை தேற்றிடுவேனே<br/>தண்ணீரைக் கடக்கும் போதும் உன்னுடன் இருப்பேன்<br/>அக்கினியில் நடக்கும் போதும் கூடவே நடப்பேன்</lines>
+    </verse>
+  </lyrics>
+</song>

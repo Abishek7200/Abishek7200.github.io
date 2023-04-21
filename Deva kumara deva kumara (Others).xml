@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-18T11:51:51">
+  <properties>
+    <titles>
+      <title>Deva kumara deva kumara</title>
+      <title>Deva kumara deva kumara</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v3 c1 v1 v4 v5 c1 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேவகுமாரா தேவகுமாரா என்ன நினைச்சிடுங்க<br/>தேவகுமாரா தேவகுமாரா கொஞ்சம் நினைச்சிடுங்க</lines>
+    </verse>
+    <verse name="v1">
+      <lines>நீங்க நினைச்சா ஆசீர்வாதம்தான்<br/>என்ன மறந்தா எங்கே போவேன் நான்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>உடைந்த பாத்திரம் நான் அது உமக்கே தெரியும்<br/>தேவன் பயன்படுத்துகிறீர் இது யாருக்கு புரியும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>உதவாத என்னில் நீர் உறவானீர்<br/>நீங்க இல்லாம என் உலகம் விழிக்காதே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>உம்மை மறந்து வாழ்ந்தவன் நான் அது உமக்கே தெரியும்<br/>உம்மை மறுதளித்தவன் நான் இதை உலகே அறியும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>உதவாத என்னில் நீர் உறவானீர்<br/>நீங்க இல்லாம என் பொழுது விடியாதே</lines>
+    </verse>
+  </lyrics>
+</song>

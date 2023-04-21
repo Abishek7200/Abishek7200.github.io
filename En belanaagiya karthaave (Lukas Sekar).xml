@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En belanaagiya karthaave</title>
+      <title>En belanaagiya karthaave</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Lukas Sekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் பெலனாகிய கர்த்தாவே<br/>நான் உம்மையே நம்பியுள்ளேன்<br/>நான் கைவிடப்படுவதில்லை</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>என் கால்கள் சறுக்கும் போதெல்லாம்<br/>தாங்குதையா உம் கிருபை – நான்<br/>அழுது புலம்பும் நேரமெல்லாம்<br/>அணைக்குதையா உம் கிருபை என்னை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நான் மரண இருளில் நடந்தாலும்<br/>பொல்லாப்புக்கு பயப்படேன் நான்<br/>உங்க கோலும் தடியும் தேற்றுதையா<br/>அனுதினம் வெற்றி பாதை காட்டுதையா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உம்மாலே ஒரு சேனைக்குள்ளே<br/>பாய்ந்து நானும் சென்றிடுவேன்<br/>உம்மாலே ஒரு மதிலின் மேல்<br/>தாண்டி நானும் சென்றிடுவேன் -நான்</lines>
+    </verse>
+  </lyrics>
+</song>

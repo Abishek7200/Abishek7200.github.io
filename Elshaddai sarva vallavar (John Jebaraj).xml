@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>Elshaddai sarva vallavar</title>
+      <title>Arimugam illaa ennidam vanthu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1</verseOrder>
+    <authors>
+      <author type="words">John Jebaraj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அறிமுகம் இல்லா என்னிடம் வந்து <br/>அரியணை ஏற்றும் திட்டம் தந்து <br/>என்னை அறிமுகம் செய்தவரே <br/>எனக்கு பின்னணியை நிற்பவர் </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>எல்ஷடாய் சர்வ வல்லவர் <br/>என்னை வாழ வைக்கும் நல்ல தெய்வமே <br/>எல்ஷடாய் சர்வ வல்லவர்<br/>என்னை பெறுக செய்த பெரிய தெய்வமே </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>எத்தனை ஆமான் எத்தனை சவுல்கள் <br/>எந்தன் பாதையில் வந்தனரே - (2)<br/>ஆனாலும் உம் தயவால் எனக்கு <br/>அரியணை வாழ்வை தந்தவரே - (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என் மேல் உள்ள அழைப்பை அறிந்தும் <br/>குழியில் விட்டு சென்றனர்- (2)<br/>தூக்கி எறிந்தோர் கண்கள் முன்னே <br/>அரியணை வாழ்வை தந்தவரே - (2)</lines>
+    </verse>
+  </lyrics>
+</song>

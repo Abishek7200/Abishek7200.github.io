@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En adaiyalam um mugam</title>
+      <title>en adaiyalam um mugam</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>என் அடையாளம் உம் முகம் அல்லவோ<br/>என் முகவரி உம் சமூகம் அல்லவோ<br/>உயர்த்திடுவேன் உம் நாமத்தை<br/>பிடித்திடுவேன் உம் கரத்தை – என் அடையாளம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1.அயராமல் தேடுவேன்<br/>துயராமல் வாழுவேன் – 2<br/>பிரியாமல் பிணைவேன்<br/>பிரியமே பாதத்தில் – 2<br/>உந்தன் நிழலை நித்தம் வாஞ்சிப்பேன் – என் அடையாளம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2.உந்தன் வார்த்தையே<br/>என் பாதைக்கு வெளிச்சமே – 2<br/>உம் வாசம் சுவாசிப்பேன்<br/>சுகமாய் ஜீவிப்பேன் – 2<br/>என் நேசரே உம்மை நேசிப்பேன் – என் அடையாளம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3.உம்மை யோசிப்பேன்<br/>உம் வசம் யாசிப்பேன்- 2<br/>நீங்காத உறவே<br/>நினைவெல்லாம் நிறைவே – 2<br/>உயிரிலும் உணர்விலும்<br/>கலந்திட்ட கர்த்தரே- என் அடையாளம்</lines>
+    </verse>
+  </lyrics>
+</song>

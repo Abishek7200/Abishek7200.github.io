@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-27T07:39:53">
+  <properties>
+    <titles>
+      <title>En Nambikkaye Umakku Sthothiram</title>
+      <title>En Nambikkaye Umakku Sthothiram</title>
+    </titles>
+    <verseOrder>p1 v1 c1 v2 c1 v3 c1 p1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="p1">
+      <lines>என் நம்பிக்கையே உமக்கு ஸ்தோத்திரம்<br/>என் புகலிடமே உமக்கு ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="c1">
+      <lines>உம்மை தான் நான் நம்பியிருக்கேன்<br/>அற்புதங்கள் எனக்கு செய்யுங்கப்பா</lines>
+    </verse>
+    <verse name="v1">
+      <lines> நூற்றுக்கு நூறு உம்மையே நான் நம்புவேன் <br/> அற்புதம் செய்திடுங்க அதிசயம் நடத்திடுங்க<br/> மனிதர்கள் முன்பாக தலை குனிந்து போகாமல்<br/> உதவி செய்திடுங்க உயர்த்தி வச்சிடுங்க</lines>
+    </verse>
+    <verse name="v2">
+      <lines> ஆராய்ந்து முடியாத அதிசயங்கள் செய்பவரே<br/> அற்புதம் செய்திடுங்க அதிசயம் நடத்திடுங்க<br/> இரட்டிப்பான நன்மைகளை தருவேன் என்று சொன்னீரே<br/> இன்றைக்கே தந்திடுங்க இப்பவே தந்திடுங்க</lines>
+    </verse>
+    <verse name="v3">
+      <lines> உம்மையல்லாமல் யார் என்னை உயர்த்தக் கூடும்<br/> அற்புதம் செய்திடுங்க அதிசயம் நடத்திடுங்க<br/> ஐசுவரியமும் கனமுமே உம்மாலே தான் வருகிறது<br/> ஆளுகை செய்யுங்கப்பா மேன்மை படுத்துங்கப்பா</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Deva Sitham Niraivera enaiyum oppadaikiren</title>
+      <title>Deva Sitham Niraivera enaiyum oppadaikiren</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேவ சித்தம் நிறைவேற என்னையும் ஒப்படைக்கிறேன்<br/>தேவ சத்தம் என்னுள்ளம் பலமாக தொனிக்குதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. முட்களுக்குள் மலர்கின்றதோர்<br/>மக்களை கவரும் லீலி புஷ்பம் போல்<br/>என்னையுமே தம் சாயலாய்<br/>என்றென்றும் உருவாக்குவார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. முன்னறிந்து அழைத்தவரே<br/>முன்னின்று நலமுடன் நடத்துவார்<br/>சகலமும் நன்மைக்கென்றே<br/>சாட்சியாய் முடித்திடுவார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. பொன்னைப் போல புடமிட்டாலும்<br/>பொன்னாக விளங்குவேன் என்றென்றுமே<br/>திராணிக்கு மேல் சோதித்திடார்<br/>தாங்கிட பெலன் அளிப்பார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கஷ்டமெல்லாம் தொலையும் ஓர் நாள்<br/>கண்ணீரும் கவலையும் நீங்கும் அந்நாள்<br/>இரட்டிப்பான பங்கை பெற<br/>இரட்சகர் அழைத்திடுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

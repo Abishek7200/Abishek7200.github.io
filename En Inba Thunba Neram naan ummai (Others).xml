@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En Inba Thunba Neram naan ummai</title>
+      <title>En Inba Thunba Neram naan ummai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் இன்ப துன்ப நேரம்<br/>நான் உம்மைச் சேருவேன்<br/>நான் நம்பிடுவேன்<br/>பாரில் உம்மைச் சார்ந்திடுவேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. நான் நம்பிடும் தெய்வம் – இயேசுவே<br/>நான் என்றுமே நம்பிடுவேன்<br/>தேவனே! ராஜனே!<br/>தேற்றி என்னை தாங்கிடுவார் – என்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. இவரே நல்ல நேசர் – என்றுமே<br/>தாங்கி என்னை நடத்திடுவார்<br/>தீமைகள் சேதங்கள்<br/>சேரா என்னைக் காத்திடுவார் – என்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. பார்போற்றும் ராஜன் – புவியில்<br/>நான் வென்றிடச் செய்திடுவார்<br/>மேகத்தில் தோன்றுவார்<br/>அவரைப் போல மாறிடுவேன் – என்</lines>
+    </verse>
+  </lyrics>
+</song>

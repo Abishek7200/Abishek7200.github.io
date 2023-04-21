@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-16T00:57:26">
+  <properties>
+    <titles>
+      <title>Ebenesare Ebenesare</title>
+      <title>Naanum en veetarum</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நானும் என் வீடும் என் வீட்டார் அனைவரும்<br/>ஓயாமல் நன்றி சொல்வோம்-2<br/>ஒரு கரு போல காத்தீரே நன்றி<br/>என்னை சிதையாமல் சுமந்தீரே நன்றி-2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>எபிநேசரே எபிநேசரே இந்நாள் வரை சுமந்தீரே<br/>எபிநேசரே எபிநேசரே என் நினைவாய் இருப்பவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>நன்றி நன்றி நன்றி இதயத்தில் சுமந்தீரே நன்றி<br/>நன்றி நன்றி நன்றி கரு போல சுமந்தீரே நன்றி</lines>
+    </verse>
+    <verse name="v3">
+      <lines>1.ஒன்றுமே இல்லாமல் துவங்கின என் வாழ்வு<br/>நன்மையால் நிறைந்துள்ளதே-2<br/>ஓரு தீமையும் நினைக்காத நல்ல<br/>ஒரு தகப்பன் உம்மைப்போல இல்ல-2-எபிநேசரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.அன்றன்றைக்கான என் தேவைகள் யாவையும்<br/>உம் கரம் நல்கியதே-2<br/>நீர் நடத்திடும் விதங்களை சொல்ல<br/>(ஒரு) பூரண வார்த்தையே இல்ல-2-எபிநேசரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3.ஞானிகள் மத்தியில் பைத்தியம் என்னை<br/>அழைத்தது அதிசயமே-2<br/>நான் இதற்கான பாத்திரம் அல்ல<br/>இது கிருபையே வேறொன்றும் இல்ல-2-எபிநேசரே</lines>
+    </verse>
+  </lyrics>
+</song>

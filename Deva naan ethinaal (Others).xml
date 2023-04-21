@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Deva naan ethinaal</title>
+      <title>Deva naan ethinaal</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v1 v3 c1 v1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேவா நான் எதினால் விசேஷித்தவன்<br/>ராஜா நான் அதை தினம் யோசிப்பவன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>எதினால் இது எதினால்<br/>நீர் என்னோடு வருவதினால்<br/>எதினால் இது எதினால்<br/>நீர் என்னோடு இருப்பதினால்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. மேகஸ்தம்பம் மேலிருந்து பாதுகாக்குது<br/>பாதை காட்ட பகலெல்லாம் கூட செல்லுது<br/>அன்பான தேவன் என்னோடு வருவார்<br/>அது போதும் என் வாழ்விலே --- தேவா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. தாகம் கொண்ட தேவ ஜனம் வானம் பார்க்குது<br/>ஆவல் கொண்ட கன்மலையும் கூட செல்லுது<br/>என் ஏக்கம் எல்லாம் என் தேவன் தீர்ப்பார்<br/>சந்தோஷம் நான் காணுவேன் --- தேவா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. வாழ்க்கையில் கசப்புகள் கலந்திட்டாலும்<br/>பாசமுள்ள ஒருமரம் கூடவருது<br/>மாராவின் நீரை தேனாக மாற்றும்<br/>என் நேசர் என்னோடுண்டு --- தேவா</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai sumappadhanal iraiva</title>
+      <title>Ennai sumappadhanal iraiva</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 c1 v4 v5 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்னை சுமப்பதனால் இறைவா<br/>உம் சிறகுகள் முறிவதில்லை<br/>அள்ளி அணைப்பதனால் இறைவா<br/>உம் அன்பு குறைவதில்லை</lines>
+    </verse>
+    <verse name="v1">
+      <lines>ஆயிரம் மின்னல் இடித்திட்ட போதும்<br/>வானம் கிழிவதில்லை<br/>ஆயிரம் மைல்கள் நடந்திட்ட போதும்<br/>நதிகள் அழுவதில்லை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கருவை சுமக்கும் தாய்க்கு என்றும்<br/>குழந்தை சுமையில்லை<br/>கருவிழி சுமக்கும் இருவிழி அதற்கு<br/>இமைகள் சுமையில்லை</lines>
+    </verse>
+    <verse name="v3">
+      <lines>மதுவை சுமக்கும் மலர்களுக்கென்றும்<br/>பனித்துளி சுமையில்லை<br/>வானை சுமக்கும் மேகத்திற்கென்றும்<br/>மழைத்துளி சுமையில்லை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>அகழும் மனிதரை தாங்கும் பூமிக்கு <br/>முட்கள் சுமையில்லை<br/>இகழும் மனிதரில் இரங்கும் மனதிற்கு <br/>சிலுவைகள் சுமையில்லை</lines>
+    </verse>
+    <verse name="v5">
+      <lines>உலகின் பாவம் சுமக்கும் தோள்களில்<br/>நான் ஒரு சுமையில்லை<br/>உயிரை ஈயும் உன் சிறகின் நிழலில் என்<br/>இதயம் சுமையில்லை</lines>
+    </verse>
+  </lyrics>
+</song>

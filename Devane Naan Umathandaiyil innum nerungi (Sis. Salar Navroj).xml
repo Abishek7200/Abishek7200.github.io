@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Devane Naan Umathandaiyil innum nerungi</title>
+      <title>Devane Naan Umathandaiyil innum nerungi</title>
+    </titles>
+    <verseOrder>c1 v5 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேவனே, நான் உமதண்டையில் – இன்னும் நெருங்கிச்<br/>சேர்வதே என் ஆவல் பூமியில்.</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. யாக்கோபைப்போல், போகும் பாதையில் – பொழுது பட்டு<br/>இராவில் இருள் வந்து மூடிட<br/>தூக்கத்தால் நான் சாய்ந்து தூங்கினாலும் என் கனாவில்<br/>நோக்கியும்மை கிட்டிச் சேர்வேன், வாக்கடங்கா நல்ல நாதா! – தேவனே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பரத்துக்கேறும் படிகள் போலவே – என் பாதை தோன்றப்<br/>பண்ணும் ஐயா, என்றன் தேவனே,<br/>கிருபையாக நீர் எனக்குத் தருவதெல்லாம் உமதண்டை<br/>அருமையாய் என்னையழைத்து அன்பின் தூதனாகச் செய்யும் – தேவனே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. நித்திரையினின்று விழித்துக் – காலை எழுந்து<br/>கர்த்தாவே, நான் உம்மைப் போற்றுவேன்;<br/>இத்தரையில் உந்தன் வீடாய் என்துயர்க் கல் நாட்டுவேனே,<br/>என்றன் துன்பத்தின் வழியாய் இன்னும் உம்மைக் கிட்டிச் சேர்வேன் – தேவனே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. ஆனந்தமாம் செட்டை விரித்துப் – பரவசமாய்<br/>ஆகாயத்தில் ஏறிப் போயினும்<br/>வான மண்டலங் கடந்து பறந்து மேலே சென்றிடினும்<br/>மகிழ்வுறு காலத்திலும் நான் மருவியும்மைக் கிட்டிச் சேர்வேன் – தேவனே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>மாவலிய கோரமாக வன் சிலுவை மீதினில் நான்<br/>கோவே, தொங்க நேரிடினும்<br/>ஆவலாய் உம்மண்டை சேர்வேன்</lines>
+    </verse>
+  </lyrics>
+</song>

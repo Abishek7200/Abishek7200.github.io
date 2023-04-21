@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En Yesu Raja Saronin Roja um krubai</title>
+      <title>En Yesu Raja Saronin Roja um krubai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் இயேசு ராஜா சாரோனின் ரோஜா<br/>உம் கிருபை தந்தாலே போதும் (2)<br/>அலை மோதும் வாழ்வில் அலையாமல் செல்ல<br/>உம் கிருபை முன் செல்ல அருளும் (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. கடல் என்னும் வாழ்வில் கலங்கும் என் படகில்<br/>சுக்கான் பிடித்து நடத்தும் என் தேவா (2)<br/>கடலினைக் கண்டித்த கர்த்தர் நீர் அல்லவோ<br/>கடவாத எல்லையை என் வாழ்வில் தாரும் (2) – என் இயேசு</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பிளவுண்ட மலையே புகலிடம் நீரே<br/>புயல் வீசும் வாழ்வில் பாதுகாத்தருளும் (2)<br/>பாரினில் காரிருள் சேதங்கள் அணுகாது<br/>பரமனே என் முன் தீபமாய் வாரும் (2) – என் இயேசு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. எதிர்க் காற்று வீச எதிர்ப்போரும் பேச<br/>என்னோடிருப்பவர் பெரியவர் நீரே (2)<br/>இயேசுவே யாத்திரையில் கரை சேர்க்கும் தேவன்<br/>என் ஜீவ படகின் நங்கூரம் நீரே (2) – என் இயேசு</lines>
+    </verse>
+  </lyrics>
+</song>

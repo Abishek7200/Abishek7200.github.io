@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En idhayam yaarukku theriyum</title>
+      <title>En idhayam yaarukku theriyum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் இதயம் யாருக்கு தெரியும்<br/>என் வேதனை யாருக்கு புரியும்<br/>என் தனிமை என் சோர்வுகள்<br/>யார் என்னை தேற்றக் கூடும் - (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. நெஞ்சின் நோகங்கள்<br/>அதை மிஞ்சும் பாரங்கள்<br/>தஞ்சம் இன்றியே<br/>உள்ளம் ஏங்குதே - (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. சிறகு ஒடிந்த நிலையில்<br/>பறவை பறக்குமோ<br/>வீசும் புயலிலே<br/>படகும் தப்புமோ - (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. மங்கி எரியும் விளக்கு<br/>பெருங்காற்றில் நிலைக்குமோ<br/>உடைந்த உள்ளமும்<br/>ஒன்று சேருமோ - (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4.அங்கே தெரியும் வெளிச்சம்<br/>கலங்கரை தீபமோ<br/>இயேசு ராஜனின்<br/>முகத்தின் வெளிச்சமே - (2)</lines>
+    </verse>
+  </lyrics>
+</song>

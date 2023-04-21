@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En yesu raajavukke</title>
+      <title>En yesu raajavukke</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் இயேசு ராஜாவுக்கே<br/>எந்நாளும் ஸ்தோத்திரம்<br/>என்னோடு வாழ்பவர்க்கே<br/>எந்நாளும் ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>கர்த்தாவே நீர் செய்த நன்மைகளை<br/>நித்தமும் நினைக்கிறேன்<br/>முழு உள்ளத்தோடு உம் நாமம்<br/>பாடிப் புகழுவேன் - நான்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>நெருக்கப்பட்டேன் தள்ளப்பட்டேன்<br/>நேசர் நீர் அணைத்தீரே<br/>கைவிடப்பட்டு கதறினேன்<br/>கர்த்தர் நீர் தேற்றினீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>இனி நான் வாழ்வது உமக்காக<br/>உமது மகிமைக்காக<br/>உம் அன்பை எடுத்துச் சொல்லுவேன்<br/>ஓயாமல் பாடுவேன் - நான்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>பாவங்கள் அணைத்தும் மன்னித்தீரே<br/>நோய்களை சுகமாக்கினீர்<br/>எனது ஜீவனை அழிவில் நின்று<br/>காத்து இரட்சித்தீரே</lines>
+    </verse>
+  </lyrics>
+</song>

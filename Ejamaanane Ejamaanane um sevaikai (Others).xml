@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Ejamaanane Ejamaanane um sevaikai</title>
+      <title>Ejamaanane Ejamaanane um sevaikai</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v5 c1 v3 v1 v5 c1 v4 v1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எஜமானனே (2)<br/>உம் சேவைக்காய் என்னை அழைத்தீர் – 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அழியும் என் கைகளை கொண்டு<br/>அழியா உம் ராஜ்ஜியம் கட்ட<br/>பைத்தியமான என்னை தெரிந்தெடுத்தீர்<br/>அழியும் என் உதடுகள் கொண்டு<br/>அழியா உம் வார்த்தையை சொல்ல<br/>எத்தனாய் வாழ்ந்த என்னை தெரிந்தெடுத்தீர் (பிரிந்தெடுத்தீர்)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>ஆராதிப்பேன் அதை எண்ணியே<br/>வாழ்நாளெல்லாம் உம்மை மட்டுமே </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என்னில் என்ன நன்மை கண்டீர்<br/>என்னை அழைத்து உயர்த்தி வைத்தீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>உம் சித்தத்தை நான் செய்வதே<br/>அனுதினமும் என் போஜனம் – அழியும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ஆராதிப்பேன்</lines>
+    </verse>
+  </lyrics>
+</song>

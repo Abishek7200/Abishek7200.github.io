@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Ennai Jenipithavarum neer thaane</title>
+      <title>Ennai Jenipithavarum neer thaane</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Lukas Sekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என்னை ஜெனிப்பித்தவரும் நீர்தானே<br/>என்னை பெற்றெடுத்தவரும் நீர்தானே<br/>எனக்கு பேரு வச்சவரும் நீர்தானே<br/>என்னை வளர்த்தவரும் நீர்தானே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>கன்மலையே…. கன்மலையே<br/>உமக்கே ஆராதனை</lines>
+    </verse>
+    <verse name="v2">
+      <lines>தாயின் அன்பிலும் மேலான அன்பு<br/>அளவேயில்லாத உண்மையான அன்பு<br/>எனக்காக அடிக்கப்பட்டீர்<br/>எனக்காக நொறுக்கப்பட்டீர்<br/>நான் வாழ மரித்தீரே<br/>எனக்காக உயிர்த்தீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>என்மேல் கிருபை வைத்து இரட்சிப்பை<br/>தந்தவரே-இதற்கு ஈடு இணை<br/>பூமியிலே இல்லையப்பா<br/>என் மேல் அன்பு வைத்து<br/>பரிகாரம் செய்தீரே<br/>பாவமில்லை மரணமில்லை<br/>நித்திய ஜீவனை தந்தீரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>உமக்கு நிகரான தெய்வமொன்றும்<br/>இல்லையப்பா-அகில உலகத்திற்கும்<br/>ஆண்டவரும் நீர்தானே<br/>முடிவில்லா இராஜ்யத்தை<br/>அரசாளும் தெய்வம் நீரே<br/>கண்ணீரெல்லாம் துடைத்திடுவீர்<br/>நித்திய மகிழ்ச்சியே நீர்தானே</lines>
+    </verse>
+  </lyrics>
+</song>

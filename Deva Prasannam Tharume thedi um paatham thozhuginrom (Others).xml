@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Deva Prasannam Tharume thedi um paatham thozhuginrom</title>
+      <title>Deva Prasannam Tharume thedi um paatham thozhuginrom</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேவா பிரசன்னம் தாருமே<br/>தேடி உம்பாதம் தொழுகிறோம்<br/>இயேசுவே உம் திவ்ய நாமத்தில்<br/>இன்பமுடன் கூடி வந்தோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. வானம் உமது சிங்காசனம்<br/>பூமி உமது பாதஸ்தலம்<br/>பணிந்து குனிந்து தொழுகிறோம்<br/>கனிந்தெம்மைக் கண்பாருமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. சாரோனின் ரோஜா லீலி புஷ்பம்<br/>சாந்த சொரூபி என் இயேசுவே<br/>ஆயிரம் பேரிலும் சிறந்தோராம்<br/>ஆண்டவரைத் தொழுகிறோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. கர்த்தர் செய்த உபகாரங்கள்<br/>கணக்குரைத்து எண்ணலாகுமோ<br/>இரட்சிப்பின் பாத்திரம் கையில் ஏந்தி<br/>இரட்சகரைத் தொழுகிறோம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கர்த்தர் சமூகம் ஆனந்தமே<br/>பக்தர் சபையில் பேரின்பமே<br/>கர்த்தர் நாமத்தைக் கொண்டாடுகிறோம்<br/>சுத்தர்கள் போற்றும் தேவனே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. நூற்றிருபது பேர் நடுவே<br/>தேற்றரவாளனே வந்தீரே<br/>உன்னத ஆவியை ஊற்றிடுமே<br/>மன்னவனே இந்நேரமே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. எப்போ வருவீர் என் இயேசுவே<br/>ஏங்கி உள்ளம் உம்மைத் தேடுதே<br/>பறந்து விரைந்து தீவிரமே<br/>இறங்கி வாரும் இயேசுவே</lines>
+    </verse>
+  </lyrics>
+</song>

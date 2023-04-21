@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:24">
+  <properties>
+    <titles>
+      <title>En uyirana yesu</title>
+      <title>En uirana yesu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் உயிரான உயிரான உயிரான இயேசு<br/>என் உயிரான இயேசு என் உயிரோடு கலந்தீர்<br/>என் உயிரே நான் உம்மைத் துதிப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. உலகமெல்லாம் மறக்குதையா!<br/>உணர்வு எல்லாம் இனிக்குதையா<br/>உம் நாமம் துதிக்கையிலே இயேசையா<br/>உம் அன்பை ருசிக்கையிலே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. உம் வசனம் எனக்கு உணவாகும்<br/>உடலுக்கெல்லாம் மருந்தாகும்<br/>இரவும் பகலுமையா!<br/>உம் வசனம் தியானிக்கிறேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. உம் திரு நாமம் உலகத்திலே<br/>உயர்ந்த அடைக்கல அரண்தானே<br/>நீதிமான் உமக்குள்ளே ஓடி<br/>சுகமாய் இருப்பேனே </lines>
+    </verse>
+  </lyrics>
+</song>

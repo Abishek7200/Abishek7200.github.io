@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Enaku umma vitta yaarum illa pa</title>
+      <title>Enaku umma vitta yaarum illa pa</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எனக்கு உம்ம விட்டா யாரும் இல்லப்பா<br/>உங்க அன்ப விட்டா எதுவும் இல்லப்பா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>என் ஆசை நீங்கப்பா<br/>என் தேவை நீங்கப்பா<br/>என் சொந்தம் நீங்கப்பா<br/>என் சொத்து நீங்கப்பா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. காண்கின்ற எல்லாம் ஓர் நாள் கறைந்து போகுமே<br/>தொடுகின்ற எல்லாம் ஓர் நாள் தொலைந்து போகுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. உலகத்தின் செல்வம் எல்லாம் நிலையாய் நிற்குமோ<br/>அழியாத செல்வம் நீரே போதும் இயேசுவே</lines>
+    </verse>
+  </lyrics>
+</song>
