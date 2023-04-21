@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T12:01:08">
+  <properties>
+    <titles>
+      <title>Karthar unnai</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>கர்த்தர் உன்னை நித்தமும் நடத்தி<br/>மா வறட்சியில் திரட்சியை தருவார் – 2<br/>உன் ஆத்துமாவை திருப்பதி செய்வார் (2)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>தொடர்ந்து துதி செய் மனமே<br/>உன் மீட்பர் உயிரோடிருக்கின்றார் – 2<br/>துதிப்போரை கைவிடமாட்டார் (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. நுகத்தடி விரல் நீட்டை போக்கி<br/>நிபச்சொல்லை நடு நின்று நீக்கி – 2<br/>கிருபையென்னும் மதிலை பணிவார்<br/>உன்னைச் சுற்றலுமே உயர்த்தி பணிவார் (…தொடர்ந்து)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. அவர் சொல்லி நடக்காததேது<br/>அவர் வார்த்தை தரையில் விழாது – 2<br/>சொன்னதிலும் அதிகம் செய்வார்<br/>உன்னை நன்றியுடன் பாட செய்வார் (…தொடர்ந்து)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>விசுவாசியை கைவிடமாட்டார்<br/>நம் குடும்பங்களை கைவிடமாட்டார்<br/>நம் சபையை கைவிடமாட்டார்<br/>உங்கள் ஊழியத்தை கைவிடமாட்டார்<br/>உங்கள் தலைமுறையை கைவிடமாட்டார்<br/>உங்கள் பிள்ளைகளை கைவிடமாட்டார்</lines>
+    </verse>
+  </lyrics>
+</song>

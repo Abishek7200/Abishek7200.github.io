@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Irul soolum kaalam</title>
+      <title>Irul soolum kaalam</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. இருள் சூழும் காலம் இனி வருதே<br/>அருள் உள்ள நாட்கள் பயன்படுத்தும்<br/>திறவுண்ட வாசல் அடைபடுமுன்<br/>நொருங்குண்ட மனதாய் முன் செல்வார் யார் ?</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>திறவுண்ட வாசல் அடைபடுமுன்<br/>நொருங்குண்ட மனதாய் முன் செல்வார் யார் ?<br/>நாட்கள் கொடியதாய் மாறிடுதே<br/>காலத்தை ஆதாயம் செய்திடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. தரிசு நிலங்கள் அநேகம் உண்டு<br/>தரிசனம் பெற்றோர் நீர் முன் வருவீர்<br/>பரிசாக இயேசுவை அவர்களுக்கும்<br/>அளித்திட அன்பினால் எழுந்து செல்வீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. எத்தனை நாடுகள் இந்நாட்களில்<br/>கர்த்தரின் பணிக்குத்தான் கதவடைத்தார்<br/>திறந்த வாசல் இன்று உனக்கெதிரில்<br/>பயன்படுத்தும் மக்கள் ஞானவான்கள்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. விசுவாசிகள் எனும் கூட்டம் உண்டு<br/>அன்பு ஒன்றே அவர் நடுவில் உண்டு<br/>ஒருமனம் ஒற்றுமை அங்கு உண்டு<br/>என்று சொல்லும் நாட்கள் இன்று வேண்டும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. இனி வரும் நாட்களில் நமது கடன்<br/>வெகு அதிகம் விசுவாசிகளே<br/>நம்மிடை உள்ள ஐக்கியமே<br/>வெற்றியும் தோல்வியும் ஆக்கிடுமே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. இயேசுவே எங்கள் உள்ளங்களை<br/>அன்பெனும் ஆவியால் நிறைத்திடுமே<br/>இந்தியாவின் எல்லா தெருக்களிலும்<br/>இயேசுவின் நாமமும் விரைந்திடுமே</lines>
+    </verse>
+  </lyrics>
+</song>

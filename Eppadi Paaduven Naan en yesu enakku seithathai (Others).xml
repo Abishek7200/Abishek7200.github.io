@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Eppadi Paaduven Naan en yesu enakku seithathai</title>
+      <title>Eppadi Paaduven Naan en yesu enakku seithathai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எப்படி பாடுவேன் நான் – என்<br/>இயேசு எனக்குச் செய்ததை<br/>ஆயுள் முழுவதும் என் கர்த்தருக்காய்<br/>ஆத்தும ஆதாயம் செய்வேன் – 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. ஒரு வழி அடையும் போது<br/>புதுவழி திறந்த தேவா<br/>திறந்த வாசலை என் வாழ்க்கையில்<br/>அடைக்காத ஆண்டவரல்லோ</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. எப்பக்கம் நெருக்கப்பட்டும்<br/>ஒடுங்கி நான் போவதில்லை<br/>அப்பனின் மார்பினில் சாய்ந்தென்றுமே<br/>எப்போதும் பாடிடுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. கடந்து வந்த பாதையில்<br/>கண்மணி போல் காத்திட்டீர்<br/>கடுகளவும் குறை வைக்காமலே<br/>அதிகமாய் ஆசீர்வதித்தீர்</lines>
+    </verse>
+  </lyrics>
+</song>

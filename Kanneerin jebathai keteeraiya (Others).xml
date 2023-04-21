@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kanneerin jebathai keteeraiya</title>
+      <title>Kanneerin jebathai keteeraiya</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v1 v2 v4 v1 v2 v5 v1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கண்ணீரின் ஜெபத்தை கேட்டீரைய்யா<br/>கரம்பிடித்தென்னை நடத்தினீரே<br/>வறட்சியை கண்ட நாட்களுக்கீடாய்<br/>செழிப்பை காண செய்தீர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நன்றி ஐயா நன்றி ஐயா<br/>நன்மை செய்தீர் நன்றி ஐயா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கண்ணீரின் ஜெபத்தை கேட்டீரைய்யா<br/>கரம்பிடித்தென்னை நடத்தினீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என் துயர் மாற்றிய தூயவரே<br/>என் பயம் அகற்றிய சிநேகிதரே<br/>என் துயர் மாற்றிய தூயவரே<br/>என் பயம் அகற்றிய சிநேகிதரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>குறைவுகள் நிறைவாய் மாற்றினீரே<br/>தோல்விகள் ஜெயமாய் மாற்றினீரே<br/>குறைவுகள் நிறைவாய் மாற்றினீரே<br/>தோல்விகள் ஜெயமாய் மாற்றினீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>வியாதிகள் நீக்கிய வைத்தியரே<br/>பாவங்கள் போக்கிய பரிகாரியே<br/>வியாதிகள் நீக்கிய வைத்தியரே<br/>பாவங்கள் போக்கிய பரிகாரியே</lines>
+    </verse>
+  </lyrics>
+</song>

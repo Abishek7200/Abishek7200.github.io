@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Idukkamana vaasal vazhiye</title>
+      <title>Idukkamana vaasal vazhiye</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இடுக்கமான வாசல் வழியே<br/>வருந்தி நுழைய முயன்றிடுவோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>சிலுவை சுமந்து இயேசுவின் பின்<br/>சிரித்த முகமாய் சென்றிடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. வாழ்வுக்கு செல்லும்<br/>வாசல் இடுக்கமானது<br/>பரலோகம் செல்லும் பாதை<br/>குறுகலானது – சிலுவை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. நாம் காணும் இந்த உலகம்<br/>ஒருநாள் மறைந்திடும்<br/>புது வானம் பூமி நோக்கி<br/>பயணம் செய்கின்றோம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. இவ்வாழ்வின் துன்பம் எல்லாம்<br/>சிலகாலம் தான் நீடிக்கும்<br/>இணையில்லாத மகிமை<br/>இனிமேல் நமக்குண்டு</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. அழிவுக்கு செல்லும் வாயில்<br/>மிகவும் அகன்றது<br/>பாதாளம் செல்லும் பாதை<br/>மிகவும் விரிந்தது</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Enthan yesu vallavar endrum nadathuvar</title>
+      <title>Enthan yesu vallavar endrum nadathuvar</title>
+    </titles>
+    <verseOrder>c1 v1 v5 v2 v5 v3 v5 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எந்தன் இயேசு வல்லவர் (நல்லவர்)<br/>என்றும் நடத்துவார்<br/>ஆ! பேரின்பம் அவர் என் தஞ்சமே<br/>அனுதினம் அன்பருடன்<br/>இணைந்து செல்லுவேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அற்புதமாம் அவர் அன்பு<br/>அண்டினோர் காக்கும் தூய அன்பு<br/>இப்பூவினில் இவரைப்போல்<br/>அன்பர் எவருண்டு - மாறாதவர்<br/>எந்தன் இயேசு என்றும் பற்றிடுவேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>சர்வ வல்ல தேவனிவர்<br/>சாந்தமும் தாழ்மை உள்ளவராம்<br/>எந்நாளுமே எந்தனையே<br/>தாங்கிடும் வல்லவராம் - நம்பிடுவேன்<br/>என்றென்றுமாய் எந்தன் இயேசுவை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கர்த்தர் எந்தன் மேய்ப்பராவார்<br/>சீரான பாதை நடத்திடுவார் - எந்தன்<br/>வழி செம்மையாக்கி ஏற்று நிறுத்துவார்<br/>எந்தன் நேசர் காத்திடுவார்<br/>என்றும் பின் செல்லுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>குற்றங்களை மன்னித்தவர்<br/>தம்மண்டை என்னை சேர்த்து கொண்டார்<br/>எந்தன் நேசர் ஒப்பற்றவர்<br/>பொறுமை நிறைந்தவர் - சார்ந்திடுவேன்<br/>இந்நிலத்தே எந்தன் தஞ்சமிவர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>எந்தன் இயேசு வல்லவர் (நல்லவர்)<br/>என்றும் நடத்துவார்</lines>
+    </verse>
+  </lyrics>
+</song>

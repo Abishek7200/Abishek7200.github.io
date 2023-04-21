@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Karthaavae Devargalil</title>
+      <title>Karthaavae Devargalil</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கர்த்தாவே தேவர்களில் உமக்கொப்பானவர் யார்?<br/>வானத்திலும் பூமியிலும் உமக்கொப்பானவர் யார்?</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உமக்கொப்பானவர் யார் ? (2)<br/>வானத்திலும் பூமியிலும் உமக்கொப்பானவர் யார்?</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. செங்கடலை நீர் பிளந்து உந்தன்<br/>ஜனங்கலை நடத்தி சென்றீர்<br/>நீர் நல்லவர் சர்வ வல்லவர்<br/>என்றும் வாக்கு மாறாதவர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. தூதர்கள் உண்ணும் உணவால் உந்தன்<br/>ஜனங்களை போஷித்தீரே<br/>உம்மைப்போல் யாருண்டு<br/>இந்த ஜனங்களை நேசித்திட</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. கன்மலையை நீர் பிளந்து உந்தன்<br/>ஜனங்கலை தாகம் தீர்த்தீர்<br/>உம் நாமம் அதிசயம் இன்றும்<br/>அற்புதம் செய்திடுவீர்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Imaipozhuthum ennai kaividamaatteer</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1 v5 c1 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>இமைப்பொழுதும் என்னை கைவிடமாட்டீர்<br/>ஒரு நாளும் விட்டு விலகமாட்டார்<br/>நீர் கைவிடா கன்மலையே<br/>நித்தமும் காப்பவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நீரே என் அடைக்கலம்<br/>என் கோட்டை என் கேடகம்<br/>நான் நம்பும் தெய்வம் என்று சொல்லுவேன் (2)<br/>வேடனுடைய கண்ணிக்கும்<br/>பாழாக்கும் கொள்ளை நோய்க்கும்<br/>தப்புவித்து சிறகால் மூடி மறைக்கிறீர் (2)</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>நீர் கைவிடா கன்மலையே<br/>நித்தமும் காப்பவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கர்த்தர் என் மேய்ப்பர் நான் தாழ்ச்சியடையேனே<br/>புல்லுள்ள இடங்களில் என்னை மேய்க்கிறீர்<br/>அமர்ந்த தண்ணீரண்டையில் என்னை<br/>கொண்டு போய்விடுகிறீர்<br/>ஆத்துமாவை தேற்றி திருப்தியாய் நடத்துகிறீர்<br/>நீர் கைவிடா கன்மலையே<br/>நித்தமும் காப்பவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>பயமில்லை பயமில்லை எந்தன் குடும்பம் உந்தன் கையில்<br/>பயமில்லை பயமில்லை என் வாழ்க்கை உந்தன் கையில்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>என்னை பலுகச் செய்வீர் பெருகச் செய்வீர்<br/>நீண்ட ஆயுள் தந்து காப்பீர்<br/>குடும்பத்தை பேழைக்குள் வைத்து காப்பாற்றுவீர் (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>என் குடும்பத்தை வேலி அடைத்து காப்பாற்றுவீர்<br/>குடும்பத்தை பேழைக்குள் வைத்து காப்பாற்றுவீர்<br/>நீர் கைவிடா கன்மலையே<br/>நித்தமும் காப்பவரே</lines>
+    </verse>
+  </lyrics>
+</song>

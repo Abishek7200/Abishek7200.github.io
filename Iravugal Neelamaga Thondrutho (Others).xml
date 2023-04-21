@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Iravugal Neelamaga Thondrutho</title>
+      <title>Iravugal Neelamaga Thondrutho</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இரவுகள் நீளமாக தோன்றுதோ<br/>பகலை காண நீ காண துடிக்கிறாயோ<br/>மறந்திட முடியாமல் தவிக்கிறதோ – உன் உள்ளம்<br/>நாளையை குறித்து உனக்கு கவலையோ</lines>
+    </verse>
+    <verse name="v1">
+      <lines>பயந்திடாதே<br/>அப்பா இருக்கிறேன்<br/>இந்த யுத்தம் என் உடையது<br/>கலங்கிடாதே<br/>அப்பா இருக்கிறேன்<br/>என் மார்பிலே நீ சாய்ந்திடு</lines>
+    </verse>
+    <verse name="v2">
+      <lines>நீ தான் என் ஆசையே<br/>செல்லம் நீ தானே<br/>நீ தான் என் ஏக்கமே<br/>நினைவெல்லாம் நீ தானே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>காத்திருந்தும் கானல் நீரை காண்கிறாயோ<br/>பறந்திட முடியாமல் திகைக்கிறையோ<br/>யாரும் இல்லை என்று கலங்கிடுதோ – உன் நெஞ்சம்<br/>உலகம் உன்னை எதிர்த்து நிற்கிறதோ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ஆரிரரோ அப்பா இருக்கிறேன்<br/>என் மார்பிலே நீ சாய்ந்திடு</lines>
+    </verse>
+  </lyrics>
+</song>

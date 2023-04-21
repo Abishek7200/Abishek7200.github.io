@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Immattum kaividaa devan</title>
+      <title>Immattum kaividaa devan</title>
+    </titles>
+    <verseOrder>c1 v4 c1 v1 v4 c1 v2 v4 c1 v3 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இம்மட்டும் கைவிடா தேவன்<br/>இனியும் கைவிடமாட்டார்<br/>தாயின் வயிற்றில் தாங்கினார்<br/>ஆயுள் முழுதும் தாங்குவார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. ஆயன் இயேசு ஆடுநான்<br/>ஆதலால் பயமில்லை<br/>சாத்தான் பறிக்க முடியாது<br/>சபிக்கின்றேன் இயேசு நாமத்தில்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. இயேசு கிறிஸ்து வசனத்தால்<br/>எல்லா நாளும் சந்தோஷம்<br/>வியாதி வறுமை வேதனை<br/>எதுநான் பிரிக்க முடியுமோ</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. கர்த்தர் எனக்காய் யுத்தம் செய்வார்<br/>கலக்கம் எனக்கு இனியில்லை<br/>துதித்து துதித்து நாளெல்லாம்<br/>துரத்திடுவேன் சத்துருவை</lines>
+    </verse>
+    <verse name="v4">
+      <lines>தாங்குவார் தப்புவிப்பார்<br/>ஏந்துவார் என் தெய்வம்</lines>
+    </verse>
+  </lyrics>
+</song>

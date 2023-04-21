@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-16T01:53:26">
+  <properties>
+    <titles>
+      <title>Eppadi eppadi paarthalum</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>எப்படி எப்படி பார்த்தாலும் இயேசு நல்லவரே<br/>இப்படி அப்படி விலகிடாமல் காக்க வல்லவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. கோடரி மரத்தின் வேரின் அருகில் வைத்தவரே<br/>கோடரி இரும்பை கூட மிதக்க விட்டவரே<br/>கொடியென நான் படம் செடியாய் இருப்பவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>கனிகளும் எனில் மிகுந்திட - அருள்<br/>வரம் தரும் உயர் கிருபைகள் மிகும் - எப்படி</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2. களைகள் பிடுங்கி தீயில் எறிவேன் என்றவரே<br/>களைகளை பயிரின் நடுவில் வளர விட்டவரே<br/>களைகளின் நடுவினில் பயிரென வளர்ந்திடுவேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>கதிர் மணியென பதர் பறந்திட<br/>களஞ்சியமாகத் சேர்த்துவிடுவார் - எப்படி</lines>
+    </verse>
+    <verse name="v6">
+      <lines>3. நன்மையும் கிருபையும் என்னைத் தொடரும் என்றவரே<br/>நான் என்னில் இல்லையென்று உணர வைத்தவரே</lines>
+    </verse>
+    <verse name="v7">
+      <lines>செம்மையான இதயங்கொண்ட நீதியுள்ள மனிதனுக்கு<br/>வெளிச்சம் மகிழ்ச்சி விதைத்து வைத்தவர்<br/>விரைவில் அதை முளைக்கச் செய்வார் - எப்படி</lines>
+    </verse>
+  </lyrics>
+</song>

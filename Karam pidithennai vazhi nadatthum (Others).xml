@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Karam pidithennai vazhi nadatthum</title>
+      <title>Karam pidithennai vazhi nadatthum</title>
+    </titles>
+    <verseOrder>c1 v1 v4 v2 v4 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கரம் பிடித்தென்னை வழி நடத்தும்<br/>கண்மணி போல காத்துக் கொள்ளும்<br/>கறை திரை இல்லா வாழ்வளித்து<br/>பரிசுத்த பாதையில் நடத்திச் செல்லும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. மேய்ப்பனே உம்மந்தை ஆடு நானே<br/>மேய்த்திடும் மேய்ப்பனும் பின்னே செல்வேன்<br/>புல்வெளி மேய்ச்சல் காண செய்து<br/>அமர்ந்த தண்ணீரண்டை வழி நடத்தும்<br/>உம் கோலினை கொண்டு என் பாதை மாற்றும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. செட்டையில் உயர்த்தியே தூக்கிச் செல்லும்<br/>கழுகினை போல என் பயங்கள் மாற்றும் <br/>வானிலும் பூவிலும் நிலை நிற்கும்<br/>வரங்களினாலே எனை நிரப்பும்<br/>உம் வார்த்தையை கொண்டு என் வாழ்வை மாற்றும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. ஜீவனை தந்து என் ஜீவன் மீட்டீர்<br/>ஜீவிக்கும் நாளெல்லாம் உம்மில் வாழ்வேன்<br/>தோழ்களில் என்னை சுமந்து செல்லும்<br/>தோழரைப் போல அன்பு செய்யும்<br/>உம் அணைத்திடும் கரம் கொண்டென் கண்ணீர் மாற்றும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>கரம் பிடித்தென்னை வழி நடத்தும்<br/>கண்மணி போல காத்துக் கொள்ளும்</lines>
+    </verse>
+  </lyrics>
+</song>

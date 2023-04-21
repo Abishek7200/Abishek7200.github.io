@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-31T17:10:57">
+  <properties>
+    <titles>
+      <title>Immattum uthavina</title>
+      <title>Immattum uthavina</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>இம்மட்டும் உதவின தேவன் நீர்<br/>இறுதிவரை என்னோடு நீர்<br/>ஆச்சர்யமாய் தினம் நடத்தி வந்தீர்<br/>ஆதரவாய் என் உடனிருந்தீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>எபினேசரே எபினேசரே<br/>கோடி கோடி நன்றி ஐயா </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>1. காற்றும் மழையும் பார்க்கவில்லை <br/>    உள்ளங்கை மேகமும் காணவில்லை <br/>    வாய்க்கால்களெல்லாம் தண்ணீரைத் தந்து<br/>    வளமாக மாற்றி விட்டீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2. தீயும் தண்ணீரும் கடக்க வைத்தீர்<br/>    அக்கினிச் சூளையில் நடக்க வைத்தீர்<br/>    அவிந்து போகாமல் நீரில் மூழ்காமல்<br/>    கரங்களில் ஏந்திக் கொண்டீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>3. இரத்தம் சிந்தி மீட்டுக் கொண்டீர்<br/>    கிருபையினாலே அழைத்து வந்தீர்<br/>    அழியாமல் காத்து கானானில் சேர்த்து<br/>    உம் துதி சொல்ல வைத்தீர்</lines>
+    </verse>
+  </lyrics>
+</song>

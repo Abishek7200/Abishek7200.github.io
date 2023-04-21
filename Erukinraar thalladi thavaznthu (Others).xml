@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Erukinraar thalladi thavaznthu</title>
+      <title>Erukinraar thalladi thavaznthu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஏறுகின்றார் தள்ளாடி தவழ்ந்து<br/>களைப்போடே என்<br/>இயேசு குருசை சுமந்தே<br/>என்நேசர் கொல்கொதா<br/>மலையின் மேல் நடந்தே ஏறுகின்றார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>கன்னத்தில் அவன் ஓங்கி அறைய<br/>சின்னப் பிள்ளை போல் ஏங்கி நின்றார்<br/>அந்தப் பிலாத்தும் கையைக் கழுவி<br/>ஆண்டவரை அனுப்புகிறான்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>மிஞ்சும் பெலத்தால் ஈட்டி எடுத்தே<br/>நெஞ்சைப் பிளந்தான் ஆ கொடுமை<br/>இரத்தம் நீரும் ஓடி வருதே<br/>இரட்சகரை நோக்கியே பார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>இந்தப் பாடுகள் உந்தன் வாழ்வுக்காய்<br/>சொந்தப் படுத்தி ஏற்றுக் கொண்டார்<br/>நேசிக்கின்றாயோ இயேசு நாதரை<br/>நேசித்து வா குருசெடுத்தே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>சேவல் கூவிடும் மூன்று வேளையும்<br/>சொந்தக் குருவை மறுதலித்தான்<br/>ஓடி ஒளியும் பேதுருவையும்<br/>தேடி அன்பாய் நோக்குகின்றார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>பின்னே நடந்த அன்பின் சீஷன் போல்<br/>பின்பற்றி வா சிலுவை வரை<br/>காடியை போல கசந்திருக்கும்<br/>கஷ்டங்களை அவரிடம் சொல்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>செட்டைகளின் கீழ் சேர்த்தணைத்திடும்<br/>சொந்தத் தாயின் அன்பதுவே<br/>எருசலமே ! எருசலமே<br/>என்றழுதார் கண் கலங்க</lines>
+    </verse>
+  </lyrics>
+</song>

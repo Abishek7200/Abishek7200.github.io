@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Indru Muthal Naan Unnai Aaseervathippen</title>
+      <title>Indru Muthal Naan Unnai Aaseervathippen</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இன்று முதல் நான் உன்னை ஆசீர்வதிப்பேன்<br/>எல்லையில்லா நன்மைகளால் நிரப்பிடுவேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. பெரிய இனமாக்கி ஆசீர்வதிப்பேன்<br/>உமது பெயரை நான் உயர்த்திடுவேன்<br/>ஆசீர்வாத வாய்க்காலாய் நீ இருப்பாய்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. செல்லும் இடமெல்லாம்<br/>காவலாய் நான் இருப்பேன்<br/>சொன்னதை செய்திடுவேன்<br/>கைவிடமாட்டேன்<br/>நீ வாழும் இந்த தேசம் உனக்கு தந்திடுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. பரவி பாய்கின்ற ஆறுகள் நீதானே<br/>நதியோரம் வளருகின்ற தோட்டமும் நீதானே<br/>வாசனை தருகின்ற சந்தனமும் நீதானே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. பத்தில் ஒரு பங்கு நீ கொடுத்தால்<br/>வானத்தின் பலகனிகள் திறந்திடுவேன்<br/>இடம் கொள்ளாதமட்டும் நிரப்பிடுவேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. எனது சாயலாய் உருவாக்கி நடத்துகிறேன்<br/>பலுகி பெருகிடுங்கள் பூமியெல்லாம்<br/>நிரம்பிடுங்கள்<br/>உயிர் வாழும் அனைத்தின் மேல்<br/>ஆளுகை செய்திடுங்கள்</lines>
+    </verse>
+  </lyrics>
+</song>

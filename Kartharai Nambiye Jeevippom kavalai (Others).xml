@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kartharai Nambiye Jeevippom kavalai</title>
+      <title>Kartharai Nambiye Jeevippom kavalai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கர்த்தரை நம்பியே ஜீவிப்போம்<br/>கவலை கஷ்டங்கள் தீர்ந்திடும்<br/>கைவிடா காத்திடும் பரமனின்<br/>கரங்களை நாம் பற்றிக் கொள்வோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. ஜீவ தேவன் பின் சொல்லுவோம்<br/>ஜீவ ஒளிதனைக் கண்டடைவோம்<br/>மனதின் காரிருள் நீங்கிடவே<br/>மா சமாதானம் தங்கும் — கர்த்தரை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. உண்மை வழி நடந்திடும்<br/>உத்தமனுக் கென்றும் கர்த்தர் துணை<br/>கண்கள் அவன் மீது வைத்திடுவார்<br/>கருத்தாய்க் காத்திடுவார் — கர்த்தரை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. உள்ளமதின் பாரங்களை<br/>ஊக்கமாய் கர்த்தரிடம் சொல்லுவோம்<br/>இக்கட்டு நேரத்தில் கூப்பிடுவோம்<br/>இயேசு வந்தாதரிப்பார் — கர்த்தரை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. அன்பு மிகும் அண்ணலிவர்<br/>அருமை இயேசுவை நெருங்குவோம்<br/>தம் மண்டை வந்தோரைத் தள்ளிடாரே<br/>தாங்கி அணைத்திடுவார் — கர்த்தரை</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. நீதிமானின் சிரசின் மேல்<br/>நித்திய ஆசீர் வந்திறங்குமே<br/>கிருபை நன்மைகள் தொடருமே<br/>கேட்பது கிடைக்குமே — கர்த்தரை</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. இம்மைக்கேற்ற இன்பங்களை<br/>நம்மை விட்டு முற்றும் அகற்றுவோம்<br/>மாறாத சந்தோஷம் தேடிடுவோம்<br/>மறுமை இராஜ்ஜியத்தில் — கர்த்தரை</lines>
+    </verse>
+  </lyrics>
+</song>

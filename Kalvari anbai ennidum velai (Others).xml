@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kalvari anbai ennidum velai</title>
+      <title>Kalvari anbai ennidum velai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கல்வாரி அன்பை எண்ணிடும் வேளை<br/>கண்கள் கலங்கிடுதே<br/>கர்த்தா உம் பாடுகள் இப்போதும் நினைத்தால்<br/>நெஞ்சம் நெகிழ்ந்திடுதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>கெத்சமனே பூங்காவிலே<br/>கதறி அழும் ஓசை<br/>எத்திசையும் தொனிக்கிறதே<br/>எங்கள் மனம் திகைக்கின்றதே<br/>கண்கள் கலங்கிடுதே – கல்வாரி</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>சிலுவையில் மாட்டி வதைத்தனரோ<br/>உம்மை செந்நிறம் ஆக்கினரோ<br/>அப்போதும் அவர்காய் வேண்டினீரே<br/>அன்போடு அவர்களை கண்டீரன்றோ<br/>அப்பா உம் மனம் பெரிதே – கல்வாரி</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>எம்மையும் உம்மைபோல் மாற்றிடவே<br/>உம் ஜீவன் தந்தீரன்றோ<br/>என் தலை தரைமட்டும் தாழ்த்துகின்றேன்<br/>தந்து விட்டேன் அன்பின் கரங்களிலே<br/>ஏற்று என்றும் நடத்தும் – கல்வாரி</lines>
+    </verse>
+  </lyrics>
+</song>

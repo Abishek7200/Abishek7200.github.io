@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Isravele Bayapadathe naane un devan</title>
+      <title>Isravele Bayapadathe naane un devan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இஸ்ரவேலே பயப்படாதே<br/>நானே உன் தேவன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>வழியும் சத்தியமும் ஜீவனும் நானே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. உன்னை நானே தெரிந்துகொண்டேனே<br/>உன் பெயர் சொல்லி நான் அழைத்தேனே<br/>ஒரு போதும் நான் கைவிடமாட்டேன்<br/>கைவிடமாட்டேன் – வழியும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. தாய் மறந்தாலும் நான் மறவேனே<br/>உள்ளங்கையில் தாங்கி உள்ளேன்<br/>ஒருபோதும் நான் மறப்பதில்லை<br/>மறந்து போவதில்லை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. துன்பநேரம் சோர்ந்துவிடாதே<br/>ஜீவகிரீடம் உனக்குத் தருவேன்<br/>சீக்கிரம் வருவேன் அழைத்துச் செல்வேன்<br/>எழுந்து ஒளி வீசு</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. தீயின் நடுவே நீ நடந்தாலும்<br/>எரிந்து நீயும் போகமாட்டாய்<br/>ஆறுகளை நீ கடக்கும் போது<br/>மூழ்கி போக மாட்டாய்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Jeevikkirar Yesu Jeevikkirar</title>
+      <title>Jeevikkirar Yesu Jeevikkirar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஜீவிக்கிறார் இயேசு ஜீவிக்கிறார்<br/>என்னுள்ளத்தில் அவர் ஜீவிக்கிறார்<br/>துன்பத்தில் என் நல் துணை அவரே<br/>என்றென்றும் ஜீவிக்கிறார்(2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. செங்கடல் அவர் சொல்ல இரண்டாய் நின்றது<br/>பெருங்கோட்டை ஒன்று தரைமட்டமானது<br/>அவர் சொல்ல குருடரின் கண் திறந்தது<br/>அவர் தொடக் குஷ்டரோகி சுத்தமாயினான் – ஜீவிக்கிறார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. உம்மை என்றும் விடாமல் நான் தொடரவே<br/>என்னை என்றும் விடாமல் நீர் பிடிக்கவே<br/>நான் மரிக்கும் நேரத்தில் பரலோகத்தில்<br/>உம் வீட்டைக் காட்டும் நல்ல மேய்ப்பரே – ஜீவிக்கிறார்</lines>
+    </verse>
+  </lyrics>
+</song>

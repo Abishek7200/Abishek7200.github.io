@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Isravel en janame endrum idarida vendam</title>
+      <title>Isravel en janame endrum idarida vendam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இஸ்ரவேல் என் ஜனமே என்றும்<br/>இடறிட வேண்டாம்<br/> ஏகோவா உன் தெய்வமானால் <br/>ஏதும் பயம் வேண்டாம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1.ஓங்கும் புயமும் பலத்த கரமும்<br/>உன் பக்கமே யுண்டு<br/>தாங்கும் கிருபை<br/>தயவு இரக்கம் தாராளமாயுண்டு</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2.பார்வோன் கைக்குவிடுத்து<br/>மீட்ட பஸ்கா ஆட்டுக்குட்டி<br/>ஆரோன் மோசே என்னும்<br/>நல்ல ஆசாரியர் உண்டு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3.செங்கடலில் வழி திறந்த<br/>சீயோன் நாயகனே பங்கமின்றி<br/>பாலைவனத்தில் பராமரித்தாரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4.சத்துருக்களை சிதற அடித்து<br/>சர்வ வல்ல தேவன்<br/>யுத்தத்தில் உன் முன்னே<br/>நின்று ஜெயமெடுத்தாரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5.பயப்படாதே சிறுமந்தையே<br/>பார் நான் உன் மேய்ப்பன்<br/>தயங்காதே மனம் கலங்காதே<br/>உன் தேவன் தினம் காப்பேன்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Karthane Em Thunaiyaaneer nithamum en</title>
+      <title>Karthane Em Thunaiyaaneer nithamum en</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கர்த்தனே எம் துணையானீர்<br/>நித்தமும் எம் நிழலானீர்<br/>கர்த்தனே எம் துணையானீர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எத்தனை இடர் வந்து சேர்ந்தாலும்<br/>கர்த்தனே அடைக்கல மாயினார் (2)<br/>மனுமக்களில் இவர் போலுண்டோ<br/>விண் உலகிலும் இவர் சிறந்தவர் – கர்த்தனே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பாவி என்றென்னைப் பலர் தள்ளினார்<br/>ஆவி இல்லை என்றிகழ்ந்தும் விட்டார் (2)<br/>ராஜா உம் அன்பு எனைக் கண்டது<br/>உம்மைப்போல் ஐயா, எங்கும் கண்டதில்லை – கர்த்தனே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சுற்றத்தாரும் காலத்தில் குளிர்ந்திட்டார்<br/>நம்பினோரும் எதிராக வந்திட்டார் (2)<br/>கொள்கை கூறியே பலர் பிரிந்திட்டார்<br/>ஐயா, உம்மைப்போல் நான் எங்கும் கண்டதில்லை – கர்த்தனே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. ஆயிரம் நாவுகள் நீர் தந்தாலும்<br/>ராஜனே, உமைப் பாடக்கூடுமோ (2)<br/>ஜீவனே உமக்களிக்கின்றேனே<br/>உம்மைப்போல் ஐயா, எங்கும் கண்டதில்லை – கர்த்தனே</lines>
+    </verse>
+  </lyrics>
+</song>

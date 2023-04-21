@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Jeeva Naatha Jeeva Naatha</title>
+      <title>Nanni Yesuve Nanni Yesuve</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 c1 v5 v6 v2 v3 v4 v7 v6 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஜீவநாதா ஜீவநாதா <br/>உம் திரு இரத்தம் தந்தென்னை மீட்டெடுத்தவரே <br/>மீட்டேடுத்தீர் என்னையும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>ஜீவநாதன் தம் திருஇரத்ததால்<br/>என்னையும் மீட்டேடுத்தீர்<br/><br/>கிருபையே  கிருபையே<br/>சொல்லிட வார்த்தை இல்லையே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>நன்றி இயேசுவே நன்றி இயேசுவே <br/>நீர் செய்த நன்மைக்கே ஓர் ஆயிரம் நன்றி</lines>
+    </verse>
+    <verse name="v3">
+      <lines>என் திறனால் அல்ல<br/>கையின் பெலனால் அல்ல<br/>உங்க தயவல்லவோ என்னை நடத்தினதே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>நிற்பதும் கிருபையால்<br/>கிருபையால் தேவ கிருபையால்<br/>நடத்தும் தயவால்<br/>தயவால் நித்திய தயவால்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>கோழி தன் குஞ்சினை சிறகின் கீழே <br/>மறைப்பது போல்<br/>கழுகு தன் குஞ்சினை<br/>சிறகின் மேலே காப்பது போல் - (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>எண்ணினால் எண்ணினால்<br/>ஏராள நன்மைகள்<br/>சொல்லியும்  சொல்லியும்<br/>தீரா உம் கிருபைகள் - நன்றி இயேசுவே</lines>
+    </verse>
+    <verse name="v7">
+      <lines>காரிருள் பள்ளத்தாக்கில் பயமில்லாமல் <br/>என்னை நடத்தினதால்<br/>சறுக்கிடும் மேடுகளில் <br/>கரம்பிடித்து  என்னை நடத்தினதால் -  (2)</lines>
+    </verse>
+  </lyrics>
+</song>

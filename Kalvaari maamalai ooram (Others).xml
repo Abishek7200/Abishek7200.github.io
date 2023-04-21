@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kalvaari maamalai ooram</title>
+      <title>Kalvaari maamalai ooram</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கல்வாரி மா மாலையோரம்<br/>கொடுங்கோர காட்சி கண்டேன்<br/>கண்ணில் நீர் வழிந்திடுதே<br/>எந்தன் மீட்பர் இயேசு அதோ</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>எருசலேமின் வீதிகளில்<br/>இரத்த வெள்ளம் கோலமிட<br/>திருக்கோலம் நிந்தனையால்<br/>உருக்குலைந்து சென்றனரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>சிலுவை தன் தோளதிலே<br/>சிதறும் தன் வேர்வையிலே<br/>சிறுமை அடைந்தவராய்<br/>நிந்தனை பல சகித்தார்</lines>
+    </verse>
+  </lyrics>
+</song>

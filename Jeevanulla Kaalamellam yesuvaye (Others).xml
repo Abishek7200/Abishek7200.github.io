@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Jeevanulla Kaalamellam yesuvaye</title>
+      <title>Jeevanulla Kaalamellam yesuvaye</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v1 v3 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஜீவனுள்ள காலமெல்லாம்<br/>இயேசுவையே பாடுவேன்<br/>எனக்காக ஜீவன் தந்த<br/>நேசரையே நாடுவேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அர்ப்பணித்தேன் என்னையுமே<br/>அகமகிழ்ந்தேன் அவரிலே<br/>அவரே என் வாழ்வில் அற்புதம்<br/>அவரில் என் வாழ்வு உன்னதம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>மாராவின் கசப்பும் கூட மதுரமாக மாறிடும்<br/>மாறாத மனமும் கூட மன்னவரால் மாறிடும்<br/>தேசம் தேவனை அறிந்திடுமே<br/>அழியும் பாதை மாறிடுமே<br/>தேவனின் ராஜ்யம் ஆகிடுமே<br/>தாகமுள்ள ஜெபத்தினால்- நம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>முடங்காத முழங்கால் யாவும்<br/>கர்த்தர் முன்பு முடங்கிடும்<br/>துதியாத நாவு யாவும் தூயவரை துதித்திடும்<br/>உள்ளத்தின் கண்கள் திறந்திடுமே<br/>பாரெங்கும் மலர்ச்சி தோன்றிடுமே<br/>பரிசுத்த ராஜ்யம் ஆகிடுமே<br/>பாரமுள்ள ஜெபத்தினால் - நம்</lines>
+    </verse>
+  </lyrics>
+</song>

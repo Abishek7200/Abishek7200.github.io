@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Entha Kaalathilum Entha Nerathilum nandriyaal</title>
+      <title>Entha Kaalathilum Entha Nerathilum nandriyaal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 v10 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எந்தக் காலத்திலும் எந்த நேரத்திலும்<br/>நன்றியால் உம்மை நான் துதிப்பேன்<br/>இயேசுவே உம்மை நான் துதிப்பேன் துதிப்பேன்<br/>எந்த வேளையிலும் துதிப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. ஆதியும் நீரே அந்தமும் நீரே<br/>ஜோதியும் நீரே சொந்தமும் நீரே – எந்த</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. தாய் தந்தை நீரே தாதையும் நீரே<br/>தாபரம் நீரே என் தாரகம் நீரே – எந்த</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. வாழ்விலும் நீரே தாழ்விலும் நீரே<br/>வாதையில் நீரே பாதையில் நீரே – எந்த</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. வானிலும் நீரே பூவிலும் நீரே<br/>ஆழியில் நீரே என் ஆபத்தில் நீரே – எந்த</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. துன்ப நேரத்தில் இன்பமும் நீரே<br/>இன்னல் வேளையில் என் மாறிடா நேசர் – எந்த</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. ஞான வைத்தியராம் ஒவ்ஷதம் நீரே<br/>ஆத்ம நேசராம் என் நண்பரும் நீரே – எந்த</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>7. ஞானமும் நீரே கானமும் நீரே<br/>தானமும் நீரே என் நாதனும் நீரே – எந்த</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>8. ஆறுதல் நீரே ஆதாரம் நீரே<br/>ஆசையும் நீரே என் ஆனந்தம் நீரே – எந்த</lines>
+    </verse>
+    <verse name="v9">
+      <lines><br/>9. மீட்பரும் நீரே மேய்ப்பரும் நீரே<br/>மேன்மையும் நீரே என் மகிமையும் நீரே – எந்த</lines>
+    </verse>
+    <verse name="v10">
+      <lines><br/>10. தேவனும் நீரே என் ஜீவனும் நீரே<br/>ராஜராஜனாம் என் சர்வமும் நீரே – எந்த</lines>
+    </verse>
+  </lyrics>
+</song>

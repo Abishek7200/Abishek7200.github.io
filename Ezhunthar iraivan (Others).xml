@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Ezhunthar iraivan</title>
+      <title>Ezhunthar iraivan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எழுந்தார் இறைவன் – ஜெயமே ஜெயமெனவே<br/>எழுந்தார் இறைவன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. விழுந்தவரைக் கரையேற்றப் – பாவத்<br/>தழுந்து மனுக்குலத்தை மாற்ற – விண்ணுக்<br/>கெழுந்து நாம் அவரையே போற்ற – எழுந்தார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. செத்தவர் மீண்டுமே பிழைக்க – உயர்<br/>நித்திய ஜீவனை அளிக்கத் – தேவ<br/>பக்தர் யாவரும் களிக்க – எழுந்தார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. கருதிய காரியம் வாய்க்கத் – தேவ<br/>சுருதி மொழிகளெல்லாம் காக்க – நம்<br/>இரு திறத்தாரையும் சேர்க்க – எழுந்தார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. சாவின் பயங்கரத்தை ஒழிக்கக் – கெட்ட<br/>ஆவியின் வல்லமையை அழிக்க – இப்<br/>பூவின் மீதுசபை செழிக்க – எழுந்தார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. ஏதுந் தீவினை செய்யாத் தூயன் – எப்<br/>போதுமே நன்மைபுரி நேயன் – தப்<br/>பாது காத்திடும் நல்லாயன் – எழுந்தார்</lines>
+    </verse>
+  </lyrics>
+</song>

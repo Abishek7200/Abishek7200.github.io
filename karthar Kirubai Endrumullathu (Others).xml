@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>karthar Kirubai Endrumullathu</title>
+      <title>Karthar Nallavar En Devan</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>கர்த்தர் கிருபை என்றுமுள்ளது<br/>என்றென்றும் மாறாதது<br/>ஆண்டுகள் தோறும் ஆண்டவர் கிருபை<br/>ஆண்டு நடத்திடுதே</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>கர்த்தர் நல்லவர்<br/>நம் தேவன் பெரியவர்<br/>பெரியவர், பரிசுத்தர் கிருபைகள் நிறைந்தவர்<br/>உண்மையுள்ளவர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கடந்த ஆண்டு முழுவதும் நம்மை<br/>கரத்தைப் பிடித்து நடத்தினாரே<br/>தகப்பன் பிள்ளையை சுமப்பது போல<br/>தோளில் சுமந்து நடத்தினாரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>வியாதி படுக்கை மரண நேரம்<br/>பெலனற்ற வேளையில் தாங்கினாரே<br/>விடுதலை தந்தார் பெலனும் ஈந்தார்<br/>சாட்சியாய் நம்மை நிறுத்தினாரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>சோதனை நம்மை சூழ்ந்திட்ட நேரம்<br/>வலக்கரத்தால் நம்மை தேற்றினாரே<br/>வார்த்தையை அனுப்பி நம்மோடு பேசி<br/>தைரியப்படுத்தி நடத்தினாரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>கண்ணீர் கவலையாவையும் போக்க<br/>கர்த்தர் இயேசு வருகின்றாரே<br/>கலங்கிட வேண்டாம் பயப்பட வேண்டாம்<br/>அவரோடு நாமும் பறந்து செல்வோம்</lines>
+    </verse>
+  </lyrics>
+</song>

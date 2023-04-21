@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Jeevanulla Devane Varum jeeva paathayile nadathum</title>
+      <title>Jeevanulla Devane Varum jeeva paathayile nadathum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v3 c1 v4 v5 c1 v4 v1 c1 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஜீவனுள்ள தேவனே வாரும்<br/>ஜீவ பாதையிலே நடத்தும்<br/>ஜீவ தண்ணீர் ஊரும் ஊற்றிலே<br/>ஜீவன் பெற என்னை நடத்தும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இயேசுவே நீர் பெரியவர் இயேசுவே நீர் பரிசுத்தர்<br/>இயேசுவே நீர் நல்லவர் இயேசுவே நீர் வல்லவர்<br/>ஜீவ தண்ணீர் ஊரும் ஊற்றிலே<br/>ஜீவன் பெற என்னை நடத்தும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. பாவிகள் துரோகிகள் ஐயா<br/>பாவ ஆதாம் மக்களே தூயா<br/>பாதகர் எம் பாவம் போக்கவே<br/>பாதகன் போல் தொங்கினீரல்லோ</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2. ஐந்து கண்ட மக்களுக்காக<br/>ஐந்து காயமேற்ற நேசரே<br/>நொந்துருகி வந்த மக்கள் மேல்<br/>நேச ஆவி வீசச் செய்குவீர்</lines>
+    </verse>
+    <verse name="v5a">
+      <lines><br/>3. வாக்குத் தத்தம் செய்த கர்த்தரே<br/>வாக்கு மாறா உண்மை நாதனே<br/>வாக்கை நம்பி வந்து நிற்கிறோம்<br/>வல்ல ஆவி மாரி ஊற்றுவீர்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>4. நியாயத் தீர்ப்பின் நாள் நெருங்குதே<br/>நேசர் வர காலமாகுதே<br/>மாயலோகம் நம்பி மாண்டிடும்<br/>மானிடரை மீட்க மாட்டீரோ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>இயேசுவே நீர் பெரியவர் இயேசுவே நீர் பரிசுத்தர்<br/>இயேசுவே நீர் நல்லவர் இயேசுவே நீர் வல்லவர்<br/>பாதகர் எம் பாவம் போக்கவே<br/>பாதகன் போல் தொங்கினீரல்லோ</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>இயேசுவே நீர் பெரியவர் இயேசுவே நீர் பரிசுத்தர்<br/>இயேசுவே நீர் நல்லவர் இயேசுவே நீர் வல்லவர்<br/>நொந்துருகி வந்த மக்கள் மேல்<br/>நேச ஆவி வீசச் செய்குவீர்</lines>
+    </verse>
+  </lyrics>
+</song>

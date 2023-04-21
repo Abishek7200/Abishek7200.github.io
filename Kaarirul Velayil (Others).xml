@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-24T05:38:21">
+  <properties>
+    <titles>
+      <title>Kaarirul Velayil</title>
+      <title>Kaarirul Velayil</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>காரிருள் வேளையில் கடுங்குளிர் நேரத்தில்<br/>ஏழைக் கோலமதாய்<br/>பாரினில் வந்த மன்னவனே உம்<br/>மாதயவே தயவு</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. விண்ணுலகில் சிம்மாசனத்தில்<br/>தூதர்கள் பாடிடவே<br/>வீற்றிருக்காமல் மானிடனானது<br/>மாதயவே தயவு – காரிருள்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. விண்ணில் தேவனுக்கே மகிமை<br/>மண்ணில் சமாதானம்<br/>மானுடரில் பிரியம் மலர்ந்தது உந்தன்<br/>மாதயவே தயவு – காரிருள்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. விந்தை விதந்தனில் வந்தவனே,<br/>வானவனே, நாங்கள்<br/>தந்தையின் அன்பைக் கண்டதும் உந்தன்<br/>மாதயவே தயவு – காரிருள்</lines>
+    </verse>
+  </lyrics>
+</song>

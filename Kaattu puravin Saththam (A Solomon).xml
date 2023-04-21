@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kaattu puravin Saththam</title>
+      <title>Kaattu puravin Saththam</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 c2</verseOrder>
+    <authors>
+      <author type="words">A Solomon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>காட்டு புறாவின் சத்தம் கேட்கிறதே <br/>என் நேசர் (இயேசு) என்னைத் தேடி வருவாரென்று</lines>
+    </verse>
+    <verse name="c2">
+      <lines>கானக்குயிலின் கானம்  இசைக்கின்றதே <br/>மன்னவர் சிங்காரமாய் வருவாரென்று                     </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உம் வருகைவரை நான் காத்திருப்பேன்<br/>என் விழி இரண்டால் என்றும் விழித்திருப்பேன்-2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. தாயினும் மேலாய் உந்தன் அன்பு உள்ளதே <br/>தந்தையாக நீர் என்னில் வாழ்கின்றிரே<br/>நீர் எந்தன் நேசர் தானே<br/>நீர் எந்தன் நண்பர்தானே <br/>என்றென்றும் உந்தன் அன்பை<br/>என்னவென்று நான் சொல்லுவேன் <br/>                              - உம்வருகை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. கனவெல்லாம் என்றும் உம்மையே காண்கிறேன்<br/>நினைவெல்லாம் என்றும் உம்மையே சுற்றுதே<br/>நீரின்றி நானும் இல்லை<br/>நீர்தானே  எந்தன் எல்லை<br/>என்றென்றும் எந்தன் நாவால்<br/>உம்மையே பாடி டுவேன்<br/>                              - உம்வருகை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. பூரண அழகு உள்ளவரும் நீர்தானே <br/> உமக்கு நிகராய் யாரும் இங்கு இல்லையே <br/>நீர் எந்தன் ஜீவன்தானே<br/>நான் உந்தன் சாயல்தானே<br/>என்றென்றும் எந்தன் மூச்சு<br/>உந்தன் பெயர் சொல்லிடுதே<br/>                              - உம்வருகை</lines>
+    </verse>
+  </lyrics>
+</song>

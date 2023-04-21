@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Entha Nilayil Naan Irunthalum ennai verukathavar</title>
+      <title>Entha Nilayil Naan Irunthalum ennai verukathavar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எந்த நிலையில் நீ இருந்தாலும் – உன்னை<br/>வெறுக்காதவர் இயேசு ஒருவரே – என் தேவன் நடுவரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1.நோயாளியாய் நீ இருந்தால் பலர் வெறுப்பார்கள்<br/>உன் நோய்களையே சொல்லி சொல்லி நோக வைப்பார்கள் – எந்த</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2.கடனாளியாய் நீ இருந்தால் பலர் வெறுப்பார்கள் – உன்<br/>கடனதையே சொல்லி சொல்லி கலங்க வைப்பார்கள் – எந்த</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3.ஏழையாக நீ இருந்தால் பலர் வெறுப்பார்கள் – உன்<br/>ஏழ்மையையே சொல்லி சொல்லி ஏங்க வைப்பார்கள் – எந்த</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4.பட்டப் படிப்பு இல்லாவிட்டால் பலர் வெறுப்பார்கள்<br/>உன்னை பட்ட மரம் என்று சொல்லி பரிகசிப்பார்கள் – எந்த</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5.அனாதையாய் நீ இருந்தால் பலர் வெறுப்பார்கள்<br/>அன்பை உனக்குத் தருவேன் என்று அலைய வைப்பார்கள் – எந்த</lines>
+    </verse>
+  </lyrics>
+</song>

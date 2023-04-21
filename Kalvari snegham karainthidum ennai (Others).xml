@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kalvari snegham karainthidum ennai</title>
+      <title>Kalvari snegham karainthidum ennai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கல்வாரி சிநேகம் கரைத்திடும் என்னை<br/>கல்மனம் மாற்றி கரைந்தோட செய்யும் (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. காலங்கள் தோறும் காவலில் உள்ளோர்<br/>காணட்டும் உம்மை களிப்போடு என்றும்<br/>குருசதின் இரத்தம் குரல் கொடுக்கட்டும்<br/>கும்பிடுவோரை குணமாக்கும் வேதம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. இருண்டதோர் வாழ்வில் இன்னமும் வாழ்வோர்<br/>இனியாவது உம் திருமுகம் காண<br/>நாதா உம் சிநேகம் பெருகட்டும் என்னில்<br/>என்னை காணுவோர் உம்மை காணட்டும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. அற்பமான வாழ்வு அற்புதமாய் மாற<br/>அனைத்தையும் தந்தேன் ஆட்கொள்ளும் தேவா<br/>நான் சிறுகவும் நீர் பெருகவும்<br/>தீபத்தின் திரியாய் எடுத்தாட்கொள்ளும்</lines>
+    </verse>
+  </lyrics>
+</song>

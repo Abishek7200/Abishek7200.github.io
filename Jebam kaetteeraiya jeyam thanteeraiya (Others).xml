@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Jebam kaetteeraiya jeyam thanteeraiya</title>
+      <title>Jebam kaetteeraiya jeyam thanteeraiya</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v1 v2 c1 v4 v1 v2 c1 v5 v1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. ஜெபம் கேட்டீரையா <br/>ஜெயம் தந்தீரையா<br/>தள்ளாட விடவில்லையே<br/>தாங்கியே நடத்தினீரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>புகழ்கின்றேன் பாட்டுப்பாடி<br/>புயல் இன்று ஓய்ந்தது<br/>புதுராகம் பிறந்தது</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நன்றி அப்பா நல்லவரே<br/>இன்றும் என்றும் வல்லவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. கண்ணீரைக் கண்டீரையா<br/>கரம் பிடித்தீரையா<br/>விண்ணப்பம் கேட்டீரையா<br/>விடுதலை தந்தீரையா --- புகழ்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. எபிநேசர் நீர்தானையா<br/>இதுவரை உதவினீரே<br/>எல்ரோயீ நீர்தானையா<br/>என்னையும் கண்டீரையா --- புகழ்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. உறுதியாய் பற்றிக் கொண்டேன்<br/>உம்மையே நம்பி உள்ளேன்<br/>பூரண சமாதானரே<br/>போதுமே உம் சமூகமே --- புகழ்</lines>
+    </verse>
+  </lyrics>
+</song>

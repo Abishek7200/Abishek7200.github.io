@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kaalaiyum Maalaiyum evvelayum kartharai</title>
+      <title>Kaalaiyum Maalaiyum evvelayum kartharai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1 v7 v1 c1 v8 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>காலையும் மாலையும் எவ்வேளையும் கர்த்தரைக்<br/>கருத்துடன் பாடிடுவேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பரிசுத்தர் பரிசுத்தர் பரிசுத்தர் எனத்தூதர்<br/>பாடிடும் தோணி கேட்குதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. கர்த்தர் என் வெளிச்சம் ஜீவனின் பெலனும்<br/>கிருபையாய் இரட்சிப்புமானார்<br/>அஞ்சிடாமல் கலங்காமல் பயமின்றித் திகிலின்றி<br/>அனுதினம் வாழ்ந்திடுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. எனக்கெதிராய் ஓர் பாளயமிறங்கி<br/>என்மேல் ஓர் யுத்தம் வந்தாலும்<br/>பயப்படேன் எதிராளி நிமித்தமாய் செவ்வையான<br/>பாதையில் நடத்திடுவார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. ஒன்றை நான் கேட்டேன் அதையே நாடுவேன்<br/>என்றும் தம் மகிமையைக் காண<br/>ஜீவனுள்ள நாளெல்லாம் தம் ஆலயத்தில் தங்குவதை<br/>வாஞ்சித்து நாடிடுவேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. தீங்கு நாளில் தம் கூடார மறைவில்<br/>தேடிச் சேர்த்தென்னை மறைப்பார்<br/>உன்னதத்தில் மறைவாக ஒளித்தென்னைப் பாதுகாத்து<br/>உயர்த்துவார் கன்மலைமேல்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. எந்தன் முகத்தைத் தேடுங்கள் என்று<br/>என் கர்த்தர் சொன்னதினாலே<br/>தம் முகத்தைத் தேடுவேனே கூப்பிடும் என் சத்தம் கேட்டு<br/>தயவாகப் பதிலளிப்பார்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6. தகப்பனும் தாயும் கைவிட்டாலும் என்<br/>கர்த்தர் என்னைச் சேர்த்து கொள்வார்<br/>எந்தன் உள்ளம் ஸ்திரமாகத் திடமாகக் கர்த்தருக்கே<br/>என்றென்றும் காத்திருக்கும்</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>7. எனக்காக யாவும் செய்து முடிப்பார்<br/>என் கர்த்தர் வாக்குமாறிடார்<br/>தமக்கென்றும் பயந்திடும் பக்தர் யாவர்<br/>விருப்பமும் தவறாமல் நிறைவேற்றுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

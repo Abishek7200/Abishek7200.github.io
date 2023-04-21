@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Enthan Thaazhvil Ennai Ninaithavare</title>
+      <title>Enthan Thaazhvil Ennai Ninaithavare</title>
+    </titles>
+    <verseOrder>c1 c2 c1 v1 v2 c1 v3 v2 c1 v5 v2 c1 c2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எந்தன் தாழ்வில் என்னை நினைத்தவரே<br/>உந்தன் நாமம் உயர்த்திடுவேன்-2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>கடந்த நாட்களில் கண்ணின் மணி போல்<br/>கருத்துடன் நீர் காத்தீரே-2<br/>கடந்து வந்த பாதையில் தினமும்<br/>கரம் பிடித்தீர் அதிசயமாய்-2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>இயேசுவே இரட்சகா<br/>ஆசையோடே வாழ்த்துகிறேன்-2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>கழுகை போல் உம் சிறகின் மேலே<br/>சுமந்து என்னை தாங்கினீரே-2<br/>வழிகளில் நான் இடறி விழாமல்<br/>கருணை கரத்தால் உயர்த்தினீரே-2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>உலகம் என்னை கைவிட்ட போது<br/>கிருபையால் என்னை தாங்கினீரே-2 <br/>மனிதர் யாவரும் மறந்திட்ட போது<br/>மறவாமல் என்னை நினைத்தவரே-2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>எண்ணில் அடங்கா நன்மைகள் செய்தவரே <br/>நன்றியால் துதித்திடுவேன்-2</lines>
+    </verse>
+  </lyrics>
+</song>

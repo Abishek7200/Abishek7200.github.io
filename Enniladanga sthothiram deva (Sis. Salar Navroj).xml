@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:25">
+  <properties>
+    <titles>
+      <title>Enniladanga sthothiram deva</title>
+      <title>Enniladanga sthothiram deva</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எண்ணிடலங்கா ஸ்தோத்திரம் -தேவா<br/>என்றென்றும் நான் பாடுவேன்<br/>இந்நாள் வரை என் வாழ்விலே<br/>நீர் செய்த நன்மைக்கே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>வானாதி வானங்கள் யாவும்<br/>அதின் கீழுள்ள ஆகாயமும்<br/>பூமியில் காண்கின்ற யாவும்<br/>கர்த்தா உம்மைப் போற்றுமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>காட்டினில் வாழ்கின்ற யாவும்<br/>கடும் காற்றும் பனி தூறலும்<br/>நாட்டினில் வாழ்கின்ற யாவும்<br/>நாதா உம்மை போற்றுமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>நீரினில் வாழ்கின்ற யாவும் -இந்<br/>நிலத்தின் ஜீவ ராசியும்<br/>பாரினில் பறக்கின்ற யாவும்<br/>பரனே உம்மைப் போற்றுமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>வால வயதுள்ளானோரும் – மிகும்<br/>வயதால் முதிர்ந்தோர்களும்<br/>பாலகர் தம் வாயினாலும்<br/>பாடி உம்மைப் போற்றுவாரே</lines>
+    </verse>
+  </lyrics>
+</song>

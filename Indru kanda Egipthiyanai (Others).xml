@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Indru kanda Egipthiyanai</title>
+      <title>Indru kanda Egipthiyanai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இன்று கண்ட எகிப்தினை<br/>என்றுமே இனி காண்பதில்லை(2)<br/>இஸ்ரவேலைக் காக்கும் தேவன்<br/>உறங்கவில்லை தூங்கவில்லை</lines>
+    </verse>
+    <verse name="v1">
+      <lines>கசந்த மாரா மதுரமாகும்<br/>வசந்தமாய் உன் வாழ்கை மாறும்(2)<br/>கண்ணீரோடு நீ விதைத்தால்<br/>கெம்பீரமாய் அறுத்திடுவாய்(2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>தண்ணீரை நீ கடக்கும்போது<br/>கண்ணீரை அவர் துடைத்திடுவார்(2)<br/>வெள்ளம் போல சத்துரு வந்தால்<br/>ஆவியில் கொடியேற்றிடுவார்(2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>வாதை உந்தன் கூடாரத்தை<br/>அணுகாமல் காத்திடுவார்(2)<br/>பாதையிலே காக்கும்படிக்கு<br/>தூதர்களை அனுப்பிடுவார்(2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>சோர்ந்து போன உனக்கு அவர்<br/>சத்துவத்தை அளித்திடுவார்(2)<br/>கோரமான புயல் வந்தாலும்<br/>போதகத்தால் தேற்றிடுவார்(2)</lines>
+    </verse>
+  </lyrics>
+</song>

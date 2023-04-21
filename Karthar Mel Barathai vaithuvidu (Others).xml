@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Karthar Mel Barathai vaithuvidu</title>
+      <title>Karthar Mel Barathai vaithuvidu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கர்த்தர் மேல் பாரத்தை வைத்துவிடு<br/>கலங்கித் தவிக்காதே<br/>அவரே உன்னை ஆதரிப்பார்<br/>அதிசயம் செய்வார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. நீதிமான் தள்ளாட விடமாட்டார்<br/>நித்தமும் காத்து நடத்திடுவார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. நம்மைக் காக்கும் தேவனவர்<br/>நமது நிழலாய் இருக்கின்றவர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. தகப்பனும் தாயும் கைவிட்டாலும்<br/>அவரே நம்மை அணைத்துக் கொள்வார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கர்த்தர் நம் சார்பில் இருக்கும்போது<br/>நமக்கு எதிராய் நிற்பவன் யார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. வாழ்வை கர்த்தருக்கு ஒப்புக்கொடுப்போம்<br/>அவரே எல்லாம் வாய்க்கச் செய்வார்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. என்றும் அவரில் மகிழ்ந்திருப்போம்<br/>இதய விருப்பம் நிறைவேற்றுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

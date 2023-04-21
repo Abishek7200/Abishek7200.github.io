@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Intha kallin mel en sabayai kattuven</title>
+      <title>Intha kallin mel en sabayai kattuven</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v5 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Ps. Alwin Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இந்தக் கல்லின்மேல் என் சபையைக் கட்டுவேன் <br/>பாதாளத்தின் வாசல் அதை மேற்க்கொள்ளாதே<br/>சபையின் தலைவர் இயேசுவே <br/>மூலைக்கு தலைக்கல் இயேசுவே </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஹலேலூயா (2) சபைதான் ஜெயிக்குமே<br/>ஹலேலூயா (2) பாதாளம் தோற்குமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. இரத்தம் சிந்தி மீட்கப்பட்ட சபையிதுவே <br/>சுத்தம் பெற கிறிஸ்து தந்த ஸ்தலமிதுவே -2<br/>சபைதனில் நிலைநாட்டினீர்<br/>புது மனிதனாய் என்னை மாற்றினீர்<br/>வாழ்க்கையை செழிப்பாக்கினீர்<br/>கிருபையால் உயர்த்தினீர்<br/>என்னை கிருபையால் உயர்த்தினீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. ஜெபத்தினால் கட்டப்பட்ட சபை இதுவே <br/>குடும்பமாய் இணைத்த நல் உறவிதுவே  வீடிதுவே<br/>ஆவியின் நல்ல தகப்பனே<br/>சபை முழுவதும் எங்கள் சொந்தமே<br/>வேற்றுமைகள் இங்கு இல்லையே<br/>கிறிஸ்துவின் சரீரமே<br/>நாங்கள் கிறிஸ்துவின் சரீரமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. பார்வோனின் வல்லமைகள் முறியச் செய்தீர்<br/>யேசபேலின் தந்திரங்கள் அழியச் செய்தீர்<br/>எழுப்புதல் தரும் அக்கினி<br/>எங்கள் ஜெபத்திலே பற்றி எரியுதே<br/>தடைகளை அது தகர்க்குதே<br/>(என்றும்) சபைதான் வெல்லுமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>ஹலேலூயா (2) ஆமென் ஹலேலூயா<br/>ஹலேலூயா (2) ஆமென் ஹலேலூயா</lines>
+    </verse>
+  </lyrics>
+</song>

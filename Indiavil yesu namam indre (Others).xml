@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Indiavil yesu namam indre</title>
+      <title>Indiavil yesu namam indre</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இந்தியாவில் இயேசு நாமம்<br/>இன்றே கூற வேண்டும்<br/>இந்தியரை பரலோகத்தில்<br/>பாக்கியவான்களாய் மாற்றும் -2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>எலியாக்கள் எழும்ப வேண்டும்<br/>எலிசாக்கள் எழும்ப வேண்டும் -2<br/>கர்த்தரின் வல்ல நாமம்<br/>உயர்த்தியாக வேண்டும் -2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>அக்கினி இறங்க வேண்டும்<br/>அற்புதம் விளங்க வேண்டும்<br/>கர்த்தரே தெய்வம் என்று<br/>ஜாதிகள் முழங்க வேண்டும் -2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>தேசத்தின் ஜனங்கள் காக்க<br/>திறப்பின் வாயில் நிற்க<br/>தேவன் தேடும் மனிதன்<br/>நாம் தான் இன்றே படைப்போம் -2</lines>
+    </verse>
+  </lyrics>
+</song>

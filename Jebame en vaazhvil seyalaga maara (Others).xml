@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Jebame en vaazhvil seyalaga maara</title>
+      <title>Jebame en vaazhvil seyalaga maara</title>
+    </titles>
+    <verseOrder>c1 v5 c1 v1 v5 c1 v2 v5 c1 v3 v5 c1 v4 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஜெபமே என் வாழ்வில் செயலாக மாற<br/>ஜெப ஆவியால் என்னை நிறைத்திடுமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இரவெல்லாம் ஜெபித்த என் தேவனே உம்<br/>இதயத்தின் பாரம் என்னிலும் தாரும்<br/>பொறுமையுடன் காத்திருந்தே<br/>போராடி ஜெபித்திடவே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>சோதனையணுகா விழிப்புடன் ஜெபிக்க<br/>சோதனையதிலும் சோர்ந்திடா ஜெபிக்க<br/>என் மாம்சத்தின் பெலவீனத்தில்<br/>ஆவியின் பெலன் தாருமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>எந்த சமயமும் எல்லா மனிதர்க்கும்<br/>பரிசுத்தவான்கள் பணிகள் பலனுக்கும்<br/>துதி ஸ்தோத்திரம் ஜெபம் வேண்டுதல்<br/>உபவாசம் எனில் தாருமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>முழங்காலில் நின்றே முழு மனதுடனே<br/>விசுவாசம் உறுதியில் உண்மையாய் ஜெபிக்க<br/>உம் வருகை நாளதிலே<br/>உம்முடன் சேர்ந்திடவே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ஜெபமின்றியே ஜெயமில்லையே<br/>ஜெப சிந்தை எனில் தாருமே</lines>
+    </verse>
+  </lyrics>
+</song>

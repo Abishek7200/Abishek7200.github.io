@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kadantha naalellam paathukatheere</title>
+      <title>Kadantha naalellam paathukatheere</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கடந்த நாளெல்லாம் பாதுகாத்தீரே <br/>புதிய நாளுக்குள்ளே நடத்தி வந்தீரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>புது கிருபை புது அபிஷேகம்<br/>புது பெலன் புதுவாழ்வு (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>எத்தனையோ நாட்கள்<br/>எத்தனையோ வாருங்கள்<br/>எத்தனையோ மாதங்கள்<br/>எத்தனையோ ஆண்டுகள் (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஒவ்வொரு நொடியும் ஒவ்வொரு நிமிடம்<br/>ஒவ்வொரு மணியும் ஒவ்வொரு நாளும் (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>இரவும் பகலெல்லாம் கண்மணிப்போல் நம்மை<br/>உறங்காமல் காத்திடுவார்<br/>உயிருள்ள தேவன் அவர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>நடக்கும் போதும் படுக்கும் போதும்<br/>நிற்கும்போதும் உட்காரும் போதும் (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>வருஷத்தை நன்மையினால் முடிசூட்டுகின்றவரே<br/>பாதைகளில் எல்லாம் நெய்யாய் பொழிபவரே</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>ஆபத்து காலத்தில் விபத்து நேரத்தில்<br/>துன்ப வேளையில் கண்ணீரின் பாதையில் (2)<br/>அற்புதம் அதிசயம்<br/>இந்த ஆண்டு நடக்கப்போகுது<br/>கவலைப்படாதே  கவலைப்படாதே<br/>அற்புதங்கள் குவியப்போகுது</lines>
+    </verse>
+  </lyrics>
+</song>

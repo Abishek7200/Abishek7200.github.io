@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Ezhaigalin Belane</title>
+      <title>Ezhaigalin Belane</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v2 c1 v4 v2 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஏழைகளின் பெலனே<br/>எளியோரின் திடனே-2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>பெருவெள்ளத்தில் புகலிடமே<br/>பெரும் கன்மலையின் நிழல் நீரே-2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>எங்கள் கர்த்தாவே எங்கள் தேவனே<br/>உங்க நாமத்தை என்றும் உயர்த்திடுவோம்<br/>எங்கள் கர்த்தாவே எங்கள் தேவனே<br/>எந்த நிலைமையிலும் உம்மை ஆராதிப்போம்<br/>உங்க நாமத்தை என்றும் உயர்த்திடுவோம்<br/>எந்த நிலைமையிலும் உம்மை ஆராதிப்போம்-ஏழைகளின்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>1.வறண்ட வாழ்விலே நீரூற்று நீரே<br/>கசந்த வாழ்விலே மதுரமும் நீரே-2<br/>திசை தெரியாமல் அலைந்த வாழ்க்கையில்<br/>இனிய இசையாக வந்தவர் நீரே-2<br/>இனிய இசையாக வந்தவர் நீரே-எங்கள் கர்த்தாவே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2.முகத்தின் கண்ணீரை துடைத்துவிட்டீரே<br/>மனதின் காயங்கள் ஆற்றிவிட்டீரே-2<br/>எந்தன் கடந்த நாட்கள் மறக்க செய்தீரே<br/>இன்று புதிய வாழ்வு எனக்கு தந்தீரே-2<br/>இன்று புதிய வாழ்வு எனக்கு தந்தீரே-எங்கள் கர்த்தாவே</lines>
+    </verse>
+  </lyrics>
+</song>

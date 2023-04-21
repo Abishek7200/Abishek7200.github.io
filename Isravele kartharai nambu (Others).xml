@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Isravele kartharai nambu</title>
+      <title>Isravele kartharai nambu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இஸ்ரவேலே கர்த்தரை நம்பு.. கர்த்தரை நம்பு.. கர்த்தரை நம்பு..<br/>இஸ்ரவேலே அவர் உன் துனையும் கேடகமானவர் (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. புழுதியிலிருந்து தூக்கி விடுவார்<br/>குப்பையிலிருந்து உயர்த்திடுவார்<br/>பிரபுக்களோடும் ராஜாக்களோடும்<br/>உட்கார செய்பவர் உனக்கும் உண்டு</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. அக்கினியை நீ கடக்கும் போது<br/>ஆறுகளை நீ மிதிக்கும் போது<br/>அக்கினி அனுகது ஆருகள் புரளாது<br/>ஆண்டவர் உன்னோடு இருபதாலே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. அவர் உன்னை விட்டு விளகுவதில்லை<br/>அவர் உன்னை என்றும் கை விடுவதில்லை<br/>உள்ளம் கையில் வரைந்தவர்<br/>அவர் உன்னை என்றும் மறப்பதில்லை</lines>
+    </verse>
+  </lyrics>
+</song>

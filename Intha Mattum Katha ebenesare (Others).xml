@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Intha Mattum Katha ebenesare</title>
+      <title>Intha Mattum Katha ebenesare</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. இந்த மட்டும் காத்த எபெனேசரே<br/>இனிமேலும் காக்கும் யெகோவாயீரே<br/>எந்தன் வாழ்க்கையின் இம்மானுவேலரே<br/>இந்த வருடத்தின் நாட்களிலே புது (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஸ்தோத்தரிப்போம் நாமே<br/>துதிகளுடனே ஆர்ப்பரிப்போம்<br/>அன்பர் இயேசுவை – அல்லேலூயா!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. யோர்தானும் செங்கடலும் நம் எதிரில்<br/>எழும்பி வந்த போதிலும் காத்தவர்<br/>சாபப் பிசாசின் சோதனை போதிலும்<br/>இயேசு நாமத்தில் அகற்றியவர் – (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சேயைக் காக்கும் ஒரு தாயைப் போலவே<br/>இந்த மாயலோகில் என்னைக்<br/>காக்கும் தேவனே – மகத்தான கிருபை<br/>என்மேலே மகிபா நீர் ஊற்றிடுமே – (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. பழமையெல்லாம் ஒழிந்து போனதே<br/>எல்லாம் புதிதாக தேவனே ஆனதே<br/>உந்தன் மகிமையில் இறங்கியே வாருமே<br/>நாங்கள் மறுரூபம் அடைந்திடவே – (2)</lines>
+    </verse>
+  </lyrics>
+</song>

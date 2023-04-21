@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Enthan Ullam Puthu Kaviyaale Ponga</title>
+      <title>Enthan Ullam Puthu Kaviyaale Ponga</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>எந்தன் உள்ளம் புது கவியாலே பொங்க<br/>இயேசுவை பாடிடுவேன்<br/>அவர் நாமம் ஊற்றுண்ட பரிமள தைலம்<br/>அவரையே நேசிக்கின்றேன்</lines>
+    </verse>
+    <verse name="c1">
+      <lines>அல்லேலூயா துதி அல்லேலூயா - எந்தன்<br/>அண்ணலாம் இயேசுவை பாடிடுவேன்<br/>இத்தனை கிருபைகள் நித்தமும் அருளிய<br/>கர்த்தரைக் கொண்டாடுவேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>சென்ற காலம் முழவதும் காத்தாரே ஓர்<br/>சேதமும் அணுகாமல்<br/>சொந்தமாக ஆசீர் பொழிந்தெனக்கின்றும்<br/>சுகபெலன் அளித்தாரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>சிலவேளை இமைப்பொழுதே தம் முகத்தை<br/>சிருஷ்டிகர் மறைத்தாரே<br/>கடுங்கோபம் நீங்கி திரும்பவும் என்மேல்<br/>கிருபையும் பொழிந்தாரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>பஞ்சகாலம் பெருகிட நேர்ந்தாலும் தாம்<br/>தஞ்சமே ஆனாரே<br/>அங்கும் இங்கும் நோய்கள் பரவி வந்தாலும்<br/>அடைக்கலம் அளித்தாரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>களிப்போடு விரைந்தெம்மை சேர்த்திட என்<br/>கர்த்தரே வருவாரே<br/>ஆவலோடு நாமும் வசனத்தை நோக்கி<br/>அனுதினம் காத்திருப்போம்</lines>
+    </verse>
+  </lyrics>
+</song>

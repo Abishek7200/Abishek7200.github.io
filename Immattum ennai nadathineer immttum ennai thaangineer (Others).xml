@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Immattum ennai nadathineer immttum ennai thaangineer</title>
+      <title>immattum ennai nadathineer immttum ennai thaangineer</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இம்மட்டும் என்னை நடத்தினீர்<br/>இம்மட்டும் என்னை தாங்கினீர்<br/>எந்தன் இயேசு நல்லவரே<br/>அவர் என்றென்றும் போதுமானவர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எந்தன் பாவ பாரமெல்லாம்<br/>தன்மேலே ஏற்றுக்கொண்டு<br/>எனக்காய் குறுசில் மரித்த<br/>எந்தன் இயேசு நல்லவரே </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2.எந்தன் தேவைகளை அறிந்து<br/>விண் வாசல்களை திறந்து <br/>எல்லாம் நிறைவாய் எனக்கு தந்த<br/>எந்தன் இயேசு நல்லவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. மன பாரத்தின் நேரத்தில்<br/>மன வேதனையின் வேளையில்<br/>மனம் உறுகி நான் ஜெபிக்கையிலே<br/>எந்தன் இயேசு நல்லவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. வியாதி நேரத்தில் மறுத்துவரே<br/>துக்க வேளையில் ஆறுதலே<br/>கொடும் வெயில் தனில் நிழல் அவரே<br/>என் இயேசு வல்லவரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. ஒரு நாளும் கைவிடாரே<br/>ஒரு போதும் விலகிடாரே<br/>ஒரு நாளும் மறவாரே<br/>எந்தன் இயேசு உண்மையுள்ளவர்</lines>
+    </verse>
+  </lyrics>
+</song>

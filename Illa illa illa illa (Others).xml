@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Illa illa illa illa</title>
+      <title>Illa illa illa illa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இல்ல இல்ல இல்ல இல்ல இல்ல<br/>உம்மைப் போல யாருமில்லப்பா<br/>சர்வ வல்லவர் அவர் என்றும் நல்லவர்<br/>உம்மை போல யாருமில்லைப்பா - இயேசப்பா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உம் கிருபையால் நான் என்றும் வாழ்கிறேன்<br/>உம் இரக்கத்தால் நான் நிலை நிற்கிறேன்<br/>நீங்க இல்லாம நானும் இல்லப்பா<br/>இயேசப்பா இயேசப்பா<br/>இல்ல -5 நீங்க இல்லாம நானும் இல்லப்பா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என் பெலத்தினால் ஒன்னும் முடியல<br/>என் சுயத்தினால் வாழ முடியால<br/>உம்மை விட்டு வாழ முடியல இயேசப்பா<br/>உம்மை விட்டு வாழ முடியல<br/>இல்ல -5 உம்மை விட்டு வாழ முடியல</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>இருளில் வாழ்ந்தேனே பயத்தோடு இருந்தேனே<br/>சோர்ந்து போனேனே கலக்கத்தால் சூழ்ந்தேனே<br/>பயமே இல்லாம வாழ செஞ்சீங்க இயேசப்பா<br/>பயமே இல்லாம வாழ செஞ்சீங்க<br/>இல்ல - 5 இப்போ எனக்கு பயமே இல்லப்பா</lines>
+    </verse>
+  </lyrics>
+</song>

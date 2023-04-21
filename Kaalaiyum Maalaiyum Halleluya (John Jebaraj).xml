@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kaalaiyum Maalaiyum Halleluya</title>
+      <title>Kaalaiyum Maalaiyum Halleluya</title>
+    </titles>
+    <authors>
+      <author type="words">John Jebaraj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>காலையும் மாலையும் அல்லேலூயா<br/>நான் விடும் சுவாசமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அல்லேலூயா (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நான் சோர்ந்துபோகும்போது<br/>என் பெலனாக மாறும்<br/>நான் சொற்களற்ற நேரம்<br/>என் ஆத்துமாவும் பாடும்<br/>அல்லேலூயா அல்லேலூயா (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என் உயர்விலும் என் தாழ்விலும் என் ஆத்துமா பாடும்<br/>அல்லேலூயா ( 2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>கன்மலை உட்சியில் அல்லேலூயா<br/>ஆழியின் விளிம்பிலும் அல்லேலூயா (2)<br/>நான் உயர போகும்போது<br/>என் வெற்றி கீதம் ஆகும்<br/>நான் தாழ நிற்கும்போது<br/>என்னை தேற்றும் கீதம் ஆகும்<br/>அல்லேலூயா அல்லேலூயா (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>என் உயர்விலும் என் தாழ்விலும்<br/>என் ஆத்துமா பாடும்<br/>அல்லேலூயா அல்லேலூயா</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>சத்துரு சிரிக்கையில் அல்லேலூயா<br/>ஏளனம் செய்கையில் அல்லேலூயா (2)<br/>என் எதிரி பெருக பெருக<br/>என் பந்தி அளவும் பெருகும்<br/>நான் துதித்து பாடும் போது<br/>சிறைச்சாலை கதவும் திறக்கும்<br/>அல்லேலூயா அல்லேலூயா (2)</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>என் உயர்விலும் என் தாழ்விலும்<br/>என் ஆத்துமா பாடும்<br/>அல்லேலூயா அல்லேலூயா</lines>
+    </verse>
+  </lyrics>
+</song>

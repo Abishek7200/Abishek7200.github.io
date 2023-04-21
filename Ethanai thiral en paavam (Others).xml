@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Ethanai thiral en paavam</title>
+      <title>Ethanai thiral en paavam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எத்தனை திரள் என் பாவம் , என் தேவனே!<br/>எளியன்மேல் இரங்கையனே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நித்தம் என் இருதயம் தீயதென் பரனே ;<br/>நிலைவரம் எனில் இல்லை ; நீ என் தாபரமே --- எத்தனை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. பத்தம் உன் மேல் எனக்கில்லை என்பேனோ<br/>பணிந்திடல் ஒழிவேனோ?<br/>சுத்தமுறுங் கரம்கால்கள் , விலாவினில்<br/>தோன்றுது காயங்கள் , தூய சிநேகா ! --- எத்தனை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. என்றன் அநீதிகள் என் கண்கள் முனமே<br/>இடைவிடாதிருக்கையிலே ,<br/>உன்றன் மிகுங் கிருபை , ஓ மிகவும் பெரிதே<br/>உத்தம மனமுடையோய் , எனை ஆளும் ! --- எத்தனை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. ஆயங் கொள்வோன்போல் , பாவ ஸ்திரீபோல்<br/>அருகிலிருந்த கள்ளன் போல் ,<br/>நேயமாய் உன் சரண் என் வணங்கினேன்<br/>நீ எனக்காகவே மரித்தனை , பரனே ! --- எத்தனை</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. கெட்ட மகன்போல் துட்டனாய் அலைந்தேன்<br/>கெடு பஞ்சத்தால் நலிந்தேன் ;<br/>இட்டமாய் மகன் எனப் பாத்திரன் அவன் நான்<br/>எனை ரட்சித்திடல் உன்றன் நிமித்தமே , அப்பனே ! --- எத்தனை</lines>
+    </verse>
+  </lyrics>
+</song>

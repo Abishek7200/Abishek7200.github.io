@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-31T10:52:33">
+  <properties>
+    <titles>
+      <title>Eppadi Naan Paaduven</title>
+      <title>Eppadi Naan Paaduven</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>எப்படி நான் பாடுவேன்<br/>என்ன சொல்லி நான் துதிப்பேன் (2)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>1.இரத்தம் சிந்தி மீட்டவரே<br/>இரக்கம் நிறைந்தவரே (2)- ஐயா</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.அபிஷேகித்து அணைப்பவரே<br/>ஆறுதல் நாயகனே (2) – ஐயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.உந்தன் பாதம் அமர்ந்திருந்து<br/>ஓயாமல் முத்தம் செய்கிறேன் (2)-ஐயா</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.என்னை விட்டு எடுபடாத<br/>நல்ல பங்கு நீர்தானய்யா (2) – ஐயா</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.வருகையில் எடுத்துக் கொள்வீர்<br/><br/>கூடவே வைத்துக் கொள்வீர் (2)- ஐயா</lines>
+    </verse>
+  </lyrics>
+</song>

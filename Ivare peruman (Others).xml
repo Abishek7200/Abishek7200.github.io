@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Ivare peruman</title>
+      <title>Ivare peruman</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இவரே பெருமான் , மற்றப்<br/>பேர் அலவே பூமான் - இவரே பெருமான்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. கவலைக் கிடங்கொடுத் தறியார் - வேறு <br/>பவவினை யாதுமே தெரியார் - இப் <br/>புவனமீது நமக்குரியார் --- இவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. குருடர்களுக் குதவும் விழியாம் - பவக் <br/>கரும இருளை நீக்கும் ஒளியாம் - தெய்வம் <br/>இருக்குந் தலஞ்சல் வாசல் வழியாம் --- இவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. பலபிணி தீர்க்கும் பரிகாரி - சொல்லும்<br/>வலமையில் மிக்க விபகாரி - எக்<br/>குலத்துக்கும் நல்ல உபகாரி --- இவரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. அறஞ் செய்வதினில் ஒரு சித்தன் - கொடு<br/>மறம்விடு பவர்க்கருள் முத்தன் - இங்கே<br/>இறந்தோர்க் குயிரீயும் கர்த்தன் --- இவரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. அலகை தனை ஜெயித்த வீரன் - பவ<br/>உலகை ரட்சித்த எழிற்பேரன் - விண்<br/>ணுலகு வாழ் தேவ குமாரன் --- இவரே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. பொன்னுலகத் தனில்வாழ் யோகன் - அருள் <br/>துன்ன உலகில் நன்மைத் தேகன் - நம்பால் <br/>தன்னை யளித்த ஓர் தியாகன் --- இவரே</lines>
+    </verse>
+  </lyrics>
+</song>

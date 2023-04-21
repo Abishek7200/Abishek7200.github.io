@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kaariyathai Kaikoodi Varapannuvar</title>
+      <title>Kaariyathai Kaikoodi Varapannuvar</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 v1 v2 v5 v6 v1 c1 v1 v2</verseOrder>
+    <authors>
+      <author type="words">Ps. Alwin Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>காரியத்தைக் கைக்கூடி வரப்பண்ணுவார்<br/>சுதந்திரத்தை நிச்சயமாய் பிடிக்கச் செய்வார் -- 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இது கிருபையின் நேரம்,  மகிமையின் நேரம்<br/>காரியங்கள் வாய்க்கப்பண்ணும் நேரம் - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>அல்லேலூயா அல்லேலுயா<br/>காரியங்கள் வாய்க்கப்பண்ணும் நேரம் - 4</lines>
+    </verse>
+    <verse name="v3">
+      <lines>1. நினைப்பதற்கும் ஜெபிப்பதற்கும் அதிகமாக செய்திடுவாரே<br/>கேட்டதெல்லாம் நிறைவேற்றி என் தகப்பன் உயர்த்திடுவாரே - 2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>2. வலது இடது பக்கம் பெருக கிருபை செய்திடுவாரே<br/>புதிய ஆசீகளை பிரதிஷ்டை செய்து தந்திடுவாரே - 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>கொடுத்த வாக்குத்தத்தம்  Complete ah தந்திடுவாரே<br/>கண்ணீர் ஜெபமெல்லாம் களிப்பாக மாற்றிடுவாரே<br/>இயேசு ராஜா என்ன ராஜாவா மாற்றிடும் நேரம் (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>கடனே இல்லாமல் அள்ளிக்கொடுக்க வைத்திடுவாரே<br/>இனி வெட்கம் இல்லாம தலை நிமிரச் செய்திடுவாரே<br/>இயேசு ராஜா என்ன ராஜாவா மாற்றிடும் நேரம் (2)</lines>
+    </verse>
+  </lyrics>
+</song>

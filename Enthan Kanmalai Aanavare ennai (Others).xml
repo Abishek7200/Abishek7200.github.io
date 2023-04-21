@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Enthan Kanmalai Aanavare ennai</title>
+      <title>Enthan Kanmalai Aanavare ennai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எந்தன் கன்மலையானவரே<br/>என்னை காக்கும் தெய்வம் நீரே<br/>வல்லமை மாட்சிமை நிறைந்தவரே<br/>மகிமைக்கு பாத்திரரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆராதனை உமக்கே(4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. உந்தன் சிறகுகளின் நிழலில்<br/>என்றென்றும் மகிழச் செய்தீர்<br/>தூயவரே என் துணையாளரே<br/>துதிக்குப் பாத்திரரே — ஆராதனை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. எந்தன் பெலவீன நேரங்களில்<br/>உம் கிருபை தந்தீரைய்யா<br/>இயேசு ராஜா என் பெலனானீர்<br/>எதற்கும் பயமில்லையே — ஆராதனை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. எந்தன் உயிருள்ள நாட்களெள்லாம்<br/>உம்மை புகழ்ந்து பாடிடுவேன்<br/>ராஜா நீர் செய்த நன்மைகளை<br/>எண்ணியே துதித்திடுவேன் — ஆராதனை</lines>
+    </verse>
+  </lyrics>
+</song>

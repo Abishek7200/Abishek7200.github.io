@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Immanuvel Neerae</title>
+      <title>Immanuvel Neerae</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 c2 v4 v5 v6 c2</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. வரலாற்றினையே இரண்டாய் பிரித்த அதிசயவானே<br/>புவி மீட்டிடவே மண்ணில் வந்தீரே<br/>தேன் இனிமையிலும் இனிமையான அழகியவானே<br/>பேரொளியில் என்னை நடக்கச் செய்தீரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நீங்க வந்திட்டதால பாவம் போச்சு<br/>கவலையெல்லாம் போயே போச்சு<br/>சாபங்கள் எல்லாம் மறைஞ்சி போனதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>தேவன் பரத்திலிருந்து இறங்கி வந்தீர்<br/>மனிதனாக மாறி இங்கே<br/>அடிமை என்னையும் மீட்டுக் கொண்டீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>நான் உம்மைப் போற்றுவேன்<br/>நான் உம்மைப் புகழுவேன்<br/>தினம் நன்றி சொல்லி அன்பை பாடி<br/>உம்மை வணங்குவேன்</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>என் இம்மானுவேல் நீரே<br/>நீர் என்னோடு இருக்கின்றீரே<br/>இனி எந்நாளுமே உம் நாமமே<br/>பாடிப் போற்றுவேனே - (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2. ஆதித் திரு வார்த்தையே<br/>விடிவெள்ளி நட்சத்திரமே<br/>பரலோக இராஜாவே நீர்தான் இயேசைய்யா</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>கன்னியின் மைந்தனாக<br/>யூத ராஜ சிங்கமாக<br/>தேவ ஆட்டுக் குட்டியாய் வந்தீர் இயேசைய்யா</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>நியாய பிரமானத்தை மாற்றி எழுதும் தேவன் நீரே<br/>புது உடன்படிக்கையின் மத்தியஸ்தரும் நீரே நீரே<br/>தேவ கிருபையின் முழு உருவம் நீரே நீரே<br/>நீர் என்னோடிருக்கும் ஒவ்வொரு நாளும்<br/>களிகூர்ந்து பாடுவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

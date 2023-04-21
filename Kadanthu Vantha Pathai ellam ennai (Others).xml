@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kadanthu Vantha Pathai ellam ennai</title>
+      <title>Kadanthu Vantha Pathai ellam ennai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1 v7 v1 c1 v8 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கடந்து வந்த பாதைகளை திரும்பி பார்க்கிறேன்<br/>கண்ணீரோடு கர்த்தாவே நன்றி சொல்கிறேன்<br/>நன்றி சொல்கிறேன் நான் நன்றி சொல்கிறேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அப்பா உமக்கு நன்றி, ராஜா உமக்கு நன்றி</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. அனாதையாய் அலைந்தே நான் திரிந்தேன் ஐயா<br/>அழாதே என்று சொல்லி அணைத்தீர் ஐயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. எதிராய் வந்த சூழ்ச்சிகளை முறியடித்தீரே<br/>எந்தநிலையிலும் உம்மைத் துதிக்க வைத்தீரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. பாடுகளை சுமந்து செல்ல பெலன் தந்தீரே<br/>பரிசுத்தமாய் வாழ்வு வாழ துணைசெய்தீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. ஒருநாளும் குறைவில்லாமல் உணவு தந்தீர்<br/>உறைவிடமும் உடையும் தந்து காத்து வந்தீர்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. தள்ளப்பட்ட கல்லாகக் கிடந்தேன் ஐயா<br/>எடுத்து என்னை பயன்படுத்தி மகிழ்கின்றீர் ஐயா</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6. எத்தனையோ புதுப்பாடல் நாவில் வைத்தீர்<br/>இலட்சங்களை இரட்சிக்க பயன்படுத்துகிறீர்</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>7. பாதை அறியா குருடனைப்போல் வாழ்ந்தேன் ஐயா<br/>பாசத்தோடு கண்களையே திறந்தீர் ஐயா</lines>
+    </verse>
+  </lyrics>
+</song>

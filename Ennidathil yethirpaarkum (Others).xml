@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T02:31:42">
+  <properties>
+    <titles>
+      <title>Ennidathil yethirpaarkum</title>
+      <title>Ennidathil yethirpaarkum</title>
+    </titles>
+    <verseOrder>c1 v2 v3 c1 v4 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>என்னிடத்தில் எதிர்பார்க்கும் உம் முத்தமோ  என்னிடத்தில் இல்லை இல்லை <br/>நீதியுள்ள நியாயாதிபதி உம் சித்தம் போல் என்னை நடத்தும் </lines>
+    </verse>
+    <verse name="v2">
+      <lines>உலகத்தின்  நடுவிலே  நான் பட்ட மரம் போல் ஆனேன் <br/>எல்லா மக்கள் மத்தியில் பைத்தியம் போல் ஆனேன் </lines>
+    </verse>
+    <verse name="v3">
+      <lines>காக்கின்ற இறைவா கண் பாரும் <br/>கருணையால் என்னை ஏந்தி கொள்ளும் </lines>
+    </verse>
+    <verse name="v4">
+      <lines>உலகத்தின் வெளிச்சம் நீ  என் மீது பிரகாசியும் <br/>உத்தமரே உம் வழியில் நடக்க அருள் புரியும் </lines>
+    </verse>
+    <verse name="v5">
+      <lines>கிருபை என் தேவா இறங்கி வாரும் <br/>என்  ஏக்கம் எல்லாம் மாற்றி ஆசீர்வதியும் </lines>
+    </verse>
+    <verse name="c1b">
+      <lines>என்னிடத்தில் எதிர்பார்க்கும் உம் முத்தமோ  என்னிடத்தில் இல்லை இல்லை <br/>நீதியுள்ள நியாயாதிபதி உம் சித்தம் போல் என்னை நடத்தும் </lines>
+    </verse>
+  </lyrics>
+</song>

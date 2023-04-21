@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Isravelin Thuthikalil Vaasam Seiyum</title>
+      <title>Isravelin Thuthikalil Vaasam Seiyum</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 c1</verseOrder>
+    <authors>
+      <author>Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இஸ்ரவேலின் துதிகளில் வாசம் செய்யும்<br/>எங்கள் தேவன் நீர் பரிசுத்தரே<br/>ஓஹோ.. வாக்குகள் பல தந்து அழைத்துவந்தீர்<br/>ஒரு தந்தை போல எம்மை தூக்கி சுமந்தீர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இனி நீர் மாத்ரமே எங்கள் சொந்தமானீர்<br/>உம்மை ஆராதிப்போம் ஆர்ப்பரிப்போம்<br/>உம் நாமத்தினால் என்றும் ஜெயமெடுப்போம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. எதிர்காலம் இல்லாமல் ஏங்கி நின்றோம்<br/>காலத்தைப் படைத்தவர் தேடிவந்தீர்<br/>சிறையிருப்பை மாற்றி தந்தீர்<br/>சிறுமையின் ஜனம் எம்மை உயர்த்திவைத்தீர் --- இனி</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. செங்கடலைக் கண்டு சோர்ந்துபோனோம்<br/>யோர்தானின் நிலை கண்டு அஞ்சி நின்றோம்<br/>பயப்படாதே முன் செல்லுகிறேன்<br/>என்றுரைத்து எம்மை நடத்திவந்தீர் --- இனி</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. எதிரியின் படை எம்மை சூழும்போது<br/>ஓங்கிய புயங் கொண்டு யுத்தம் செய்தீர்<br/>பாடச் செய்தீர் துதிக்கச் செய்தீர்<br/>எரிகோவின் மதில்களை இடிக்கச் செய்தீர்--- இனி</lines>
+    </verse>
+  </lyrics>
+</song>

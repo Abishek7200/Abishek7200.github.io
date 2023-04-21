@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Jebathai Ketkum Engal Deva</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>. ஜெபத்தைக் கேட்கும் எங்கள் தேவா<br/>ஜெபத்தின் வாஞ்சை தந்தருளும்<br/>ஜெபத்திலே தரித்திருந்து<br/>ஜெபத்தின் மேன்மை காணச் செய்வீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>ஜெபமே ஜீவன் ஜெபம் ஜெயம்<br/>ஜீவியத்திற்கிதுவே சட்டம்<br/>ஜெபமே ஜீவன் ஜெபம் ஜெயம்<br/>ஜீவியத்திற்கிதுவே சட்டம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. ஊக்கத்துடனே ஓர் முகமாய்<br/>வாக்குத்தத்தைப் பற்றிக் கொண்டு<br/>நோக்கத்தை எல்லாம் நேர்மையாக்கி<br/>கேட்கும்படி கிருபை செய்வீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. ஆகாத நோக்கம் சிந்தனையை<br/>அகற்றும் எங்கள் நெஞ்சை விட்டு<br/>வாகானதாக்கும் மனமெல்லாம்<br/>வல்லமையோடே வேண்டிக்கொள்வோம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. இடைவிடாமல் ஜெபம் செய்ய<br/>இடையூரெல்லாம் நீக்கிவிடும்<br/>சடைப்பில்லாமல் உந்தன் பாதம்<br/>கடைசி மட்டும் காத்திருப்போம்</lines>
+    </verse>
+  </lyrics>
+</song>

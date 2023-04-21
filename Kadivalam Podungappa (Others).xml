@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kadivalam Podungappa</title>
+      <title>Kadivalam Podungappa</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v1 v3 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>கடிவாளம் போடுங்கப்பா<br/>என் கண்ணு ரெண்டும்<br/>உம்ம பார்க்கணும்</lines>
+    </verse>
+    <verse name="c1">
+      <lines>நா உம்ம பார்க்கணும்<br/>நீங்க என்ன பார்க்கணும்<br/>என்னில் மக்கள் உம்ம பார்க்கணும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உலக இச்சை என்னில் இருந்து<br/>போகணும்<br/>பரிசுத்த ஜீவியத்தை வாழ்க்கை<br/>முழுதும் வாழணும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஆவியின் கனி எனக்கு<br/>நீங்க கொடுக்கணும்<br/>அதற்கேற்ற பாத்திரமாய்<br/>என்ன நீங்க வனையணும்</lines>
+    </verse>
+  </lyrics>
+</song>

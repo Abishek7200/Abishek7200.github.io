@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:26">
+  <properties>
+    <titles>
+      <title>Geetham Geetham Jaya Jaya Geetham</title>
+      <title>Geetham Geetham Jaya Jaya Geetham</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கீதம் கீதம் ஜெய ஜெய கீதம் – கைகொட்டிப் பாடிடுவோம்<br/>இயேசு ராஜன் உயிர்த் தெழுந்தார் அல்லேலூயா<br/>ஜெயம் என்று ஆர்ப்பரிப்போம் – ஆ ஆ கீதம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பார் அதோ கல்லறை மீடின பெருங்கல்<br/>புரண்டுருண்டோடுதுபார் – அங்கு<br/>போட்ட முத்திரை காவல் நிற்குமோ – தேவ<br/>புத்திரர் சந்நிதி முன் – ஆ ஆ கீதம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. வேண்டாம் வேண்டாம் அழுதிட வேண்டாம்<br/>ஓடி உரைத்திடுங்கள் – தாம்<br/>கூறின மாமறை விட்டனர் கல்லறை<br/>போங்கள் கலிலேயாவுக்கு – ஆ ஆ கீதம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. அன்னா காய்பா ஆரியர் சங்கம்<br/>அதிரடி கொள்ளுகின்றார் – இன்னா<br/>பூத கணங்கள் இடி ஒலி கண்டு<br/>பயந்து நடுங்குகின்றார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. வாசல் நிலைகளை உயர்த்தி நடப்போம்<br/>வருகிறார் ஜெயவீரன் – நம்<br/>மேள வாத்தியம் கை மணி பூரிகை<br/>எடுத்து முழங்கிடுவோம்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:27">
+  <properties>
+    <titles>
+      <title>Itharai Meethinil Vithagan</title>
+      <title>Itharai Meethinil Vithagan</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இத்தரைமீதினில் வித்தகனா யெழுந்த<br/>உத்தமனே தோத்ரம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>நித்தமென் னிருதயம் சுத்தமாக விளங்கச்<br/>சித்தங்கொள்வாயென் மீது தத்தஞ் செய்தேனிப்போது</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1.கண்ணே மணியே உன்னைக் கண்டபின் விடுவேனோ<br/>காதலாய்ப் பவத்தில்வீண் காலம்பின் னிடுவேனோ<br/>விண்ணே உனைமறந்து வேறொன்றைத் தொடுவேனோ<br/>வேஷ மார்க்கம் நடந்து வேதனைப் படுவேனோ- இத்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2.அன்னையும் தந்தையும் ஆளும் பொருளும் நீயே<br/>ஆசாரியன் தீர்க்கன் ஆயினும் ஆடும் நீயே<br/>உன்னைப் பிரிந்தால் வேறு போக வழியிலையே<br/>உத்தம சத்திய முத்தே அதிபதியே- இத்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3.தேனே, கனியே, என்றுந் திகட்டாத அமிர்தமே<br/>தீயனென் மனப்புண்கள் ஆற்றிடும் அவிழ்தமே<br/>வானே யிருந்துபுவி வந்த பெரும் பதமே<br/>மறவாது திருப்புகழ் வரைவேன் நிதம் நிதமே- இத்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>4.வானாசனத்திருந்து மனுக்குலத்தை நினைந்து<br/>தானாமனமுவந்து தாரணியில் பிறந்து<br/>கோனாய் விளங்காநிற்கும் குருவேசுநாதனை நான்<br/>ஏனோ மறந்து இங்கே வீணே தவிப்பது காண்- இத்</lines>
+    </verse>
+    <verse name="v6">
+      <lines>5.செஞ்சோதிபோன்ற அவன் சீர்பாதத்தை எந்நாளும்<br/>நெஞ்சாசனத்தில் வைத்து நீடுழிவாழ்த்தல் வேணும்<br/>பஞ்சாய்ப் பறந்திடுமென் பஞ்சபாதம் யாவும்<br/>அஞ்சேன் அஞ்சேனே தேவதஞ்சம் கண்டதே போதும் – இத்</lines>
+    </verse>
+  </lyrics>
+</song>

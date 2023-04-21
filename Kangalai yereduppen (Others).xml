@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kangalai yereduppen</title>
+      <title>Kangalai yereduppen</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கண்களை ஏறெடுப்பேன் - மாமேருநேராய் என்<br/>கண்களை ஏறெடுப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>விண்மண் உண்டாக்கிய வித்தகனிடமிருந்<br/>தெண்ணில்லா வொத்தாசை என்றனுக்கே வரும் --- கண்களை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1.காலைத் தள்ளாட வொட்டார் - உறங்காது காப்பவர்<br/>காலைத்தள்ளாட வொட்டார்,<br/>வேலையில் நின் றிஸ்ர வேலரைக் காத்தவர்<br/>காலையும் மாலையும் கண்ணுறங்காரவர் --- கண்களை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2.பக்க நிழல் அவரே -- எனை ஆதரித்திடும்<br/>பக்க நிழல் அவரே <br/>எக்கால நிலைமையும் எனைச் சேதப்படுத்தா- து<br/>முக்காலம் நின்றென்னை நற்காவல் புரியவே --- கண்களை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3.எல்லாத் தீமைகட்கும் - என்னை விலக்கியே<br/>எல்லாத் தீமைகட்கும்<br/>பொல்லா உலகினில் போக்குவரத்தையும்<br/>நல்லாத்துமாவையும் நாடோறும் காப்பவர் --- கண்களை</lines>
+    </verse>
+  </lyrics>
+</song>
