@@ -42,9 +42,12 @@ searchButton.addEventListener('click', () => {
       let lyrics = xml.querySelector('lyrics').innerHTML;
       
       // Remove <br> element that is the first child of each <verse> element
-      const brElements = xml.querySelectorAll('lines > br:first-child');
-      brElements.forEach(element => {
-        element.remove();
+      const verseElements = xml.querySelectorAll('verse');
+      verseElements.forEach(verseElement => {
+        const brElement = verseElement.querySelector('br:first-child');
+        if (brElement !== null && brElement.nextElementSibling !== null) {
+          brElement.remove();
+        }
       });
       lyrics = xml.querySelector('lyrics').innerHTML;
 
