@@ -39,7 +39,7 @@ searchButton.addEventListener('click', () => {
       const parser = new DOMParser();
       const xml = parser.parseFromString(data, 'application/xml');
       const title = xml.querySelector('title').textContent;
-      const lyrics = xml.querySelector('lyrics').innerHTML;
+      let lyrics = xml.querySelector('lyrics').innerHTML;
       
       // Remove verse with first child br element
       const verseElements = xml.querySelectorAll('verse br:nth-child(1)');
