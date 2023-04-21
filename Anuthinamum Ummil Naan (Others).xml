@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Anuthinamum Ummil Naan</title>
+      <title>Anuthinamum Ummil Naan</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அனுதினமும் உம்மில் நான் வளர்ந்திடவே<br/>உம் அனுக்கிரகம் தரவேண்டுமே</lines>
+    </verse>
+    <verse name="c2">
+      <lines>என்னால் ஒன்றும் கூடாதையா<br/>உம்மால் எல்லாம் கூடும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>என் ஞானம் கல்வி செல்வங்கள் யாவும்<br/>ஒன்றுமில்லை குப்பை என்று எண்ணுகிறேன்<br/>என் நீதி நியாயங்கள் அழுக்கான கந்தை<br/>என்றே உணர்ந்தேன் என் இயேசுவே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>அழைத்தவரே உம்மில் பிழைத்திடவே<br/>அவனியில் உமக்காய் உழைத்திடவே<br/>அர்ப்பணிக்கின்றேன் என்னை இன்றே<br/>ஏற்றுக் கொள்ளும் என் இயேசுவே</lines>
+    </verse>
+  </lyrics>
+</song>

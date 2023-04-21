@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Asaivadum Aaviyae Thuimayin</title>
+      <title>Asaivadum Aaviyae Thuimayin</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அசைவாடும் ஆவியே<br/>தூய்மையின் ஆவியே<br/>இடம் அசைய உள்ளம் நிரம்ப<br/>இறங்கி வாருமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பெலனடைய நிரப்பிடுமே<br/>பெலத்தின் ஆவியே<br/>கனமடைய ஊற்றிடுமே<br/>ஞானத்தின் ஆவியே --- அசைவாடும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>தேற்றிடுமே உள்ளங்களை<br/>இயேசுவின் நாமத்தினால்<br/>ஆற்றிடுமே காயங்களை<br/>அபிஷேக தைலத்தினால் --- அசைவாடும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>துடைத்திடுமே கண்ணீரெல்லாம்<br/>கிருபையின் பொற்கரத்தால்<br/>நிறைந்திடுமே ஆனந்தத்தால்<br/>மகிழ்வுடன் துதித்திடவே --- அசைவாடும்</lines>
+    </verse>
+  </lyrics>
+</song>

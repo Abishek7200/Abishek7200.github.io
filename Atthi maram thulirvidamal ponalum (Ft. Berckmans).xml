@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Atthi maram thulirvidamal ponalum</title>
+      <title>Atthi maram thulirvidamal ponalum</title>
+    </titles>
+    <verseOrder>c1 v5 c1 v1 v5 c1 v2 v5 c1 v3 v5 c1 v4 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அத்திமரம் துளிர்விடாமல் போனாலும்<br/>திராட்சை செடி பலன் கொடாமல் போனாலும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. ஒலிவ மரம் பலன் அற்றுப் போனாலும்<br/>வயல்களிலே தானியமின்றிப் போனாலும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. மந்தையிலே ஆடுகளின்றிப்போனாலும்<br/>தொழுவத்திலே மாடுகளின்றிப் போனாலும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. எல்லாமே எதிராக இருந்தாலும்<br/>சூழ்நிலைகள் தோல்வி போல தெரிந்தாலும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. உயிர் நண்பன் என்னை விட்டுப் பிரிந்தாலும்<br/>ஊரெல்லாம் என்னைத் தூற்றித்திரிந்தாலும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>கர்த்தருக்குள் மகிழ்ச்சியாயிருப்பேன்<br/>என் தேவனுக்குள் களி கூருவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

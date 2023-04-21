@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Athisayamaana oli maya naadam</title>
+      <title>Athisayamaana oli maya naadam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அதிசயமான ஒளிமய நாடாம் <br/>நேசரின் நாடாம் - நான் வாஞ்சிக்கும் நாடாம் </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பாவம் இல்லாத நாடு <br/>ஒரு சாபமும் காணா நாடு - 2 <br/>நித்திய மகிழ்ச்சி ஓயாத கீதம் <br/>உன்னதத்தில் ஓசன்னா - அல்லேலூயா </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. சந்திர சூரியன் இல்லை ஆனால் <br/>இருள் ஏதும் காணவில்லை - 2 <br/>தேவகுமாரன் ஜோதியில் ஜோதி <br/>நித்திய வெளிச்சமவர் - என்றும் பகல் </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. விதவிதக் கொள்கையில்லை <br/>பலப்பிரிவுள்ள பலகை இல்லை - 2 <br/>ஒரே ஒரு குடும்பம் ஒரே ஒரு தலைவர் <br/>எங்குமே அன்புமயம் - அன்புள்ளோர் செல்லும் </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. பிரச்சனை ஏதும் இல்லை <br/>வீண் குழப்பங்கள் ஒன்றும் இல்லை - 2 <br/>மொழி நிறம் ஜாதி பற்று உடையோர் <br/>எவருமே அங்கு இல்லை - அன்பே மொழி </lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. பல பல திட்டம் இல்லை <br/>ஆளும் சட்டங்கள் ஏதும் இல்லை - 2 <br/>காவல்துறையில்லை கண்டிப்பும் இல்லை <br/>மனிதனின் ஆட்சியில்லை - பேரானந்தமே </lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. கடைத்தெரு ஏதும் இல்லை <br/>தொழிற்சாலைகள் ஒன்றும் இல்லை - 2 <br/>தரித்திரர் செல்வர் சிறியவர் பெரியோர் <br/>ஆகிய சிறப்பும் இல்லை - எல்லாம் சமம் </lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>7. இயேசுவின் இரத்ததினால் <br/>பாவம் கழுவினால் செல்லலாமே - 2 <br/>இத்தனை பெரிய சிலாக்கியம் இழப்போர் <br/>இப்ப+மியில் எவரும் வேண்டாம் - இன்றே வாரீர்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Anbe kalvaari anbe</title>
+      <title>Anbe kalvaari anbe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அன்பே கல்வாரி அன்பே<br/>உம்மைப் பார்க்கையிலே<br/>என் உள்ளம் உடையுதப்பா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>தாகம் தாகம் என்றீர்<br/>எனக்காய் ஏங்கி நின்றீர்<br/>பாவங்கள் சுமந்தீர்<br/>எங்கள் பரிகார பலியானீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>காயங்கள் பார்க்கின்றேன்<br/>கண்ணீர் வடிக்கின்றேன்<br/>தூய திரு இரத்தமே<br/>துடிக்கும் தாயுள்ளமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>அணைக்கும் கரங்களிலே<br/>ஆணிகளா சுவாமி?<br/>நினைத்துப் பார்க்கையிலே<br/>நெஞ்சம் உருகுதையா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>நெஞ்சில் ஓர் ஊற்று<br/>நதியாய் பாயுதையா<br/>மனிதர்கள் மூழ்கணுமே<br/>மறுரூபம் ஆகணுமே</lines>
+    </verse>
+  </lyrics>
+</song>

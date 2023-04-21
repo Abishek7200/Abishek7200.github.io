@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Anbu Illatha Ulagil</title>
+      <title>Anbu Illatha Ulagil</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அன்பு இல்லாத உலகில்<br/>அன்பை தேடி அலைந்தேன்<br/>அன்பு இல்லாத மனிதரிலும்<br/>அன்பை தேடி வந்தார்<br/>இயேசு அன்பை தேடி வந்தார் - 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அன்பு அன்பு அது இயேசுவின் அன்பு<br/>நம்பு நம்பு நம் வாழ்வில் நம்பு - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கணவனின் அன்போ கலைந்திடும்<br/>மனைவியின் அன்போ மறைந்திடும்<br/>பிள்ளையின் அன்போ பிரிந்திடும்<br/>இயேசுவின் அன்பு மறையாதே - 2<br/>(நேசரின்அன்பு மாறாதே)<br/>                                         - அன்பு இல்லாத</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>நண்பனின் அன்போ நழுவிடும்<br/>தோழியின் அன்போ தொலைந்திடும்<br/>நேசித்த அன்போ தோற்றிடும்<br/>நேசரின் அன்பு நேசிக்கும் - 2<br/>                                         - அன்பு இல்லாத</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>தாயின் அன்போ தவழ்ந்திடும்<br/>தந்தையின் அன்போ மறைந்திடும்<br/>உறவினர் அன்போ பிரிந்திடும்<br/>நேசரின் அன்பு மறையாதே - 2<br/>                                         - அன்பு இல்லாத</lines>
+    </verse>
+  </lyrics>
+</song>

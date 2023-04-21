@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aaviyaanavarae Anbin Aaviyaanavarae</title>
+      <title>Aaviyaanavarae Anbin Aaviyaanavarae</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆவியானவரே அன்பின் ஆவியானவரே<br/>இப்போ வாரும் இறங்கி வாரும்<br/>எங்கள் மத்தியிலே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. உளையான சேற்றினின்று தூக்கி எடுத்தவரே<br/>பாவம் கழுவி தூய்மையாக்கும் இந்த வேளையிலே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பத்மு தீவினிலே பக்தனை தேற்றிநீரே<br/>என்னையும் தேற்றி ஆற்ற வாரும் இந்த வேளையிலே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சீனாய் மலையினிலே இறங்கி வந்தவரே<br/>ஆத்மா தாகம் தீர்க்க வாரும் இந்த வேளையிலே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. நேசரின் மார்பினிலே இனிதாய் சாய்ந்திடவே<br/>ஏக்கமுற்றேன் விரும்பி வந்தேன் உந்தன் பாதத்தில்	</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. ஆவியின் வரங்களினால் என்னையும் நிரப்பிடுமே<br/>எழுந்து ஜொலிக்க எண்ணெய் ஊற்றும் இந்த வேளையிலே </lines>
+    </verse>
+  </lyrics>
+</song>

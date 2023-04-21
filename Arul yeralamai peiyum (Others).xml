@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Arul yeralamai peiyum</title>
+      <title>Arul yeralamai peiyum</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அருள் ஏராளமாய்ப் பெய்யும் உறுதி வாக்கிதுவே<br/>ஆறுதல் தேறுதல் செய்யும் திரளாம் மிகுதியே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அருள் ஏராளம் அருள் அவசியமே<br/>அற்பமாய் சொற்பமாய் அல்ல திரளாய் பெய்யட்டுமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. அருள் ஏராளமாய்ப் பெய்யும் மேகமந்தாரமுண்டாம்<br/>காடான நிலத்திலேயும் செழிப்பும் பூரிப்புமாம் – அருள்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. அருள் ஏராளமாய்ப் பெய்யும் யேசு வந்தருளுமேன்<br/>இங்குள்ள கூட்டத்திலேயும் இறங்கி தங்கிடுமேன் – அருள்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. அருள் ஏராளமாய்ப் பெய்யும் பொழியும் இச்சணமே<br/>அருளின் மாரியைத் தாரும் ஜீவ தயாபரரே – அருள்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Alangaara Vaasalaalae Pravesikka</title>
+      <title>Alangaara Vaasalaalae Pravesikka</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அலங்கார வாசலாலே பிரவேசிக்க<br/>வந்து நிற்கிறோம்<br/>தெய்வ வீட்டின் நன்மைகளாலே<br/>நிரம்பிட வந்திருக்கிறோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆராதிக்க வந்தோம்<br/>அன்பு கூற வந்தோம்<br/>யெகோவா தேவனையே<br/>துதித்திட வந்தோம்<br/>தொழுதிட வந்தோம்<br/>தூயவர் இயேசுவையே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. ஆலயம் செல்லுவதே<br/>அது மகிழ்ச்சியை தந்திடுதே<br/>என் சபையுடனே உம்மை துதித்திடவே<br/>கிருபையும் கிடைத்திட்டதே - ஆராதிக்க</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. பலிகளை செலுத்திடவே <br/>ஜீவ பலியாக மாறிடவே<br/>மறுரூபத்தின் இருதயத்தை தந்தீரே<br/>ஸ்தோத்திரம் ஸ்தோத்திரமே - ஆராதிக்க</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. நன்மையை செய்தவர்க்கே<br/>நாங்கள் நன்றி செலுத்துவோமே<br/>எம் காணிக்கையை உம் கரங்களிலே<br/>உற்சாகமாய் விதைக்கிறோமே - ஆராதிக்க</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. துதிகன மகிமையுமே<br/>முழு மனதோடு செலுத்துவோமே<br/>சம்பூரண ஆசிர்வாதங்களால்<br/>திருப்தியாய் அனுப்பிடுமே - ஆராதிக்க</lines>
+    </verse>
+  </lyrics>
+</song>

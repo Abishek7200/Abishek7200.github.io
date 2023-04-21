@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aayiram Sthothirame</title>
+      <title>Aayiram Sthothirame</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆயிரம் ஸ்தோத்திரமே<br/>இயேசுவே பாத்திரரே<br/>பள்ளத் தாக்கிலே அவர் லீலி<br/>சாரோனிலே ஓர் ரோஜா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. வாலிப நாட்களிலே<br/>என்னைப் படைத்தவரை நினைத்தேன்<br/>ஏற்றிய தீபத்தால் இதயமே நிறைந்தது<br/>இயேசுவின் அன்பினாலே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. உலக மேன்மை யாவும்<br/>நஷ்டமாய் எண்ணிடுவேன்<br/>சிலுவை சுமப்பதே லாபமாய் நினைத்தே<br/>சாத்தானை முறியடிப்பேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சிற்றின்ப கவர்ச்சிகளை<br/>வெறுக்கும் ஓர் இதயம் தந்தீர்<br/>துன்பத்தின் மிகுதியால் தோய்வுகள் வந்தாலும்<br/>ஆவியில் மகிழ்ந்திடுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. பலவித சோதனையை<br/>சந்தோஷமாய் நினைப்பேன்<br/>எண்ணங்கள் சிறையாக்கி இயேசுவுக்குக் கீழ்படுத்தி<br/>விசுவாசத்தில் வளர்வேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. இயேசுவின் நாமத்திலே<br/>ஜெயம் கொடுக்கும் தேவனுக்கு<br/>அல்லேலூயா ஸ்தோத்திரம் இயேசுவே வாரும்<br/>என்றென்றும் உம்மில் வாழ</lines>
+    </verse>
+  </lyrics>
+</song>

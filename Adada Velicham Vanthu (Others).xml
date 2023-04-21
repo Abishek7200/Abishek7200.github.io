@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-11-26T06:25:14">
+  <properties>
+    <titles>
+      <title>Adada Velicham Vanthu</title>
+      <title>Adada Velicham Vanthu</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அடடா வெளிச்சம் வந்து <br/>இருட்ட மறைக்குதே<br/>புதுசா பட்டாம் பூச்சி <br/>மனசில் பறக்குதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>நம் HERO வந்தாச்சே <br/>ஹே ஹே ஹே ஹே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>உலகில் வெளிச்சம் வந்துட்டு <br/>BRIGHT ஆ<br/>புது கிருப வந்துட்டு <br/>GREAT ஆ<br/>SEMMA வாழ்க்க தந்தாரே <br/>ஹே ஹே ஹே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>அன்பாலே உலகை ஆள<br/>மீட்பர் வந்தாரே<br/>உன் கல் நெஞ்ச தூக்கிபோட்டு <br/>அன்ப காட்டுடா</lines>
+    </verse>
+    <verse name="v5">
+      <lines>வெரட்டி வெரட்டி காதல் பண்ணா விட்டுட்டு ஓடும்டா<br/>தேடி வந்தவர காதல் பண்ணா வாழ்க மலரும்டா</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>தோத்தவனும் வீழ்ந்தவனும் கண்ண தொடச்சிக்கோ<br/>நீ தொட்டதெல்லாம் தூள்பறக்கும் அவர ப்புடிச்சிகோ<br/>தள்ளு முள்ளு politics எல்லாம் தள்ளி வைங்கடா<br/>இல்லன HERO வந்து உன்ன ஓரம் தள்ளி வைபார்டா</lines>
+    </verse>
+  </lyrics>
+</song>

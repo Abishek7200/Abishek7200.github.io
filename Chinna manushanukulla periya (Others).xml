@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Chinna manushanukulla periya</title>
+      <title>Chinna manushanukulla periya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v1 v3 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>சின்ன மனுஷனுக்குள்ள<br/>பெரிய ஆண்டவர் வந்தா<br/>பெரிய பெரிய அற்புதங்கள் நடக்கும்<br/>உன் உள்ளத்துக்குள்ள<br/>தேவ வல்லமை வந்தா<br/>உன்னைக் கொண்டு எல்லாம் நடக்கும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உன்னைக் கொண்டு அற்புதங்கள் நடக்கும்<br/>உலகமே உன்னைப் பார்த்து வியக்கும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. தெருவில் பேதுருவைத் தேடி<br/>ஓடி வந்ததே ஓர் கூட்டம்<br/>நிழலைத் தொட்டவுடன் வியாதி<br/>சொல்லாமப் போனதையா ஓடி<br/>உன் உள்ளத்திலே கர்த்தர் வந்தா எல்லாமே மாறும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. பெரிய ராட்சதனை பார்த்து<br/>ஓடி ஒளிந்ததையா Army<br/>கூலா வந்தானையா தாவீது<br/>கூழாங் கல்லவிட்டு ஜெயித்தாரு<br/>உன் உள்ளத்திலே கர்த்தர் வந்தா எல்லாமே மாறும்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Azhaganavar arumayanavar iniaiyanavar</title>
+      <title>Azhaganavar arumayanavar iniaiyanavar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அழகானவர் அருமையானவர்<br/>இனிமையானவர்<br/>மகிமையானவர் மீட்பரானவர்<br/>அவர் இயேசு இயேசு இயேசு</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>சேனைகளின் கர்த்தர் நம் மகிமையின் ராஜா<br/>என்றும் நம்மோடிருக்கும் இம்மானுவேலர்<br/>இம்மட்டும் இனிமேலும் எந்தன் நேசர்<br/>என்னுடையவர் என் ஆத்ம நேசரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கன்மலையும் கோட்டையும்<br/>துணையுமானவர்- ஆற்றித்<br/>தேற்றிக் காத்திடும் தாயுமானவர்<br/>என்றென்றும் நடத்திடும் எந்தன் ராஜா<br/>என்னுடையவர் என் நேச கர்த்தரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கல்வாரி மேட்டிலே கொல்கதாவிலே<br/>நேசர் இரத்தம் சிந்தியே என்னை மீட்டார்<br/>பாசத்தின் எல்லைதான் இயேசுராஜா<br/>என்னுடையவர் என் அன்பு இரட்சகர்</lines>
+    </verse>
+  </lyrics>
+</song>

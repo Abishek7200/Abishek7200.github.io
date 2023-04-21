@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Appa naan ummai paarkiren</title>
+      <title>Appa naan ummai paarkiren</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அப்பா நான் உம்மைப் பார்க்கிறேன் <br/>அன்பே நான் உம்மைத் துதிக்கிறேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. நீரே என் வழி நீரே என் சத்தியம் <br/>நீரே என் ஜீவனன்றோ </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. அப்பாவும் நீரே அம்மாவும் நீரே <br/>நான் உந்தன் பிள்ளையன்றோ </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. நல்ல மேய்ப்பன் நீர் தானே <br/>நான் உந்தன் ஆட்டுக்குட்டி </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. ஜீவ நீருற்று நீர் தானே <br/>உந்தன்மேல் தாகம் கொண்டேன்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:20">
+  <properties>
+    <titles>
+      <title>Aagaathathu ethuvum illa ummal</title>
+      <title>Aagaathathu ethuvum illa ummal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆகாதது எதுவுமில்ல<br/>உம்மால் ஆகாதது எதுவுமில்ல</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. துதி செய்யத் தொடங்கியதும்<br/>எதிரிகள் தங்களுக்குள்<br/>வெட்டுண்டு மடியச் செய்தீர் (2)<br/>உம்மால் ஆகும் எல்லாம் ஆகும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. அலங்கார வாசலிலே<br/>அலங்கோல முடவன் அன்று<br/>நடந்தானே இயேசு நாமத்தில் (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. கோலும் கையுமாக<br/>பிழைக்கச் சென்றார் யாக்கோபு<br/>பெருகச் செய்தீர் பெரும் கூட்டமாய்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கண்ணீரைக் கண்டதாலே<br/>கல்லறைக்குச் சென்றவனை<br/>கரம் பிடித்து தூக்கி விட்டீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. ஈசாக்கு ஜெபித்ததாலே<br/>ரெபேக்காள் கருவுற்று<br/>இரட்டையர்கள் பெற்றெடுத்தாள்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. எலியாவின் வார்த்தையாலே<br/>சாறிபாத் விதவை வீட்டில்<br/>எண்ணெய் மாவு குறையவில்லையே</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>7. ஜெப வீரன் தானியேலை<br/>சிங்கங்களின் குகையினிலே<br/>சேதமின்றிக் காப்பாற்றினீர்</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>8. கானாவூரில் வார்த்தை சொல்ல<br/>கப்பர்நகூம் சிறுவனங்கே<br/>சுகமானான் அந்நேரமே</lines>
+    </verse>
+    <verse name="v9">
+      <lines><br/>9. தண்ணீரால் ஜாடிகளை கீழ்படிந்து நிரப்பினதால்<br/>திராட்சை ரசம் வந்ததையா</lines>
+    </verse>
+  </lyrics>
+</song>

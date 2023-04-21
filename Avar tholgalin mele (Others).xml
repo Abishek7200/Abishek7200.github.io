@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Avar tholgalin mele</title>
+      <title>Avar tholgalin mele</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v4 v2 c1 v1 v5 v2 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அவர் தோள்களின் மேலே<br/>நான் சாய்ந்திருப்பதால்<br/>கவலை ஓன்றும் எனக்கில்லையே<br/>என் தேவைகள் எல்லாம்<br/>அவர் பார்த்துக்கொள்வதால்<br/>நான் அவருக்குள்ளே மகிழ்ந்திருப்பேனே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அவர் வார்த்தையின் மேலே<br/>நான் சார்ந்திருப்பதால்<br/>கவலை ஓன்றும் எனக்கில்லையே<br/>என் தேவைகள் எல்லாம்<br/>அவர் பார்த்துக்கொள்வதால்<br/>நான் கர்த்தருக்குள் மகிழ்ந்திருப்பேனே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>யெகோவாயீரே எந்தன் தேவன்<br/>தேவைகள் யாவும் சந்திப்பீரே<br/>யெகோவா ராஃபா எந்தன் தேவன்<br/>எந்நாளும் சுகம் தருவீரே-2</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>1. மரண இருளின் பள்ளத்தாக்கில் நடக்க நேர்ந்தாலும்<br/>என் அப்பா என்னோடு இருப்பதாலே பயப்படமாட்டேன்-2<br/>எனக்கு விரோதமாய் ஆயிரங்களும்<br/>பதினாயிரங்கள் எழுந்தாலும் அஞ்சிடமாட்டேன்-2-யெகோவாயீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>2. நெருக்கத்திலே கர்த்தரை நோக்கி கூப்பிட்டேன்<br/>என்னை விசாலத்தில் கொண்டுவந்து மீட்டுக்கொண்டாரே-2<br/>என் பட்சத்தில் கர்த்தர் இருப்பதினாலே<br/>ஒருபோதும் நான் அசைக்கப்படுவதில்லையே-2-யெகோவாயீரே</lines>
+    </verse>
+  </lyrics>
+</song>

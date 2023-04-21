@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Antho Kalvariyil Arumai</title>
+      <title>Antho Kalvariyil Arumai</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அந்தோ கல்வாரியில் அருமை இரட்சகரே<br/>சிறுமை அடைந்தே தொங்கினார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>மகிமை மாட்சிமை மறந்திழந்தோராய்<br/>கொடுமை குருசைத் தெரிந்தெடுத்தாரே<br/>மாயலோகத்தோ டழியாது யான்<br/>தூய கல்வாரியின் அன்பை அண்டிடவே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>அழகுமில்லை சௌந்தரியமில்லை<br/>அந்தக் கேடுற்றார் எந்தனை மீட்க<br/>பல நிந்தைகள் சுமந்தாலுமே<br/>பதினாயிரம் பேரிலும் சிறந்தவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>முளின் முடியும் செவ்வங்கி அணிந்தும்<br/>கால் கரங்கள் ஆணிகள் பாய்ந்தும்<br/>குருதி வடிந்தவர் தொங்கினார்<br/>வருந்தி மடிவோரையும் மீட்டிடவே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>அதிசயம் இது இயேசுவின் நாமம் <br/>அதினும் இன்பம் அன்பரின் தியானம்<br/>அதை எண்ணியே நிதம் வாழ்வேன்<br/>அவர் பாதையே நான் தொடர்ந்தேகிடவே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>சிலுவைக் காட்சியை கண்டு முன்னேறி<br/>சேவையே புரிவேன் ஜீவனும் வைத்தே<br/>என்னைச் சேர்ந்திட வருவே னென்றார்<br/>என்றும் உண்மையுடன் நம்பி வாழ்ந்திடுவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

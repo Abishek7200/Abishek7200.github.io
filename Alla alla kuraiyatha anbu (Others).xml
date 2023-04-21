@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Alla alla kuraiyatha anbu</title>
+      <title>Alla alla kuraiyatha anbu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அள்ள அள்ள குறையாத அன்பு<br/>ருசிக்க ருசிக்க தெவிட்டாத அன்பு<br/>சொல்ல சொல்ல முடியாத அன்பு -என்<br/>இயேசுவின் இணையில்லாத அன்பு</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பெயரைச் சொல்லி அழைத்த அன்பு<br/>என்னை உயர்த்தி வைத்த உன்னத அன்பு<br/>என்னை கவர்ந்து கொண்ட இயேசுவின் அன்பு</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. என்னையும் அபிஷேகித்த அன்பு<br/>என்னை அதிசயமாய் நடத்தின அன்பு<br/>என்னை கவர்ந்து கொண்ட இயேசுவின் அன்பு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. என்னையும் நினைத்த அன்பு<br/>என்னை கைவிடாமல் நடத்திய அன்பு<br/>என்னை கவர்ந்து கொண்ட இயேசுவின் அன்பு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. ஊழியத்தை கொடுத்த அன்பு<br/>என்னை ஊழியனாய் மாற்றின அன்பு<br/>என்னை கவர்ந்து கொண்ட இயேசுவின் அன்பு</lines>
+    </verse>
+  </lyrics>
+</song>

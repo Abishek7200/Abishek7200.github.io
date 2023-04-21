@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aar Ivar Aararo</title>
+      <title>Aar Ivar Aararo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆர் இவர் ஆராரோ - இந்த - அவனியோர் மாதிடமே<br/>ஆனடை குடிலிடை மோனமாய் உதித்த இவ்வற்புத பாலகனாய்?</lines>
+    </verse>
+    <verse name="v1">
+      <lines>பாருருவாகுமுன்னே - இருந்த<br/>பரப்பொருள் தானிவரோ?<br/>சீருடன் புவி, வான், அவை பொருள் யாவையுஞ்<br/>சிருஷ்டித்த மாவலரோ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>மேசியா இவர் தானோ? - நம்மை<br/>மேய்த்திடும் நரர்கோனோ?<br/>ஆசையாய் மனிதருக்காய் மரித்திடும் அதி<br/>அன்புள்ள மனசானோ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>தித்திக்குந் தீங்கனியோ? - நமது<br/>தேவனின் கண்மணியோ?<br/>மெத்தவே உலகிருள் நீக்கிடும் அதிசய<br/>மேவிய விண்ணொளியோ?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>பட்டத்து துரைமகனோ - நம்மை<br/>பண்புடன் ஆழ்பவனோ?<br/>கட்டளை மீறிடும் யாவர்க்கும் மன்னிப்புக்<br/>காட்டிடுந் தாயகனோ?</lines>
+    </verse>
+  </lyrics>
+</song>

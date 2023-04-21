@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aarathippaen Naan Aaraathippaen</title>
+      <title>Aarathippaen Naan Aaraathippaen</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆராதிப்பேன் நான் ஆராதிப்பேன்<br/>ஆண்டவர் இயேசுவை ஆராதிப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. வல்லவரே உம்மை ஆராதிப்பேன்<br/>நல்லவரே உம்மை ஆராதிப்பேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பரிசுத்த உள்ளத்தோடு ஆராதிப்பேன்<br/>பணிந்து குனிந்து ஆராதிப்பேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. ஆவியிலே உம்மை ஆராதிப்பேன்<br/>உண்மையிலே உம்மை ஆராதிப்பேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. தூதர்களோடு ஆராதிப்பேன்<br/>ஸ்தோத்திர பலியோடு ஆராதிப்பேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. காண்பவரை நான் ஆராதிப்பேன்<br/>காப்பவரை நான் ஆராதிப்பேன்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. வெண்ணாடை அணிந்து ஆராதிப்பேன்<br/>குருத்தோலை ஏந்தி ஆராதிப்பேன்</lines>
+    </verse>
+  </lyrics>
+</song>

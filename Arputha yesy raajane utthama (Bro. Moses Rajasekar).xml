@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Arputha yesy raajane utthama</title>
+      <title>Arputha yesy raajane utthama</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Bro. Moses Rajasekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அற்புத இயேசு ராஜனே உத்தம மணாளனே<br/>நீரே என் ஆறுதல்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>என் கோட்டை என் துருகம் - நான்<br/>நம்பினவர் என் அடைக்கலம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கனவிலும் மறவேன் நீர் செய்த நன்மைகள்<br/>நினவிலும் மறவேன் நீர் செய்த அதிசயங்கள்<br/>என் ராஜா என் ரோஜா<br/>என் தெய்வம் என் இயேசு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>நேற்று இன்றும் என்றும் மாறா தேவன்<br/>போற்றிப் பாடும் சர்வ வல்ல ராஜன்<br/>என் அன்பர் என் இன்பர்<br/>என் நண்பர் என் இயேசு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>ஒருவாராகப் பெரிய காரியங்கள் செய்பவர்<br/>இருளிலிருந்து புதையலை கொண்டு வருபவர்<br/>நீர் பெரியவர் துதிக்குப் பாத்திரார்<br/>எனக்குரியவர் என் இயேசு</lines>
+    </verse>
+  </lyrics>
+</song>

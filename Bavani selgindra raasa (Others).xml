@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-01T10:44:04">
+  <properties>
+    <titles>
+      <title>Bavani selgindra raasa</title>
+      <title>Bavani selgindra raasa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பவனி செல்கின்றார் ராசா - நாம்<br/>பாடிப் புகழ்வோம் நேசா!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>அவனிதனிலே மறிமேல் ஏறி<br/>ஆனந்தம் பரமானந்தம். --- பவனி</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. எருசலேமின் பதியே! - சுரர்<br/>கரிசனையுள்ள நிதியே!<br/>அருகில் நின்ற அனைவர் போற்றும்<br/>அரசே, எங்கள் சிரசே! --- பவனி</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. பன்னிரண்டு சீடர் சென்று - நின்று<br/>பாங்காய் வஸ்திரம் விரிக்க<br/>நன்னயம் சேர் மனுவின் சேனை<br/>நாதம் கீதம் ஓத. --- பவனி</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. குருத்தோலைகள் பிடிக்க, - பாலர்<br/>கும்புகும்பாகவே நடிக்க<br/>பெருத்த தொனியாய் ஓசன்னாவென்று<br/>போற்ற மனம் தேற்ற. </lines>
+    </verse>
+  </lyrics>
+</song>

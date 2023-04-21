@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Azhaithavare Azhaithavare um</title>
+      <title>Azhaithavare Azhaithavare um</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">John Jebaraj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அழைத்தவரே! அழைத்தவரே!<br/>என் ஊழியத்தின் ஆதாரமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எத்தனை நிந்தைகள் எத்தனை தேவைகள்<br/>எனை சூழநின்றாலும் உம்மை பார்க்கின்றேன்<br/>உத்தம ஊழியன் என்று நீர் சொல்லிடும்<br/>ஒரு வார்த்தை கேட்டிட உண்மையாய் ஒடுகிறேன் – அழைத்தவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. வீணான புகழ்ச்சிகள் எனக்கு இங்கு வேண்டாம்<br/>பதவிகள் பெருமைகள் ஒரு நாளும் வேண்டாம்<br/>ஊழியப் பாதையில் ஒன்று மட்டும் போதுமே<br/>அப்பா உன் கால்களின் சுவடுகள் போதுமே – அழைத்தவரே</lines>
+    </verse>
+  </lyrics>
+</song>

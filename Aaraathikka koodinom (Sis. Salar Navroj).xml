@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T01:27:05">
+  <properties>
+    <titles>
+      <title>Aaraathikka koodinom</title>
+      <title>Aaraathikka koodinom</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆராதிக்கக் கூடினோம்<br/>ஆர்ப்பரித்துப் பாடிடுவோம்<br/>வல்ல இயேசு நம் தேவன்<br/>என்றென்றும் அவர் நல் தேவன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>தேவ வாசஸ்தலம் என்றும் இன்பமானதே<br/>மகிமை தேவன் கிறிஸ்து இயேசு பிரசன்னம் இங்கே<br/>மகிமை மகிமையே என் மனம் பாடுதே -2<br/>மக்கள் மத்தியில் என்றும் மகிழ்ச்சி பொங்குதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>சீயோன் பெலனே வெற்றி சிகரமே<br/>சேனைகளின் கர்த்தர் இயேசு கிரியை செய்கிறார்<br/>ஜீவன் பெலனும் நல் ஆசீர்வாதமும்<br/>நித்திய ஜீவன் இன்றும் என்னில் ஓங்கி நிற்குதே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>கர்த்தர் சமூகம் என் வாழ்வின் மேன்மையே<br/>______  _______  _______  _______ _______  _____<br/>அல்லேலூயா என் ஆவி பாடுதே<br/>ஆராதனை அழகு என்னை கவர்ந்து கொண்டதே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>தேவ சாயல் சபையில் தோன்றுதே<br/>தேவர் நடுவில் இயேசு நியாயம் செய்கிறார்<br/>தேவ சேவையே என் கெம்பீர சேவை<br/>தேவ ஆவியில் நிறைந்து நானும் ஆடிப்பாடுவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

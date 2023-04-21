@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aathumave nandri sollu</title>
+      <title>Aathumave nandri sollu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ஆத்துமாவே நன்றி சொல்லு<br/>முழு உள்ளத்தோடே- என்<br/>கர்த்தர் செய்த நன்மைகளை<br/>ஒருநாளும் மறவாதே – 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>குற்றங்களை மன்னித்தாரே<br/>நோய்களை நீக்கினாரே<br/>படுகுழியினின்று மீட்டாரே<br/>ஜீவனை மீட்டாரே – 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கிருபை இரக்கங்களால்<br/>மணிமுடி சூட்டுகின்றார்<br/>வாழ்நாளெல்லாம் நன்மைகளால்<br/>திருப்தி ஆக்குகின்றார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>இளமை கழுகு போல<br/>புதிதாக்கி மகிழ்கின்றார் – நம்<br/>ஓடினாலும் நடந்தாலும்<br/>பெலன் குறைவதில்லை – 2 – நாம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>கர்த்தர் தம் வழிகளெல்லாம் மோசேக்கு<br/>வெளிப்படுத்தினார்<br/>அதிசய செயல்கள் காணச் செய்தார்<br/>ஜனங்கள் காணச் செய்தார்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>எப்போதும் கடிந்து கொள்ளார்<br/>குற்றங்களுக்கேற்ப நடத்துவதில்லை<br/>மன்னித்து மறந்தாரே</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>தகப்பன் தன் பிள்ளைகள் மேல்<br/>என்றென்றும் கோபம் கொண்டிரார்<br/>தயவு காட்டுவது போல்<br/>கருணை இரக்கம் காட்டுகிறார்<br/>மறவாமல் நினைக்கின்றார்</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>அவரது பேரன்பு வானளவு<br/>உயர்ந்துள்ளது<br/>கிழக்கு மேற்கு தூரம்போல<br/>அகற்றிவிட்டார் நம் குற்றங்கள்</lines>
+    </verse>
+    <verse name="v9">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Avar Enthan Sangeetham Aanavar</title>
+      <title>Avar Enthan Sangeetham Aanavar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அவர் எந்தன் சங்கீதமானவர்<br/>பெலமுள்ள கோட்டையுமாம்<br/>ஜீவனின் அதிபதியான அவரை<br/>ஜீவிய காலமெல்லாம் வாழ்த்துவோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>துதிகளின் மத்தியில் வாசம் செய்யும்<br/>தூத கணங்கள் போற்றும் தேவன் அவரே<br/>வேண்டிடும் பக்தர்களின் குறைகள் கேட்கும்<br/>திக்கற்ற பிள்ளைகளின் தேவனவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>இரண்டு மூன்றுபேர் எந்தன் நாமத்தினால்<br/>இருதயம் ஒருமித்தால் அவர் நடுவில்<br/>இருப்பேன் என்றவர் நமது தேவன் <br/>இருகரம் தட்டி என்றும் வாழ்த்துவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>  வானவர் கிறிஸ்தேசு நாமமதை <br/>வாழ்நாள் முழுவதும் வாழ்த்துவோம்<br/>வருகையில் அவரோடு இணைந்து என்றும்<br/>வணங்குவோம் வாழ்த்துவோம் போற்றிடுவோம்</lines>
+    </verse>
+  </lyrics>
+</song>

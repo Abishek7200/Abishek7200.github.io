@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Arul Naathar Naamamathil</title>
+      <title>Arul Naathar Naamamathil</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">D.G.S. Dinakaran</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அருள்நாதர் நாமமதில் ஒரு மனமாய் உருகி<br/>தொழுகின்ற நேரம் எல்லாம்<br/>எழுந்திடுவார் நடுவில் - நாம்(2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>இதயம் நொறுங்கினோரின்<br/>ஆதரவும் அவரே(2)<br/>கதறல்கள் கேட்டிடுவார்<br/>பதறாமல் அணைத்திடுவார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>நோயினால் நொந்தவரை<br/>தாயன்பால் அணைத்தவரே(2)<br/>பரிகாரி நானே என்பார்<br/>பட்சமாய் தாங்கிடுவார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>மாயையில் மயங்கினோரை<br/>தயைதந்து மாற்றுவாரே(2)<br/>தூய ஆவி ஈந்திடுவார்<br/>தூய்மையாய் மாற்றிடுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

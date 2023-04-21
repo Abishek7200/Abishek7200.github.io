@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Anathi devan un adaikalame</title>
+      <title>Anathi devan un adaikalame</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அநாதி தேவன் உன் அடைக்கலமே<br/>அவர் நித்திய புயங்கள் உன் ஆதாரமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இந்த தேவன் என்றென்றுமுள்ள<br/>சதா காலமும் நமது தேவன் - மரண<br/>பரியந்தம் நம்மை நடத்திடுவார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>காருண்யத்தாலே இழுத்துக்கொண்டார்<br/>தூய தேவ அன்பே<br/>இவ்வனாந்திரத்தில் நயங்காட்டி உன்னை<br/>இனிதாய் வருந்தி அழைத்தார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கானக பாதை காரிருளில்<br/>தூய தேவ ஒளியே<br/>அழுகை நிறைந்த பள்ளத்தாக்குகளை<br/>அரும் நீருற்றாய் மாற்றினாரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>கிருபை கூர்ந்து மனதுருகும்<br/>தூய தேவ அன்பே<br/>உன் சமாதானத்தின் உடன்படிக்கை தனை<br/>உண்மையாய் கர்த்தர் காத்துக் கொள்வார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>வறண்ட வாழ்க்கை செழித்திடுதே<br/>தூய தேவ அருளால்<br/>நித்திய மகிழ்ச்சி தலைமேல் இருக்கும்<br/>சஞ்சலம் தவிப்பும் ஓடிப்போம்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>ஆனந்தம் பாடி திரும்பியே வா<br/>தூய தேவ பெலத்தால்<br/>சீயோன் பர்வதம் உன்னைச் சேர்த்திடுவார்<br/>சந்ததம் மகிழ்ச்சி அடைவாய்</lines>
+    </verse>
+  </lyrics>
+</song>

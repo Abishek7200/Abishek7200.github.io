@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aiyaiyaa naan vanthen</title>
+      <title>Aiyaiyaa naan vanthen</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஐயையா, நான் வந்தேன் - தேவ<br/>ஆட்டுக்குட்டி, வந்தேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. துய்யன் நீர் சோரி பாவி எனக்காய்ச் சிந்தித்<br/>துஷ்டன் எனை அழைத்தீர் - தயை<br/>செய்வோம் என்றே இதை அல்லாது போக்கில்லை<br/>தேவாட்டுக்குட்டி, வந்தேன் --- ஐயையா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. உள்ளக் கறைகளில் ஒன்றேனம் தானாய்<br/>ஒழிந்தால் வருவேன், என்று நில்லேன்<br/>தெள் உம் உதிரம் கறை யாவும் தீர்த்திடும்<br/>தேவாட்டுக்குட்டி, வந்தேன் --- ஐயையா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. எண்ணம், வெளியே போராட்டங்கள், உட்பயம்<br/>எத்தனை, எத்தனையோ! இவை<br/>திண்ணம் அகற்றி எளியனை ரட்சியும்<br/>தேவாட்டுக்குட்டி, வந்தேன் --- ஐயையா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. ஏற்றுக்கொண்டு மன்னிப் பீந்து சுத்திகரித்<br/>தென்னை அரவணையும் - மனம்<br/>தேற்றிக்கொண்டேன் உந்தம் வாக்குத் தத்தங்களால்<br/>தேவாட்டுக்குட்டி, வந்தேன் --- ஐயையா</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. மட்டற்ற உம் அன்பினால் தடை எதும்<br/>மாறி அகன்றதுவே - இனி<br/>திட்டமே உந்தம் உடைமை யான் என்றென்றும்<br/>தேவாட்டுக்குட்டி, வந்தேன் --- ஐயையா</lines>
+    </verse>
+  </lyrics>
+</song>

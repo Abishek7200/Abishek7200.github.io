@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Anathi snegathal ennai nesitheeraiya</title>
+      <title>Anathi snegathal ennai nesitheeraiya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அநாதி சிநேகத்தால்<br/>என்னை நேசித்தீரைய்யா<br/>காருண்யத்தினால்<br/>என்னை இழுத்துக் கொண்டீரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அன்பு பெரியது<br/>இரக்கம் பெரியது<br/>கிருபை பெரியது<br/>தயவு பெரியது</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. அனாதையாய் அலைந்த<br/>என்னை தேடி வந்தீரே<br/>அன்பு காட்டி அரவணைத்து<br/>காத்துக் கொண்டீரே – அன்பு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. நிலையில்லாதா உலகத்தில்<br/>அலைந்தேனய்யா<br/>நிகரில்லாத இயேசுவே<br/>அனைத்துக் கொண்டீரே – அன்பு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. தாயின் கருவில் தொன்றுமுன்னே<br/>தெரிந்துக் கொண்டீரே<br/>தாயைப் போல ஆற்றி தேற்றி<br/>நடத்தி வந்தீரே – அன்பு</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. நடத்தி வந்த பாதைகளை<br/>நினைக்கும் போதெல்லாம்<br/>கண்ணீரோடு நன்றி சொல்லி<br/>துதிக்கின்றேனைய்யா – அன்பு</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. கர்த்தர் செய்ய நினைத்தது<br/>தடைபடவில்லை<br/>சகலத்தையும் நன்மையாக<br/>செய்து முடித்தீரே – அன்பு</lines>
+    </verse>
+  </lyrics>
+</song>

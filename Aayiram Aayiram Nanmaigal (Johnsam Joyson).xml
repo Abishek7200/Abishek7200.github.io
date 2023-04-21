@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aayiram Aayiram Nanmaigal</title>
+      <title>Aayiram Aayiram Nanmaigal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Johnsam Joyson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆயிரம் ஆயிரம் நன்மைகள்<br/>அனுதினமும் என்னை சூழ்ந்திட<br/>கிருபையும் இரக்கமும் அன்பும் கொண்டீரே<br/>நல்ல எபிநேசராய் என்னை<br/>நடத்தி வந்தீரே<br/>நன்றி சொல்ல வார்த்தை இல்லை</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. காலை மாலை எல்லாம் வேளையிலும்<br/>என்னை நடத்தும் உம் கரங்கள் நான் கண்டேன்<br/>தேவை பெருகும் போது சிக்கி<br/>தவித்திடாது உதவும் உம் கரங்கள் நான் கண்டேன்<br/>எல்லா நெருக்கத்திலும் என்னை<br/>விழாமல் காக்கும் அன்பின்<br/>நல்ல கர்த்தரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. மரண பள்ளத்தாக்கில் நான் நடந்த வேளை<br/>மிட்கும் உம் கரங்கள் நான் கண்டேன்<br/>வாடி நின்ற வேளை மடிந்திடாது என்னை<br/>தாங்கும் உம் கரங்கள் நான் கண்டேன்<br/>எந்தன் மாராவின் வாழ்வை மதுரமாய் மாற்றும்<br/>அன்பின் நல்ல கர்த்தரே</lines>
+    </verse>
+  </lyrics>
+</song>

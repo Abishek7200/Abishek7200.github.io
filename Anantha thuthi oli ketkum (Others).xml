@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Anantha thuthi oli ketkum</title>
+      <title>Anantha thuthi oli ketkum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆனந்த துதி ஒலி கேட்கும்<br/>ஆடல் பாடல் சத்தமும் தொனிக்கும்<br/>ஆகாய விண்மீனாய் அவர் ஜனம் பெருகும்<br/>ஆண்டவர் வாக்கு பலிக்கும் – ஆ… ஆ…</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. மகிமைப்படுத்து வேனென்றாரே<br/>மகிபனின் பாசம் பெரிதே<br/>மங்காத புகழுடன் வாழ்வோம்<br/>மாட்சி பெற்றுயர்ந்திடுவோமே<br/>குறுகிட மாட்டோம் குன்றிட மாட்டோம்<br/>கரையில்லா தேவனின் வாக்கு – ஆ… ஆ…</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. ஆதி நிலை எகுவோமே<br/>ஆசீர் திரும்பப் பெறுவோம்<br/>பாழான மண்மேடுகள் யாவும்<br/>பாராளும் வேந்தன் மனையாகும்<br/>சிறை வாழ்வு மறையும் சீர் வாழ்வு மலரும்<br/>சீயோனின் மகிமை திரும்பும் – ஆ… ஆ…</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. விடுதலை முழங்கிடுவோமே<br/>விக்கினம் யாவும் அகலும்<br/>இடுக்கண்கள் சூழ்ந்திடும் வேளை<br/>இரட்சகன் மீட்பருள்வாரே<br/>நுகங்கள் முறிந்திடும் கட்டுகள் அறுந்திடும்<br/>விடுதலை பெருவிழா காண்போம் – ஆ… ஆ…</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. யாக்கோபு நடுங்கிடுவானோ<br/>யாக்கோபின் தேவன் துணையே<br/>அமரிக்கை வாழ்வை அழைப்போம்<br/>ஆண்டவர் மார்பில் சுகிப்போம்<br/>பதறாத வாழ்வும் சிதறாத மனமும்<br/>பரிசாக தேவனருள்வார் – ஆ… ஆ…</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-07T13:10:27">
+  <properties>
+    <titles>
+      <title>Bethalayil Piranthavarai potri thuthi maname</title>
+      <title>Bethalayil Piranthavarai potri thuthi maname</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பெத்தலையில் பிறந்தவரைப்<br/>போற்றித் துதி மனமே – இன்னும்</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>சருவத்தையும் படைத்தாண்ட <br/>சருவ வல்லவர் – இங்கு<br/>தாழ்மையுள்ள தாய் மடியில் <br/>தலை சாய்க்கலானார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>சிங்காசனம் வீற்றிருக்கும் <br/>தேவ மைந்தனார் – இங்கு<br/>பங்கமுற்றப் பசுத் தொட்டிலில் <br/>படுத்திருக்கிறார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>முன்பு அவர் சொன்னபடி <br/>முடிப்பதற்காக – இங்கு<br/>மோட்சம் விட்டுத் தாழ்ச்சியுள்ள <br/>முன்னணையிலே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>இவ்வளவாய் அன்பு வைத்த <br/>எம்பெருமானை – நாம்<br/>எண்ணமுடன் போய்த் துதிக்க <br/>ஏகிடுவோமே</lines>
+    </verse>
+    <verse name="c2">
+      <lines>குளிரும் பனியும் கொட்டிலிலே<br/>கோமகனோ தொட்டிலிலே<br/>ஆரிரோ ஆரிரோ ஆரிராரோ<br/>ஆராரோ ஆராரோ ஆரிராரோ</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>தூங்கு தூங்கு பாலா நீ</lines>
+    </verse>
+  </lyrics>
+</song>

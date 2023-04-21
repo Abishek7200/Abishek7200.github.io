@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Appa Ummai Nesikkiren</title>
+      <title>Appa Ummai Nesikkiren</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அப்பா உம்மை நேசிக்கிறேன்<br/>ஆர்வமுடன் நேசிக்கிறேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எப்போதும் உம் புகழ்தானே<br/>எந்நேரமும் ஏக்கம் தானே<br/>எல்லாம் நீர்தானே – ஐயா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பலியாகி என்னை மீட்டிரையா<br/>பாவங்கள் சுமந்து தீர்த்தீரையா<br/>ஒளியாய் வந்தீரையா – ஐயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. உந்தன் அன்பு போதுமையா<br/>உறவோ பொருளோ பிரிக்காதையா<br/>என் நேகர் நீர்தானையா – ஐயா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கண்ணீர் துடைக்கும் காருண்யமே<br/>மன்னித்து மறக்கும் தாயுள்ளமே<br/>விண்ணக பேரின்பமே – அப்பா</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. அனுதின உணவு நீர்தானைய -என்<br/>அன்றாட வெளிச்சம் நீர்தானையா<br/>அருட்கடல் நீர்தானையா – எனக்கு</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. ஒரு குறைவின்றி நடத்துகின்றீர்<br/>ஊழியம் தந்து மகிழ்கின்றீர்<br/>அருகதை இல்லையையா – ஐயா</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>7. ஜெபமே எனது ஜீவனாகணும்<br/>ஜெயக்கொடி எனது இலக்காகணும்<br/>ஊழியம் உணவாகணும்</lines>
+    </verse>
+  </lyrics>
+</song>

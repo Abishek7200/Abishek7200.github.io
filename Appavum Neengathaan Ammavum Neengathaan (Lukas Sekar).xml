@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Appavum Neengathaan Ammavum Neengathaan</title>
+      <title>Appavum Neengathaan Ammavum Neengathaan</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Lukas Sekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அப்பாவும் நீங்க தான் அம்மாவும் நீங்க தான்<br/>எல்லாமே நீங்க தானையா<br/>நீங்க வந்தாலே போதும் சந்தோஷம் தான்<br/>தினம் ஆடலும் பாடலும் தான்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>உம்மோடு உறவாடிட<br/>என் மனசெல்லாம் மகிழுதையா<br/>அல்லேலூயா ஆமென் அல்லேலூயா<br/>ஆஹா ஆனந்த சந்தோஷமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>உம்மோடு நடக்கையிலே என் வாழ்க்கையெல்லாம் சிறக்குதையா<br/>அல்லேலூயா ஆமென் அல்லேலூயா<br/>ஆஹா அனந்த சந்தோஷமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>உம்மை நான் துதிக்கையிலே<br/>என்னில் புதுபெலன் இறங்குதையா<br/>என்ன சுகம் அது என்ன சுகம்<br/>ஆஹா என்றென்றும் சுகந்தானே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>உம் சித்தம் செய்வதினால்<br/>என் வாழ்க்கையெல்லாம் சிறக்குதையா<br/>அல்லேலூயா ஆமென் அல்லேலூயா<br/>ஆஹா ஆனந்த சந்தோஷமே</lines>
+    </verse>
+  </lyrics>
+</song>

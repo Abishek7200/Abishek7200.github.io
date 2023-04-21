@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Adaikalame umathadimai naane</title>
+      <title>Adaikalame umathadimai naane</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அடைக்கலமே உமதடிமை நானே<br/>ஆர்ப்பரிப்பேனே அகமகிழ்ந்தே<br/>கர்த்தர் நீர் செய்த நன்மைகளையே<br/>நித்தம் நான் நினைப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. அளவற்ற அன்பினால் அரவணைப்பவரே<br/>எண்ணற்ற நன்மையால் நிறைப்பவரே<br/>மாசில்லாத நேசரே மகிமை பிரதாபா<br/>மாசற்ற உம் பாதம் பற்றிடுவேனே -ஆ அடை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. கர்த்தரே உம் கிரியைகள் பெரியவைகளே<br/>சுத்தரே உம் செயல்கள் மகத்துவமானதே<br/>நித்தியரே உம் நியாயங்கள் என்றும் நிற்குமே<br/>பக்தரின் பேரின்ப பாக்கியம் நீரே – ஆ அடை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. என்னை என்றும் போதித்து நடத்துபவரே<br/>கண்ணை வைத்து ஆலோசனை சொல்லுபவரே<br/>நடக்கும் வழிதனை காட்டுபவரே<br/>நம்பி வந்தோனை கிருபை சூழ்ந்துகொள்ளுதே -ஆ அடை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கரம் பற்றி நடத்தும் கர்த்தர் நீரல்லோ<br/>கூப்பிட்ட என்னை குணமாக்கினீரல்லோ<br/>குழியில் விழாதபடி காத்துக்கொண்டீரே<br/>அழுகையை களிப்பாக மாற்றிவிட்டீரே – ஆ அடை</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. பாவங்களை பாராதென்னைப் பற்றிக்கொண்டீரே<br/>சாபங்களை நீக்கி சுத்த உள்ளந்தந்தீரே<br/>இரட்சண்யத்தின் சந்தோஷத்தை திரும்ப தந்தீரே<br/>உற்சாக ஆவி என்னை தாங்கச் செய்தீரே – ஆ அடை</lines>
+    </verse>
+  </lyrics>
+</song>

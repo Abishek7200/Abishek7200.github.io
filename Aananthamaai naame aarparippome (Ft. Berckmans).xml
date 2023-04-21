@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:20">
+  <properties>
+    <titles>
+      <title>Aananthamaai naame aarparippome</title>
+      <title>Aananthamaai naame aarparippome</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆனந்தமாய் நாமே ஆர்ப்பரிப்போமே<br/>அருமையாய் இயேசு நமக்களித்த<br/>அளவில்லாக் கிருபை பெரிதல்லவோ<br/>அனுதின ஜீவியத்தில்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆத்துமமே என் முழு உள்ளமே<br/>உன் அற்புத தேவனையே ஸ்தோத்தரி<br/>பொங்கிடுதே என் உள்ளத்திலே<br/>பேரன்பின் பெரு வெள்ளமே – அல்லேலூயா<br/>பொங்கிடுதே என் உள்ளத்திலே<br/>பேரன்பின் பெரு வெள்ளமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. கருணையாய் இதுவரை கைவிடாமலே<br/>கண்மணி போல் என்னைக் காத்தாரே<br/>கவலைகள் போக்கி கண்ணீர் துடைத்தார்<br/>கருத்துடன் பாடிடுவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. படகிலே படத்து உறங்கினாலும்<br/>கடும் புயல் அடித்து கவிழ்ந்தாலும்<br/>காற்றையும் கடலையும் அமர்த்தி எம்மைக்<br/>காப்பாரே அல்லேலூயா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. பரிசுத்தவான்களின் பாடுகளெல்லாம்<br/>அதி சீக்கிரமாய் முடிகிறதே<br/>விழிப்புடன் கூடி தரித்திருப்போம்<br/>விரைந்தவர் வந்திடுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

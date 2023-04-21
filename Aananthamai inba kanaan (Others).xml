@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:20">
+  <properties>
+    <titles>
+      <title>Aananthamai inba kanaan</title>
+      <title>Aananthamai inba kanaan</title>
+    </titles>
+    <verseOrder>c1 v2 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆனந்தமாய் இன்பக் கானான் ஏகிடுவேன்<br/>தூய பிதாவின் முகம் தரிசிப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நாளுக்கு நாள் அற்புதமாய் என்னைத் தாங்கிடும்<br/>நாதன் இயேசு என்னோடிருப்பார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. சேற்றினின்றென்னைத் தூக்கியெடுத்து<br/>மாற்றி உள்ளம் புதிதாக்கினாரே<br/>கல்லான என் உள்ளம் உருக்கின கல்வாரியைக்<br/>கண்டு நன்றியுடன் பாடிடுவேன் — ஆனந்தமாய்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. வாலிப நாளில் இயேசுவைக் கண்டேன்<br/>வாஞ்சையுடன் என்னைத் தேடி வந்தார்<br/>எதற்குமே உதவா என்னையும் கண்டெடுத்தார்<br/>இயேசுவின் அன்பை நான் என் சொல்லுவேன் — ஆனந்தமாய்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. கர்த்தரின் சித்தம் செய்திட நித்தம்<br/>தத்தம் செய்தே என்னை அர்ப்பணித்தேன்<br/>இயேசு அல்லால் ஆசை இப்பூவினில் வேறே இல்லை<br/>என்றும் எனக்கவர் ஆதரவே — ஆனந்தமாய்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. உம்மைப் பின் சென்று ஊழியம் செய்து<br/>உம்பாதம் சேர வாஞ்சிக்கிறேன்<br/>தாரும் தேவா ஏழைக்கும் மாறாத உம் கிருபை<br/>கண் பாரும் என்றும் நான் உம் அடிமை — ஆனந்தமாய்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. தேற்றிடுதே உம் வாக்குகள் என்னை<br/>ஆற்றிடுதே உந்தன் சமூகமே<br/>பெலத்தின் மேல் பெலனடைந்து நான் சேருவேன்<br/>பேரின்ப சீயோனில் வாழ்ந்திடுவேன் — ஆனந்தமாய்</lines>
+    </verse>
+  </lyrics>
+</song>

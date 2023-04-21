@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:20">
+  <properties>
+    <titles>
+      <title>Aandavar padaitha vetriyin naalithu</title>
+      <title>Aandavar padaitha vetriyin naalithu</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v2 c1 v4 v2 c1 v5 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆண்டவர் படைத்த வெற்றியின் நாளிது<br/>இன்று அகமகிழ்வோம் அக்களிப்போம்<br/>அல்லேலூயா பாடுவோம்<br/>அல்லேலூயா தோல்வி இல்லை<br/>அல்லேலூயா வெற்றி உண்டு</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எனக்கு உதவிடும் எனது ஆண்டவர்<br/>என் பக்கம் இருக்கிறார்<br/>உலக மனிதர்கள் எனக்கு எதிராக<br/>என்ன செய்ய முடியும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>தோல்வி இல்லை எனக்கு<br/>வெற்றி பவனி செல்வேன்<br/>தோல்வி இல்லை நமக்கு<br/>வெற்றி பவனி செல்வோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. எனது ஆற்றலும் எனது பாடலும்<br/>எமது மீட்புமானார்<br/>நீதிமான்களின் (கூடாரத்தில்) சபைகளிலே<br/>வெற்றி குரல் ஒலிக்கட்டும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. தள்ளப்பட்ட கல் கட்டிடம் தாங்கிடும்<br/>மூலைக்கல் ஆயிற்று<br/>கர்த்தர் செயல் இது அதிசயம் இது<br/>கைத்தட்டிப் பாடுங்களேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. என்றும் உள்ளது உமது பேரன்பு<br/>என்று பறைசாற்றுவேன்<br/>துன்ப வேளையில் நோக்கி கூப்பிட்டேன்<br/>துணையாய் வந்தீரையா</lines>
+    </verse>
+  </lyrics>
+</song>

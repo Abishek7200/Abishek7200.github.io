@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T02:06:41">
+  <properties>
+    <titles>
+      <title>Athigaalai Sthothira bali</title>
+      <title>Athikaalai Sthothira bali</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 v10 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அதிகாலை ஸ்தோத்திரபலி<br/>அப்பா அப்பா உங்களுக்குத் தான்<br/>ஆராதனை ஸ்தோத்திரபலி<br/>அப்பா அப்பா உங்களுக்குத் தான்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>எபிநேசர் எபிநேசர்<br/>இதுவரை உதவி செய்தீர்<br/>எபிநேசர் எபிநேசர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>பரிசுத்தர் பரிசுத்தர்<br/>பரலோக ராஜாவே<br/>பரிசுத்தர் பரிசுத்தர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>எல்ஷடாய் எல்ஷடாய்<br/>எல்லாம் வல்லவரே<br/>எல்ஷடாய் எல்ஷடாய்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>எல்ரோயீ எல்ரோயீ<br/>என்னை காண்பவரே<br/>எல்ரோயீ எல்ரோயீ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>யேகோவா யீரே<br/>எல்லாம் பார்த்துக் கொள்வீர்<br/>யேகோவா யீரே</lines>
+    </verse>
+    <verse name="v6">
+      <lines>அதிசய தெய்வமே<br/>ஆலோசனை கர்த்தரே<br/>அதிசய தெய்வமே				</lines>
+    </verse>
+    <verse name="v7">
+      <lines>யேகோவா ஷம்மா<br/>எங்களோடு இருப்பவரே<br/>யேகோவா ஷம்மா</lines>
+    </verse>
+    <verse name="v8">
+      <lines>யேகோவா ஷாலோம்<br/>சமாதானம் தருகிறீர்<br/>யேகோவா ஷாலோம்</lines>
+    </verse>
+    <verse name="v9">
+      <lines>யேகோவா நிசியே<br/>எந்நாளும் வெற்றி தருவீர்<br/>யேகோவா நிசியே</lines>
+    </verse>
+    <verse name="v10">
+      <lines>யேகோவா ரஃப்பா<br/>சுகம் தரும் தெய்வமே<br/>யேகோவா ரஃப்பா</lines>
+    </verse>
+  </lyrics>
+</song>

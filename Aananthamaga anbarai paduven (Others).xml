@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:20">
+  <properties>
+    <titles>
+      <title>Aananthamaga anbarai paduven</title>
+      <title>Aananthamaga anbarai paduven</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1.ஆனந்தமாக அன்பரைப் பாடுவேன்<br/>ஆசையவரென்னாத்துமாவிற்கே<br/>ஆசீகளருளும் ஆனந்தனந்தமாய்<br/>ஆண்டவர் இயேசுபோல் ஆருமில்லையே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>இயேசுவல்லால் இயேசுவல்லால்<br/>இன்பம் இகத்தில் வேறெங்குமில்லையே<br/>இயேசுவல்லால் இயேசுவல்லால்<br/>இன்பம் வேறெங்குமில்லையே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2.தந்தை தாயும் உன்சொந்தமானோர்களும்<br/>தள்ளிடினும் நான் தள்ளிடுவேனோ<br/>தாங்கிடுவேன் என் நீதியின் கரத்தால்<br/>தாபரமும் நல்ல நாதனுமென்றார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3.கிறிஸ்து இயேசு பிரசன்னமாகவே<br/>கிருபையும் வெளியாகினதே<br/>நீக்கியே சாவினை நற்சுவிசேஷத்தார்<br/>ஜீவன் அழியாமை வெளியாக்கினால்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4.ஒப்பில்லாத மகிமை நம்பிக்கை சந்தோஷமும்<br/>தப்பறு தேசின் கிரீடமாகவே<br/>அப்போஸ்தலர் தம் ஊழியத்தாலே<br/>ஆதி விசுவாசத்தில் வளர்ந்திடுவோம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5.அழுகையின் தாழ்வில் நடப்பவரே<br/>ஆழிபோல் வான்மழை நிறைக்குமே<br/>சேர்ந்திட சீயோனில் தேவனின் சந்நிதி<br/>ஜெயத்தின்மேல் ஜெயமடைந்திடுவோம்</lines>
+    </verse>
+  </lyrics>
+</song>

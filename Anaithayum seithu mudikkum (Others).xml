@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Anaithayum seithu mudikkum</title>
+      <title>Anaithayum seithu mudikkum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அனைத்தையும் செய்து முடிக்கும் ஆற்றலுல் உள்ளவரே<br/>நீர் நினைத்தது ஒரு நாளும் தடைபடாதையா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. நீர் முடிவெடுத்தால் யார்தான் மாற்றமுடியும்<br/>எனக்கென முன்குறித்த எதையுமே<br/>எப்படியும் நிறைவேற்றி முடித்திடுவீர்<br/>உமக்கே ஆராதனை உயிருள்ள நாளெல்லாம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. நான் எம்மாத்திரம் ஒரு பொருட்டாய்<br/>எண்ணுவதற்கு<br/>காலைதோறும் கண்ணோக்கி பார்க்கிறீர்<br/>நிமிடந்தோறும் விசாரித்து மகிழ்கிறீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. என்னைப் புடமிட்டால் பொன்னாக துலங்கிடுவேன்<br/>நான் போகும் பாதைகளை அறிந்தவரே<br/>உந்தன் சொல்லை உணவு போலக் காத்துக்<br/>கொண்டேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. நான் எண்ணிமுடியா அதிசயம் செய்பவரே<br/>காயப்படுத்தி கட்டுப்போடும் கர்த்தரே<br/>அடித்தாலும் அணைக்கின்ற அன்பரே<br/>5. என் மீட்பரே உயிரோடு இருப்பவரே<br/>இறுதி நாளில் மண்ணில் வந்து நிற்பதை<br/>என் கண்கள்தானே அந்நாளில் காணுமே</lines>
+    </verse>
+  </lyrics>
+</song>

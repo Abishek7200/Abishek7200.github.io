@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:20">
+  <properties>
+    <titles>
+      <title>Aananthame paramananthame yesu annalai</title>
+      <title>Aananthame paramananthame yesu annalai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆனந்தமே பரமானந்தமே - இயேசு<br/>அண்ணலை அண்டினோர்க் கானந்தமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. இந்தப் புவி ஒரு சொந்தம் அல்ல என்று <br/>இயேசு என் நேசர் மொழிந்தனரே <br/>இக்கட்டும் துன்பமும் இயேசுவின் தொண்டர்க்கு<br/>இங்கேயே பங்காய் கிடைத்திடினும் --- ஆனந்தமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. கர்த்தாவே நீர் எந்தன் காருண்ய கோட்டையே<br/>காரணமின்றி கலங்கேனே நான்<br/>விஸ்வாசப் பேழையில் மேலோகம் வந்திட<br/>மேவியே சுக்கான் பிடித்திடுமே --- ஆனந்தமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. என்னுள்ளமே உன்னில் சஞ்சலம் ஏன் வீணாய்?<br/>கண்ணீரின் பள்ளத்தாக்கல்லோ இது!<br/>சீயோன் நகரத்தில் சீக்கிரம் சென்று நாம்<br/>ஜெய கீதம் பாடி மகிழ்ந்திடலாம் --- ஆனந்தமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கூடார வாசிகளாகும் நமக்கிங்கு<br/>வீடென்றும் நாடென்றும் சொல்லலாமோ?<br/>கைவேலையில்லாத வீடொன்றை மேலேதான்<br/>செய்வேன் எனச் சொல்லிப் போகலையோ --- ஆனந்தமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. துன்பங்கள் தொல்லை இடுக்கண் இடர் இவை<br/>தொண்டர் எமை அண்டி வந்திடுனும்<br/>சொல்லி முடியாத ஆறுதல் கிருபையை<br/>துன்பத்தினூடே அனுப்பிடுவார் --- ஆனந்தமே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. இயேசுவே சீக்கிரம் இத்தரை வாருமேன்<br/>ஏழை வெகுவாய்க் கலங்குகிறேனே<br/>என் நேசர் தன் முக ஜோதியதேயல்லாமல்<br/>இன்பம் தரும் பொருள் ஏதுமில்லை --- ஆனந்தமே</lines>
+    </verse>
+  </lyrics>
+</song>

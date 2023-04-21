@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Azhagai Nirkum Yaar Ivargal</title>
+      <title>Azhagai Nirkum Yaar Ivargal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அழகாய் நிற்கும் யார் இவர்கள்?<br/>திரளாய் நிற்கும் யார் இவர்கள்?<br/>சேனைத் தலைவராம் இயேசுவின் பொற்றளத்தில்<br/>அழகாய் நிற்கும் யார் இவர்கள்?</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. ஒரு தாலந்தோ, இரண்டு தாலந்தோ<br/>ஐந்து தாலந்தோ உபயோகித்தோர்<br/>சிறிதானதோ, பெரிதானதோ பெற்ற பணி<br/>செய்து முடித்தோர் – அழகாய்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. காடு மேடு கடந்த சென்று<br/>கர்த்தர் அன்பைப் பகிர்ந்தவர்கள்<br/>உயர்வினிலும் தாழ்வினிலும்<br/>ஊக்கமாக ஜெபித்தவர்கள் – அழகாய்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. தனிமையிலும் வறுமையிலும்<br/>லாசரு போன்று நின்றவர்கள்<br/>யாசித்தாலும், போஷித்தாலும்<br/>விசுவாசத்தைக் காத்தவர்கள் – அழகாய்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. எல்லா ஜாதியார் எல்லாக் கோத்திரம்<br/>எல்லா மொழியும் பேசும் மக்களாம்<br/>சிலுவையின் கீழ் இயேசு இரத்தத்தால்<br/>சீர் போராட்டம் செய்து முடித்தோர் – அழகாய்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. வெள்ளை அங்கியைத் தரித்துக் கொண்டு<br/>வெள்ளைக் குருத்தாம் ஓலை பிடித்து<br/>ஆர்ப்பரிப்பார் சிங்காசனம் முன்பு<br/>ஆட்டுக்குட்டிக்கே மகிமையென்று – அழகாய்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. இனி இவர்கள் பசி அடையார்<br/>இனி இவர்கள் தாகமடையார்<br/>வெயிலாகிலும், அனலாகிலும்<br/>வேதனையை அளிப்பதில்லை – அழகாய்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>7. ஆட்டுக்குட்டி தான் இவர் கண்ணீரை<br/>அற அகற்றித் துடைத்திடுவார்<br/>அழைத்துச் செல்வார் இன்ப ஊற்றுக்கே<br/>அள்ளிப் பருக இயேசு தாமே – அழகாய்</lines>
+    </verse>
+  </lyrics>
+</song>

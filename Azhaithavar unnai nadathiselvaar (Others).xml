@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Azhaithavar unnai nadathiselvaar</title>
+      <title>Azhaithavar unnai nadathiselvar</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>அழைத்தவர் உன்னை நடத்திச்செல்வாரே கலங்காதே<br/>கலங்காதே மனம் கலங்காதே<br/>அழைத்தவர் உன்னை நடத்திச் செல்வாரே<br/>கலங்காதே நீ கலங்காதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. செங்கடலும் உன்னைக் கண்டு அலைபுரண்டு வந்தாலும்<br/>யோர்தானும் உன்னகை; கண்டுகரை புரண்டு வந்தாலும்<br/>கலங்காதே மனம் திகையாதே<br/>அழைத்தவர் உன்னை<br/>நடத்திச் செல்வாரே<br/>கலங்காதே நீ கலங்காதே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. சிங்கத்தின் கெபிக்குள்ளே உன்னைத்தூக்கிப் போட்டாலும்<br/>எரிகின்ற சூளையிலே உன்னைத்தூக்கிப் போட்டாலும்<br/>கலங்காதே மனம் திகையாதே<br/>அழைத்தவர் உன்னை விடுவிப்பாரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. யேசபேலும் உன்னைக் கண்டு எதிர்த்து வந்தாலும்<br/>ஆமானும் உன்னைக்கண்டு கலகம் தான் செய்தாலும்<br/>கலங்காதே மனம் திகையாதே<br/>அழைத்தவர் உன்னை உயர்த்திடுவாரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. எரிகோவும் உன்னைக் கண்டு எதிர்த்து நின்றாலும்<br/>வெள்ளம் போல சாத்தானும் உன் எதிரே வந்தாலும்<br/>கலங்காதே மனம் திகையாதே<br/>அழைத்தவர் உனக்கு உதவி செய்வாரே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. கேரீத்தும் உன்னைக் கண்டு வற்றிதான் போனாலும்<br/>காகம் உனக்கு அப்பம் தான் கொடாமல் போனாலும்<br/>கலங்காதே மனம் திகையாதே<br/>அழைத்தவர் உன்னை போஷிப்பரே</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Alleluya thuthi magimai</title>
+      <title>Alleluya thuthi magimai</title>
+    </titles>
+    <verseOrder>c1 c2 c1 v2 c2 c1 v3 c2 c1 v4 c2 c1 v5 c2 c1 v6 c2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அல்லேலூயா துதி மகிமை – என்றும்<br/>இயேசுவுக்கு செலுத்திடுவோம்</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>ஆ அல்லேலூயா அல்லேலூயா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>சிலுவையை சுமப்பாயா<br/>உலகத்தை வெறுப்பாயா<br/>உலகத்தை வெறுத்து இயேசுவின்<br/>பின்னே ஓடியே வருவாயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>மோட்சத்தை அடைந்திடவே<br/>பாடுகள் படவேண்டும்<br/>பாடுகள் மத்தியில் பரமன்<br/>இயேசுவில் நிலைத்தே நிற்க வேண்டும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>ஜெபத்திலே தரித்திருந்து<br/>அவர் சித்தம் நிறைவேற்று<br/>முடிவு பரியந்தம் அவரில் நிலை நிற்க<br/>பெலனைப் பெற்றுக்கொள்ளு</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>சென்றவர் வந்திடுவார்<br/>அழைத்தே சென்றிடுவார்<br/>அவருடன் செல்ல ஆயத்தமாவோம்<br/>அவருடன் வாழ்ந்திடவே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>கண்ணீர் துடைத்திடுவார்<br/>கவலைகள் போக்கிடுவார்<br/>கரங்களை நீட்டியே கருணையோடு<br/>கர்த்தரே காத்திடுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

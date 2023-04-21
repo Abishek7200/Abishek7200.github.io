@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aarathikka ummai aarathikka</title>
+      <title>Aarathikka ummai aarathikka</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆராதிக்க உம்மை ஆராதிக்க<br/>இன்று ஆராதிக்க கூடியுள்ளோம்<br/>ஊற்றுமய்யா நிரப்புமய்யா<br/>உன்னத பரலோக அபிஷேகத்தால்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உன்னதரே உம்மை ஆராதிப்போம்<br/>உயர்ந்தவரே உம்மை ஆராதிப்போம்<br/>வல்லவரே உம்மை ஆராதிப்போம்<br/>வழிகாட்டியே உம்மை ஆராதிப்போம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நம்பிக்கையே உம்மை ஆராதிப்போம்<br/>நங்கூரமே உம்மை ஆராதிப்போம்<br/>புகலிடமே உம்மை ஆராதிப்போம்<br/>புகழ்ச்சியே நீரே உம்மை ஆராதிப்போம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>அற்புதரே உம்மை ஆராதிப்போம்<br/>அடைக்கலமே உம்மை ஆராதிப்போம்<br/>பரிசுத்தரே உம்மை ஆராதிப்போம்<br/>பரிகாரியே உம்மை ஆராதிப்போம்</lines>
+    </verse>
+  </lyrics>
+</song>

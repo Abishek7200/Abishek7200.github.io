@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Bali peedathil ennai parane</title>
+      <title>Bali peedathil ennai parane</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பலிபீடத்தில் என்னை பரனே<br/>படைக்கிறேனே இந்த வேளை<br/>அடியேனை திருச்சித்தம் போல<br/>ஆண்டு நடத்திடுவீர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>கல்வாரியின் அன்பினையே<br/>கண்டு விரைந்தோடி வந்தேன்<br/>கழுவும் உம் திரு இரத்தத்தாலே<br/>கறை நீங்க இருதயத்தை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நீரன்றி என்னாலே பாரில்<br/>ஏதும் நான் செய்திட இயலேன்<br/>சேர்ப்பீரே வழுவாது என்னை<br/>காத்துமக்காய் நிறுத்தி</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஆவியோடாத்மா சரீரம்<br/>அன்பரே உமக்கென்றும் தந்தேன்<br/>ஆலய மாக்கியே இப்போ<br/>ஆசீர்வதித்தருளும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>சுயமென்னில் சாம்பலாய் மாற<br/>சுத்தாவியே அனல் மூட்டும்<br/>ஜெயம் பெற்று மாமிசம் சாக<br/>தேவா அருள் செய்குவீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>பொன்னையும் பொருளையும் விரும்பேன்<br/>மண்ணின் வாழ்வையும் வெறுத்தேன்<br/>மன்னவன் இயேசுவின் சாயல்<br/>இந்நிலத்தே கண்டதால்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Appa veettil eppothum santhoshame</title>
+      <title>Appa veettil eppothum santhoshame</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1 v7 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அப்பா வீட்டில் எப்போதும் சந்தோஷமே<br/>ஆடலும் பாடலும் இங்கு தானே – நம்ம</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆடுவோம் கொண்டாடுவோம்<br/>பாடுவோம் நடனமாடுவோடும்<br/>அல்லேலூயா ஆனந்தமே<br/>எல்லையில்லா பேரின்பமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. காத்திருந்தார் கண்டு கொண்டார்<br/>கண்ணீரெல்லாம் துடைத்துவிட்டார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. பரிசுத்த முத்தம் தந்து<br/>பாவமெல்லாம் போக்கிவிட்டார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. பாவத்திலே மரித்திருந்தேன்<br/>புதிய மனிதனாய் உயிர்த்துவிட்டேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. ஆவியென்னும் ஆடை தந்தார்<br/>ஆதிகாரம் என்னும் மோதிரம் தந்தார் – தூய</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. வசனமென்னும் சத்துணவை<br/>வாழ்நாளெல்லாம் ஊட்டுகிறார்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6. அணிந்து கொண்டோம் மிதியடியை<br/>அப்பாவின் சுவிசேஷம் அறிவித்திட</lines>
+    </verse>
+  </lyrics>
+</song>

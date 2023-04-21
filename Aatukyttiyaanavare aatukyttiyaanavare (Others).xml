@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aatukyttiyaanavare aatukyttiyaanavare</title>
+      <title>Aatukyttiyaanavare aatukyttiyaanavare</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆட்டுக்குட்டியானவரே எனக்காக பலியானீர் <br/>ஆட்டுக்குட்டியானவரே என் பாவங்கள் சுமந்தீர்<br/>உமக்கே எங்கள் ஆராதனை </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பரிசுத்தம் உள்ளவர் நீர் பாவமாய் மாற்றப்பட்டீர்<br/>நீதிமானாக என்னை மாற்றினீர் கிருபையால் <br/>இலவசமாய் நீதிமான் ஆனேனே<br/>சிலுவை மரணத்தில் என் பாவங்கள் நீங்கியதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கிறிஸ்து எனக்காய் சாபமாய் மாறினீர்<br/>ஆசீர்வாதமாக என்னை மாற்றினீர் <br/>ஆசீர்வாதமானேனே ( நீர் ) <br/>எனக்காய் சாபமானதனால்<br/>சிலுவை மரணத்தில் என் சாபங்கள் நீங்கியதே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஐஸ்வர்யம் உள்ளவர் நீர் எல்லாமே இழந்தீரே<br/>எல்லாவற்றாலும் என்னை நிரப்பிடவே <br/>செல்வந்தனாய் ஆனேனே நீர் ஏழ்மையானதனால்<br/>சிலுவை மரணத்தில் என் தரித்திரம் நீங்கியதே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>என் பாவம் யாவையும் உடலிலே சுமந்தீரே<br/>உம் சுகத்தை என் உடலில் தந்தீரே<br/>பாவத்தில் விளைவுகளை உம் <br/>மரணத்தால் வென்றீரே <br/>காயங்களால் நான் சுகமானேனே - உம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>வல்லமையும் பெலனும் ஞானமும் ஐஸ்வர்யமும் <br/>மகிமையும் ஸ்தோத்திரமும் உமக்கே உரியதே <br/>இயேசுவே இயேசுவே ஆட்டுக்குட்டியானவரே - எங்கள் <br/>எங்கள் இயேசுவே எல்லா மகிமைக்கும் பாத்திரரே</lines>
+    </verse>
+  </lyrics>
+</song>

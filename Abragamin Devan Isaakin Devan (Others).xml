@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Abragamin Devan Isaakin Devan</title>
+      <title>Abragamin Devan Isaakin Devan</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆபிரகாம் தேவன் ஈசாக்கின் தேவன்<br/>யாக்கோபின் தேவனவர் - என்னை<br/>அழைத்தும் உன்னத வழியில்<br/>என்றென்றும் நடத்திடுவார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>வனாந்திரமோ வாடாதே மனமே<br/>காடையை அனுப்பிடுவார்<br/>தண்ணீர் இல்லையோ - எண்ணிப்பார்<br/>அவரின் நன்மைகள் எத்தனையோ - ஆபிரகாம் தேவன் </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>சோதனை வேளையோ சோராதே மனதே<br/>இயேசுவை சார்ந்திடுவாய்<br/>யோர்தானைக் கடந்து - இயேசுவைப் பற்றிக் கொள்<br/>என்றென்றும் ஜீவிப்பாய் - ஆபிரகாம் தேவன் </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>அல்லேலூயா பாடி இயேசுவைத் துதித்து<br/>அனுதினம் ஜீவிப்பாயே<br/>அவரின் சித்தம் நித்தமும் செய்ய<br/>ஆவலாய் கீழ்ப் படிவாய் - ஆபிரகாம் தேவன் </lines>
+    </verse>
+  </lyrics>
+</song>

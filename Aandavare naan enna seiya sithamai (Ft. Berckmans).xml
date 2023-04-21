@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:20">
+  <properties>
+    <titles>
+      <title>Aandavare naan enna seiya sithamai</title>
+      <title>Aandavare naan enna seiya sithamai</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v4 c1 v5 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆண்டவரே நான் என்ன செய்ய சித்தமாய் இருக்கிறீர் <br/>நீர் சொல்லும் அடியேன் கேட்கிறேன் - (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. உமது சித்தம் செய்திடுவேன் <br/>    உம்மையே நித்தம் சார்ந்திடுவேன் </lines>
+    </verse>
+    <verse name="v2">
+      <lines>   இந்த உலகின் மாயை மறப்பேன் <br/>   என்றும் உன்னத வாழ்வை நினைப்பேன் - (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. கவலை கண்ணீர் சோர்வினிலும் <br/>    கலங்காமல் உம்மில் நிலைத்திருப்பேன் </lines>
+    </verse>
+    <verse name="v4">
+      <lines>    என் இமைகள் மூடும் வரையில் <br/>    அன்பர் உமக்காய் ஊழியம் செய்வேன் -(2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>3. என்னை முற்றும் உம்மகளிப்பேன் <br/>    என்றும் உம்மை உயர்த்திடுவேன் </lines>
+    </verse>
+    <verse name="v6">
+      <lines>   என் உயிரும் உடலும் உமக்கே <br/>   தந்து உலகில் சாட்சி பகிர்வேன் </lines>
+    </verse>
+  </lyrics>
+</song>

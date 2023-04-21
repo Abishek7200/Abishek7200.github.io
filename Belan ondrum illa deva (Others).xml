@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Belan ondrum illa deva</title>
+      <title>Belan ondrum illa deva</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பெலன் ஒன்றும் இல்லை தேவா<br/>ஆவியால் பலப்படுத்தும்<br/>சத்துவம் இல்லாத எனக்கு<br/>சத்துவம் தந்தருளும்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. சாத்தானை எதிர்க்க பெலன் தாரும்<br/>சோதனை ஜெயிக்க பெலன் தாரும்<br/>மாய உலகினை வெறுக்க<br/>என்னையும் பெலப்படுத்தும் --- பெலன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. மானின் கால்களைப் போல<br/>என் கால்களை பெலப்படுத்தும்<br/>நூனின் குமாரனைப் போல<br/>என்னையும் திடப்படுத்தும் --- பெலன்</lines>
+    </verse>
+  </lyrics>
+</song>

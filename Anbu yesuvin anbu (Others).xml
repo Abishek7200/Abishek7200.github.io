@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-21T02:37:47">
+  <properties>
+    <titles>
+      <title>Anbu yesuvin anbu</title>
+      <title>Anbu yesuvin anbu</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அன்பு இயேசுவின் அன்பு – அது<br/>அளவிடமுடியாதது<br/>நம்பு நீ அதை நம்பு – இந்த<br/>இகமதில் கிடைக்காதது</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. தந்தை தாய் அன்பொருநாள் – அது<br/>தணிந்தே போய்விடும் – தன்<br/>பிள்ளையின் அன்பொருநாள் – அது<br/>பிரிந்தே போய்விடும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. என்றென்றும் மாறாதது – என்<br/>இயேசுவின் தூய அன்பு<br/>என் வாழ்வில் தீராதது – என்<br/>தேவனின் ஜீவ அன்பு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. கணவனின் அன்பொருநாள் – அது<br/>கரைந்தே போய்விடும் – நல்ல<br/>மனைவியின் அன்பொருநாள் – அது<br/>மறைந்தே போய்விடும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. உறவினர் அன்பொருநாள் – அது<br/>ஒழிந்தே போய்விடும் – உடன்<br/>பிறந்தவர் அன்பொருநாள் – அது<br/>அழிந்தே போய்விடும்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. நண்பனின் அன்பொருநாள் – அது<br/>நழுவியே போய்விடும் – நீ<br/>நம்பினோர் அன்பொருநாள் – அது<br/>வழுவியே போய்விடும்</lines>
+    </verse>
+  </lyrics>
+</song>

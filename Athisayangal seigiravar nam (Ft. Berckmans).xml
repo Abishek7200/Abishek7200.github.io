@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Athisayangal seigiravar nam</title>
+      <title>Athisayangal seigiravar nam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அதிசயங்கள் செய்கிறவர்<br/>நம் அருகில் இருக்கிறார்<br/>அற்புதங்கள் செய்கிறவர்<br/>என்றும் நமக்குள் வசிக்கின்றார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. தண்ணீரை இரத்தமாய்<br/>மாற்றினார் அதிசயம் – வெறும்<br/>தண்ணீரையும் திராட்சை<br/>ரசமாய் மாற்றினார் அதிசயம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. செங்கடலை இரண்டாக<br/>பிரித்திட்டார் அதிசயம்<br/>புயல் காற்றையும் தம் வார்த்தையினால்<br/>அடக்கினார் அதிசயம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. குருடருக்கும் செவிடருக்கும்<br/>சுகம் தந்தார் அதிசயம் – ஒரு<br/>சொல்லாலே தான் மரித்தோரை<br/>எழுப்பினார் அதிசயம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. பாவியான என்னையும்<br/>மாற்றினார் அதிசயம்<br/>ஏழை என் மீது தம் நேசக்கரம்<br/>நீட்டினார் அதிசயம்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Appa um samugathula</title>
+      <title>Appa um samugathula</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Lukas Sekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அப்பாஉம்சமூகத்திலே<br/>எப்போதும்ஆராதனை<br/>அப்பாவைதுதிக்கையிலே<br/>எங்கஉள்ளமெல்லாம்பொங்குதய்யா(2)<br/>எங்கஉள்ளமெல்லாம்பொங்குதய்யா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1.தாயைபோலதேற்றுகிறீர்<br/>தகப்பனைபோலசுமக்கின்றீர்(2)<br/>சோதனைவருகின்றநேரமெல்லாம்<br/>தாங்கிஎங்களைநடத்துகிறீர்(2)<br/>தாங்கிஎங்களைநடத்துகிறீர்–அப்பா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2.கூப்பிடும்காக்கைகுஞசுகளுக்கும்<br/>ஆகாரத்தைதருகின்றீர்(2)<br/>அவைகளைபார்க்கிலும்எங்களையே<br/>மிகவும்நேசித்துநடத்துகிறீர்(2)<br/>மிகவும்நேசித்துநடத்துகிறீர்–அப்பா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3.பகலில்பறக்கும்அம்புகட்டும்<br/>இரவில்நடமாடும்நோய்களுக்கும்(2)<br/>விலக்கிஎங்களைகாக்கின்றீர்<br/>உமதுகரத்தால்நடத்துகிறீர்(2)<br/>உமதுகரத்தால்நடத்துகிறீர்–அப்பா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4.எங்கள்மீதுகண்ணைவைத்து<br/>ஆலோசனைசொல்லுகிறீர்(2)<br/>தீங்குவருகின்றநேரமெல்லாம்<br/>கூடாரமறைவில்மறைக்கின்றீர்(2)<br/>கூடாரமறைவில்மறைக்கின்றீர்–அப்பா</lines>
+    </verse>
+  </lyrics>
+</song>

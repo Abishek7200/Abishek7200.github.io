@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-14T03:03:35">
+  <properties>
+    <titles>
+      <title>Berakaavil kooduvom</title>
+      <title>Berakaavil kooduvom</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>பெராக்காவில் கூடுவோம்<br/>கர்த்தர் நல்லவர் – என்று<br/>பாடுவோம் பாடுவோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. எதிரியை முறியடித்தார் பாடுவோம்<br/>இதுவரை உதவி செய்கிறார் பாடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. நமக்காய் யுத்தம் செய்தார் பாடுவோம்<br/>நாளெல்லாம் பாதுகாத்தார் பாடுவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. இளைப்பாறுதல் தந்தார் பாடுவோம்<br/>இதயம் மகிழச் செய்தார் பாடுவோம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. சமாதானம் தந்தாரே பாடுவோம்<br/>சந்தோஷம் தந்தாரே பாடுவோம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. யெகோவா மெக்காதீஸ் ஸ்தோத்திரம்<br/>பரிசுத்தம் தருகிறீர் ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. யெகோவா ஸிட்கேனு ஸ்தோத்;திரம்<br/>எங்கள் நீதியே ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7. யெகோவா ஓசேனு ஸ்தோத்திரம்<br/>உருவாக்கும் தெய்வமே ஸ்தோத்திரம்</lines>
+    </verse>
+  </lyrics>
+</song>

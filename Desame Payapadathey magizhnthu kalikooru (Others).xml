@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:23">
+  <properties>
+    <titles>
+      <title>Desame Payapadathey magizhnthu kalikooru</title>
+      <title>Desame Payapadathey magizhnthu kalikooru</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>தேசமே பயப்படாதே<br/>மகிழ்ந்து களிகூறு<br/>சேனையின் கர்த்தர் உன் நடுவில்<br/>பெரிய காரியம் செய்திடுவார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பலத்தினாலும் அல்லவே<br/>பராக்கிரமும் அல்லவே<br/>ஆவியினாலே ஆகும் என்று<br/>ஆண்டவர் வாக்கு அருளினாரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. தாய் மறந்தாலும் மறவாமல்<br/>உள்ளங்கையில் வரைந்தாரே<br/>வலக்கரத்தாலே தாங்கி உன்னை<br/>சகாயம் செய்து உயர்த்திடுவார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. கசந்த மாறா மதுரமாகும்<br/>கொடிய யோர்தான் அகன்றிடும்<br/>நித்தமும் உன்னை நல்வழி நடத்தி<br/>ஆத்துமாவை நிதம் தேற்றிடுவார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கிறிஸ்து இயேசு சிந்தையில்<br/>நிலைத்தே என்றும் ஜீவிப்பாய்<br/>ஆவியின் பெலத்தால் அனுதினம் நிறைந்தே<br/>உத்தம சாட்சியாய் விளங்கிடுவாய்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. மாம்சமான யாவர் மீதும்<br/>உன்னத ஆவியைப் பொழிவாரே<br/>ஆயிரமாயிரம் ஜனங்கள் தருவார்<br/>எழும்பி சேவையும் செய்திடுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

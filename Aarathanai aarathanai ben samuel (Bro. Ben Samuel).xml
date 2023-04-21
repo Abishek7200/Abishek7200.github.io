@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aarathanai aarathanai ben samuel</title>
+      <title>Aarathanai aarathanai ben samuel</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Bro. Ben Samuel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆராதனை ஆராதனை <br/>ஆராதனை உமக்குத்தானே - 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உள்ளமும் ஏங்கிடுதே<br/>உணர்வுகளும் துடிக்குதே<br/>உம் முகத்தை பார்க்கணும்<br/>உம்மோடு இணையணும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நீர் செய்த நன்மைகளை நினைத்து பார்க்கிறேன்<br/>ஒவ்வொன்றும் ஒரு விதம் ருசித்து மகிழ்கின்றேன்<br/>எல்லாம் மறக்கணும்<br/>உம்மையே நினைக்கணும்<br/>உம் சித்தம் செய்யணும்<br/>இன்னும் உம்மை நெருங்கணும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என் ஆசை நீர்தானே நீரின்றி நானில்லை<br/>உம் அன்பை விட்டு என்னால்<br/>எங்கு செல்ல கூடுமோ<br/>நீரே என் நம்பிக்கை<br/>நீரே என் ஆதரவு<br/>உம் சமுகமே போதும்<br/>அதுவே என் ஆனந்தம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>உயிர் கொண்டேன் உம்மாலே<br/>உம்மாலே வாழ்கின்றேன்<br/>நீர் தந்த வாழ்வதனை<br/>உமக்கே தருகின்றேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>என்னை வனைந்திடுமே<br/>உமக்கே பயன்படுத்தும்<br/>என் மூச்சு திரும்போது<br/>உம்மடியில் சாயணுமே</lines>
+    </verse>
+  </lyrics>
+</song>

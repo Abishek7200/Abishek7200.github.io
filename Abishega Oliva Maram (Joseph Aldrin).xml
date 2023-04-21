@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Abishega Oliva Maram</title>
+      <title>Abishega Oliva Maram</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Joseph Aldrin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆபிஷேக ஒலிவ மரம்<br/>உம் ஆலயத்தில் நடப்பட்டவன்<br/>உம் சமூகத்தில் வாழ்கின்றவன்<br/>உம் அன்பையே நம்புவன் - நான் உம் -2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உம் வசனம் தான் பசியாற்றும் உணவு<br/>உம் பிரசன்னம்தான்<br/>தாகம் தீர்க்கும் தண்ணீர் - 2<br/>நீரே என் வெளிச்சமும் மீட்புமானீர்<br/>நீரே என் ஜீவனின் பெலனானீர் - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>காப்பாற்றும் காவலர் நீரே<br/>அயராது நீர் பாய்ச்சுவீரே - என்னை - 2<br/>என் தேவைகள் யாவையும் சந்திப்பவரே<br/>எந்த சேதமும் இன்றி காப்பவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>பெலன் தரும் புகலிடம் நீரே<br/>உம்மில் வேரூன்ற கிருபை செய்தீரே - 2<br/>மலர்ந்திடுவேன் நான் கனி கொடுப்பேன்<br/>(இந்த) உலகமெங்கும் உமக்காய்<br/>பலன் கொடுப்பேன்</lines>
+    </verse>
+  </lyrics>
+</song>

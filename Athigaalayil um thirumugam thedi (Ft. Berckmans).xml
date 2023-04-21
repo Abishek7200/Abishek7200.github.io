@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Athigaalayil um thirumugam thedi</title>
+      <title>Athikaalayil um thirumugam thedi</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அதிகாலையில் (அன்பு நேசரே) உம் திருமுகம் தேடி<br/>அர்ப்பணித்தேன் என்னையே<br/>ஆராதனை துதி ஸ்தோத்திரங்கள்<br/>அப்பனே உமக்குத் தந்தேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆராதனை ஆராதனை<br/>அன்பர் இயேசு ராஜனுக்கே<br/>ஆவியான் தேவனுக்கே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. இந்த நாளின் ஒவ்வொரு நிமிடமும்<br/>உந்தன் நினைவால் நிரம்ப வேண்டும்<br/>என் வாயின் வார்த்தை எல்லாம்<br/>பிறர் காயம் ஆற்ற வேண்டும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. உந்தன் ஏக்கம் விருப்பம் எல்லாம்<br/>என் இதயத் துடிப்பாக மாற்றும்<br/>என் ஜீவ நாட்கள் எல்லாம்<br/>ஜெப வீரன் என்று எழுதும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. சுவிசேஷ பாரம் ஒன்றே<br/>என் சுமையாக மாற வேண்டும்<br/>என் நேச எல்லையெங்கும்<br/>உம் நாமம் சொல்ல வேண்டும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. உமக்குகந்த தூய பலியாய்<br/>இந்த உடலை ஒப்புக் கொடுத்தேன்<br/>ஆட்கொண்டு என்னை நடத்தும்<br/>அபிஷேகத்தாலே நிரப்பும்</lines>
+    </verse>
+  </lyrics>
+</song>

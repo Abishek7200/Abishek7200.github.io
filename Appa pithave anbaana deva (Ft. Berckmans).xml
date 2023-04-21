@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Appa pithave anbaana deva</title>
+      <title>Appa pithave anbaana deva</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v2 c1 v4 v2 c1 v5 v2 c1 v6 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அப்பா பிதாவே அன்பான தேவா<br/>அருமை இரட்சகரே ஆவியானவரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. எங்கோ நான் வாழ்ந்தேன் அறியாமல் அலைந்தேன்<br/>என் நேசர் தேடி வந்தீர்<br/>நெஞ்சார அணைத்து முத்தங்கள் கொடுத்து<br/>நிழலாய் மாறி விட்டீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நன்றி உமக்கு நன்றி (அப்பா)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. தாழ்மையில் இருந்தேன் தள்ளாடி நடந்தேன்<br/>தயவாய் நினைவு கூர்ந்தீர்<br/>கலங்காதே என்று கண்ணீரைத் துடைத்து<br/>கரம் பற்றி நடத்துகிறீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. உளையான சேற்றில் வாழ்ந்த என்னை<br/>தூக்கி எடுத்தீரே<br/>கல்வாரி இரத்தம் எனக்காக சிந்தி<br/>கழுவி அணைத்தீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. இரவும் பகலும் ஐயா கூட இருந்து<br/>எந்நாளும் காப்பவரே<br/>மறவாத தெய்வம் மாறாத நேசர்<br/>மகிமைக்குப் பாத்திரரே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. ஒன்றை நான் கேட்பேன்<br/>அதையே நான் தேடி ஆர்வமாய் நாடுகிறேன்<br/>உயிரோடு வாழும் நாட்களெல்லாம்<br/>உம்பணி செய்திடுவேன் – நன்றி</lines>
+    </verse>
+  </lyrics>
+</song>

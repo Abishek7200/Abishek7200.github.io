@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Anbe anbe anbe aruyir urave</title>
+      <title>Anbe anbe anbe aruyir urave</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அன்பே, அன்பே, அன்பே<br/>ஆருயிர் உறவே!<br/>ஆனந்தம் ஆனந்தமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. ஒரு நாளுந்தயை கண்டேனையா<br/>அன்னா ளெனை வெறுத்தேனையா<br/>உம் தயை பெரிதையா – என் மேல்<br/>உம் தயை பெரிதையா – அன்பே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பரலோகத்தின் அருமைப் பொருளே<br/>நரலோகரி லன்பேனையா<br/>ஆழம் அறிவேனோ – அன்பின்<br/>ஆழம் அறிவேனோ – அன்பே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. அலைந்தேன் பலநாள் உமையுமறியா<br/>மறந்தே திரிந்த துரோகியை<br/>அணைத்தீர் அன்பாலே – என்னையும்<br/>அணைத்தீர் அன்பாலே – அன்பே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. பூலோகத்தின் பொருளின் மகிமை<br/>அழியும் புல்லின் பூவைப் போல்<br/>வாடாதே ஐயா – அன்பு<br/>வாடாதே ஐயா – அன்பே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. இப்பாரினில் உம் அன்பின் இனிமை<br/>இயம்பற் கியலாதாகில் யான்<br/>இசைக்கவும் எளிதாமோ பரத்தில்<br/>இசைக்கவும் எளிதாமோ – அன்பே</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-21T02:36:44">
+  <properties>
+    <titles>
+      <title>Aazhamaana aazhiyilum aazhamaana anbu</title>
+      <title>Aazhamaana aazhiyilum aazhamaana anbu</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ஆழமான ஆழியிலும் ஆழமான அன்பு<br/>உயர்ந்த மனிதனிலும் உயரமான அன்பு<br/>அளந்து பார்க்க முடியாத அளவில்லாத அன்பு<br/>விவரிக்க முடியாத அற்புத அன்பு</lines>
+    </verse>
+    <verse name="v1b">
+      <lines><br/>இயேசுவின் அன்பு இது ஒப்பில்லாத அன்பு<br/>புறம்பே தள்ளாத பூரண அன்பு</lines>
+    </verse>
+    <verse name="v2">
+      <lines>இது ஒப்பில்லாத அன்பு, பூரண அன்பு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>குழியில் விழுந்தோரை<br/>குனிந்து தூக்கும் அன்பு<br/>குப்பையில் இருப்போரை<br/>எடுத்து நிறுத்தும் அன்பு<br/>ஒடுக்கப்பட்டோரை உயிர்த்திடும் அன்பு<br/>எந்தக் காலத்திலும் மாறாத அன்பு</lines>
+    </verse>
+    <verse name="v4">
+      <lines>மனிதர்கள் மாறினாலும்<br/>மாறிடாத அன்பு<br/>மகனாய் ஏற்றுக்கொண்ட<br/>மகா பெரிய அன்பு<br/>என்னை மீட்பதற்காய் உலகத்திலே வந்து<br/>தன்னையே தந்துவிட்ட தகப்பனின் அன்பு</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-11-13T09:57:22">
+  <properties>
+    <titles>
+      <title>Aha Ambara Umbara</title>
+      <title>Aha Ambara Umbara</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 c2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆ! அம்பர உம்பர மும் புகழுந்திரு<br/>ஆதிபன் பிறந்தார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. அன்பான பரனே! அருள் மேவுங் காரணனே! – நவ<br/>அச்சய சச்சிதா – ரட்சகனாகிய<br/>உச்சிதவரனே! – ஆ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. ஆதம் பவமற, நீதம் நிறைவேற – அன்று<br/>அல்லிராவினில் வெல்லையடியினில்<br/>புல்லணையிற் பிறந்தார் – ஆ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. ஞானியர் தேட வானவர் பாட – மிக<br/>நன்னய உன்னத – பன்னரு மேசையா<br/>இந்நிலம் பிறந்தார் – ஆ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. கோனவர் நாட, தானவர் கொண்டாட – என்று<br/>கோத்திரர் தோத்திரஞ் – சாற்றிடவே யூத<br/>கோத்திரன் பிறந்தார் – ஆ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. விண்ணுடு தோண, மன்னவர் பேண – ஏரோது<br/>மைந்தனின் சிந்தையழுந்திக் கலங்கிட<br/>விந்தையாய்ப் பிறந்தார் – ஆ!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>ஆதிபன் பிறந்தார் – அமலாதிபன் பிறந்தார் – ஆ!</lines>
+    </verse>
+  </lyrics>
+</song>

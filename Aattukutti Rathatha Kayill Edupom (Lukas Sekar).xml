@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:21">
+  <properties>
+    <titles>
+      <title>Aattukutti Rathatha Kayill Edupom</title>
+      <title>Aattukutti Rathatha Kayill Edupom</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c1 v3 v2 c1 v4 v2 c1 v5 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Lukas Sekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஆட்டுக்குட்டி இரத்தத்த கையில் எடுப்போம்<br/>அந்தகார வல்லமையை துரத்திடுவோம்</lines>
+    </verse>
+    <verse name="c2">
+      <lines>சாட்சியின் வசனத்தால் ஜெயித்திடுவோம்<br/>(நம்) எல்லையெல்லாம் ஜெயக்கொடி ஏற்றிடுவோம் -2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>சிறைப்பட்டு போன சபையோரே<br/>சிறைப்பட்டு போன சீயோனே<br/>உன் சிறையிருப்பை திருப்பும் நாள் இதுவே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>இரத்தமே இரத்தமே இயேசு கிறிஸ்துவின் இரத்தமே -2<br/>விலையேறப்பெற்ற இரத்தமே -2 -ஆட்டுக்குட்டி</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>1. உமது ஜனங்கள் உம்மில் மகிழ்ந்திருக்க<br/>திரும்பவும் உயிர்ப்பித்து மகிழ்ச்சியாக்கும் -2<br/>இரட்சண்ய சந்தோஷத்தால் நிரப்பி<br/>ஆவியின் நிறைவை திரும்பத்தாரும் -2 -இரத்தமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2. சுத்தமான ஜலத்தை தெளித்திடுமே<br/>பரிசுத்த இரத்தத்தாலே கழுவிடுமே -2<br/>சபைகள் எல்லாம் மீட்படைந்து<br/>சபைகளில் தேவன் எழுந்தருளும் -2 -இரத்தமே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>3. பலத்த அபிஷேகம் ஊற்றிடுமே<br/>கிருபையின் வரங்களால் அலங்கரியும் -2<br/>பரிசுத்தம் ஒன்றே அலங்காரம்<br/>சபைகளில் எல்லாம் ஜொலிக்கணுமே -2 -இரத்தமே</lines>
+    </verse>
+  </lyrics>
+</song>

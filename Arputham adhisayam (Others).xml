@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Arputham adhisayam</title>
+      <title>Arputham adhisayam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>அற்புதம் அதிசயம்<br/>இந்த ஆண்டு நடக்கப்போகுது</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கவலைப்படாதே<br/>அற்புதங்கள் குவியப்போகுதே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>சூப்பர் நேச்சுரல் ஆண்டு<br/>இது சூப்பர் நேச்சுரல் ஆண்டு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>தேவ ராஜ்ஜியம் பேச்சில் இல்ல<br/>தேவ ராஜ்ஜியம் பெலத்தில் உள்ளதே<br/>நிறைவேறாத வாக்குத்தத்தங்கள்<br/>அவர் பெலத்தால் நடக்கப்போகுதே<br/>அதை உன் கண்கள் பார்க்கப்போகுதே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>இது வரைக்கும் இங்கு<br/>தேசங்கள் கேளா<br/>அற்புதங்கள் செஞ்சிடுமே<br/>எங்கள் சந்ததி<br/>தடையெல்லாம் தாண்டி<br/>படியெல்லாம் ஓடி<br/>ஏறு ஏறு மேலே ஏறு</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>தடையாய் நிற்கும் இரும்பு கதவு<br/>தானாகவே திறக்கப்போகுது<br/>கேள்விப்படாத ஐஸ்வர்யங்கள்<br/>உன் கதவ தட்டப்போகுதே<br/>உன் களஞ்சியங்கள் நிரம்பப்போகுதே</lines>
+    </verse>
+  </lyrics>
+</song>

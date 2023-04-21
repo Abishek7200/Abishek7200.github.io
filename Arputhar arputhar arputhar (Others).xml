@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:22">
+  <properties>
+    <titles>
+      <title>Arputhar arputhar arputhar</title>
+      <title>Arputhar arputhar arputhar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v3 v1 c1 v4 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அற்புதர், அற்புதர், அற்புதர், அற்புதர்<br/>இயேசு அற்புதர்<br/>அண்டினோர் வாழ்வை இன்பமாய் மாற்றும்<br/>இயேசு அற்புதர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>எல்லோரும் பாடுங்கள்<br/>கைத்தாளம் போடுங்கள்<br/>சந்தோஷத்துடனே சங்கீதம் பாடுங்கள் – அற்புதர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. என்னென்ன துன்பங்கள் நம்மில் வந்தபோதும்<br/>தீர்த்த இயேசு அற்புதர்<br/>எத்தனை தொல்லைகள் நம்மை சூழ்ந்த போதும்<br/>காத்த இயேசு அற்புதர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உலகத்தில் இருப்போனிலும் – எங்கள்<br/>இயேசு பெரியவர் அற்புதரே<br/>உண்மையாய் அவரைத் தேடும் யாவருக்கும்<br/>இயேசு அற்புதரே – எல்லோரும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2. அலைகடல் மேலே நடந்தவர்<br/>எங்கள் இயேசு அற்புதர்<br/>அகோர காற்றையும் அமைதிப்படுத்திய<br/>இயேசு அற்புதர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>அறைந்தனர் சிலுவையிலே<br/>ஆண்டவர் மரித்தார் அந்நாளினிலே<br/>ஆகிலும் மூன்றாம் நாள் உயிருடன் எழுந்த<br/>இயேசு அற்புதரே – எல்லோரும்</lines>
+    </verse>
+  </lyrics>
+</song>
