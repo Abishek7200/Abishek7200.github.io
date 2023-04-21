@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Maangal neerodai vaanjithu katharum pol</title>
+      <title>Maangal neerodai vaanjithu katharum pol</title>
+    </titles>
+    <verseOrder>c1 v6 c1 v1 v6 c1 v2 v6 c1 v3 v6 c1 v4 v6 c1 v5 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மான்கள் நீரோடை வாஞ்சித்து<br/>கதறும்போல் தேவனே<br/>எந்தன் ஆத்துமா உம்மையே<br/>வாஞ்சித்துக் கதறுதே<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>தேவன் மேல் ஆத்துமாவே<br/>தாகமாயிருக்கிறதே<br/>தேவனின் சந்நிதியில் நின்றிட<br/>ஆத்துமா வாஞ்சிக்குதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>ஆத்துமா கலங்குவதேன்<br/>நேசரை நினைத்திடுவாய்<br/>அன்பரின் இரட்சிப்பினால் தினமும்<br/>துதித்துப் போற்றிடுவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>யோர்தான் தேசத்திலும்<br/>எர்மோன் மலைகளிலும்<br/>சிறுமலைகளிலிருந்தும் உம்மை<br/>தினமும் நினைக்கின்றேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>கன்மலையாம் தேவன்<br/>நீர் என்னை ஏன் மறந்தீர் <br/>எதிரிகளால் ஒடிங்கி அடியேன்<br/>துக்கத்தால் திரிவதேனோ</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>தேவரீர் பகற்காலத்தில்<br/>கிருபையைத் தருகின்றீர்<br/>இரவினில் பாடும் பாட்டு எந்தன்<br/>வாயினிலிருக்கிறது</lines>
+    </verse>
+    <verse name="v6">
+      <lines>தஞ்சம் நீர் அடைக்கலம் நீர் <br/>கோட்டையும் நீர் என்றும் காப்பீர்</lines>
+    </verse>
+  </lyrics>
+</song>

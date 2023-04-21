@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kartharin banthiyil vaa sagothara</title>
+      <title>Kartharin banthiyil vaa sagothara</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கர்த்தரின் பந்தியில் வா - சகோதரா<br/>கர்த்தரின் பந்தியில் வா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>கர்த்தர் அன்பாய்ச் சொந்த ரத்தத்தைச் சிந்தின <br/>காரணத்தை மனப் பூரணமாய் எண்ணி --- கர்த்தரின்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. ஜீவ அப்பம் அல்லோ? - கிறிஸ்துவின்<br/>திருச் சரீரம் அல்லோ? <br/>பாவ மனங் கல்லோ? - உனக்காய்ப்<br/>பகிரப்பட்ட தல்லோ? <br/>தேவ குமாரனாம் ஜீவ அப்பத்தை நீ <br/>தின்று அவருடன் என்றும் பிழைத்திட --- கர்த்தரின்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. தேவ அன்பைப் பாரு - கிறிஸ்துவின்<br/>சீஷர் குறை தீரு <br/>பாவக் கேட்டைக் கூறு - ராப்போசன<br/>பந்திதனில் சேரு <br/>சாவுக்குரிய மா பாவமுள்ள லோகம்<br/>தன்னில் மனம் வைத்து அன்னியன் ஆகாதே --- கர்த்தரின்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. அன்பின் விருந்தாமே - கர்த்தருடன்<br/>ஐக்யப் பந்தியாமே <br/>துன்பம் துயர் போமே - இருதயம்<br/>சுத்த திடனாமே<br/>இன்பம் மிகும் தேவ அன்பின் விருந்துக்கு <br/>ஏது தாமதமும் இல்லாதிப்போதே வா --- கர்த்தரின்</lines>
+    </verse>
+  </lyrics>
+</song>

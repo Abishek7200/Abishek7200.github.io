@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Nambikkaiyudaiya siraigalae</title>
+      <title>Nambikkaiyudaiya siraigalae</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v7 v2 c1 v4 v7 v2 c1 v5 v6 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நம்பிக்கை உடைய சிறைகளே<br/>அரணுக்கு திரும்புங்கள்<br/>இரட்டிப்பானதை தருகிறார்<br/>இன்றைக்கு திரும்புங்கள்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நீ விலக்கப்பட்ட உன் ஸ்தானத்திற்கே <br/>மறுபடியும் உன்னை அழைக்கின்றார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Aliyah Aliyah Aliyah Aliyah<br/>அரணுக்கு திரும்புவோம்<br/>Aliyah Aliyah Aliyah Aliyah<br/>கர்த்தரை உயர்த்துவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கொள்ளை கொண்ட உன்<br/>பட்டணத்தை மறுபடியும்<br/>குடியேற்றுவார்<br/>இராஜாக்கள் உன்னை தேடி<br/>வர வாசலை இராப்பகல்<br/>திறந்து வைப்பார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>(உன்னை) ஒடுக்கினோரை குனிய<br/>செய்வார் பரியாசம்<br/>செய்தோரை பணிய செய்வார்<br/>சத்துருவின் வாசல்களை மேற்கொள்ளும்<br/>கிருபையை உனக்குத் தந்தார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>தேசத்திலே கொடுமையில்லை அழிவை<br/>உன் எல்லையில் கேட்பதில்லை<br/>இரட்சிப்பை உனக்கு மதிலாக்கினார்<br/>உந்தன் வாசலை துதியாக்கினார்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>அவர் சொன்னதை சிலுவையில்<br/>நிறைவேற்றினார்</lines>
+    </verse>
+    <verse name="v7">
+      <lines>அவர் சொல்லிட்ட நல்வார்த்தை<br/>நிறைவேற்றினார்</lines>
+    </verse>
+  </lyrics>
+</song>

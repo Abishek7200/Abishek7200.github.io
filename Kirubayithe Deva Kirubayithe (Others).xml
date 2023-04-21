@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Kirubayithe Deva Kirubayithe</title>
+      <title>Kirubayithe Deva Kirubayithe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கிருபையிதே தேவக் கிருபையிதே <br/>தாங்கி நடத்தியதே <br/>இயேசுவிலே பொன் நேசரிலே <br/>அகமகிழ்ந்தே நாம் ஆனந்திப்போம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>ஆருயிர் அன்பராய் எங்களுடனே <br/>ஜீவியப்பாதையிலே - இயேசு பரன் <br/>அனுதினமும் வழி நடந்தே <br/>அவரது நாமத்தில் காத்தனரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>வார்த்தையினால் அவர் தீர்த்தார் எந்தன் <br/>வியாதியும் வேதனையும் - வைத்தியராய் <br/>கிறிஸ்துவிலே ஒரு மனையாய் <br/>சிருஷ்டித்தே நிறுத்தினார் அவர் சுதராய்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>அன்பின் அகலமும் நீளம் உயரமும்<br/>ஆழமும் அறிந்துணர - அனுக்கிரகித்தார்<br/>கிறிஸ்துவிலே ஒரு மனையாய்<br/>சிருஷ்டித்தே நிறுத்தினார் அவர் சுதராய்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>நல்ல போராட்டம் போராடி ஜெயித்தே <br/>நித்திய ஜீவனை நாம் - பற்றிடவே <br/>விசுவாசத்தில் நிலைத்திருப்போம் <br/>அசையாது அழைப்பினைக் காத்துக் கொள்வோம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ஆவியும் மணவாட்டியும் ஆவலுடன் <br/>வாருமென்றழைக்கிறாரே வாருமென்பீர் <br/>சீயோனே நீ பார் உனக்காய் <br/>நாயகன் இயேசு தாம் வெளிப்படுவார் </lines>
+    </verse>
+  </lyrics>
+</song>

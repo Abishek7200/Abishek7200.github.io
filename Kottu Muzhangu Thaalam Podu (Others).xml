@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-24T05:54:49">
+  <properties>
+    <titles>
+      <title>Kottu Muzhangu Thaalam Podu</title>
+      <title>Kottu Muzhangu Thaalam Podu</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கொட்டு முழங்கு தாளம்போடு பாலகன் பிறந்திட்டார்<br/>உன்னையும் என்னையும் மீட்டிட வந்திட்ட அற்புத பாலன் இவர்-2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>தாவீதின் ஊரினிலே தாரகை வெளிச்சத்திலே<br/>தற்பரன் உதித்துவிட்டாரே – லலல்ல லலல்லா<br/>மாட்டுத்தொழுவத்திலே மரியின் மடியினிலே<br/>மகிபன் பிறந்துவிட்டாரே – லலல்ல லலல்லா</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1.ஊரே உறங்குது உலகமே தூங்குது<br/>ஒளியாம் இயேசு இங்கே வந்தார்<br/>உறவுகள் மறந்தது உள்ளமும் சோர்ந்தது<br/>நிரந்தரம் இயேசு இங்கே வந்தார்<br/>உலகின் ஒளியாய் வாழ்வின் வழியாய் -2<br/>உன்னையும் என்னையும் மீட்டிடவே வந்துதித்தார் -2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2.மகிமை துறந்துமே மாட்சிமை மறந்துமே<br/>மகிபனாம் இயேசு இங்கே வந்தார்<br/>மாசுகள் துரத்தவே மாற்றங்கள் ஏற்றவே<br/>மன்னாதி மன்னன் இங்கே வந்தார்<br/>மாறிடும் உலகத்தில் மாறா அன்பாய்-2<br/>உன்னையும் என்னையும் மீட்டிடவே வந்துதித்தார் </lines>
+    </verse>
+  </lyrics>
+</song>

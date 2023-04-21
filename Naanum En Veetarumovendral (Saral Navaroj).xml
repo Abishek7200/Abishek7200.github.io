@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naanum En Veetarumovendral</title>
+      <title>Naanum En Veetarumovendral</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Saral Navaroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நானும் என் வீட்டாருமோவென்றால்<br/>கர்த்தரையே சேவிப்போம்<br/>நீயும் சேவிப்பாயா – 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. கர்த்தரையே சேவிப்பது ஆகாததென்று கண்டால்<br/>யாரை நீ சேவிப்பாய் என்பதை இன்றே நீ தீர்மானம் செய்வாய்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. நம் பாதையில் காப்பாற்றியே கர்த்தர் நடத்தினாரே<br/>கர்த்தர் தந்த ஆசீர் யாவும் கண்டு நன்றியாய் சேவிப்பாயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. நன்மையான ஈவுகளை தேவாதி தேவன் தந்தார்<br/>கீழ்படிந்தே அவர் சத்தம் கேட்டு சாட்சியாய் ஜீவிப்பாயா</lines>
+    </verse>
+  </lyrics>
+</song>

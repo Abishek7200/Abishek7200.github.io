@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Kuthukalam kondaatame</title>
+      <title>Kuthukalam kondaatame</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>குதூகலம் கொண்டாட்டமே<br/>என் இயேசுவின் சந்நிதானத்தில்<br/>ஆனந்தம் ஆனந்தமே<br/>என் அப்பாவின் திருப்பாதத்தில்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பாவமெல்லாம் பறந்தது<br/>நோய்களெல்லாம் தீர்ந்தது<br/>இயேசுவின் இரத்தத்தினால்<br/>கிறிஸ்துவுக்குள் வாழ்வு கிருபையால் மீட்பு<br/>பரிசுத்த ஆவியினால்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. தேவாதி தேவன் தினம்தோறும் தங்கும்<br/>தேவாலயம் நாமே<br/>ஆவியான தேவன் அச்சாரமானார்<br/>அதிசயம் அதிசயமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. வல்லவர் என் இயேசு<br/>வாழ வைக்கும் தெய்வம்<br/>வெற்றிமேலே வெற்றி தந்தார்<br/>ஒருமனமாய் கூடி ஓசன்னா பாடி<br/>ஊரெல்லாம் கொடியேற்றுவோம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. எக்காள சத்தம், தூதர்கள் கூட்டம்<br/>நேசர் வருகின்றார்<br/>ஒருநொடி பொழுதில் மறுரூபமாவோம்<br/>மகிமையில் பிரவேசிப்போம்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kartharin Satham Vallamai Ulladhu</title>
+      <title>Kartharin Satham Vallamai Ulladhu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கர்த்தரின் சத்தம் வல்லமையுள்ளது<br/>கர்த்தரின் சத்தம் மகத்துவமுள்ளது<br/>திரண்ட தண்ணீர்மேல் ஜலப்பிரவாகம் மேல்<br/>தற்பரன் முழங்குகின்றார் அல்லேலூயா!</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>பலவான்களின் புத்திரரே!<br/>பரிசுத்த அலங்காரமாய்<br/>கனம் வல்லமை மகிமை<br/>கர்த்தருக்கே செலுத்திடுங்கள்<br/>பிதாகுமாரன் பரிசுத்தாவியின்<br/>புது ஆசீர்வாதம் பெருக – கர்த்தரின்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. கேதுரு மரங்களையும்<br/>லீபனோனின் மரங்களையும்<br/>கர்த்தரின் வலிய சத்தம்<br/>கோரமாக முறிக்கின்றது<br/>சேனை அதிபன் நமது முன்னிலை<br/>ஜெய வீரனாகச் செல்கிறார் – கர்த்தரின்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. அக்கினி ஜூவாலைகளை<br/>அவர் சத்தம் பிளக்கின்றது<br/>காதேஸ் வனாந்திரத்தை<br/>கர்த்தரின் சத்தம் அதிரப் பண்ணும்<br/>ராஜாவாகவே கர்த்தர் வீற்றிருப்பார்<br/>ராஜரீகமெங்கும் ஜொலிக்கும் – கர்த்தரின்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. பெண்மான்கள் ஈனும்படி<br/>பெலத்த கிரியை செய்திடும்<br/>காட்டையும் வெளியாக்கும்<br/>கர்த்தரின் வலிய சத்தம்<br/>பெலன் கொடுத்து சமாதான மீந்து<br/>பரண் எம்மை ஆசீர்வதிப்பார் – கர்த்தரின்</lines>
+    </verse>
+  </lyrics>
+</song>

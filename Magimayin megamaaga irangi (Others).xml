@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Magimayin megamaaga irangi</title>
+      <title>Magimayin megamaaga irangi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v1 v2 v4 v1 v2 v5</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>மகிமையின் மேகமாக இறங்கி வந்தீரே<br/>ஆசரிப்புக் கூடாரத்தில் இறங்கி வந்தீரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>வாருமையா நல்லவரே<br/>துணையாளரே எங்கள் ‌ஆறுதலே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>மகா‌பரிசுத்த ஸ்தலத்தினில்<br/>கேரூபீன்கள்‌ மத்தியில்<br/>கிருபாசனம் மீதினில் இறங்கி வந்தீரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>முட்செடியின் மத்தியில்<br/>சீனாய் மலை உச்சியில்<br/>கன்மலையின் வெடிப்பினில் இறங்கி வந்தீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>சீடர்களின் மத்தியில்<br/>மேல் வீட்டு அறையினில்<br/>பெந்தேகோஸ்தே நாளினில் இறங்கி வந்தீரே</lines>
+    </verse>
+  </lyrics>
+</song>

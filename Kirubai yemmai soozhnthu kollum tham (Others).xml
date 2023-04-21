@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Kirubai yemmai soozhnthu kollum tham</title>
+      <title>Kirubai yemmai soozhnthu kollum tham</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கிருபை எம்மை சூழ்ந்து கொள்ளும் தம் கிருபை<br/>கர்த்தரில் மகிழ்வோம் களிகூர்ந்திடுவோம்<br/>கண்டடைந்தோம் கிருபை</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>யோர்தானைக் கடந்து வந்தோம் – எங்கள்<br/>இயேசுவின் பெலம் அடைந்தோம்<br/>சேனையின் கர்த்தர் முன்னே நடந்தார்<br/>சோர்வின்றிக் காத்துக் கொண்டார் – கிருபை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. தேசமே பயப்படாதே எங்கள்<br/>தேவன் கிரியை செய்கிறார்<br/>தேசத்தின் நன்மை ஷேமம் அருள்வார்<br/>தாசகர்கள் வேண்டிடுவோம் – கிருபை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. கர்த்தர் இவ்வாண்டினிலே பெருங்<br/>காரியம் செய்திடுவார்<br/>கால் வைக்கும் தேசம் ஏசு தருவார்<br/>காத்திருந்தே அடைவோம் – கிருபை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. ஆண்டுகள் நன்மையினால் – முடி<br/>சூண்டு வளம் பெருக<br/>தேசத்தின் மீதே கண்களை வைத்தே<br/>பாசமாய் நோக்கிடுவார் – கிருபை</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. ஜாதி ஜனங்களையும் – வந்து<br/>மோதி அசைந்திடுவார்<br/>காத்து தவிக்கும் உள்ளமகிழும்<br/>கர்த்தரே வந்திடுவார் – கிருபை</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. உண்மையும் நேர்மையுமாய் – இந்த<br/>ஊழியம் செய்திடுவோம்<br/>தூய கற்புள்ள தேவ சபையாய்<br/>தீவிரம் சேர்ந்திடுவோம் – கிருபை</lines>
+    </verse>
+  </lyrics>
+</song>

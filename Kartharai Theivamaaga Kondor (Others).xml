@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kartharai Theivamaaga Kondor</title>
+      <title>Kartharai Theivamaaga Kondor</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v2 c1 v4 v2 c1 v1 v2</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கர்த்தரை தெய்வமாக கொண்டோர்<br/>இதுவரையில் வெட்கப்பட்டதில்லை<br/>அவரையே ஆதரவாய் கொண்டோர்<br/>நடுவழியில் நின்றுப்போவதில்லை</lines>
+    </verse>
+    <verse name="v1">
+      <lines>வேண்டும்போதெல்லாம் என் பதிலானாரே<br/>வாழ்க்கைமுழுவதும் என் துணையானாரே<br/>ஜெபிக்கும் போதெல்லாம் என் பதிலானாரே<br/>வாழ்க்கைமுழுவதும் என் துணையானாரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ஆராதிப்போமே அவரை முழுமனதாய்<br/>ஆராதிப்போமே அவரை தலைமுறையாய்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>வெறுமையானதை முன் அறிந்ததால்<br/>தேடிவந்து என் படகில் ஏறி கொண்டாரே - 2<br/>இரவு முழுவதும் பிரயாசப்பட்டும்<br/>நிரம்பாத என் படகை நிரப்பிவிட்டாரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>வாக்கு தந்ததில் கொண்டு சேர்த்திட<br/>பாதையெல்லாம் நிழலாக கூட வந்தாரே - 2<br/>போகும் வழியெல்லாம் உணவானாரே<br/>வாக்குத்தந்த கானானை கையளித்தாரே</lines>
+    </verse>
+  </lyrics>
+</song>

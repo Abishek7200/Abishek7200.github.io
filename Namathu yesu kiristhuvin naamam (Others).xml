@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Namathu yesu kiristhuvin naamam</title>
+      <title>Namathu yesu kiristhuvin naamam</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. நமது இயேசு கிறிஸ்துவின் நாமம்<br/>நானிலமெங்கும் ஓங்கிடவே<br/>புனிதமான பரிசுத்த வாழ்வை<br/>மனிதராம் எமக்களித்தார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>தேவ கிருபை எங்கும் பெருக<br/>தேவனை ஸ்தோத்திரிப்போம்<br/>பாவ இருள் அகல<br/>தேவ ஒளி அடைந்தோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. அவரை நோக்கி கூப்பிடும் வேளை<br/>அறிவிப்பாரே அற்புதங்கள்<br/>எனக்கெட்டாத அறிந்திடலாகா<br/>எத்தனையோ பதிலளித்தார் — தேவ</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. பதறிப்போன பாவிகளாக<br/>சிதறி எங்குமே அலைந்தோம்<br/>அவரை நாம் தெரிந்தறியோமே<br/>அவர் நம்மைத் தெரிந்தெடுத்தார் — தேவ</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. பலத்த ஜாதி ஆயிரமாக<br/>படர்ந்து ஓங்கி நாம் வளர<br/>எளிமையும் சிறுமையுமான<br/>எமக்கவர் அருள் புரிவார் — தேவ</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. நமது கால்கள் மான்களைப் போல<br/>நடந்து ஓடிப் பாய்ந்திடவே<br/>உயர் ஸ்தலத்தில் ஏற்றுகின்றாரே<br/>உன்னதமான ஊழியத்தில் — தேவ</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. பரமனேசு வந்திடும் போது<br/>பறந்து நாமும் சென்றிடுவோம்<br/>பரமனோடு நீடூழி வாழும்<br/>பரம பாக்கியம் பெறுவோம் — தேவj</lines>
+    </verse>
+  </lyrics>
+</song>

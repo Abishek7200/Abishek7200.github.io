@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Maaranatha yesu naatha seekiram</title>
+      <title>Maaranatha yesu naatha seekiram</title>
+    </titles>
+    <verseOrder>c1 v7 c1 v1 v7 c1 v2 v7 c1 v4 v7 c1 v4 v7 c1 v5 v7 c1 v6 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மாரநாதா இயேசு நாதா<br/>சீக்கிரம் வாரும் ஐயா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>மன்னவன் உம்மைக் கண்டு மறுரூபம் ஆகணுமே<br/>விண்ணவர் கூட்டத்தோடு எந்நாளும் பாடணுமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>குடிவெறி களியாட்டம் அடியோடு அகற்றிவிட்டேன்<br/>சண்டைகள் பொறாமைகள் என்றோ<br/>வெறுத்துவிட்டேன் – நான்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>பெருமை பாராட்டுகள் ஒருநாளும் வேண்டாம் ஐயா<br/>சிற்றின்பம் பணமயக்கம் சிறிதளவும் வேண்டாம் ஐயா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>நியமித்த ஓட்டத்திலே நித்தம் நான் ஓடிடுவேன்<br/>நித்திய கிரீடம்தனை நிச்சயமாய் பெற்றுக்கொள்வேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>ஆவியில் நிரம்பிடுவேன் அயராது ஜெபித்திடுவேன்<br/>அப்பாவின் சுவிசேஷம் எப்போதும் முழங்கிடுவேன்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>உம் முகம் பார்க்கணுமே உம் அருகில் இருக்கணுமே<br/>உம்பாதம் அமரணுமே உம்குரல் கேட்கணுமே</lines>
+    </verse>
+    <verse name="v7">
+      <lines>வாரும் நாதா இயேசு நாதா (2)</lines>
+    </verse>
+  </lyrics>
+</song>

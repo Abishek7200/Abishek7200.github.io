@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-27T12:05:38">
+  <properties>
+    <titles>
+      <title>Nandri sollamal irukave mudiyaathu</title>
+      <title>Nandri sollamal irukave mudiyaathu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நன்றி சொல்லாமல் இருக்கவே முடியாது<br/>பல நன்மை செய்த இயேசுவுக்கே<br/>நன்றி நன்றி நன்றி என்று சொல்லி நான் துதிப்பேன்<br/>நாள்தோறும் போற்றுவேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>எத்தனையோ நன்மைகளை என் வாழ்வில் செய்தாரே<br/>ஏராளமாய் நன்றி சொல்வேன்<br/>அத்தனையும் நினைத்து நினைத்து நான் துதிப்பேன்<br/>ஆண்டவரை போற்றுவேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>மரண பள்ளத்தாக்கில் நான் நடக்கும் போதெல்லாம்<br/>பாதுகாத்தீரைய்யா <br/>மீண்டும் ஜீவனை கொடுத்து நீர் என்னை<br/>வாழ வைத்தீரையா</lines>
+    </verse>
+    <verse name="v3">
+      <lines>தேவன் அருளிய சொல்லி முடியாத<br/>ஈவுகளுக்காய் ஸ்தோத்திரம்<br/>அளவில்லா அவரின் கிருபைகளுக்காய்<br/>ஆயுள் முழுதும் ஸ்தோத்திரம்</lines>
+    </verse>
+  </lyrics>
+</song>

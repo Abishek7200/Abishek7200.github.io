@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Kolgothaave kolaimarame kora maranam</title>
+      <title>Kolgothaave kolaimarame kora maranam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கொல்கொதாவே கொலை மரமே<br/>கோர மரணம் பாராய் மனமே<br/>கோர மனிதர் கொலை செய்தார்<br/>கோர காட்சி பார் மனமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>கந்தை அணிந்தார் நிந்தை சுமந்தார்<br/>கள்ளார் நடுவில் கொலை மரத்தில்<br/>எந்தனை மீட்க இத்தனைப் பாடேன்<br/>எந்தன் ஜீவ நாயகா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என்னை மீட்ட கொலை மரமே<br/>அன்னையே நான் என்ன செய்வேன்<br/>என்னை உமக்கே ஒப்புவித்தேன்<br/>என்றென்றுமாய் நான் வாழ</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>வானம் பூமி ஒன்றாய் இணைந்த<br/>வல்ல தேவன் உமக்கே சரணம்<br/>வாடி வாடி கொலை மரத்தில்<br/>நிற்கும் காட்சி பார் மனமே</lines>
+    </verse>
+  </lyrics>
+</song>

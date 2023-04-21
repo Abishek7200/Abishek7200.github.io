@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-16T01:38:18">
+  <properties>
+    <titles>
+      <title>Nallavare yesu vallavare</title>
+      <title>Nallavare yesu vallavare</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நல்லவரே இயேசு வல்லவரே - புது<br/>நன்மைகள் கிருபைகள் தருபவரே<br/>அல்லேலூயா அல்லேலூயா <br/>ஆமென் அல்லேலூயா </lines>
+    </verse>
+    <verse name="v2">
+      <lines>காற்றும் கடலும் கீழ்ப்படியும் - ஒரு <br/>வார்த்தை சொன்னால் அலை அடங்கி விடும்<br/>நோய்களும் பேய்களும் ஓடிவிடும்<br/>பாவமும் சாபமும் நீங்கிவிடும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>நொறுங்குண்ட இதயம் மாற்றிடுவார் - தம்<br/>உத்திரத்தால் ஜெயம் அளித்திடுவார் <br/>மனங்கசந்தழுதிடும் வேலையெல்லாம்<br/>மன்னவர் இயேசென்னை தேற்றிடுவார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>பூமியும் நிறைவு அழிந்திடுமே - அவர்<br/>வாயின் வசனங்களோ நிலைத்திடுமே <br/>துதிகளின் பெருஞ்சத்தம் எழும்பிடவே<br/>எரிகோ மதில் சுவர் இடிந்துவிடும்<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>ஒருமுறை மனிதனாய் வந்தவரே -  தானே<br/>ஒருமுறை பலியாய் மடிந்தவரே<br/>மறுமுறை வருவேன் என்றவர்<br/>மறுபிறப்படைந்தவர் மகிழ்ந்திடவே </lines>
+    </verse>
+  </lyrics>
+</song>

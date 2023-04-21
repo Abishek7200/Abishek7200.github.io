@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Nadantha Thellam Nanmaike</title>
+      <title>Nadantha Thellam Nanmaike</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நடந்ததெல்லாம் நன்மைக்கே நன்மைக்கே<br/>நன்றி செல்லி மகிழ்வேன் இன்றைக்கே<br/>நடப்பதெல்லாம் நன்மைக்கே நன்மைக்கே<br/>நன்றி சொல்லி மகிழ்வேன் இன்றைக்கு<br/>நன்றி(2) எல்லாம் நன்மைக்கே நன்றி</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. தீமைகளை நன்மையாக மாற்றினீர்<br/>துன்ப்களை இன்பமாக மாற்றினீர்;</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. சிலுவைதனை அனுமதித்தீர் நன்றி<br/>சிந்தைதனை மாற்றினீர் நன்றி</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. உள்ளான மனிதனை புதிதாக்கி<br/>உடைத்து உருமாற்றி நடத்துகிறீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. என் கிருபை உனக்குப் போதும் என்றீர்<br/>உன் பெலவீனத்தில் என் பெலன் என்றீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. தாங்கிடும் பெலன் தந்தீர் நன்றி<br/>தப்பிச் செல்ல வழிசெய்தீர் நன்றி</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. விசுவாசப்புடமிட்டீர் நன்றி<br/>பொன்னாக விளங்கச் செய்தீர் நன்றி</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>7. கசப்புக்களை மாற்றி விட்டீர் நன்றி<br/>மன்னிக்கும் மனம் தந்தீர் நன்றி</lines>
+    </verse>
+  </lyrics>
+</song>

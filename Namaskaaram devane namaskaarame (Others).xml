@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Namaskaaram devane namaskaarame</title>
+      <title>Namaskaaram devane namaskaarame</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நமஸ்காரம் தேவனே நமஸ்காரமே<br/>நமஸ்காரம் தேவனே நமஸ்காரமே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>மலர்களை படைத்தவரே நமஸ்காரமே (2)<br/>மலைகளை உடைத்தவரே நமஸ்காரமே (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>புயல்காற்றை தடுத்தவரே நமஸ்காரமே (2)<br/>போர்ப்படை அமைத்தவரே நமஸ்காரமே (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>எரிகோவை இடித்தவரே நமஸ்காரமே (2)<br/>எகிப்தை வென்றவரே நமஸ்காரமே (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>வெற்றியை தருபவரே நமஸ்காரமே (2)<br/>பற்றியே எரிபவரே நமஸ்காரமே (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>எனக்குள்ளே இருப்பவரே நமஸ்காரமே (2)<br/>எகோவா தெய்வமே நமஸ்காரமே (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>எலியாவை எடுத்தவரே நமஸ்காரமே (2)<br/>எலிசாவை கொடுத்தவரே நமஸ்காரமே (2)</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>குருடரை தொட்டவரே நமஸ்காரமே (2)<br/>வியாதியை நீக்கினீரே நமஸ்காரமே (2)</lines>
+    </verse>
+  </lyrics>
+</song>

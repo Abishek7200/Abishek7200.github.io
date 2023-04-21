@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Nallavar Enakku Nanmaigal Seithar</title>
+      <title>Nallavar Enakku Nanmaigal Seithar</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 v2 c1 v3 c1 c2 c1</verseOrder>
+    <authors>
+      <author type="words">Johnsam Joyson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நல்லவர் எனக்கு நன்மைகள் செய்தார்<br/>நாளெல்லாம் நன்றி நான் பாடுவேன் - 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>கால்கள் இடறாமல் காத்தார்<br/>கன்மலைமேல் நிற்க்க செய்தார் - 2<br/>என் கண்ணீரின் பள்ளத்தக்கனைத்தும்<br/>நீறுற்றாகவே மாற்றி தந்தார்- 2<br/>                                  - நல்லவர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>வனாந்திரம் களிப்பானதே<br/>கர்த்தர் என் முன் சென்றதாலே - 2<br/>ஏதுமில்லாத என்னை ஏற்றுக்கொண்டு<br/>ஆசீர்வதித்தார் கிருபையினால் - 2<br/>                                  - நல்லவர்</lines>
+    </verse>
+    <verse name="c2">
+      <lines>குறைகள் ஏதுமின்றி பார்த்துகொண்டார்<br/>கருத்தாய் என்னை நடத்துகின்றார் - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>நிர்மூலமாகாமல் காத்தார்<br/>நிற்க தம் கிருபைகள் தந்தார்<br/>என்னை நீதியின் பாதையில் தினமும்<br/>கரம் பிடித்து நடத்துகின்றார்<br/>                                  - நல்லவர்</lines>
+    </verse>
+  </lyrics>
+</song>

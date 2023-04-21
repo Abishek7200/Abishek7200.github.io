@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Nandri baligal seluthiye</title>
+      <title>Nandri baligal seluthiye</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>நன்றி பலிகள் செலுத்தியே நாங்கள் <br/>ஆலயம் கூடி வந்தோம்<br/>துதி பலிகள் செலுத்தியே நாங்கள்<br/>உம்மை போற்ற வந்தோம் (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கர்த்தர் செய்த நன்மைக்காக<br/>நன்றி செலுத்த வந்தோம்<br/>நம்மை மறவா அவர் கிருபை<br/>எண்ணியே துதிக்க வந்தோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>1. உடன்படிக்கை எனக்குத் தந்து <br/>உந்தனின் பிள்ளையாய் தெரிந்தெடுத்தீர்<br/>மரணத்தின் விளிம்பில் நின்ற என்னை<br/>ஜீவனின் பாதையில் திருப்பி விட்டீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2. வாதைகள் என்னை சூழ்ந்தபோது<br/>செட்டைகளாலே எனை மறைத்தீர்<br/>பாதைகள் எல்லாம் காக்கும்படி<br/>தூதர்கள் அனுப்பி உதவி செய்தீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>3. தேவைகள் நெருக்கி நின்றபோது<br/>அற்புதமாகப் பெருக வைத்தீர்<br/>கண்ணீரின் பாதையில் திகைத்தபோது<br/>கண்மணியே என்று என்னை அழைத்தீர்</lines>
+    </verse>
+  </lyrics>
+</song>

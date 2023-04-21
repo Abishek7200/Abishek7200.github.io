@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-18T08:06:32">
+  <properties>
+    <titles>
+      <title>Magizhvom Magizhvom thinam(games)</title>
+      <title>Magizhvom Magizhvom thinam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மகிழ்வோம் மகிழ்வோம் தினம் அகமகிழ்வோம்<br/>இயேசு இராஜன் நம் சொந்தமாயினார்<br/>இந்தப் பார்தலத்தின் சொந்தக்காரர் அவர்<br/>எந்தன் உள்ளத்தின் சொந்தமானார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆ ஆனந்தமே பரமானந்தமே<br/>இது மாபெரும் பாக்கியமே<br/>இந்தப் பார்தலத்தின் சொந்தக்காரர் அவர்<br/>எந்தன் உள்ளத்தின் சொந்தமானார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. சின்னஞ்சிறு வயதில் என்னைக் குறித்து விட்டார்<br/>தூரம் போயினும் கண்டுக்கொண்டார்<br/>தமது ஜீவனை எனக்கும் அளித்து<br/>ஜீவன் பெற்றுக்கொள் என்றுரைத்தார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. எந்தச் சூழ்நிலையும் அவர் அன்பினின்று<br/>என்னைப் பிரிக்காது காத்துக்கொள்வார்<br/>_____  _____  _____  தந்த பொறுப்பதனை<br/>அவர் வரும் வரைக் காத்துக் கொள்வேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. அவர் வரும் நாளினில் என்னைக் கரம் அசைத்து<br/>அன்பாய்க் கூப்பிட்டுச் சேர்த்துக்கொள்வார்<br/>அவர் சமூகமதில் அங்கே அவருடனே<br/>ஆடிப்பாடியே மகிழ்ந்திடுவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

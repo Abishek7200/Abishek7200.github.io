@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Malaigalellam vazhigalaakuvar</title>
+      <title>Malaigalellam vazhigalaakuvar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Lukas Sekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மலைகளெல்லாம் வழிகளாக்குவார்<br/>நம் பாதையெல்லாம் செவ்வையாக்குவார்<br/>கலங்காதே திகையாதே நிச்சயமாகவே முடிவுண்டு - (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆபிரகாமின் தேவன் - அவர்<br/>ஈசாக்கின் தேவன்<br/>யாக்கோபின் தேவன் - அவர்<br/>நம்முடைய தேவன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. பெரிய பர்வதமே எம்மாத்திரம்<br/>செருபாபேல் முன்னே சமமாகுவாய்<br/>முத்திரை மோதிரமாய் தெரிந்து கொண்டாரே(2)<br/>இயேசுவின் நாமத்தாலே ஜெயம் பெறுவோம் (2) --- ஆபிரகாமின்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. பூமி அனைத்திற்கும் ராஜாதி ராஜன்<br/>உன்னதமானவரே துதியாலே உயர்த்திடுவோம்<br/>வெண்கல கதவெல்லாம் உடைத்திடுவாரே (2)<br/>இரும்பு தாழ்பாளை முறித்திடுவாரே (2) --- ஆபிரகாமின்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. தடைகளை உடைப்பவர் நம்முன்னே போவார்<br/>ஓசன்னா ஜெயமென்று ஆர்ப்பரிப்போமே<br/>வில்லை உடைத்திடுவார் ஈட்டியை முறித்திடுவார் (2)<br/>இரதங்களை அக்கினியால் சுட்டெரிப்பாரே (2) --- ஆபிரகாமின்</lines>
+    </verse>
+  </lyrics>
+</song>

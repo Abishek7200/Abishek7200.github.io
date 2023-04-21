@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-22T01:50:36">
+  <properties>
+    <titles>
+      <title>Kuyavane</title>
+      <title>Kuyavane</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>குயவனே நீர் என்னை தொடணுமே<br/>நீங்க தொடலனா நான் வெறும் களிமண்ணே - 2</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>நீங்க என்ன தொடலனா<br/>நான் வெறும் மண்ணு தானே<br/>நீங்க என்ன தொடலனா<br/>நான் களிமண்ணுதானே -2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>தொட்டீரே கையில் எடுத்தீரே<br/>தந்தீரே உம் ஜீவன் தந்தீரே <br/>தொட்டீரே கையில் எடுத்தீரே<br/>தந்தீரே உம் சாயல் தந்தீரே - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>நீங்க என்ன பார்கலனா<br/>பாழாக போயிருப்பேன்<br/>உங்க பார்வ படலனா<br/>பட்டு தான் போயிருப்பேன் - 2<br/>கண்டீரே என்னையும் கண்டீரே<br/>உங்க கண்ணுக்குள்ள என்னையும் வைத்தீரே - 2 (குயவனே)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>யாரும் இல்ல என்று சொல்லி<br/>தனிமையில் அழுகையில்<br/>தகப்பன் நீர் வந்தீரே<br/>உயர்த்தி வைத்தீரே - 2<br/>வந்தீரே கூடவே வந்தீரே<br/>அதிசயமாய் நடத்தி வந்தீரே - 2 (குயவ</lines>
+    </verse>
+  </lyrics>
+</song>

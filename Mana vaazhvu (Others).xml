@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Mana vaazhvu</title>
+      <title>Mana vaazhvu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மணவாழ்வு புவி வாழ்வினில் வாழ்வு <br/>மங்கள வாழ்வு வாழ்வினில் வாழ்வு<br/>மணவாழ்வு புவி வாழ்வினில் வாழ்வு<br/>மருவிய சோபன சுப வாழ்வு</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. துணை பிரியாது, தோகையிம்மாது<br/>சுப மண மகளிவர் இதுபோது<br/>மனமுறை யோது வசனம் விடாது<br/>வந்தன ருமதருள் பெறவேது – நல்ல</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. ஜீவ தயாகரா, சிருஷ்டியதிகாரா<br/>தெய்வீக மாமண வலங்காரா<br/>தேவகுமாரா, திருவெல்லையூரா<br/>சேர்ந்தவர்க்கருள் தரா திருப்பீரா? – நல்ல</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. குடித்தன வீரம் குணமுள்ள தாரம்<br/>கொடுத்துக் கொண்டாலது சமுசாரம்<br/>அடக்கமாசாரம் அன்பு, உதாரம்<br/>அம்புவிதனில் மனைக்கலங்காரம் – நல்ல</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. மன்றல் செய் தேவி, மணாளனுக்காவி<br/>மந்திரம் அவர் குறையுமே தாவி<br/>மன்றியிப் புவி யமர்ந்த சஞ்சீவி<br/>அவளையில்லாதவ னொரு பாவி - நல்ல</lines>
+    </verse>
+  </lyrics>
+</song>

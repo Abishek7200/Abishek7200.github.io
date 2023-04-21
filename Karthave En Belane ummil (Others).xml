@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Karthave En Belane ummil</title>
+      <title>Karthave En Belane ummil</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கர்த்தாவே என் பெலனே<br/>உம்மில் அன்பு கூர்ந்திடுவேன்<br/>துருகமும் நீர் கேடகம் நீர்<br/>இரட்சண்யக் கொம்பும் அடைக்கலம் நீர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. மரணத்தின் கட்டுகள் சூழ்ந்த போதும்<br/>துர்ச்சனப் பிரவாகம் புரண்ட போதும்<br/>நெருக்கத்தின் மத்தியில் குரல் எழுப்ப<br/>உருக்கமாய் வந்து உதவி செய்தார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. தயை செய்பவனுக்கு நீர் தயையுள்ளவர்<br/>உத்தமனை நீர் உயர்த்திடுவீர்<br/>புனிதனுக்கு நீர் புனிதரன்றோ<br/>புதிய கிருபையின் உறைவிடமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. உம்மாலே ஒர் சேனைக்குள் பாய்வேன்<br/>உம்மாலே மதிலைத் தாண்டுவேன்<br/>சத்துருவை நான் தொடர்ந்திடுவேன்<br/>சதா காலமும் ஜெயம் எடுப்பேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. இரட்சண்ய கேடகம் எனக்குத் தந்தீர்<br/>உமது கரம் என்னை உயர்த்தும்<br/>கர்த்தரை அல்லால் தேவன் இல்லை<br/>அவரே எந்தன் கன்மலையே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. பெலத்தினால் என்னை இடைக்கட்டி<br/>மான்களின் கால்களை போலாக்கி<br/>நீதியின் சால்வையை எனக்குத் தந்து<br/>உயர் ஸ்தலத்தில் என்னை நிறுத்துகின்றார்</lines>
+    </verse>
+  </lyrics>
+</song>

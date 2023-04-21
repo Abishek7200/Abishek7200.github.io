@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Mangalam sezhikka (Marriage song)</title>
+      <title>Mangalam sezhikka (Marriage song)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மங்களம் செழிக்க கிருபை<br/>அருளும் மங்கள நாதனே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. மங்கள நித்திய மங்கள நீ<br/>மங்கள முத்தியும் நாதனும் நீ<br/>எங்கள் புங்கவ நீ எங்கள் துங்கவ நீ<br/>உத்தம சத்திய நித்திய தத்துவ மெத்த மகத்துவ<br/>அத்தனுத் கத்தனாம் ஆபிராம் தேவ நீ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. மங்கள மணமகன்    ___________ -க்கும்<br/>மங்கள மணமகள்  ___________ -க்கும்<br/>மானுவேலர்க்கும் மகானுபவர்க்கும்<br/>பக்தியுடன் புத்தி முத்தியளித்திடும் நித்தியனே – உனைத்<br/>துத்தியம் செய்திடும் சத்திய வேதர்க்கும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. சங்கை நித்திய நாதனும் நீ<br/>பங்கமில் சத்திய போதனும் நீ<br/>மங்கா மாட்சிமை நீ தங்கக் காசியும் நீ<br/>இத்தரை இத் திருமணத்தின் இருவர்<br/>ஒத்து நல் இன்பம் உற்றவர் வாழ நடத்தியருளுமே</lines>
+    </verse>
+  </lyrics>
+</song>

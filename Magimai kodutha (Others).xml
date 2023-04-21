@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-29T01:15:01">
+  <properties>
+    <titles>
+      <title>Magimai kodutha</title>
+      <title>Magimai kodutha</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>மகிமை கொடுத்த மன்னவரே ஸ்தோத்திரம்<br/>மனமகிழ்ச்சி தந்த மனாளனே ஸ்தோத்திரம் (2)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>காக்கின்ற இறைவா ஸ்தோத்திரம்<br/>கருனை வைத்ததால் துதிக்கிறேன் என்னாளும்<br/>துதிக்கிறேன் என்னாளும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>நீதியின் தேவனே ஸ்தோத்திரம்<br/>நிர்மலர் ராஜனே ஸ்தோத்திரம்<br/>நீதிமான்களாய் எங்களை மாற்ற<br/>ஜீவன் கொடுத்தவரே ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>வல்லமை உள்ளவரே ஸ்தோத்திரம்<br/>வழுவாமல் காப்பவரே ஸ்தோத்திரம்<br/>வாதைக்கும் துன்பத்துக்கும் விலக்கி<br/>மீட்ட அன்பான தேவனே ஸ்தோத்திரம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>பரலோக தேவனே ஸ்தோத்திரம்<br/>பரிசுத்த ஆவியே ஸ்தோத்திரம்<br/>பாவத்துக்கு எங்களை விலக்கி<br/>மீட்ட ராஜாதி ராஜானே ஸ்தோத்திரம்</lines>
+    </verse>
+  </lyrics>
+</song>

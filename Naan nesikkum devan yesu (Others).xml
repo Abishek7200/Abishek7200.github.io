@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naan nesikkum devan yesu</title>
+      <title>Naan nesikkum devan yesu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நான் நேசிக்கும் தேவன்<br/>இயேசு என்றும் ஜீவிக்கிறார்<br/>அவர் நேற்றும் இன்றும் நாளை<br/>என்றும் மாறாதவர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நான் பாடி மகிழ்ந்திடுவேன்<br/>என் இயேசுவைத் துதித்திடுவேன்<br/>என் ஜீவிய காலமெல்லாம்<br/>அவர் பாதத்தில் அமர்ந்திருப்பேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கடலாம் துன்பத்தில் தவிக்கும்<br/>வேளையில் படகாய் வந்திடுவார்<br/>இருள் தனிலே பகலவனாய்<br/>இயேசுவே ஒளி தருவார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>பாவ நோயாலே வாடும் நேரத்தில்<br/>மருத்துவராகிடுவார்<br/>மயங்கி விழும் பசிதனிலே<br/>மன்னாவைத் தந்திடுவார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>தூற்றும் மாந்தரின் நடுவில்<br/>எந்தனை தேற்றிட வந்திடுவார்<br/>கால் தளர ஊன்றுகோலாய்<br/>காத்திட வந்திடுவார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>நேசர் என்னோடு துணையாய் ஜீவிக்க<br/>நான் இனி கலங்கிடேனே<br/>எந்தனுக்கே காவல் அவர்<br/>நான் உடல் அவர் உயிரே</lines>
+    </verse>
+  </lyrics>
+</song>

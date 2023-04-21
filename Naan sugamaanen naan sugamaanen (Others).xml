@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naan sugamaanen naan sugamaanen</title>
+      <title>Naan sugamaanen naan sugamaanen</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நான் சுகமானேன் (2)<br/>புண்ணியரின் காயங்களால் - நான்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆ... அல்லேலூயா (2) - அல்லேலூயா ஆனந்தமே<br/>ஆ... அல்லேலூயா (2) - அல்லேலூயா ஆரோக்கியமே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. பிள்ளையின் அப்பம் (2)<br/>பிள்ளையான எனக்கல்லோ --- ஆ... அல்லேலூயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. என் நோய்கள் தீர்த்தார் (2)<br/>சாபமான சிலுவையில் --- ஆ... அல்லேலூயா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. நான் ஏன் சுமப்பேன் (2)<br/>எந்தன் இயேசு சுமந்த பின் --- ஆ... அல்லேலூயா</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. யேகோவா தேவன் (2)<br/>எந்தன் நல்ல பரிகாரி --- ஆ... அல்லேலூயா</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. பரிபூரண ஜீவன் (2)<br/>பரனீந்த ஜீவனிது --- ஆ... அல்லேலூயா</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6. இயேசுவின் இரத்தம் (2)<br/>பிணி போக்கும் நல் மருந்து --- ஆ... அல்லேலூயா</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>7. பலவீனன் அல்ல (2)<br/>பலவான் நான் தேவன் சொன்னார் --- ஆ... அல்லேலூயா</lines>
+    </verse>
+    <verse name="v9">
+      <lines><br/>8. ஆயத்தமானேன் (2)<br/>இயேசு ராஜன் வருகைக்கு --- ஆ... அல்லேலூயா</lines>
+    </verse>
+  </lyrics>
+</song>

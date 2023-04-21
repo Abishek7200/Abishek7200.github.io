@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Nandri bali nandri bali nallavare</title>
+      <title>Nandri bali nandri bali nallavare</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v2 c1 v4 v2 c1 v5 v2 c1 v6 v2 c1 v7 v2 c1 v8 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நன்றி பலி, நன்றி பலி<br/>நல்லவரே உமக்குத்தான்<br/>அதிகாலை ஆனந்தமே - என்<br/>அப்பா உம் திருப்பாதமே </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. நேற்றைய துயரமெல்லாம்<br/>இன்று மறைந்ததையா<br/>நிம்மதி பிறந்ததையா – அது<br/>நிரந்தரமானதையா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கோடி கோடி நன்றி டாடி (3)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. இரவெல்லாம் காத்தீர்<br/>இன்னும் ஓர் நாள் தந்தீர்<br/>மறவாத என் நேசரே – இன்று<br/>உறவாடி மகிழ்ந்திடுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. ஊழியப் பாதையிலே<br/>உற்சாகம் தந்தீரையா<br/>ஓடி ஓடி உழைப்பதற்கு<br/>உடல் சுகம் தந்தீரையா</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. வேதனை துன்பமெல்லாம்<br/>ஒரு நாளும் பிரிக்காதையா<br/>நாதனே உம் நிழலில்<br/>நாள்தோறும் வாழ்வேனையா - இயேசு</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. ஜெபத்தைக் கேட்டீரையா<br/>ஜெயத்தைத் தந்தீரையா<br/>பாவம் அணுகாமலே<br/>பாதுகாத்து வந்தீரையா</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6. என் நாவில் உள்ளதெல்லாம்<br/>உந்தன் புகழ்தானே<br/>நான் பேசி மகிழ்வதெல்லாம்<br/>உந்தன் பெருமை தானே</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>7. புதிய நாள் தந்தீரையா<br/>புது கிருபை தந்தீரையா<br/>அதிசயமானவரே<br/>ஆறுதல் நாயகனே</lines>
+    </verse>
+  </lyrics>
+</song>

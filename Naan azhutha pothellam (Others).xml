@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naan azhutha pothellam</title>
+      <title>Naan azhutha pothellam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நான் அழுதபோது எல்லாம் என் அருகில் வந்தவரே<br/>உங்க கரங்களினாலே என் கண்ணீர் துடைத்தவரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அன்பாய் இருப்பேன் என் சொல்வார்கள்<br/>அலட்சியமாய் விட்டுப் போவார்கள்<br/>அன்பு தருபவரும் நீர்தான் ஐயா<br/>உம்மை அன்றி எனக்கு யார் ஐயா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உதவி செய்வேன் என்று சொல்வார்கள்<br/>உதறி தள்ளி விட்டு போவார்கள்<br/>உதவி செய்பவரும் நீர்தான் ஐயா<br/>உம்மை அன்றி எனக்கு யார் ஐயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உலகம் என்னை வெறுத்தது ஐயா<br/>உறவுகள் என்னையும் பகைத்தது ஐயா<br/>வெறுக்காத தெய்வம் நீர்தான் ஐயா<br/>உம்மை அன்றி எனக்கு யார் ஐயா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>இயேசு தான் அவர் இயேசு தான்</lines>
+    </verse>
+  </lyrics>
+</song>

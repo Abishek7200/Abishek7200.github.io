@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-25T16:01:30">
+  <properties>
+    <titles>
+      <title>Magimai maatchimai nirainthavare</title>
+      <title>Magimai maatchimai nirainthavare</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மகிமை மாட்சிமை நிறைந்தவரே<br/>மகிழ்வுடன் தொழுதிடுவோம்<br/>பரிசுத்த தேவனாம் இயேசுவை<br/>பணிந்தே தொழுகுவோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>உன்னத தேவன் நீரே<br/>ஞானம் நிறைந்தவரே<br/>முழங்கால் யாவுமே<br/>பாரினில் மடங்கிடுதே<br/>உயர்ந்தவரே, சிறந்தவரே<br/>என்றும் தொழுதிடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ஒருவரும் சேரா ஒளியில்<br/>வாசம் செய்பவரே<br/>ஒளியினை தந்துமே<br/>இதயத்தில் வாசம் செய்யும்<br/>ஒளி நிறைவே அருள் நிறைவே<br/>என்றும் தொழுதிடுவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>பரிசுத்த தேவன் நீரே<br/>பாதம் பணிந்திடுவோம்<br/>கழுவியே நிறுத்தினீரே<br/>சத்திய தேவன் நீரே<br/>கனம் மகிமை செலுத்தியே நாம்<br/>என்றும் தொழுதிடுவோம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>நித்திய தேவனும் நீரே<br/>நீதி நிறைந்தவரே<br/>அடைக்கலமானவரே<br/>அன்பு நிறைந்தவரே<br/>நல்லவரே வல்லவரே<br/>என்றும் தொழுதிடுவோம்</lines>
+    </verse>
+  </lyrics>
+</song>

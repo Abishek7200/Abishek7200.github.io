@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-24T14:51:55">
+  <properties>
+    <titles>
+      <title>Namakkoru Baalagan Piranthare</title>
+      <title>Namakkoru Baalagan Piranthare</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நமக்கொரு பாலகன் பிறந்தரே<br/>நமக்காக பரலோகம் துறந்தாரே-2<br/>பெத்லகேமிலே முன்னனையிலே<br/>நம்மை மீட்கவே இயேசு பிறந்தாரே -2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>இயேசு பிறந்தார் பிறந்தார் பெத்லகேமிலே<br/>இயேசு பிறந்தார் பிறந்தார் முன்னனையிலே<br/>இயேசு பிறந்தார் பிறந்தார் எங்கள் உள்ளத்திலே-2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1.தீர்க்கன் சொல்லை நிறைவேற்றிடவே<br/>தீரா சாபம் கறை போக்கிடவே<br/>தேவமைந்தன் மனிதனாய் பிறந்தார்-2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2.அழியா வாழ்வை நாம் பெற்றிடவே<br/>ஒளியாய் வந்தார் இருள் நீக்கிடவே<br/>தேவ மைந்தன் மனிதனாய் பிறந்தார்-2</lines>
+    </verse>
+  </lyrics>
+</song>

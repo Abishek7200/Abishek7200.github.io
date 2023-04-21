@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Namakkoru palagan piranthare</title>
+      <title>Namkkoru palagan piranthare</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>நமக்கொரு பாலகன் பிறந்தாரே<br/>நமக்காக பரலோகம் துறந்தாரே -2 <br/>பெத்லகேமிலே, முன்னன்னையிலே, நம்மை மீட்கவே இயேசு பிறந்தாரே -2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>இயேசு பிறந்தார் பிறந்தார் பெத்லகேமிலே <br/>இயேசு பிறந்தார் பிறந்தார் முன்னன்னையிலே <br/>இயேசு பிறந்தார் பிறந்தார் எங்கள் உள்ளத்திலே (பிறந்தாரே)-2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>1.தீர்க்கன் சொல்லை நிறைவேற்றிடவே <br/>தீரா சாபம் கரை போக்கிடவே <br/>தேவமைந்தன் மனிதனாய் பிறந்தார் -2</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>இயேசு பிறந்தார் பிறந்தார் பெத்லகேமிலே <br/>இயேசு பிறந்தார் பிறந்தார் முன்னன்னையிலே <br/>இயேசு பிறந்தார் பிறந்தார் எங்கள் உள்ளத்திலே (பிறந்தாரே)-2 </lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>2.அழியா வாழ்வை நாம் பெற்றிடவே <br/>ஒளியாய் வந்தார் இருள் நீக்கிடவே <br/>தேவ மைந்தன் மனிதனாய் பிறந்தார் -2 </lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>இயேசு பிறந்தார் பிறந்தார் பெத்லகேமிலே <br/>இயேசு பிறந்தார் பிறந்தார் முன்னன்னையிலே <br/>இயேசு பிறந்தார் பிறந்தார் எங்கள் உள்ளத்திலே (பிறந்தாரே)-2</lines>
+    </verse>
+  </lyrics>
+</song>

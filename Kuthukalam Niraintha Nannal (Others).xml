@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Kuthukalam Niraintha Nannal</title>
+      <title>Kuthukalam Niraintha Nannal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>குதுகலம் நிறைந்த நந்நாள்<br/>நடுவானில் மின்னிடுதே<br/>இதுவரை இருந்த துன்பம் இல்லை<br/>இனி என்றுமே ஆனந்தம் </lines>
+    </verse>
+    <verse name="v1">
+      <lines>தளகர்த்தனாம் இயேசு நின்று,<br/>யுத்தம் செய்திடுவார் நன்று<br/>அவர் ஆவியினால் புதுபெலன் அடைந்து<br/>ஜெயகீதங்கள் பாடிடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>புவி மீதினில் சரீர மீட்பு,<br/>என்று காண்போம் என ஏங்கும்<br/>மன மகிழ்ந்திடவே அவர் வந்திடுவார்<br/>மணவாட்டியைச் சேர்த்திடவே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ஜெப விழிப்புடன் வாஞ்சையாக,<br/>அவர் வருகையை எதிர்நோக்கி<br/>நவ எருசலேமாய் தூய லங்கிர்தமாய்,<br/>நாம் ஆயத்தமாகிடுவோம்.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ஜீவ ஒளி வீசும் கற்களாக<br/>சீயோன் நகர்தனிலே சேர்க்க<br/>அருள் சுரந்திருந்தார் நாமும் வரைந்திருந்தார்,<br/>அவர் மகிமையில் ஆர்ப்பரிப்போம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines>தேவ தூதர்கள் கானமுடன்<br/>ஆரவார தொனி கேட்கும்<br/>அவர் கிருபையினால் மறுரூபமாக<br/>நம்மை இனிதுடன் சேர்த்திடுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

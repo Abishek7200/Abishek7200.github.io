@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naan aarathikkum yesu endrum jeevikkurare</title>
+      <title>Naan aarathikkum yesu endrum jeevikkurare</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 v3 v1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நான் ஆராதிக்கும் இயேசு என்றும் ஜீவிக்கிறாரே<br/>அவர் தேவனாயினும் என்னோடு பேசுகின்றாரே<br/>அவர் சிந்தின இரத்தம் மீட்பை தந்தது<br/>அவர் கொண்ட காயங்கள் சுக வாழ்வை தந்தது</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அவர் என்னோடு இருந்தால் ஒரு சேனைக்குள் பாய்வேன்<br/>அவர் என்னோடு இருந்தால் ஒரு மதிலை தாண்டுவேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. உடைந்துபோன என் வாழ்வை சீரமைச்சாரே<br/>அரணான பட்டணம்போல் மாற்றி விட்டாரே<br/>என் சத்துருக்கள் பின்னிட்டு ஒடச் செய்தாரே<br/>என் எல்லையெங்கிலும் சமாதானம் தந்தாரே<br/>அவர் செய்த நன்மையை நான் சொல்லி துதிப்பேன் </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. இரட்சிப்பின் வஸ்திரத்த உடுத்துவித்தாரு<br/>நீதியென்னும் மார்க்கவசம் எனக்கு தந்தாரே<br/>கிருபைய தந்து என்ன உயர்த்தி வச்சாரு -என்<br/>நாவின் மேலே அதிகாரம் வச்சாரே<br/>அவர் செய்த நன்மையை நான் சொல்லி துதிப்பேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. உலர்ந்துபோன என் கோலை துளிர்க்கச் செய்தாரே<br/>ஜீவனற்று என் வாழ்வில் ஜீவன் தந்தாரே<br/>ஒரு சேனையைப்போல என்னை எழும்பச் செய்தாரே<br/>என் தேசத்தை சுதந்தரிக்கும் பெலனைத் தந்தாரே<br/>அவர் செய்த நன்மையை நான் சொல்லி துதிப்பேன் </lines>
+    </verse>
+  </lyrics>
+</song>

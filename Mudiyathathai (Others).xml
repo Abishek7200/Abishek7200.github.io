@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Mudiyathathai</title>
+      <title>Mudiyathathai</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>முடியாததை முடியும் என்று சொல்ல வந்தாரே<br/>உனக்குள்ளே பல சாதனை செய்ய வந்தாரே – 2<br/>அந்த உத்தம புத்திரனை நீ பாடிக்கொண்டாடு<br/>நம்ம சத்தியர் பிறந்ததை நீ ஆடிக்கொண்டாடு – 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உனக்கு குறித்ததை தரவந்த இயேசு வாழ்கவே<br/>மானிடத்தில் உயிர்தந்த இயேசு வாழ்கவே – 2<br/>(மானிடத்தை மீட்கவந்த இயேசு வாழ்கவே – 2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>மனமகிழ்ச்சியை தரவந்த இயேசு வாழ்கவே<br/>ஆறுதலைத் தரவந்த இயேசு வாழ்கவே – 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>தேவமைந்தன் புகழைப் பாடி ஆர்ப்பரிப்போமே<br/>தேவபாலன் பிறந்தநாளில் பாடிடுவோம் – 2</lines>
+    </verse>
+  </lyrics>
+</song>

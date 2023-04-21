@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Nandri yesu raja umakku nandri yesu raja</title>
+      <title>Nandri yesu raja umakku nandri yesu raja</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நன்றி இயேசு ராஜா<br/>உமக்கு நன்றி இயேசு ராஜா<br/>நன்மைகளை நினைத்து<br/>உள்ளம் நன்றியால் நிறைந்திடுதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1.தேவைகளை சந்தித்தீர்<br/>தேவனே நன்றி ஐயா<br/>தோளில் சுமந்தவரே<br/>நன்றி நன்றி நன்றி<br/>உமக்கு நன்றி நன்றி<br/>நன்றி ... ஐயா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2.வியாதியின் நேரத்திலும்<br/>உம் பெலன் போதும் ஐயா<br/>வேதனை மாற்றினீரே<br/>நன்றி நன்றி ஐயா - உமக்கு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3.இம்மட்டும் நடத்தினீரே<br/>இயேசுவே நன்றி ஐயா<br/>இனிமேலும் நடத்திடுவீர்<br/>நன்றி நன்றி ஐயா - உமக்கு</lines>
+    </verse>
+  </lyrics>
+</song>

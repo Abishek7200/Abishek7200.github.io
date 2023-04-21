@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Magimai umakkandro maatchimai</title>
+      <title>Magimai umakkandro maatchimai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மகிமை உமக்கன்றோ<br/>மாட்சிமை உமக்கன்றோ<br/>துதியும் புகழும் ஸ்தோத்திரமும்<br/>தூயவர் உமக்கன்றோ</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆராதனை – ஆராதனை – என்<br/>அன்பர் இயேசுவுக்கே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. விலையேறப் பெற்ற உம் இரத்தத்தால்<br/>விடுதலை கொடுத்தீர்<br/>இராஜாக்களாக லேவியராக<br/>உமக்கென தெரிந்து கொண்டீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. வழிகாட்டும் தீபம் துணையாளரே<br/>தேற்றும் தெய்வமே<br/>அன்பால் பெலத்தால்<br/>அனல்மூட்டும் ஐயா அபிஷேக நாதரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. எப்போதும் இருக்கின்ற<br/>இனிமேலும் வருகின்ற எங்கள் ராஜாவே<br/>உம் நாமம் வாழ்க உம் அரசு வருக<br/>உம் சித்தம் நிறைவேறுக</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. உம் வல்ல செயல்கள்<br/>மிகவும் பெரிய அதிசமயன்றோ<br/>உம் தூய வழிகள் நேர்மையான<br/>சத்திய தீபமன்றோ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Kiruba Kiruba Kiruba Kiruba</title>
+      <title>Innum naan azhiyala</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>இன்னும் நான் அழியல<br/>இன்னும் தோற்று போகல<br/>ஆனாலும் வாழ்கிறேனே<br/>ஏன்? ஏன்? ஏன்?<br/>போராட்டங்கள் முடியல பாடுகளும் தீரல<br/>ஆனாலும் இருக்குறேனே<br/>ஏன்? ஏன்? ஏன்?</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>கிருபை கிருபை கிருபை கிருபை - எல்லாம்<br/>நான் இல்ல என் பெலன் இல்ல<br/>என் தாலந்தில்ல எல்லாம் கிருபை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>படிக்கல உயரல பட்டத்தாரி ஆகல<br/>ஆனாலும் வாழ்கிறேனே ஏன்? ஏன்? ஏன்?<br/>நிற்கிறேன் நிர்மூலமாகமலே இருக்கிறேன்<br/>ஆனாலும் நிற்கிறேனே ஏன்? ஏன்? ஏன்?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>அற்புதங்கள் நடக்குது<br/>அதிசயங்கள் நடக்குது<br/>வியாதியெல்லாம் மாறினது<br/>ஏன்? ஏன்? ஏன்?<br/>பாவமெல்லாம் மறைந்தது<br/>சாபமெல்லாம் உடைந்தது<br/>பரிசுத்தமாய் மாறினது<br/>ஏன்? ஏன்? ஏன்?</lines>
+    </verse>
+  </lyrics>
+</song>

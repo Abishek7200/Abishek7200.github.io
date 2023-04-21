@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Nam esu nallavar</title>
+      <title>Nam esu nallavar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நம் இயேசு நல்லவர் ஒருபோதும் கைவிடார்<br/>ஒரு நாளும் விலகிடார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஒன்று சேர்ந்து நாம் துதிப்போம்<br/>சாத்தானை மிதிப்போம்<br/>தேசத்தை சுதந்தரிப்போம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. அதிசயமானவர் ஆறுதல் தருகிறார்<br/>சர்வ வல்லவர் சமாதானம் தருகிறார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. கண்ணீரைக் காண்கிறார் கதறலைக் கேட்கிறார்<br/>வேதனை அறிகிறார் விடுதலை தருகிறார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. எதிர்காலம் நமக்குண்டு எதற்கும் பயமில்லை<br/>அதிகாரம் கையிலே ஆளுவோம் தேசத்தை</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. நொறுங்குண்ட நெஞ்சமே நோக்கிடு இயேசுவை<br/>கூப்பிடு உண்மையாய் குறையெல்லாம் நீக்குவார்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. நண்பனே கலங்காதே நம்பிக்கை இழக்காதே<br/>கண்ணீரைத் துடைப்பவர் கதவண்டை நிற்கிறார்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6. எத்தனை இழப்புகள் ஏமாற்றம் தோல்விகள்<br/>கர்த்தரோ மாற்றுவார் கரம்நீட்டித் தேற்றுவார்</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>7. என் இயேசு வருகிறார் மேகங்கள் நடுவிலே<br/>மகிமையில் சேர்த்திட மறுரூபமாக்குவார்</lines>
+    </verse>
+  </lyrics>
+</song>

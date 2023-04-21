@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naan nirpathum nirmoolam agaathathum</title>
+      <title>Naan nirpathum nirmoolam agaathathum</title>
+    </titles>
+    <verseOrder>c1 v4 v1 v4 c1 v2 v4 c1 v3 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நான் நிற்பதும் நிர்முலமாகாததும் தேவ கிருபையே<br/>நான் உயிருடன் வாழ்வதும் சுகமுடன் இருப்பதும் </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>காலையில் எழுவதும் கர்த்தரை துதிப்பதும்<br/>மாலையில் காப்புடன் இல்லம் வருவதும் கிருபையே<br/>போக்கிலும் வரத்திலும் தொலைதூர பயணத்திலும் - 2<br/>பாதம் கல்லிலே இடறாமல் காப்பதும் கிருபையே - உன் - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>அக்கினி நடுவினிலே என்னை எரித்திட நேர்ந்தாலும்<br/>தூதனாக நின்று என்னை காப்பதும் கிருபையே<br/>ஆழியின் நடுவிலும் சீறிடும் புயலினிலும் - 2<br/>நீர்மேல் நடந்து வந்து என்னைக் காப்பதும் கிருபையே - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கண்ணீர் கவலைகளில் கஷ்ட நஷ்டங்களில்<br/>துஷ்டனின் கைக்கு விலக்கி காப்பதும் கிருபையே<br/>ஆற்றித் தேற்றியே அரவணைத்திடும் - 2<br/>மாபெரும் கிருபையே எங்கள் தேவ கிருபையே - 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>கிருபையே தேவகிருபையே தேவகிருபையே தேவகிருபையே - 2</lines>
+    </verse>
+  </lyrics>
+</song>

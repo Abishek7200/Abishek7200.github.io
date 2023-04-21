@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-21T02:39:21">
+  <properties>
+    <titles>
+      <title>Naan ennai thanthene</title>
+      <title>Naan ennai thanthene</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நான் என்னைத் தந்தேனே இன்று தந்தேனே<br/>அன்பரின் சேவைக்கென்றே<br/>அர்பணித்தேன் என்னை இன்றே<br/>அன்பரின் சேவைக்கென்றே</lines>
+    </verse>
+    <verse name="v1">
+      <lines>ஆவி ஆத்மா சரீரம் எல்லாம் ஆண்டவர்<br/>பாதத்தில் அர்ப்பணித்தேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>என் பட்டங்கள் படிப்புகள் பதவி எல்லாம்<br/>ஆண்டவர் பாதத்தில் அர்ப்பணித்தேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>என் எண்ணங்கள் ஏக்கங்கள் நோக்கம்<br/>எல்லாம் ஆண்டவர் ஆளுகை செய்திடுமே</lines>
+    </verse>
+  </lyrics>
+</song>

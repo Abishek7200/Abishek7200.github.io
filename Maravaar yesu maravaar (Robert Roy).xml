@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Maravaar yesu maravaar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>Robert Roy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மறவார் இயேசு மறவார் – உன்னை<br/>ஒரு இமைப் பொழுதிலும்<br/>மறவார் இயேசு மறவார் – உன்னை<br/>உருவாக்கிய இயேசு மறவார</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அழைத்தவர் உன்னை மறவார்<br/>அபிஷேகம் செய்தவர் மறவார்<br/>மனிதனின் அன்பு நிலை மாறினாலும்<br/>மகிமையின் தேவன் உன்னை மறவார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>தரிசனம் தந்தவர் மறவார்<br/>தாங்கியே நடத்திட மறவார் – எப்பக்கம்<br/>நெருக்கங்கள் உன்னை சூழ்ந்திட்டாலும்<br/>எலியாவின் தேவன் உன்னை மறவார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>வாக்குத்தத்தம் தந்தவர் மறவார்<br/>வழிகாட்டி நடத்திட மறவார்<br/>வானமும் பூமியும் நிலை மாறினாலும்<br/>வார்த்தையை நிறைவேற்ற மறவார் – தம்</lines>
+    </verse>
+  </lyrics>
+</song>

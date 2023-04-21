@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naan udainthu sethainthu</title>
+      <title>Naan udanthu sethainthu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>நான் உடைந்த சிதைந்த பாத்திரம் இயேசய்யா<br/>என்னை கருவியாக பயன்படுத்தும் இயேசய்யா – 2<br/>நீரின்றி வாழ்வில்லை நாதா<br/>நீரின்றி வாழ்வில்லை நாதா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. மறுதலித்த பேதுரு மனங்கசந்து அழுத நேரம்<br/>உடைந்து போன பாத்திரத்தை மாற்றினீர்<br/>சபையின் திறவுகோலை கையிலே கொடுத்தீர் – 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. சித்தம் போல உருவாக்கும் களிமண் நானைய்யா – 2<br/>வனைபவரும் வடிவமைப்பவர் நீரே<br/>என் பாத்திரத்தின் பங்கும் நீரே – 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. உயிர்ப்பிக்கும் ஜீவநதி என் தேவன் நீர்தானே – 2<br/>அதிகாரம் உம் கையில் தானே<br/>என் வாழ்க்கையும் உம் கையில் தானே – 2</lines>
+    </verse>
+  </lyrics>
+</song>

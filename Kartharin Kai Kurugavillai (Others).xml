@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:28">
+  <properties>
+    <titles>
+      <title>Kartharin Kai Kurugavillai</title>
+      <title>Kartharin Kai Kurugavillai</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>கர்த்தரின் கை குறுகவில்லை <br/>கர்த்தரின் வாக்கு மாறிடாதே <br/>சுத்தர்களாய் மாறிடவே <br/>சுதன் அருள் புரிந்தனரே</lines>
+    </verse>
+    <verse name="c1">
+      <lines>விசுவாசியே நீ பதறாதே <br/>விசுவாசியே நீ கலங்காதே <br/>விசுவாசத்தால் நீதிமான் <br/>இன்றும் என்றும் பிழைப்பான்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>பரிசுத்த ஆவியானவரே <br/>பரிசுத்த பாதையில் நடத்திடுவார்<br/>கிருபையிலே வளர்ந்திடுவோம்<br/>வரங்களை நாடிடுவோம் </lines>
+    </verse>
+    <verse name="v3">
+      <lines>நெஞ்சமே நீ அஞ்சிடாதே <br/>தஞ்சம் இயேசு உன் அரணே <br/>தம் ஜனத்தை சீக்கிரமாய்த் <br/>தம்முடன் சேர்த்துக்கொள்வார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>மேகம் போன்ற வாக்குத்தத்தம் <br/>சூழ நின்றே காத்திருக்க <br/>விசுவாசத்தால் உரிமை கொள்வாய் <br/>விரைந்து முன் ஏகிடுவாய் </lines>
+    </verse>
+  </lyrics>
+</song>

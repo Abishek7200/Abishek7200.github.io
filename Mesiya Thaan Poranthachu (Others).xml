@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-11T13:20:03">
+  <properties>
+    <titles>
+      <title>Mesiya Thaan Poranthachu</title>
+      <title>Mesiya Thaan Poranthachu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c1 v3 c1 c2 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மேசியா தான் பொறந்தாச்சு<br/>மானிடரே மகிழ்ந்திடுங்க (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>ஹாப்பி கிறிஸ்துமஸ் ஓஹோஹோ<br/>ஹாப்பி கிறிஸ்துமஸ் ஓஹோஹோ<br/>ஹாப்பி கிறிஸ்துமஸ் ஹாஹாஹா<br/>ஹாப்பி கிறிஸ்துமஸ் (2)</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>1. பசியைப் போக்கி நன்மையால் நிரப்பிடவே<br/>பெலவானை ஆசனம் விட்டு தள்ளி விடவே (2)</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>2. பகைமை நீங்கி அன்பினாலே <br/>ஒன்றாய் இணைவோம்<br/>பாலன் பிறந்த நோக்கம் தனை <br/>வாழ்வில் காட்டுவோம் (2)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>மனிதர் நம்மை மீட்க<br/>மேன்மை யாவும் துறந்தார் (2)<br/>மகிழ்ச்சியின் பண்டிகையை<br/>ஆனந்தமாய் கொண்டாடுவோம் (2)</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>தாழ்வில் உள்ள நம்மையே உயர்த்திட வந்தாரே<br/>தரணியின் பாவம் போக்க <br/>தாழ்த்தினாரே தன்னையே<br/>டும் டும் டும் டும் மேளத்தோடு <br/>பாட்டுப் பாடி ஆட்டம் ஆடு -2</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>பரிசுத்தம் பெற்றிடாத ஆன்மக்கள் அழியாமல்<br/>பாலன் பிறந்த நல்ல செய்தி <br/>பாரெங்கும் கூறுவோம்<br/>டும் டும் டும் டும் மேளத்தோடு <br/>பாட்டுப் பாடி கூறிடுவோம் -2</lines>
+    </verse>
+  </lyrics>
+</song>

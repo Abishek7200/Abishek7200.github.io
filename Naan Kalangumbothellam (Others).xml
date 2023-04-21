@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naan Kalangumbothellam</title>
+      <title>Naan Kalangumbothellam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நான் கலங்கும்போதெல்லாம்<br/>என் கண்ணீர் துடைப்பவர்<br/>நான் உடைந்தபோதெல்லாம்<br/>என் காயம் ஆற்றுவார் - (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>கரை தெரியாத கடலினிலே<br/>நான் மூழ்கி தவிக்கையிலே - 2<br/>கரை சேர்ப்பேன் என்றவரே<br/>கரம் பிடித்த நாயகரே - (2)<br/>கரம் பிடித்த நாயகரே - 2 - நான் கலங்கும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நிச்சயமாகவே முடிவு உண்டு<br/>எந்தன் படகில் இயேசு உண்டு - (2)<br/>பாடுகள் எல்லாம் பாடல்களாக<br/>மாற்றிடுவார் என்னை உயர்த்திடுவார் - (2) - கரை தெரியாத</lines>
+    </verse>
+  </lyrics>
+</song>

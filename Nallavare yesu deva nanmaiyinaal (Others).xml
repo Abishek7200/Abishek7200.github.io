@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-25T15:11:05">
+  <properties>
+    <titles>
+      <title>Nallavare yesu deva nanmaiyinaal</title>
+      <title>Nallavare yesu deva nanmaiyinaal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நல்லவரே இயேசு தேவா<br/>நன்மையினால் முடிசூட்டி<br/>கிருபைகளை பொழிந்திடுவீர்<br/>என்றென்றுமாய் நடத்திடுவீர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>உம்முடைய பரிசுத்தமாம் வீட்டின் நன்மையால்<br/>திருப்தியாக்கியே தினம் நடத்தினீரே<br/>தேவா உம்மை நான் என்றும் துதிப்பேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>தடுமாறும் வேளையிலும் உம் சித்தம் செய்திட<br/>பாதை காட்டினீரே என்றும் ஸ்தோத்திரம்<br/>தேவா உம்மை நான் என்றும் துதிப்பேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>இதுவரையும் நடத்தி வந்த உமது நன்மையை<br/>என்றும் மறவேனே நன்றி இயேசுவே<br/>தேவா உம்மை நான் என்றும் துதிப்பேன்</lines>
+    </verse>
+  </lyrics>
+</song>

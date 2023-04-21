@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naan Ummidathil Vanthabothellam</title>
+      <title>Naan Ummidathil Vanthabothellam</title>
+    </titles>
+    <verseOrder>c1 c2 c1 v1 c2 v2 c2 v3 c2 c1 c2</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நான் உம்மிடத்தில் வந்தபோதெல்லாம்<br/>பயம் என்னை விட்டுப் போனதே<br/>நீர் எனக்குள்ளே வந்த போதெல்லாம்<br/>பாவம் என்னை விட்டுத் தொலைந்ததே</lines>
+    </verse>
+    <verse name="c2">
+      <lines>உம்மோடு வாழ்வேன் உமக்காக வாழ்வேன்<br/>உம்மைத்தான் பின் தொடர்வேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>உண்மையான அன்பை நான் கண்டதேயில்லை<br/>உற்றார் சுற்றார் அன்பிலே உண்மையுமில்லை - 2<br/>ஏங்கி ஏங்கி வாழ்ந்தேன் – நான்<br/>ஏக்கத்தோடு வாழ்ந்தேன் - 2<br/>அன்புக்காக ஏங்கியே அலைந்தேனையா - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>இயேசுவே நான் உம்மிடத்தில் வந்ததாலே<br/>உண்மையான அன்பை நான் கண்டேனையா - 2<br/>தூக்கித் தூக்கி சுமந்தீர் (என்னை)<br/>தாங்கியே நடத்தினீர் - 2<br/>உள்ளமெல்லாம் அன்பினாலே பொங்குதையா - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>அன்புக்காக ஏங்குகின்ற உள்ளங்களை<br/>உம்மிடத்தில் சேர்க்கவே உயிர் வாழ்கின்றேன் - 2<br/>ஓடி ஓடி உழைப்பேன் (நான்)<br/>உந்தன் அன்பை சொல்வேன் - 2<br/>ஊரெல்லாம் உம் நாமம் சொல்வேனையா - 2</lines>
+    </verse>
+  </lyrics>
+</song>

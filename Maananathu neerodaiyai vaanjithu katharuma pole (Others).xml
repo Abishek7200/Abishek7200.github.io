@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Maananathu neerodaiyai vaanjithu katharuma pole</title>
+      <title>Maananathu neerodaiyai vaanjithu katharuma pole</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மானானது நீரோடையை<br/>வாஞ்சித்து கதறுமா போல<br/>தேவனே என் ஆத்துமா உன்மேல்<br/>வாஞ்சித்து கதறிடுதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>மானானது நீரோடையை - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உன் தேவன் எங்கே என சத்துருக்கள் கேட்டதினால் -2<br/>என் கண்ணீரே எனக்கு உணவாயிற்றே -2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என் ஆத்துமாவே நீ ஏன்<br/>உனக்குள் கலங்குகிறாய்<br/>இரட்சிப்பின் தேவன் உனக்கில்லையோ</lines>
+    </verse>
+  </lyrics>
+</song>

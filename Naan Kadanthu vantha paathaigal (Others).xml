@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naan Kadanthu vantha paathaigal</title>
+      <title>Naan Kadanthu vantha paathaigal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நான் கடந்து வந்த பாதைகள் கரடு மேடுகள்<br/>நான் நடந்து வந்த பாதைகள் முட்கள் வேலிகள்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>நடத்தி வந்திங்க - இயேசுவே<br/>தாங்கி கொண்டீங்க கரத்தில் ஏந்தி கொண்டிங்க </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என் சுய பெலத்தால் ஓடிப் பார்த்தேன் ஓட முடியல <br/>என் மன பெலத்தால் நடந்து பார்த்தேன் நடக்க முடியல<br/>என் தோள் பெலத்தால் சுமந்து பார்த்தேன் சுமக்க முடியல <br/>என் கால் பெலத்தால் கடந்து பார்த்தேன் கடக்க முடியல --- நடக்க</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>என் ஆள் பெலத்தால் ஆளப் பார்த்தேன் ஆள முடியல <br/>என் பண பெலத்தால் படைக்கப் பார்த்தேன் படைக்க முடியல<br/>என் சொல் பலத்தால் சாதிக்கப் பார்த்தேன் ஒன்றும் முடியல<br/>என் வாய் பெலத்தால் வாழ பார்த்தேன் வாழ முடியல --- நடக்க</lines>
+    </verse>
+  </lyrics>
+</song>

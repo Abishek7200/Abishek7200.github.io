@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-07T13:53:54">
+  <properties>
+    <titles>
+      <title>Manukulatha kaaka vantha</title>
+      <title>Manukulatha kaaka vantha</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>மனுகுலத காக்க வந்த மகா ராஜனே<br/>இந்த மானிடன் மேல் அன்பு வச்சா மகா தேவனே</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>எந்தன் பாவங்களை போக்க வந்தவரே<br/>எங்கள ரட்சித்து மீட்க வந்தீரே<br/>உங்க அன்பை எண்ணியே <br/>நாங்க நன்றி சொல்லுவோம்<br/>உங்க அளவில்லா கிருபைக்காய் <br/>துதித்து பாடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>மகிமையின் தேவன் நீர் தானே<br/>அந்த மகிமையை எங்களுக்காய் துறந்தீரே<br/>மாட்டு தொழுவத்துல பிறந்தீரே<br/>எங்க மனசுல குடியேற வந்தீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>உங்க அன்புக்கு ஈடாக என்ன கொடுபோம்<br/>நீங்க சொல்லும் வார்த்தையை <br/>கேட்டு நாங்க நடப்போம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>பாவ இருள் இங்க பயந்து போகுதே<br/>எங்க மெய்யான ஒளியை பாத்து ஓடி போகுதே<br/>பரிசுத்த தேவன் இங்கு பிறந்து விட்டீரே<br/>எங்கள பரிசுத்தமாக்கவே வந்து விட்டீரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>உங்க அன்பை எண்ணியே <br/>நாங்க நன்றி சொல்லுவோம்<br/>உங்க அளவில்லா கிருபைக்காய் <br/>துதித்து பாடுவோம்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:31">
+  <properties>
+    <titles>
+      <title>Nandri solli ummai paada vanthom</title>
+      <title>Nandri solli ummai paada vanthom</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v1 v2 v4 v1 v2 v5 v1 v2 v6 v1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நன்றி சொல்லி உம்மை பாட வந்தோம்<br/>உம் காருண்யத்தை எண்ணி போற்ற வந்தோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>வார்த்தையினால் நீர் சொன்னதெல்லாம்<br/>கரங்களினால் இன்று நிறைவேற்றினீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>நன்றி நன்றி சொல்வோம் உயிர் உள்ளவரை<br/>ஒன்றும் குறையாமல் காத்திடும் நல்லவரை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>காற்றுமில்ல மழையுமில்ல<br/>ஆனாலும் வாய்க்காலை நிரப்பினீரே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>உடன்படிக்கை செய்து நடத்தி வந்தீர்<br/>மாறாமல் எப்போதும் காத்துக் கொண்டீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>கைவிடாமல் விட்டு விலகிடாமல்<br/>நெருங்கின பாதையிலும் கூட வந்தீர்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>வெட்கப்பட்ட தேசத்திலே<br/>கீர்த்தியும் புகழ்ச்சியுமாக்கினீரே</lines>
+    </verse>
+  </lyrics>
+</song>

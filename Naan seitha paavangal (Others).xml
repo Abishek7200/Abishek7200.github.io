@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naan seitha paavangal</title>
+      <title>Naan seitha paavangal</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நான் செய்த பாவங்கள்<br/>என் கண்கள் முன்னே நின்றாடுதே என் தேவனே<br/>மன்னியும் இயேசய்யா - 4</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>சாவோடு நான் செய்த உடன்படிக்கை<br/>சத்துருவாய் எனை மாற்றியதோ<br/>சஞ்சலங்கள் சங்கடங்கள் - 2<br/>திறட்டிட மிறட்டிட உருட்டிட </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>மரணத்தின் வாசலை நெருங்குகிறேன்<br/>மரண தாவரம் முறித்தவரே<br/>மரண இருள் பள்லத்திலே - 2<br/>நடந்திட கடந்திட விறைந்திட</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உடைந்து சிதறிய பாத்திரம் நான்<br/>குழைந்து சிதைந்திடும் மண் குடம் நான்<br/>குயவன் கரம் களையத்தை போல்<br/>விளங்கிட சிறந்திட வழிவிடும்</lines>
+    </verse>
+  </lyrics>
+</song>

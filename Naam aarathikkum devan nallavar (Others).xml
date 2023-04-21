@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Naam aarathikkum devan nallavar</title>
+      <title>Naam aarathikkum devan nallavar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நாம் ஆராதிக்கும் தேவன் நல்லவர்<br/>விடுவிக்க வல்லவரே – 2<br/>எரிகின்ற அக்கினிக்கும் ராஜாவிற்கும்<br/>விடுவிக்க வல்லவரே – 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. நம்மை காக்கின்றவர்<br/>தூதரை அனுப்பிடுவார்<br/>அக்கினி ஜுவாலையிலே<br/>அவியாமல் காத்திடுவார்<br/>இடைவிடாமல் ஆராதிப்போம்<br/>நம் வாழ்வில் என்றும் ஜெயமே (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. நம்மை அழைத்தவரோ<br/>கைவிடவே மாட்டார்<br/>கலங்காமல் முன் சென்றிட<br/>கரம் பற்றி நடத்திடுவார்<br/>இடைவிடாமல் ஆராதிப்போம்<br/>நம் வாழ்வில் என்றும் ஜெயமே (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சத்துருவின் கோட்டைகளை<br/>தகர்த்திட உதவி செய்வார்<br/>தயங்காமல் முன்சென்றிட<br/>தாங்கியே நடத்திடுவார்<br/>இடைவிடாமல் ஆராதிப்போம்<br/>நம் வாழ்வில் என்றும் ஜெயமே (2)</lines>
+    </verse>
+  </lyrics>
+</song>

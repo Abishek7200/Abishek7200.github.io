@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T02:48:59">
+  <properties>
+    <titles>
+      <title>Maarave aasai padukiren</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மாறவே ஆசைப்படுகிறேன்<br/>என்னை மாற்றிவிடும்<br/>கருணை நேசரே – 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. என் சிந்தை மாறணும்<br/>என் செயல்கள் மாறணும்<br/>என் பேச்சு மாறணும்<br/>என் பெருமை மாறணும்<br/>– மாறவே ஆசை</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. என் நடை மாறணும்<br/>என் உடை மாறணும்<br/>என் உள்ளம் மாறணும்<br/>ஐயா உம்மை போலவே<br/>– மாறவே ஆசை</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. என் ஜெபம் மாறணும்<br/>என் துதி மாறணும்<br/>என் சுயம் சாகணும்<br/>ஐயா உம்மை போலவே<br/>– மாறவே ஆசை</lines>
+    </verse>
+  </lyrics>
+</song>

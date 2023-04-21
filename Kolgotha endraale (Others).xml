@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Kolgotha endraale</title>
+      <title>Kolgotha endraale</title>
+    </titles>
+    <verseOrder>c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கொல்கொதா என்றாலே கொலை நடுங்குது<br/>மனம் குமுறுது மெய் சிலிர்த்திடுது -3</lines>
+    </verse>
+    <verse name="v1">
+      <lines>எப்படி தான் மனித கரங்கள்<br/>புனித தலையினை கொட்ட துனிந்ததோ<br/>அப்படியே அவர் கன்னத்தில் அரைய<br/>எப்படி தான் பாவ கரங்கள் எழுந்ததோ<br/>அய்யோ கதறுகின்றாரே அவர்கள் கன்னங்கள் சிவந்திடவே</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Kuppaiyaana Ennai Goburathil</title>
+      <title>Kuppaiyaana Ennai Goburathil</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>குப்பையான என்னை கோபுரத்தில் வைத்தீரே<br/>உதவாத என்னை உமக்காய் தெரிந்தீரே<br/>நீங்கதான் எல்லாம் இயேசப்பா<br/>என் இயேசப்பா<br/>உம்மை விட யாருமில்லப்பா</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. கலங்கின எனக்கு ஆறுதல் அளித்தீரே<br/>கண்ணீரில் எனக்கு கிருபை தந்தீரே<br/>சோர்ந்துப் போய் இருந்தேனப்பா<br/>என் இயேசப்பா<br/>சோகங்கள் தீர்த்தீரப்பா</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. தனிமையில் எனக்கு துணையாய் நீன்றீரே<br/>ஆனாதை எனக்கு அடைக்கலம் தந்தீரே<br/>தாகத்தால் தவித்தேனப்பா<br/>என் இயேசப்பா<br/>ஜீவ தண்ணீர் தந்தீரப்பா</lines>
+    </verse>
+  </lyrics>
+</song>

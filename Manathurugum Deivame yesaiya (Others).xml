@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Manathurugum Deivame yesaiya</title>
+      <title>Manathurugum Deivame yesaiya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 c1 v6 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>மனதுருகும் தெய்வமே இயேசையா<br/>மனதாரத் துதிப்பேன் ஸ்தோத்தரிப்பேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>நீர் நல்லவர் சர்வ வல்லவர்<br/>உம் இரக்கத்திற்கு முடிவே இல்லை<br/>உம் அன்பிற்கு அளவே இல்லை<br/>அவை காலைதோறும் புதிதாயிருக்கும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. மெய்யாக எங்களது<br/>பாடுகளை ஏற்றுக் கொண்டு<br/>துக்கங்களை சுமந்து கொண்டீர் – ஐயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. எங்களுக்கு சமாதானம்<br/>உண்டுபண்ணும் தண்டனையோ<br/>உம்மேலே விழுந்ததையா – ஐயா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. சாபமான முள்முடியை<br/>தலைமேலே சுமந்து கொண்டு<br/>சிலுவையிலே வெற்றி சிறந்தீர் – ஐயா</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. எங்களது மீறுதலால்<br/>காயப்பட்டீர் நொறுக்கப்பட்டீர்<br/>தழும்புகளால் சுகமானோம் – உந்தன்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. தேடிவந்த மனிதர்களின்<br/>தேவைகளை அறிந்தவராய்<br/>தினம் தினம் அற்புதம் செய்தீர் – ஐயா</lines>
+    </verse>
+  </lyrics>
+</song>

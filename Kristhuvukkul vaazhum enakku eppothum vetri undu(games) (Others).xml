@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-18T08:02:04">
+  <properties>
+    <titles>
+      <title>Kristhuvukkul vaazhum enakku eppothum vetri undu(games)</title>
+      <title>Kristhuvukkul vaazhum enakku eppothum vetri undu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கிறிஸ்துவுக்குள் வாழும் எனக்கு<br/>எப்போதும் வெற்றி உண்டு<br/>வெற்றி உண்டு -3</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. என்னென்ன துன்பம் வந்தாலும்<br/>நான் கலங்கிடவே மாட்டேன்<br/>_____  _____  _______<br/>நான் சோர்ந்து போகமாட்டேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. என் ராஜா முன்னே செல்கிறார்<br/>வெற்றிப் பவனி செல்கிறார்<br/>குருத்தோலை கையில் எடுத்து<br/>நான் ஓசன்னா பாடிடுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சாத்தானின் அதிகாரமெல்லாம்<br/>என் நேசர் பறித்துக் கொண்டார்<br/>சிலுவையில் அறைந்து விட்டார்<br/>காலாலே மிதித்து விட்டார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. பாவங்கள் போக்கிவிட்டார்<br/>சாபங்கள் நீக்கி விட்டார்<br/>இயேசுவின் தழும்புகளால்<br/>சுகமானேன் சுகமானேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. மேகங்கள் நடுவினிலே<br/>என் நேசர் வரப்போகிறார்<br/>கரம்பிடித்து அழைத்துச் செல்வார்<br/>கண்ணீரெல்லாம் துடைப்பார்</lines>
+    </verse>
+  </lyrics>
+</song>

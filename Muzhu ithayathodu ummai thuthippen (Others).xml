@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:30">
+  <properties>
+    <titles>
+      <title>Muzhu ithayathodu ummai thuthippen</title>
+      <title>Muzhu ithayathodu ummai thuthippen</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>முழு இதயத்தோடு உம்மை துதிப்பேன் உன்னதமானவரே<br/>உம் அதிசயங்கள் எல்லாம் எடுத்துரைப்பேன் அதிசயமானவரே </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. உன்னதமானவரே என் உறைவிடம் நீர் தானே<br/>உயர்த்துகிறேன் வாழ்த்துகிறேன்<br/>வணங்குகிறேன் உம்மை போற்றுகிறேன் --- முழு</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. ஒடுக்கப்படுவோர்க்கு அடைக்கலமே<br/>நெருக்கடி வேளையில் புகலிடமே<br/>நெருக்கடி வேளையில் புகலிடமே --- முழு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. நாடி தேடி வரும் மனிதர்களை<br/>தகப்பன் கைவிடுவதே இல்லை<br/>ஒரு போதும் கைவிடுவதே இல்லை --- முழு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. எழுந்தருளும் என் ஆண்டவரே<br/>எதிரி கை ஓங்க விடாதேயும்<br/>எதிரியின் கை ஓங்க விடாதேயும் --- முழு</lines>
+    </verse>
+  </lyrics>
+</song>

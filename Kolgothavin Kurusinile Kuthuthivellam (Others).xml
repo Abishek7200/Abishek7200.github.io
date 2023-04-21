@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Kolgothavin Kurusinile Kuthuthivellam</title>
+      <title>Kolgothavin Kurusinile Kuthuthivellam</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கொல்கதாவின் குருசினிலே<br/>குருதி வெள்ளம் பாய்ந்திடுதே<br/>கள்ளன் என் பாவம் கழுவிடவே – அவர்<br/>கால் கரம் மார்பினில் கசிகின்றதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஈடில்லை இணையுமில்லை<br/>இயேசு என் நேசரைப்போல் எவருமில்லை<br/>உதிரம் வியர்வையாகி மேனியிலே பெருகுதையா<br/>கல்வாரி கொடுமை கண்டு எனது உள்ளம் உருகுதையா<br/>ஏனிந்தபாடுகள் எனக்காய்தானோ – கொல்கொதாவின்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>மகிமையின் தேவன் மனிதர் முன்னே<br/>மனங்கசந்தழுது நின்றார் மா – கொடுமை<br/>வாரடி வாதையாலே வாடி சிதைந்த மேனியது<br/>கல்வாரி பார சிலுவை சுமந்து நடந்த பாதையது<br/>ஏனிந்த பாடுகள் உனக்காய் தானோ – கொள்கொதாவின்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>பரம சுகம் தரும் உதிரம்<br/>ஊற்றென பாய்ந்திடுதே சிலுவையிலே<br/>காளை வெள்ளாட்டு கடா தீர்த்திடாத பாவவினை<br/>கல்வாரி சிலுவை அன்பு நித்திய லோகம் சேர்க்கும் உன்னை<br/>ஏனிந்த பாடுகள் நமக்காய்தானோ</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>அல்லேலூயா அல்லேலூயா அல்லேலூயா அல்லேலூயா [2]</lines>
+    </verse>
+  </lyrics>
+</song>

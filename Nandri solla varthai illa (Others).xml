@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T03:51:41">
+  <properties>
+    <titles>
+      <title>Nandri solla varthai illa</title>
+      <title>Nandri solla varthai illa</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>நன்றி சொல்ல வார்த்தையே இல்ல<br/>அத நினைக்கும்போது<br/>உயிரும் எனக்கு இல்ல</lines>
+    </verse>
+    <verse name="v1">
+      <lines>உம்மைப் போல தெய்வம் இல்ல<br/>உம்மைத் தவிர விருப்பமில்ல<br/>உம்மை விட்டால் கதியும் இல்ல<br/>நீங்க இல்லண்ணா நானும் இல்ல - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. நான் நடக்கும் வழியை<br/>எனக்குக் காட்டியதும் நீரே<br/>என் மீது கண்ணை வைத்து<br/>ஆலோசனை தந்தீரே - 2<br/>என்னை நடக்க வைத்தீரே<br/>கைப்பிடித்துக் கொண்டீரே - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. குப்பையில் இருந்த என்னை<br/>உயர்த்தி வைத்தீரே<br/>ராஜாக்களோடு என்னை அமர செய்தீரே - 2<br/>என்னை உயர்த்தி வைத்தீரே<br/>உயர்த்தி அழகு பார்த்தீரே - 2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. என்னாலே உமக்கு<br/>ஒரு நன்மையும் இல்லையே<br/>ஆனாலும் என்னை எடுத்து பயன்படுத்தினீரே - 2<br/>உங்க நினைவில் வைத்தீரே<br/>உயிருள்ளவரை மறவேன் - 2</lines>
+    </verse>
+  </lyrics>
+</song>

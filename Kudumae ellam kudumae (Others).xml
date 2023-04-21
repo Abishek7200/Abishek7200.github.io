@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Kudumae ellam kudumae</title>
+      <title>Kudumae ellam kudumae</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கூடுமே எல்லாம் கூடுமே<br/>உம்மாலே எல்லாம் கூடும்<br/>கூடாதது ஒன்றுமில்லை உம்மால்<br/>கூடாதது ஒன்றுமில்லை</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. கடல்மீது நடந்தீரையா<br/>கடும்புயல் அடக்கினீரே<br/>சாத்தானை ஒடுக்கினீரே<br/>சர்வ வல்லவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. செங்கடல் உம்மைக் கண்டு<br/>ஓட்டம் பிடித்ததையா<br/>யோர்தான் உம்மைக் கண்டு<br/>பின்னோக்கிச் சென்றதையா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. மரித்து உயிர்த்தீரையா<br/>மரணத்தை ஜெயித்தீரையா<br/>மறுபடி வருவீரையா<br/>உருமாற்றம் தருவீரையா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. உம் நாமம் சொன்னால் போதும்<br/>பேய்கள் ஓடுதையா<br/>உம் பெயரால் கை நீட்டினால்<br/>நோய்கள் மறையுதையா</lines>
+    </verse>
+  </lyrics>
+</song>

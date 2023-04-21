@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:29">
+  <properties>
+    <titles>
+      <title>Karthave thevargalil umakkoppanavar</title>
+      <title>Karthave thevargalil umakkoppanavar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1 v4 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>கர்த்தாவே தேவர்களில் உமக்கொப்பானவர் யார்<br/>வானத்திலும் பூமியிலும் உமக்கொப்பானவர் யார் (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உமக்கொப்பானவர் யார் உமக்கொப்பானவர் யார்<br/>வானத்திலும் பூமியிலும் உமக்கொப்பானவர் யார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. செங்கடலை நீர் பிளந்து<br/>உந்தன் ஜனங்களை நடத்திச் சென்றீர் (2)<br/>நீர் நல்லவர் சர்வ வல்லவர்<br/>என்றும் வாக்கு மாறாதவர் (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. தூதர்கள் உண்ணும் உணவால்<br/>உந்தன் ஜனங்களை போஷித்தீரே (2)<br/>உம்மைப் போல யாருண்டு<br/>இந்த ஜனங்களை நேசித்திட (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. கன்மலையை நீர் பிளந்து<br/>உந்தன் ஜனங்களின் தாகம் தீர்த்தீர் (2)<br/>உம் நாமம் அதிசயம்<br/>இன்றும் அற்புதம் செய்திடுவீர் (2)</lines>
+    </verse>
+  </lyrics>
+</song>
