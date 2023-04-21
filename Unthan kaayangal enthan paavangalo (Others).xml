@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Unthan kaayangal enthan paavangalo</title>
+      <title>Unthan kaayangal enthan paavangalo</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 c1 v3 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உந்தன் காயங்கள் எந்தன் பாவங்களோ<br/>உந்தன் வேதனைகள் எந்தன் மீறுதலோ<br/>எனக்காக உலகில் வந்தவரே<br/>எந்தன் பாவம் போக்க மரித்தவரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உந்தன் அன்பை சொல்ல வார்த்தை இல்லை<br/>உம்மை போல உலகில் யாருமில்லை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>சேற்றில் கிடந்த எனக்காக சாபம் ஆனீரோ<br/>நாற்றம் பிடித்த எனக்காக உம் அழகை துறந்தீரோ<br/>உந்தன் ரத்தம் சிந்தி என் பாவம் கழுவினீர்<br/>உம்மை பலியாய் தந்து என் பாதை மாற்றினீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உந்தன் நேசம் அறியாமல் நான் தூரம் சென்றேனே<br/>உந்தன் பாசம் பிரியாமல் நான் விலகி சென்றேனே<br/>தேடி வந்தீர் என்னையும் வாழ வைத்தீட<br/>எந்தன் பார சிலுவையை நீர் சுமந்திட</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesu periyavar nam yesu</title>
+      <title>Yesu periyavar nam yesu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு பெரியவர் நம் இயேசு பெரியவர்<br/>என்றென்றும் இயேசு பெரியவர்<br/>அவர் ஒருபோதும் கைவிடமாட்டார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1.மனுஷனைப் பார்க்கிலும் இயேசு பெரியவர்<br/>பிரபுக்களைப் பார்க்கிலும் இயேசு பெரியவர்<br/>சேல்வங்களைப் பார்க்கிலும் இயேசு பெரியவர்<br/>பட்டம் பதவி பார்க்கிலும் இயேசு பெரியவர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2.அதிசயங்கள் சேதிடும் இயேசு பெரியவர்<br/>அற்புதங்கள் சேதிடும் இயேசு பெரியவர்<br/>நம்பினோரை வாழவைக்கும் இயேசு பெரியவர்<br/>நம்பிக்கையின் நங்கூரம் இயேசு பெரியவர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3.உனக்குள்ளே இருக்கின்ற இயேசு பெரியவர்<br/>உலகிலுள்ள சாத்தானிலும் இயேசு பெரியவர்<br/>உறங்காமல் காத்திடும் இயேசு பெரியவர்<br/>உன் குறைவை நிறைவாக்கும் இயேசு பெரியவர்</lines>
+    </verse>
+  </lyrics>
+</song>

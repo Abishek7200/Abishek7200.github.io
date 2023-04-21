@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesu neenga irukkayila naanga</title>
+      <title>Yesu neenga irukkayila naanga</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு நீங்க இருக்கையிலே<br/>நாங்க சோர்ந்து போவதில்லை<br/>நீங்க எல்லாமே பார்த்துக் கொள்வீங்க</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. சமாதான காரணர் நீங்கதானே<br/>சர்வ வல்லவரும் நீங்கதானே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. அதிசய தேவன் நீங்கதானே<br/>ஆலோசனைக் கர்த்தர் நீங்கதானே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. தாயும் தகப்பனும் நீங்கதானே<br/>தாங்கும் சுமைதாங்கி நீங்கதானே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. எனக்கு அழகெல்லாம் நீங்கதானே<br/>எனது ஆசையெல்லாம் நீங்கதானே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. இருள் நீக்கும் வெளிச்சம் நீங்கதானே<br/>இரட்சிப்பின் தேவன் நீங்கதானே</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. எல்லாமே எனக்கு நீங்கதானே<br/>எனக்குள் வாழ்பவரும் நீங்கதானே</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>7. முதலும் முடிவும் நீங்கதானே<br/>முற்றிலும் காப்பவர் நீங்கதானே</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>8. வழியும் சத்தியமும் நீங்கதானே<br/>வாழ்வளிக்கும் வள்ளல் நீங்கதானே</lines>
+    </verse>
+    <verse name="v9">
+      <lines><br/>9. பாவ மன்னிப்பு நீங்கதானே<br/>பரிசுத்த ஆவியும் நீங்கதானே</lines>
+    </verse>
+  </lyrics>
+</song>

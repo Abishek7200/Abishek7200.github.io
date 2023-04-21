@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yehova Yire Neer En</title>
+      <title>Yehova Yire Neer En</title>
+    </titles>
+    <verseOrder>c1 v1 v2</verseOrder>
+    <authors>
+      <author type="words">John Jebaraj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. யெகோவாயீரே நீர் என் தேவனாம்<br/>இனி என்னுள்ளில் கலக்கம் இல்லை<br/>ஆராதனை ஆராதனை -4<br/>இனி என்னுள்ளில் கலக்கம் இல்லை<br/>நீர் எல்லாமே பார்த்துக் கொள்வீர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>2. யெகோவா ரஃபா நீர் என் தேவனாம்<br/>நீர் என் நோய்கள் சுமந்து கொண்டீர்<br/>ஆராதனை ஆராதனை -4<br/>நீர் என் நோய்கள் சுமந்து கொண்டீர்<br/>நீர் எந்தன் மருத்துவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>3. யெகோவா ரூவா நீர் என் தேவனாம்<br/>என் தேவைகள் நீர் அறிவீர்<br/>ஆராதனை ஆராதனை -4<br/>என் தேவைகள் நீர் அறிவீர்<br/>நீர் எந்தன் நல் மேய்ப்பரே</lines>
+    </verse>
+  </lyrics>
+</song>

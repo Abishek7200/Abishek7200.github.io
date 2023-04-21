@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-21T02:40:36">
+  <properties>
+    <titles>
+      <title>Yenakku umma vitta</title>
+      <title>Yenakku umma vitta</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>எனக்கு உம்ம விட்டா யாரும் இல்லப்பா<br/>உங்க அன்ப விட்டா எதுவும் இல்லப்பா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என் ஆசை நீங்கப்பா<br/>என் தேவை நீங்கப்பா<br/>என் சொந்தம் நீங்கப்பா<br/>என் சொத்து நீங்கப்பா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>காண்கின்ற எல்லாம் ஓர் நாள் கறைந்து போகுமே<br/>தொடுகின்ற எல்லாம் ஓர் நாள் தொலைந்து போகுமே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>உலகத்தின் செல்வம் எல்லாம் நிலையாய் நிற்குமோ<br/>அழியாத செல்வம் நீரே போதும் இயேசுவே</lines>
+    </verse>
+  </lyrics>
+</song>

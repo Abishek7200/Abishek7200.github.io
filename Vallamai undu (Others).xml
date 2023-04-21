@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-21T02:40:03">
+  <properties>
+    <titles>
+      <title>Vallamai undu</title>
+      <title>Vallamai undu</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>வல்லமை உண்டு உண்டு அற்புத வல்லமை<br/>இயேசுவின் இரத்தத்தில்!<br/>வல்லமை உண்டு உண்டு அற்புத வல்லமை<br/>ஆட்டுக்குட்டியின் இரத்தத்தால்!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>There is power, power, wonder-working power<br/>In the blood of the Lamb<br/>There is power, power, wonder-working power<br/>In the precious blood of the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

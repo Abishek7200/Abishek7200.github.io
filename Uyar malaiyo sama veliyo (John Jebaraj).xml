@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Uyar malaiyo sama veliyo</title>
+      <title>Uyar malaiyo sama veliyo</title>
+    </titles>
+    <authors>
+      <author type="words">John Jebaraj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>எந்தப்பக்கம் வந்தாலும் நீங்க என் கூடாரம்<br/>தீங்கு என்னைஅணுகாது<br/>துர்ச்சனப்பிரவாகம் சூழ்ந்திட நின்றாலும்<br/>துளியும் என்னை நெருங்காது</lines>
+    </verse>
+    <verse name="v1b">
+      <lines><br/>சிறு வெள்ளாட்டு கிடை போல் கிடந்தேன்<br/>உம் நிழலில் என் தஞ்சம் கொண்டேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உயர் மலையோ சம வெளியோ<br/>இரண்டிலும் நீரே என் தேவன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>எந்த நிலையிலும் ஆராதித்திடுவேன்<br/>என் இயேசுவை முழு மனதோடு ஆராதித்திடுவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>ஏற்றமாய் தோன்றும் பாதைகளிலெல்லாம் பின்னிலே தாங்கிடும் உள்ளங்கை அழகு</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>சருக்கலாய் தோன்றும் பாதைகளிலெல்லாம் பின்னலாய் தாங்கிடும் உம் விரல்கள் அழகு</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>நான் எந்த நிலை என்றாலும் என்னை விட்டு போகாமல் நிற்பதல்லோ உம் அழகு<br/>விட்டு கொடுக்காத பேரழகு<br/>உயர் மலையோ</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>உலகத்தின் கண்ணில் பெரும்பான்மை என்றால் அதிகம்பேர் நிற்பதே அவர் சொல்லும் கணக்கு</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>அப்பா உம் கண்ணில் தனிமனிதனாயினும்<br/>நீர் துணை நிற்பதால் பெரும்பான்மை எனக்கு</lines>
+    </verse>
+    <verse name="v9">
+      <lines><br/>அட ஊர் என்ன சொன்னாலும் பார்<br/>எதிர் நின்னாலும் பிள்ளையல்லோ நான் உமக்கு<br/>நிகர் இல்லாத தகப்பனுக்கு<br/>உயர் மலையோ</lines>
+    </verse>
+  </lyrics>
+</song>

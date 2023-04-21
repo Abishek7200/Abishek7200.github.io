@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesu Raaja Vanthurukkiraar ellorum</title>
+      <title>Yesu Raaja Vanthurukkiraar ellorum</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1 c1 v3 v1 c1 v4 v1 c1 v5 v1 v6 v1 v7 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு ராஜா வந்திருக்கிறார்<br/>எல்லோரும் கொண்டாடுவோம்<br/>கைதட்டி நாம் பாடுவோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>கொண்டாடுவோம் கொண்டாடுவோம்<br/>கவலைகள் மறந்து நாம் பாடுவோம்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கூப்பிடு நீ பதில் கொடுப்பார்<br/>குறைகலேல்லாம் நிறைவாக்குவார்<br/>உண்மையாக தேடுவோரின்<br/>உள்ளத்தில் வந்திடுவார் – கொண்டாடுவோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>மனதுருக்கம் உடையவரே<br/>மன்னிப்பதில் வள்ளலவர்<br/>உன் நினைவாய் இருக்கின்றார்<br/>ஓடிவா என் மகனே (ளே)</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>கண்ணீரெல்லாம் துடைத்திடுவார்<br/>கரம் பிடித்து நடத்திடுவார்<br/>என்னாமெல்லாம் ஏக்கமெல்லாம்<br/>இன்றே நிறைவேற்றுவார்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>நோய்களெல்லாம் நீக்கிடுவார்<br/>நொடிப்பொழுதே சுகம் தருவார்<br/>பேய்களேல்லாம் நடுநடுங்கும்<br/>பெரியவர் திரு முன்னே – நம்ம</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>பாவமெல்லாம் போக்கிடுவார்<br/>பயங்கலேல்லாம் நீக்கிடுவார்<br/>ஆவியினால் நிரப்பிடுவார்<br/>அதிசயம் செய்திடுவார்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>கசையடிகள் உனக்காக<br/>காயமெல்லாம் உனக்காக<br/>திரு இரத்தம் உனக்காக<br/>திருந்திடு என் மகனே</lines>
+    </verse>
+  </lyrics>
+</song>

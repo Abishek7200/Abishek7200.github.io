@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yeno yeno yen indha</title>
+      <title>Yeno yeno yen indha</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 v5 v2 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஏனோ ஏனோ<br/>ஏன் இந்த முழுவல் (முழுமையான காதல்)?</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அசத்தனாம் (பெலவீனன்) என் மேல்<br/>ஆசத்தி (விருப்பம்) கொண்ட<br/>அசத்துரு (நண்பன்) உம் போல எவருமில்லை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>ஏனோ ஏனிந்த அசலை (அசைக்கப்பட முடியாத) அன்பு<br/>ஏனோ என் மீது சிலுவை அன்பு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>தவறுகள் கொண்டேன்<br/>நசினைகள் (பழுதுகள்) கொண்டேன்<br/>ஆனாலும் சிலுவையின் தலையளி (மன்னிக்கும் அன்பு) கண்டேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>அசடம் (உதவாதவன்) என்றே<br/>அசட்டை (ஒதுக்கப்படுதல்) கண்டேன்<br/>அசரா (தடுக்க முடியாத) உன் அசரங்கள் (அகிலத்தை தாங்கும் கரம்) தாங்க கண்டேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>நான் என்ன செய்தேன் என்று கேட்கும் உலகில்<br/>எனக்காக செய்திட்ட அன்பை கண்டேன் <br/>தணியா (தணிந்து போகாத) ஒரு தகப்பனின் தட்பம் (தகப்பனின் அன்பு) கண்டேன்</lines>
+    </verse>
+  </lyrics>
+</song>

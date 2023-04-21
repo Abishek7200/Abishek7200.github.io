@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-31T10:49:48">
+  <properties>
+    <titles>
+      <title>Varushathai Nanmaiyaal Mudisootum</title>
+      <title>Varushathai Nanmaiyaal Mudisootum</title>
+    </titles>
+    <verseOrder>c1 c2 c1 v2 c2 c1 v3 c2 c1 v4 c2 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>வருஷத்தை நன்மையால் முடிசூட்டும் தேவனே<br/>பாதைகள் எல்லாம் நெய்யாய் பொழியும் தேவனே</lines>
+    </verse>
+    <verse name="c2">
+      <lines>வனாந்திர தாபரங்களில் பொழியுது<br/>மேடுகள் பூரிப்பாக்குது<br/>பள்ளத்தாக்கு தானியத்தால் நிறம்புது<br/>என் உள்ளம் மகிழ்ந்து பாடுது</lines>
+    </verse>
+    <verse name="v2">
+      <lines>உம்முடைய வீட்டில் வாசமாய் இருப்போர் பாக்கியவான்களே<br/>உன்னதரின் மறைவில் வல்லவரின் நிழலில் வாழ்ந்து சுகிப்பாரே<br/>கர்த்தர் எந்தன் மேய்ப்பர் தாழ்ச்சி என்றும் இல்லையே<br/>நன்மை கிருபை தொடரும் என் வாழ்நாள் எல்லாமே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>வனாந்தரம் வறண்ட நிலம் மகிழ்ந்து பாடும் எல்லா வறட்சி மாறுதே<br/>வருமை மாறும் எல்லா வளமும் பெருகும் வாதை நோயும் மறையுதே<br/>தண்ணீரையும் கடந்தோம் மூழ்கி போகவில்லையே<br/>அக்கினியில் நடந்தோம் எறிந்து போகவில்லையே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>கன்மலை வெடிப்பில் வைத்து கரத்தால் மூடி கண்மணி போல் காத்தீரே<br/>கால்கள் இடறாமல் கருணை வைத்து தூக்கி தோளில் சுமந்தீரே<br/>துதியின் ஆடை தந்து உம்மை துதிக்க வைத்தீரே<br/>சாக்கு ஆடை நீக்கி சந்தோஷம் தந்தீரே</lines>
+    </verse>
+  </lyrics>
+</song>

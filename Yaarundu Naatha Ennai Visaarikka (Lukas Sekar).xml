@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yaarundu Naatha Ennai Visaarikka</title>
+      <title>Yaarundu Naatha Ennai Visaarikka</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Lukas Sekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>யாருண்டு நாதா என்னை விசாரிக்க<br/>உறவுகள் இல்லையே<br/>நீரின்றி யாருண்டு நாதா<br/>நீரே என் தஞ்சமல்லோ</lines>
+    </verse>
+    <verse name="v1">
+      <lines>தனிமையில் கதறிய<br/>ஆகாரின் குரலைக் கேட்டீர்<br/>மனம் கசந்து கலங்கி நின்ற<br/>அன்னாளின் ஜெபத்தை கேட்டீர்<br/>நீரே நல்ல மேய்ப்பன்<br/>வேண்டுதல் கேட்பவரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>கண்ணீரின் பாதையிலே<br/>நடந்திடும் வேளையிலே<br/>கரம் பிடித்தீர் எனை அணைத்தீர்<br/>தேற்றுதே உம் கரமே<br/>நீரே நல்ல சமாரியனே<br/>என்னைத் தேற்றிடுவீர்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>அடைக்கலம் தேடி வந்தேன்<br/>உம் சிறகால் என்னை மூடும்<br/>கொள்ளை நோய்க்கும் பொல்லாப்புக்கும்<br/>விலக்கி காருமையா<br/>பாரத்தை உம் மேல் வைத்து<br/>விட்டேன் நீரே ஆதரித்தீர்</lines>
+    </verse>
+  </lyrics>
+</song>

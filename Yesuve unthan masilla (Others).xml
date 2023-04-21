@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:39">
+  <properties>
+    <titles>
+      <title>Yesuve unthan masilla</title>
+      <title>Yesuve unthan masilla</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசுவே உந்தன் மாசில்லா இரத்தம்<br/>எந்தனுக்காக சீந்தினீரே -2<br/>கோரப்பாடுகள் யாவும் சகித்தீர்<br/>அத்தனையும் எனக்காகவோ</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>மா பாவியாம் என்னை நினைக்க<br/>மண்ணான நான் எம்மாத்திரம் ஐயா<br/>தேவ தூதரிலும் மகிபனாய்<br/>என்னை மாற்றின அன்பைத் துதிப்பேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>என் மேல் பாராட்டின உமதன்புக்<br/>கீடாய் என்ன நான் செய்திடுவேன்<br/>நரகாக்கினையில் நின்று மீட்ட<br/>சுத்த கிருபையை நித்தம் பாடுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>எந்தன் பாவங்கள் பாரச்சுமை போல<br/>தாங்கக்கூடாத மா பாரம்<br/>மன்னிக்கும் தயை பெருத்த என் தேவா<br/>மன்னித்தும் மறந்தும் தள்ளனீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>எந்தன் பாதங்கள் சறுக்கிடும்போது<br/>வலக்கரத்தாலே தாங்குகின்றீர்<br/>மனபாரத்தால் சோர்ந்திடும்போது<br/>ஜீவ வார்த்தையால் தேற்றிகின்றீர்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>எனக்காக நீர் யாவும் முடித்தீர்<br/>உமக்காக நான் என்ன செய்வேன்<br/>எந்தன் ஜீவனுள்ள நாளெல்லாம் உம்<br/>சிலுவை சுமந்து வருவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

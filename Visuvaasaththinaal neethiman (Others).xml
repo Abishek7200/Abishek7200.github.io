@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Visuvaasaththinaal neethiman</title>
+      <title>Visuvaasaththinaal neethiman</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>விசுவாசத்தினால் நீதிமான் பிழைப்பான்<br/>விசுவாசியே பதறாதே<br/>கலங்காதே திகையாதே விசுவாசியே<br/>கல்வாரி நாயகன் கைவிடாரே</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>1. தந்தை தாயென்னை வெறுத்திட்டாலும்<br/>பந்த பாசங்கள் அறுந்திட்டாலும்<br/>நிந்தை தாங்கிட்ட தேவன் நம்மை<br/>சொந்த கரங்களால் அணைத்துக் கொள்வார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. பிறர்வசை கூறி துன்புறுத்தி<br/>இல்லாதது சொல்லும்போது<br/>நீ மகிழ்ந்து களிகூரு<br/>விண் கைமாறு மிகுதியாகும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. கொடும் வறுமையில் உழன்றாலும்<br/>கடும் பசியினில் வாடினாலும்<br/>அன்று எலியாவை போஷித்தவர்<br/>இன்று உன் பசி ஆற்றிடாரோ</lines>
+    </verse>
+  </lyrics>
+</song>

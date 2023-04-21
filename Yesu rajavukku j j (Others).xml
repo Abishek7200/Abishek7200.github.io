@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-31T20:06:01">
+  <properties>
+    <titles>
+      <title>Yesu rajavukku j j</title>
+      <title>Yesu rajavukku j j</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>இயேசு ராஜாவுக்கு ஜே ஜே – எங்கள்<br/>இயேசு ராஜாவுக்கு ஜே ஜே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. இகமதில் வாழ்பவர் அல்லேலுயா<br/>அகமதில் வாழ்பவர் அல்லேலுயா<br/>சுகமது தருபவர் அல்லேலுயா<br/>பரலோகம் சேர்ப்பார் அல்லேலுயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. சத்தியபரன் அவர் அல்லேலுயா<br/>சந்தோஷம் தருவார் அல்லேலுயா<br/>மன்னாதி மன்னன் அல்லேலுயா<br/>மகிமையில் சேர்த்திடுவார அல்லேலுயா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. சாத்தனை வீழ்த்தியவர் அல்லேலுயா<br/>சாவினை ஜெயித்தார் அல்லேலுயா<br/>சீக்கரம் வந்திடுவார் அல்லேலுயா<br/>சீயோனில் சேர்த்திடுவார் அல்லேலுயா</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. கண்ணீரைத் துடைத்திடுவார் அல்லேலுயா<br/>கவலைகள் போக்கிடுவார் அல்லேலுயா<br/>கலக்கங்கள் மாற்றிடுவார் அல்லேலுயா<br/>கானானில் சேர்த்திடுவார் அல்லேலுயா</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. பாவத்தைப் போக்கிடுவார் அல்லேலுயா<br/>பரிசுத்தமாக்கிடுவார் அல்லேலுயா<br/>இரத்தத்தால் கழுவிடுவார் அல்லேலுயா<br/>இரட்சிப்பை அளித்திடுவார் அல்லேலுயா</lines>
+    </verse>
+  </lyrics>
+</song>

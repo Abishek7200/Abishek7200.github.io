@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesuve neer nallavar</title>
+      <title>Yesuve neer nallavar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசுவே நீர் நல்லவர் (2)<br/>உடைக்கப்பட்ட நேரங்களில்<br/>துணையாக நின்றீர்<br/>எனக்கு நல்லவராய் (2)<br/>ரொம்ப நல்லவராய் இருப்பவரே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>எப்படி நான் நன்றி உமக்கு சொல்லுவேன்<br/>செய்த நன்மைகள் ஏராளமே - இயேசுவே<br/>இரட்சிப்பின் பாத்திரத்தை எடுத்துக் கொண்டு<br/>ஓயாமல் முத்தம் செய்கிறேன் </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>இயேசுவே நீர் நல்லவர் (2)<br/>உடைக்கப்பட்ட நேரங்களில்<br/>துணையாக நின்றீர்<br/>எனக்கு நல்லவராய் (2)<br/>ரொம்ப நல்லவராய் இருப்பவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>எப்படி நான் நன்றி உமக்கு சொல்லுவேன்<br/>செய்த நன்மைகள் ஏராளமே - இயேசுவே<br/>இரட்சிப்பின் பாத்திரத்தை எடுத்துக் கொண்டு<br/>ஓயாமல் முத்தம் செய்கிறேன் </lines>
+    </verse>
+  </lyrics>
+</song>

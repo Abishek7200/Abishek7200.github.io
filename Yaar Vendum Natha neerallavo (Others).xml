@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yaar Vendum Natha neerallavo</title>
+      <title>Yaar Vendum Natha neerallavo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>யார் வேண்டும் நாதா நீரல்லவோ<br/>எது வேண்டும் நாதா உம் அன்பல்லவோ<br/>பாழாகும் லோகம் வேண்டாமையா<br/>வீணான வாழ்க்கை வெறுத்தேனையா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. உலகத்தின் செல்வம்நிலையாகுமோ<br/>பேர் புகழ் கல்வி அழியாததோ<br/>பின் ஏன் நீர் கேட்டீர் இக்கேள்வியை<br/>பதில் என்ன சொல்வேன் நீரே போதும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. சிற்றின்ப மோகம் சீக்கிரம் போகும்<br/>பேரின்ப நாதா நீர் போதாதா<br/>யார் வேண்டும் என்று ஏன் கேட்டீரோ<br/>எங்கே நான் போவேன் உம்மையல்லால்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. என்னைத் தள்ளினால் நான் எங்கே போவேன்<br/>அடைக்கலம் ஏது உம்மையல்லால்<br/>கல்வாரி இன்றி கதியில்லையே<br/>கர்த்தர் நின்பாதம் சரணடைந்தேன்</lines>
+    </verse>
+  </lyrics>
+</song>

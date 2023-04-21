@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Vaazhve Neerthanayya</title>
+      <title>Vaazhve Neerthanayya</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 v2 c1 v3 c1 c2 c1</verseOrder>
+    <authors>
+      <author type="words">Lukas Sekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>வாழ்வே நீர் தானையா <br/>வாழ்வே நீர் தானையா (என்)</lines>
+    </verse>
+    <verse name="c2">
+      <lines>என் இயேசுவே என் ஜீவனே<br/>என் ஜீவனின் பெலனும் ஆனவர்<br/>என் வாழ்க்கையின் ஒளி விளக்கே<br/>நீர் போதுமே என் வாழ்விலே<br/>வாழ்வே நீர்தானையா - 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>நீர் மாத்ரம் இல்லையென்றால்<br/>மனிதர்கள் உயிரோடு விழுங்கிருப்பார்கள்<br/>நிற்பதுமே நிலைப்பதுமே<br/>கிருபையினால் தான் வாழ்கின்றேனே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. நன்கு திசையில் அலைந்தேன் திரிந்தேன்<br/>ஆறுதல் சொல்ல யாருமில்லை<br/>உன்னதமானவர் மறைவினில் வந்தேன்<br/>நிம்மதி நிம்மதி அடைகின்றேனே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. மாறிப்போகும் உலகினிலே<br/>மாறாத தெய்வம் நீர் தானே ஐயா<br/>கிருபையின் மேலே கிருபையை தந்து<br/>நிர்மூலமாகாமல் காத்தீரையா</lines>
+    </verse>
+  </lyrics>
+</song>

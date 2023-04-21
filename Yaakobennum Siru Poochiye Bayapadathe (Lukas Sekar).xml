@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Yaakobennum Siru Poochiye Bayapadathe</title>
+      <title>Yaakobennum Siru Poochiye Bayapadathe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Lukas Sekar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>யாக்கோபென்னும் சிறுபூச்சியே<br/>பயப்படாதே நான் துணை நிற்கிறேன்<br/>இஸ்ரவேலின் சிறுகூட்டமே பயப்படாதே<br/>நான் துணை நிற்கிறேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>என் யாக்கோபே என் யாக்கோபே<br/>பயப்படாதே நான் துணை நிற்கிறேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உனது கூடாரம் அழகாய் மாற்றிடுவேன்<br/>நீ பரவிப் போகின்ற ஆறாய் மாற்றிடுவேன்<br/>உன்னை வாசனை வீசும்<br/>சந்தன மரமாய் நாட்டுவேன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உனது முகம் இனி வெட்கம் ஆவதில்லை<br/>உனது முகம் இனி செத்துப்போவதில்லை<br/>நீ என்னால் என்றும் மறக்கப்படுவதில்லை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>உனது வேரை பரவச் செய்திடுவேன்<br/>நீ பூத்து காய்த்து பூமியை நிரப்பிடுவாய்<br/>உன் தூளை எண்ணத்தக்கவர் யாருண்டு</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>உனக்கு எதிரான மந்திரமில்லையே<br/>உனக்கு எதிரான குறியும் சொல்வதில்லை<br/>நீ துஷ்ட சிங்கமாய் எழும்பி நிற்பாய்</lines>
+    </verse>
+  </lyrics>
+</song>

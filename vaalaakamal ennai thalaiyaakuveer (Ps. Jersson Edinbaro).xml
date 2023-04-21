@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>vaalaakamal ennai thalaiyaakuveer</title>
+      <title>aaleluya thuthi umake</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v1 c1 v3 c1 v1 c1</verseOrder>
+    <authors>
+      <author type="words">Ps. Jersson Edinbaro</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>அல்லேலூயா துதி உமக்கே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>வாலாக்காமல் என்னை தலையாக்குவீர்<br/>கீழாக்காமல் என்னை மேலாக்குவீர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>அரக்கன் கோலியாத்தை அழிக்கும் வல்லமையை<br/>சிறிய தாவிதுக்குள் வைத்தவரே<br/>ஆடுகள் மேய்த்தவனை ஜாதிகள் மத்தியிலே<br/>உயர்த்தி தூக்கினீரே மேலே மேலே மேலே மேலே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>கை நீட்டி தூக்கிவிட்டீர் உயர்த்தில் என்னை வைத்தீர்<br/>பிள்ளையாய் மாற்றிவிட்டீர் நிரந்தரமாய்<br/>தூசியை தட்டிவிட்டீர் சாம்பலை போக்கிவிட்டீர்<br/>சிங்காரம் தந்துவிட்டீர் நிரந்தரமாய்</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesu kristuvin anbu endrenrum</title>
+      <title>Yesu kristuvin anbu endrenrum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு கிறிஸ்துவின் அன்பு<br/>என்றும் மாறாதது இயேசு கிறிஸ்துவின்<br/>மாறா கிருபை என்றும் குறையாதது</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பாவி என்றுன்னை அவர்<br/>தள்ளவே மாட்டார் - ஆவலாய் உன்னை<br/>இயேசு அழைக்கிறாரே<br/>தயங்கிடாதே தாவி ஓடிவா - தந்தை<br/>இயேசுவின் சொந்தம் கொள்ள வா - 2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. உன் மீறுதலுக்காய்<br/>இயேசு காயங்கள் பட்டார்<br/>உன் அக்கிரமங்களுக்காய்<br/>இயேசு நொறுக்கப்பட்டார்<br/>உனக்காகவே அடிகள் பட்டார் - உன்னை<br/>உயர்த்த தன்னைத் தாழ்த்தினார் - 2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. கள்ளர் மத்தியில் ஒரு கள்ளனைப் போல<br/>குற்றமற்ற கிறிஸ்தேசு தொங்கினாரே<br/>பார் உனக்காய் அவர் கரங்கள்<br/>பாரசிலுவை சுமந்தேகுதே - 2</lines>
+    </verse>
+  </lyrics>
+</song>

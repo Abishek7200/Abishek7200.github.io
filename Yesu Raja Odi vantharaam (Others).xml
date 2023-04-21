@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-24T05:52:54">
+  <properties>
+    <titles>
+      <title>Yesu Raja Odi vantharaam</title>
+      <title>Yesu Raja Odi vantharaam</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு ராஜா ஓடி வந்தாராம்<br/>நம் ஏழைகள தேடி வந்தாராம்<br/>நாட்டுபுற மேட்டுல மாட்டு கொட்டா வீட்டுல<br/>பாலகனா பொறந்துபுட்டாராம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>ஊருலேதான் யாரும் இல்லேங்க<br/>அந்த ஏறி பக்கம் ஆடு மாடுங்க<br/>சின்ன புள்ள பாருங்க<br/>இயேசுநாதர் பேருங்க<br/>அருள வாரி வழங்குவாருங்க - ஐயா</lines>
+    </verse>
+    <verse name="v2">
+      <lines>இம்மையிலே கஷ்டம் உண்டுங்க<br/>அத நெனச்சி நெனச்சி கவல வேண்டாங்க<br/>உள்ளதயே உள்ளபடி அவர்கிட்ட சொல்லிடுங்க<br/>ஆயுசுக்கும் அமைதிதானுங்க - ஐயா</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Varuvai tharunam ithuvae azhaikirare</title>
+      <title>Varuvai tharunam ithuvae azhaikirare</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>வருவாய் தருணமிதுவே அழைக்கிறாரே<br/>வல்ல ஆண்டவர் இயேசுவண்டை</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>வாழ் நாளையெல்லாம் வீண் நாளாய்<br/>வருத்தத்தோடே கழிப்பது ஏன் <br/>வந்தவர் பாதம் சரணடைந்தால்<br/>வாழ்வித்து உன்னைச் சேர்த்துக் கொள்வார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>கட்டின வீடும் நிலம் பொருளும்<br/>கண்டிடும் உற்றார் உறவினரும்<br/>கூடுவீட்டு உன் ஆவிபோனால்<br/>கூட உனோடு வருவதில்லை</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>அழகு மாயை நிலைத்திடாதே<br/>அதை நம்பாதே மயக்கிடுமே<br/>மரணம் ஓர்நாள் சந்திக்குமே<br/>மறவாதே உன் ஆண்டவரை</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>வானத்தின் கீழே பூமி மேலே<br/>வானவர் இயேசு நாமமல்லால்<br/>இரட்சிப்படைய வழியில்லையே<br/>இரட்சகர் இயேசு வழி அவரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>தீராத பாவம் வியாதியையும்<br/>மாறாத உந்தன் பெலவீனமும்<br/>கோரக்குருசில் சுமந்து தீர்த்தார்<br/>காயங்களல் நீ குணமடைய</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>சத்திய வாக்கை நம்பியே வார்<br/>நித்திய ஜீவன் உனக்களிப்பார்<br/>உன் பேரை ஜீவ புஸ்தகத்தில்<br/>உண்மையாய் இன்று எழுதிடுவார்</lines>
+    </verse>
+  </lyrics>
+</song>

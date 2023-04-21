@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:39">
+  <properties>
+    <titles>
+      <title>Yutha raaja singam</title>
+      <title>Yutha raaja singam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+    <songbooks>
+      <songbook name="Easter"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>யூதராஜ சிங்கம் உயித்தெழுந்தார்<br/>உயித்தெழுந்தார் நரகை ஜெயித்தெழுந்தார்<br/> </lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>வேதாளக் கணங்கள் ஓடிடவே<br/>ஓடிடவே உருகி வாடிடவே<br/> </lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>வானத்தின் சேனைகள் துதித்திடவே<br/>துத்திடவே பரனைத் துதித்திடவே<br/> </lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>மரணத்தின் சங்கிலிகள் தெறிபட்டன்<br/>தெறிபட்டன் நொடியில் முறிபட்டன<br/> </lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>எழுந்தார் என்ற தொனி எங்கும் கேட்குதே<br/>எங்கும் கேட்குதே பயத்தை என்றும் நீக்குதே<br/> </lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>மாதர் தூதரைக் கண்டமகிழ்ந்தார்<br/>அகமகிழ்ந்தார் பரனை அவர் புகழ்ந்தார்<br/> </lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>பாவத்திற்கென்று ஒரே தரம் மரித்தார்<br/>ஒரே தரம் மரித்தார் ஒரே தரம் மரித்தார் </lines>
+    </verse>
+  </lyrics>
+</song>

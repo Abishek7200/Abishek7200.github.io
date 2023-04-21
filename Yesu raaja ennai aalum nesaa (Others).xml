@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesu raaja ennai aalum nesaa</title>
+      <title>Yesu raaja ennai aalum nesaa</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு ராஜா எனை ஆளும் நேசா - 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. மாசிலா மணி ஆன முச்சுடர் மேசியா அரசே<br/>முனுவேலே மாமறை நூலே<br/>தேவ செங்கோலே<br/>இங்கெனின் மேலே அன்பு செய்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. தாவீ தரசன் மைந்தா<br/>நின் சரணம் சரணம் எந்தா!<br/>சதானந்தா வானந்தா உவந்தாள்<br/>மிக வந்தனம் வந்தனம்!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. ஐயா என் மனம் ஆற்றி<br/>உன தடிமை எந்தனை தேற்றி<br/>குணமாக்கி வினை நீக்கி<br/>கைதூக்கி மெய்ப் பாக்கியம் கொடு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. சுத்த திருத்துவ வஸ்துவே<br/>சுவி சேட மதத்துவ கிறிஸ்துவே<br/>பரிசுத்தனே கரி சித்தெனை - இரட்சித்<br/>தடிமைகொள் நித்தியம் தோத்திரம்!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. மங்களம் ஈசாவே வளம் மிகும்<br/>சங்கையின் ராசாவே - நரர்<br/>வாழ்வே மன்னாவே மெய்த்தேவே<br/>உமக் கோசன்னாவே!</lines>
+    </verse>
+  </lyrics>
+</song>

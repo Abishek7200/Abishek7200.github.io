@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Vaana paraa parane</title>
+      <title>Vaana paraa parane</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>1. வான பராபரனே இப்போ வாரும் எம்மத்தியிலே<br/>வந்து நின் திருக்கரத்தால் எம்மை ஆசீர்வதியுமையா<br/>எல்லா மகிமை கனமும் துதியும் ஏற்றிட வாருமையா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>2. பக்தரின் மறைவிடமே, ஏழை மக்களின் அதிபதியே!<br/>பாதமே கூடும் பாலகர் எமக்கும் பரிசுத்த மீயுமையா<br/>வாக்குமாறா தேவா வாரும் வல்லமையால் நிறைக்க</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>3. கிருபாசனப் பதியே, நின் கிருபையால் நிலைத்திடவே<br/>கஷ்டமதிலும் நஷ்டமதிலும் நின் கருணையால் நின்றிடவே<br/>நின் சக்தியோடும் பக்தியில் யாம் பூரணராகிடவே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>4. தாய் என்னை மறந்தாலும் ஐயா, நீர் மறவாதிருக்க<br/>ஆவியினால் எம் உள்ள மீதினில் அக்கினி பற்றிடவே<br/>யெகோவாவே, எங்களின் ராஜா எழுந்து வாருமையா</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>5. நினைத்திடா தினமதினில் எம் கர்த்தரே வருவீரே<br/>ஆவி ஆத்மா சரீரம் முற்றும் மகிமையில் சேர்த்திடவே<br/>மாசிலாப் பரிசுத்தராக மண்மீது துலங்கிடவே</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>6. வாதை பிணி தீர எம் வாய்த்த மருந்தே நீர்<br/>பாவ சாப ரோக முற்றும் மாற்றிடும் திரு ரத்தமே<br/>கல்வாரி அன்பைப் பெற்றிட நாம் விரைந்து ஏகிடவே<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>7. ஆகாய மேகமீதில் எக்காளம் தொனித்திடவே<br/>அன்பின் தயாளன் ஆனந்த பூமான்வரவே இரண்டாம் முறையே<br/>ஆசையோடு காத்திருந்து ஜெபித்திட வல்லமையாய்</lines>
+    </verse>
+  </lyrics>
+</song>

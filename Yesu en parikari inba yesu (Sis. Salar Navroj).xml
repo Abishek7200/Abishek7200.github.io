@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-01-22T03:14:31">
+  <properties>
+    <titles>
+      <title>Yesu en parikari inba yesu</title>
+      <title>Yesu en parikari inba yesu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு என் பரிகாரி – இன்ப<br/>இயேசு என் பரிகாரி – என்<br/>ஜீவிய நாட்களெல்லாம் – இன்ப<br/>இராஜா என் பரிகாரி</lines>
+    </verse>
+    <verse name="v1">
+      <lines>என்ன துன்பங்கள் வந்தாலும்<br/>என்ன வாதைகள் நேர்ந்தாலும்<br/>என்ன கஷ்டங்கள் சூழ்ந்தாலும் – இன்ப<br/>இராஜா என் பரிகாரி</lines>
+    </verse>
+    <verse name="v2">
+      <lines>சாத்தான் என்னை எதிர்த்தாலும்<br/>சத்துரு என்னை தொடர்ந்தாலும்<br/>சஞ்சலங்கள் வந்தபோது – இன்ப<br/>இராஜா என் பரிகாரி</lines>
+    </verse>
+    <verse name="v3">
+      <lines>பணக் கஷ்டங்கள் வந்தாலும்<br/>மனக்கஷ்டகள் நேர்ந்தாலும்<br/>ஜனம் என்னை வெறுத்தாலும் – இன்ப<br/>இராஜா என் பரிகாரி</lines>
+    </verse>
+    <verse name="v4">
+      <lines>பெரும் வியாதிகள் வந்தாலும்<br/>கடும் தோல்விகள் நேர்ந்தாலும்<br/>பல சோதனை சூழ்ந்தாலும் – இன்ப<br/>இராஜா என் பரிகாரி</lines>
+    </verse>
+    <verse name="v5">
+      <lines>எனக்கென்ன குறை உலகில்<br/>என் இராஜா துனை எனக்கு<br/>என் ஜீவிய நாட்களெல்லாம் – இன்ப<br/>இராஜா என் பரிகாரி</lines>
+    </verse>
+  </lyrics>
+</song>

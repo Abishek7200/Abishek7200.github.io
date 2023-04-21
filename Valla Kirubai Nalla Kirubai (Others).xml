@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Valla Kirubai Nalla Kirubai</title>
+      <title>Valla Kirubai Nalla Kirubai</title>
+    </titles>
+    <verseOrder>c1 c1 c3 v1 c2 c3 v2 c2 c3 v3 c2 c3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>வல்ல கிருபை நல்ல கிருபை<br/>வழுவாமல் காத்த சுத்த கிருபை<br/>அக்கினியில் வேகாமல் காத்த கிருபை<br/>தண்ணீரிலே மூழ்காமல் தாங்கும் கிருபை</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>உம் கிருபை என்னை தாங்கிடுதே<br/>உம் கிருபை என்னை நடத்திடுதே (2)</lines>
+    </verse>
+    <verse name="c3">
+      <lines><br/>அல்லே அல்லே லூயா<br/>அல்லே அல்லே லூயா (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. அக்கினியின் சூளையில் வெந்து வெந்து போகாமல்<br/>கிருபை தாங்கினதே<br/>ஹே முடி கூட கருகாமல்<br/>புகை கூட அணுகாமல்<br/>கிருபை தாங்கினதே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. பலவித சோதனை நெருக்கிய நேரங்கள்<br/>கிருபை தாங்கினதே<br/>என் நெருக்கத்தின் நேரத்தில்<br/>நசுங்கி நான் போகாமல்<br/>கிருபை தாங்கினதே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. வல்ல கிருபை நல்ல கிருபை<br/>வழுவாமல் காத்த சுத்த கிருபை<br/>அக்கினியில் வேகாமல் காத்த கிருபை<br/>தண்ணீரிலே மூழ்காமல் காத்த கிருபை</lines>
+    </verse>
+  </lyrics>
+</song>

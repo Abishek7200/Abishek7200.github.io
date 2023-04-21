@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Vinnapathai Ketpavare en kanneerai</title>
+      <title>Vinnapathai Ketpavare en kanneerai</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>விண்ணப்பத்தைக் கேட்பவரே – என்<br/>கண்ணீரைக் காண்பவரே<br/>சுகம் தருபவரே ஸ்தோத்திரம் இயேசையா</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. உம்மால் கூடும் எல்லாம் கூடும்<br/>ஒரு வார்த்தை சொன்னால் போதும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. மனதுருகி கரம் நீட்டி<br/>அதிசயம் செய்பவரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. சித்தம் உண்டு சுத்தமாகு<br/>என்று சொல்லி சுகமாக்கினீர்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. என் நோய்களை சிலுவையிலே<br/>சுமந்து தீர்த்தீரைய்யா</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. குருடர்களை பார்க்கச் செய்தீர்<br/>முடவர்கள் நடக்கச் செய்தீர்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. உம் காயத்தால் சுகமானேன்<br/>ஒரு கோடி ஸ்தோத்திரம்</lines>
+    </verse>
+  </lyrics>
+</song>

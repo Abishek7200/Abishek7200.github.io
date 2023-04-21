@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-03-19T01:18:38">
+  <properties>
+    <titles>
+      <title>Yesu Endra Thiru naamathirku</title>
+      <title>Yesu Endra Thiru naamathirku</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Sis. Salar Navroj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு என்ற திருநாமத்திற்கு<br/>எப்போதுமே மிகத் தோத்திரம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. வானிலும் பூவிலும் மேலான நாமம்<br/>வல்லமையுள்ள நாமமது<br/>தூயர் சொல்லித் துதித்திடும் நாமமது – இயேசு</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. வேதாளம் பாதாளம் யாவையும் ஜெயித்த<br/>வீரமுள்ள திரு நாமமது<br/>நாமும் வென்றிடுவோம் இந்த நாமத்திலே – இயேசு</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. பாவத்திலே மாலும் பாவியை மீட்கப்<br/>பாரினில் வந்த மெய் நாமமது<br/>பரலோகத்தில் சேர்க்கும் நாமமது – இயேசு</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. உத்தம பக்தர்கள் போற்றித்துதித்திடும்<br/>உன்னத தேவனின் நாமமது<br/>உலகெங்கும் ஜொலித்திடும் நாமமது – இயேசு</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. சஞ்சலம் வருத்தம் சோதனை நேரத்தில்<br/>தாங்கி நடத்திடும் நாமமது<br/>தடைமுற்று மகற்றிடும் நாமமது – இயேசு</lines>
+    </verse>
+  </lyrics>
+</song>

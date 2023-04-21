@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Vathai Unthan Koodarathai anugathu magane</title>
+      <title>Vathai Unthan Koodarathai anugathu magane</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>வாதை உந்தன கூடாரத்தை அணுகாது மகனே<br/>பொல்லாப்பு நேரிடாது நேரிடாது மகளே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>ஆமென் ஆமென் அல்லேலூயா<br/>ஆமென் அல்லேலூயா<br/>ஆமென் அல்லேலூயா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. உன்னதமான கர்த்தரையே உறைவிடமாக்கிக் கொண்டாய்<br/>அடைக்கலமாம் ஆண்டவனை ஆதாயமாக்கிக் கொண்டாய்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2. ஆட்டுக்குட்டி இரத்தத்தினால் சாத்தானை ஜெயித்து விட்டோம்<br/>ஆவி உண்டு வசனம் உண்டு அன்றாடம் வெற்றி உண்டு</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3. கர்த்தருக்குள் நம் பாடுகள் ஒரு நாளும் வீணாகாது<br/>அசையாமல் உறுதியுடன் அதிகமாய் செயல்படுவோம்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4. அழைத்தவரோ உண்மையுள்ளவர் பரிசுத்தமாக்கிடுவார்<br/>ஆவி ஆத்துமா சரீரமெல்லாம் குற்றமின்றி காத்திடுவார்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5. நம்முடைய குடியிருப்பு பரலோகத்தில் உண்டு<br/>வரப்போகும் இரட்சகரை எதிர்நோக்கி காத்திருப்போம்</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6. அற்பமான ஆரம்பத்தை அசட்டை பண்ணாதே<br/>தொடங்கினவர் முடித்திடுவார் சொன்னதை செய்திடுவார்</lines>
+    </verse>
+    <verse name="v8">
+      <lines><br/>7. ஆற்றல் அல்ல சக்தி அல்ல ஆவியினால் ஆகும்<br/>சோர்ந்திடாமல் நன்மை செய்வோம்<br/>துணையாளர் முன் செல்கிறார்</lines>
+    </verse>
+  </lyrics>
+</song>

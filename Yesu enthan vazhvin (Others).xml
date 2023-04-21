@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesu enthan vazhvin</title>
+      <title>Yesu enthan vazhvin</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு எந்தன் வாழ்வின் பெலனானார்<br/>எனக்கென்ன ஆனந்தம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>எந்தன் வாலிப காலமெல்லாம்<br/>எந்தன் வாழ்க்கையின் துணையானார்<br/>உம் நாமமே தழைத்தோங்க<br/>நான் பாடுவேன் உமக்காக</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>எந்தன் இதயமே உம்மைப் பாடும்<br/>எந்தன் நினைவுகள் உமதாகும்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>பெரும் தீமைகள் அகன்றோட<br/>பொல்லா மாயைகள் மறைந்தோட<br/>உமதாவியின் அருள் காண<br/>வரும் காலங்கள் உமதாகும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>இந்த உலகத்தை நீர் படைத்தீர்<br/>எல்லா உரிமையும் எனக்களித்தீர்<br/>உம் நாமமே தழைத்தோங்க<br/>நான் பாடுவேன் உமக்காக</lines>
+    </verse>
+  </lyrics>
+</song>

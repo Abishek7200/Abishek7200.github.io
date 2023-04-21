@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Vaakku Panninavar</title>
+      <title>vaakku panninavar</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v1 v4 v3 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>வாக்குப் பண்ணினவர் மாறிடார்<br/>வாக்குத்தத்தம் நிறைவேற்றுவார்<br/>சோர்ந்து போகாதே – நீ<br/>சோர்ந்து போகாதே<br/>உன்னை அழைத்தவர் உண்மையுள்ளவர்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1. அவர் மனிதனல்லவே<br/>பொய் சொல்வதில்லையே<br/>அவர் உண்மையுள்ளவர்<br/>வாக்கு மறப்பதில்லையே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>வாக்குத் தந்தவர் சிறந்தவர்<br/>சிறந்ததைத் தருபவர்<br/>ஏமாற்றங்கள் இல்லையே</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>2. காலங்கள் கடந்ததோ<br/>தாமதம் ஆனதோ<br/>வாக்குத் தத்தங்கள் – உன்<br/>வாழ்வினில் தொலைந்ததோ</lines>
+    </verse>
+  </lyrics>
+</song>

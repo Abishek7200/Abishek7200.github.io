@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Vaalaakamal ennai thalaiyaakineer</title>
+      <title>Vaalaakamal ennai thalaiyaakineer</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v1 c1 v3 v1 c1</verseOrder>
+    <authors>
+      <author type="words">John Jebaraj</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>வாலாக்காமல் என்னை தலையாக்கினீர்<br/>கீழாக்காமல் என்னை மேலாக்கினீர்<br/>கீழ கெடந்த என்ன மேல தூக்கி வச்சு<br/>கிருப மேல கிருப தந்து உயர்த்தி வைத்தீர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உம்மை துதிப்பேன் நான்<br/>உம்மை துதிப்பேன்<br/>கிருப மேல கிருப தந்த உம்மை துதிப்பேன்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>பல வண்ண அங்கி ஜொலித்ததினாலே<br/>பலபேர் கண்ணுப்பட்டு உறிஞ்சு புட்டாங்க<br/>தந்தீங்க ராஜ வஸ்திரம்<br/>அத ஒருத்தனும் நெருங்க முடியல<br/>அடிம என்ன அதிபதியாமாத்திப்புட்டீங்க</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>மோசேயே போல கொலைகாரன் என்று<br/>தூரதேசத்திற்க்கு அனுப்பிபுட்டாங்க<br/>வந்தீங்க முட்செடியினில்<br/>என்னை மீண்டும் உயர்த்தி வைக்கவே<br/>வேண்டானு சொன்னவங்கள நடத்த வச்சிங்க</lines>
+    </verse>
+  </lyrics>
+</song>

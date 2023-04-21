@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yehova shalome</title>
+      <title>Yehova shalome</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>யேகோவா ஷாலோம் அல்லேலூயா<br/>யேகோவா நிசியே அல்லேலூயா<br/>யேகோவாயீரே அல்லேலூயா<br/>பரிசுத்த பிதாவே அல்லேலூயா</lines>
+    </verse>
+    <verse name="v1b">
+      <lines><br/>அல்லேலூயா அல்லேலூயா (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>சாரோனின் ரோஜாவே அல்லேலூயா<br/>லீலி புஷ்பமே அல்லேலூயா<br/>அழகில் சிறந்தவரே அல்லேலூயா<br/>இயேசு கிறிஸ்துவே அல்லேலூயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>தேற்றரவாளனே அல்லேலூயா<br/>பெலத்தின் ஆவியே அல்லேலூயா<br/>சத்திய ஆவியே அல்லேலூயா<br/>பரிசுத்த ஆவியே அல்லேலூயா</lines>
+    </verse>
+  </lyrics>
+</song>

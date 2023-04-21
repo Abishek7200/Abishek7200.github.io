@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yaar ennai kaivittalum yesu</title>
+      <title>Yaar ennai kaivittalum yesu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>யார் என்னை கைவிட்டாலும்<br/>இயேசு கைவிட மாட்டார்<br/>கைவிட மாட்டார் கைவிட மாட்டார் கைவிடவே மாட்டார்<br/>இயேசு கைவிடவே மாட்டார்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. தாயும் அவரே தந்தையும் அவரே<br/>தாலாட்டுவார் சீராட்டுவார் --- யார்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. இரத்தத்தால் கழுவி விட்டாரே<br/>இரட்சிப்பின் சந்தோஷம் எனக்கு தந்தாரே --- யார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. ஆவியினாலே அபிஷேகம் செய்து<br/>அன்பு வசனத்தால் நடத்துகின்றாரே --- யார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. வேதனை துன்பம் நெருக்கும் போதெல்லாம்<br/>வேண்டிடுவேனே காத்திடுவாரே --- யார்</lines>
+    </verse>
+  </lyrics>
+</song>

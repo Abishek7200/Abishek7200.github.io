@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesu Rajane</title>
+      <title>Yesu rajane</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v1 v3 c1 v1 v4 c1 v1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு ராஜனே உம் திவ்ய கிருபையே<br/>பட்டுப்போன எந்தன் வாழ்வை<br/>செழிக்க வைத்ததே - 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>உயிருள்ள நாளெல்லாம் உம்மை உயர்த்துவேன்<br/>வாழ்கின்ற நாளெல்லாம் உமக்காய் ஓடுவேன்  - 2   - இயேசு ராஜனே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. எல்லாராலும் நான் தள்ளப்பட்டாலும் - 2<br/>அன்பான தேவனே என்னை உயர்த்திநீர் - 2<br/>உயிருள்ள நாளெல்லாம் உம்மை உயர்த்துவேன்<br/>வாழ்கின்ற நாளெல்லாம் உமக்காய் ஓடுவேன்  - 2  - இயேசு ராஜனே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. கண்ணீரின் பள்ளத்தாக்கில் நடக்கும் போதெல்லாம் - 2<br/>கனிவோடு உந்தன் கரம் என்னை அனைத்தது - 2<br/>உயிருள்ள நாளெல்லாம் உம்மை உயர்த்துவேன்<br/>வாழ்கின்ற நாளெல்லாம் உமக்காய் ஓடுவேன்  - 2  - இயேசு ராஜனே</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. அந்தகாரமே என் வாழ்க்கையானது - 2<br/>விளக்கேற்றி வைத்த என் அன்பு தெய்வமே - 2<br/>உயிருள்ள நாளெல்லாம் உம்மை உயர்த்துவேன்<br/>வாழ்கின்ற நாளெல்லாம் உமக்காய் ஓடுவேன்  - 2 - இயேசு ராஜனே</lines>
+    </verse>
+  </lyrics>
+</song>

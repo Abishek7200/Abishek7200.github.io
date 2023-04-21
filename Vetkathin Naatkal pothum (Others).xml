@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Vetkathin Naatkal pothum</title>
+      <title>Vetkathin Naatkal pothum</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>வெட்கத்தின் நாட்கள்<br/>வெட்கத்தின் நாட்கள் போதும் போதும் – என்<br/>துக்கத்தின் நாட்கள் முடிந்து போனதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. வெட்டுகிளிகள் பச்சைபுழுக்கள்<br/>பட்டைபூச்சி பட்சித்து போட்டதே<br/>இழந்த யாவையும் திரும்ப தருவேன்<br/>என்று தேவன் வாக்களித்தாரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. அக்கினியாலும் கொள்ளையினாலும்<br/>சத்துரு என்னை சூறையாடினான்<br/>சகலத்தையுமே திருப்பி கொள்ள<br/>கர்த்தர் எனக்கு உதவி செய்கிறார்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. அடிமை இனி இல்லை இருளின் பிடியில்லை<br/>இரத்தத்தாலே மீட்கப் பட்டேனே<br/>கிருபையாலே பிள்ளையானேன்<br/>இயேசுவுடனே ஆளுகை செய்வேனே</lines>
+    </verse>
+  </lyrics>
+</song>

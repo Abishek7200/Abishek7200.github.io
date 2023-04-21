@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Vallamaiyin Aaviyanavar ennul</title>
+      <title>Vallamaiyin Aaviyanavar ennul</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>வல்லமையின் ஆவியானவர்<br/>என்னுள் வந்துவிட்ட காரணத்தினால்<br/>பொல்லாத சாத்தானை – ஒரு<br/>சொல்லாலே விரட்டி விட்டேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. Power ஆவி எனக்குள்ளே<br/>பய ஆவி அணுகுவதில்லை<br/>அன்பின் ஆவி எனக்குள்ளே<br/>அகற்றிவிட்டேன் கசப்புகளை</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. கட்டுப்பாட்டின் ஆவியானவர்<br/>என்னை Control பண்ணி நடத்துகிறார்<br/>இஷ்டம் போல அலைவதில்லை<br/>அவர் சித்தம் செய்து வாழ்பவன்நான்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. கிறிஸ்துவுக்குள் நறுமணம் நான்<br/>தெருத்தெருவா மணம் வீசுவேன்<br/>மீட்பு பெறும் அனைவருக்கும் -நான்<br/>வாழ்வளிக்கும் வாசனையாவேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. உலகத்திற்கு வெளிச்சம் நான்<br/>இந்த ஊரெல்லாம் டார்ச் அடிப்பேன்<br/>உப்பாக பரவிடுவேன் – நான்<br/>எப்போதும் சுவை தருவேன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. கர்த்தரின் முத்திரை என் மேல் – நான்<br/>முற்றிலும் அவருக்குச் சொந்தம்<br/>அச்சாரமாய் ஆவியானவர் – நான்<br/>நிச்சயமாய் மீட்பு பெறுவேன்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>6. தேவனாலே பிறந்தவன் நான்<br/>எந்த பாவமும் செய்வதில்லை<br/>கர்த்தரே பாதுகாக்கிறார்<br/>தீயோன் என்னை தீண்டுவதில்லை</lines>
+    </verse>
+  </lyrics>
+</song>

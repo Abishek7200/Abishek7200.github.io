@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesu nallavar nam yesu periyavar</title>
+      <title>Yesu nallavar nam yesu periyavar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு நல்லவர் – நம்<br/>இயேசு பெரியவர்<br/>இயேசு உன்னதர்<br/>சர்வ லோகத்தின் ஆண்டவர்<br/>நல்லவர் பெரியவர் சர்வ வல்லவர்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>வியாதியால் வருந்திடும் உனக்கு<br/>சுகம் தரும் தெய்வம் நம் இயேசு<br/>சாபங்கள் யாவையும் நீக்கி – உன்னை<br/>வாழ வைக்கும் தெய்வம் இயேசு</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>மரண பயம் சூழ்ந்த உன்னை<br/>விடுவிக்க வல்லவர் இயேசு<br/>இருண்டு போன உந்தன் வாழ்வில் – ஜீவ<br/>ஒளியை ஏற்றுவார் இயேசு</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஏமாற்றம் நிறைந்த உன் வாழ்வில்<br/>புது நம்பிக்கை கொடுப்பவர் இயேசு<br/>தோல்வியை சந்தித்த உனக்கு<br/>ஜெயத்தைத் தருபவர் இயேசு</lines>
+    </verse>
+  </lyrics>
+</song>

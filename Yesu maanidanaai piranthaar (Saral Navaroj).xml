@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-24T05:37:11">
+  <properties>
+    <titles>
+      <title>Yesu maanidanaai piranthaar</title>
+      <title>Yesu maanidanaai piranthaar</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Saral Navaroj</author>
+    </authors>
+    <songbooks>
+      <songbook name="Christmas"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு மானிடனாய் பிறந்தார்<br/>இந்த லோகத்தை மீட்டிடவே<br/>இறைவன் ஒளியாய் இருளில் உதித்தார்<br/>இந்த நற்செய்தி சாற்றிடுவோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines>மேய்ப்பர்கள் இராவினிலே தங்கள்<br/>மந்தையைக் காத்திருக்க<br/>தூதர்கள் வானத்திலே தோன்றி<br/>தேவனைத் துதித்தனரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ஆலோசனை கர்த்தரே இவர்<br/>அற்புதமானவரே<br/>விண் சமாதான பிரபு சர்வ<br/>வல்லவர் பிறந்தனரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines>யாக்கோபில் ஓர் நட்சத்திரம் இவர்<br/>வாக்கு மாறாதவரே<br/>கண்ணிமை நேரத்திலே நம்மை<br/>விண்ணதில் சேர்த்திடுவார்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>பொன், பொருள், தூபவர்க்கம் வெள்ளைப்<br/>போளமும் காணிக்கையே<br/>சாட்சியாய் கொண்டு சென்றே – வான<br/>சாஸ்திரிகள் பணிந்தனரே</lines>
+    </verse>
+    <verse name="v5">
+      <lines>மாட்டுத் தொழுவத்திலே பரன்<br/>முன்னணையில் பிறந்தார்<br/>தாழ்மையைப் பின்பற்றுவோம் அவர்<br/>ஏழ்மையின் பாதையிலே</lines>
+    </verse>
+  </lyrics>
+</song>

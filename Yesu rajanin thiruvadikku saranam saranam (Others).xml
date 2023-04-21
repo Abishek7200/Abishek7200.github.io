@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesu rajanin thiruvadikku saranam saranam</title>
+      <title>Yesu rajanin thiruvadikku saranam saranam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசு ராஜனின் திருவடிக்கு<br/>சரணம் சரணம் சரணம்<br/>ஆத்ம நாதரின் மலரடிக்கு<br/>சரணம் சரணம் சரணம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. பார் போற்றும் தூய தூய தேவனே<br/>மெய் ராஜாவே எங்கள் நாதனே<br/>பயம் நீக்கும் துணையாவுமானிரே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2.இளைபாறுதல் தரும் தேவனே<br/>இன்னல் துன்பம் நீக்கும்<br/>அருள் நாதனே<br/>ஏழை என்னை<br/>ஆற்றித் தேற்றி காப்பீரே</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3.பலவீனம் யாவும்<br/>போக்கும் வல்லோரே<br/>பெலனீந்து வலக்கரம் பிடிப்பீரே<br/>ஆவி ஆத்மா சரீரத்தை<br/>படைக்கிறேன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. உந்தன் சித்தம் செய்ய அருள் தருமே<br/>எந்தன் சித்தம் யாவும்<br/>என்றும் ஒழிப்பீரே<br/>சொந்தமாக ஏற்று என்னை<br/>ஆட்கொள்ளும்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5.அல்லேலுயா<br/>பாடி வந்து துதிப்பேன்<br/>மனதார உம்மை<br/>என்றும் போற்றுவேன்<br/>அல்லேலுயா<br/>அல்லேலுயா ஆமென்</lines>
+    </verse>
+  </lyrics>
+</song>

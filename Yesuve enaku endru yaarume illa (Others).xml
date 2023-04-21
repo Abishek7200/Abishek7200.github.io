@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesuve enaku endru yaarume illa</title>
+      <title>Yesuve enaku endru yaarume illa</title>
+    </titles>
+    <verseOrder>c1 v4 c1 v1 v4 c1 v2 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசுவே எனக்கு என்று யாருமே இல்ல -2<br/>உம்மை நம்பியே நானும் வாழ்கிறேன்<br/>உம்மை தேடியே ஒடி வருகிறேன்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>கவலை என்னில் பெருகும்போது கலங்கி போகின்றேன்<br/>வெளியில் சொல்ல முடியாமல் எனக்குள் அழுகின்றேன். -2<br/>யாரும் இல்லை தேற்றிட<br/>யாரும் இல்லை உதவிட - பாரும்</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>உலகம் என்னை வெறுக்கும் போது<br/>உடைந்து போகின்றேன்<br/>நம்பும் மனிதர் விலகும்போது<br/>நெஞ்சம் வலிக்குதே -2<br/>யாரும் இல்லை தேற்றிட<br/>யாரும் இல்லை உதவிட - பாரும்</lines>
+    </verse>
+    <verse name="v4">
+      <lines>பாரும் இயேசுவே என்ன பாரும் இயேசுவே<br/>கைய புடிச்சுட்டு என்ன நடத்தும் இயேசுவே</lines>
+    </verse>
+  </lyrics>
+</song>

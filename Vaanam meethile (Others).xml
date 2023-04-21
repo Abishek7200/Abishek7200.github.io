@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-12-24T14:54:48">
+  <properties>
+    <titles>
+      <title>Vaanam meethile</title>
+      <title>Vaanam meethile</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>வானம் மீதிலே என் மன்னன் வருவார்<br/>மகிமையோடு என்னை ஏற்றுக்கொள்ளுவர்</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>நான் எங்கே போவேன் ஆர்பரிப்பேன்<br/>என் ஆண்டவரின் துதியை சொல்லி மகிழ்வேன்<br/>நான் எங்கே போவேன் ஆர்பரிப்பேன்<br/>என் ஆண்டவரின் துதியை சொல்லி மகிழ்வேன் - ( வானம் மீதிலே )</lines>
+    </verse>
+    <verse name="v2">
+      <lines>துன்பம் இல்லை அங்கே தொல்லைகள் இல்லை<br/>பஞ்சம் இல்லை அங்கே பசியும் இல்லை<br/>தூதர்கள் போல நான் கானம் பாடுவேன்<br/>என் தூயவரை தரிசித்து தொழுதிடுவேன்<br/>தூதர்கள் போல நான் கானம் பாடுவேன்<br/>என் தூயவரை தரிசித்து தொழுதிடுவேன் - ( வானம் மீதிலே )</lines>
+    </verse>
+    <verse name="v3">
+      <lines>நான் நடக்கும் இடமோ தங்கமயமாம்<br/>நான் தாங்கும் ஸ்தலமோ தேவனின் இல்லம்<br/>நான் நடக்கும் இடமோ தங்கமயமாம்<br/>நான் தாங்கும் ஸ்தலமோ தேவனின் இல்லம்<br/>தூதர்கள் போல நானும் இருப்பேன்<br/>என் தூயவரின் கட்டளையை செய்து முடிப்பேன்<br/>தூதர்கள் போல நானும் இருப்பேன்<br/>என் தூயவரின் கட்டளையை செய்து முடிப்பேன் - ( வானம் மீதிலே )</lines>
+    </verse>
+  </lyrics>
+</song>

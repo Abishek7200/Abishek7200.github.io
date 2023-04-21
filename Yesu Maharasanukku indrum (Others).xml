@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:38">
+  <properties>
+    <titles>
+      <title>Yesu Maharasanukku indrum</title>
+      <title>Yesu Maharasanukku indrum</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ஏசு மகாராசனுக்கே இன்றும் என்றும் ஜே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>மீசுரர்கள் போற்றும் எங்கள் ஈசனுக்கு ஜே ஜே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>1.சின்ன மறி யொன்றைச் சீடர் கொண்டு சேர்த்தனர்<br/>கன்னி மரி மகனைப் பாலர் காண ஏகினார்.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>2.மாவிலையும் மரக்கிளையும் தரித்துவந்துமே<br/>பாவியின் நேசருக்கவர் தாவி விரித்தார்.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>3.காணரிய கூட்ட ஜனம் கண்டு களித்துச்<br/>சேணமாக வஸ்திரம் விரித்துச் சேவித்தார்.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>4.சோலைக்கிளி குயலினங்கள் சூழ்ந்து பாடியே<br/>மாலையிட்டால்போல் அவரை மகிழ்ந்து போற்றவே.</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>5.ஈந்து செடி குருத்துகளை எடுத்துக் கைகளில்<br/>ஏந்தி நின்று ஆடிப்பாடிச் சென்ற சிறுவரே.</lines>
+    </verse>
+    <verse name="v7">
+      <lines><br/>6.ஆண்டவருக் கேற்ற மறி நானும் ஆ வேனே<br/>தாண்டவம் ஆடி அவரை ஈண்டு போற்றுவேன்</lines>
+    </verse>
+  </lyrics>
+</song>

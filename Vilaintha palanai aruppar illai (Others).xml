@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Vilaintha palanai aruppar illai</title>
+      <title>Aruvadai miguthi aalo illai</title>
+    </titles>
+    <verseOrder>c1 v7 v1 v7 c1 v2 v7 c1 v3 v7 c1 v4 v7 c1 v5 v7 c1 v6 v7 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>விளைந்த பலனை அறுப்பாரில்லை<br/>விளைவின் நற்பலன் வாடிடுதே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>அவர் போல் பேசிட நாவு இல்லை<br/>அவர் போல் அலைந்திட கால்கள் இல்லை<br/>எண்ணிலடங்கா மாந்தர் சத்தம்<br/>உந்தன் செவியினில் தொனிக்கலையோ</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>ஆத்ம இரட்சண்யம் அடையாதவர்<br/>ஆயிரம் ஆயிரம் அழிகின்றாரே<br/>திறப்பின் வாசலில் நிற்பவர் யார்?<br/>தினமும் அவர் குரல் கேட்கலையோ</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>ஆத்தும தரிசனம் கண்டிடுவாய்<br/>ஆண்டவர் வாக்கினை ஏற்றிடுவாய்<br/>விரைந்து சென்று சேவை செய்வாய்<br/>விளைவின் பலனை அறுத்திடுவாய்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>ஒரு மனம் ஒற்றுமை ஏக சிந்தை<br/>சபைதனில் விளங்கிட செயல்படுவாய்<br/>நிமிர்ந்து நிற்கும் தூண்களைப் போல்<br/>நிலைவரமாய் என்றும் தாங்கி நிற்பாய்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>ஆவியின் வரங்கள் ஒன்பதனை<br/>ஆவலுடன் நீயும் பெற்றிடுவாய்<br/>சபையின் நன்மைக்காய் உபயோகிப்பாய்<br/>சந்ததம் சபையினில் நிலைத்திருப்பாய்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>தேவனின் சேவையில் பொறுப்பெடுப்பாய்<br/>உந்தனின் பங்கினை ஏற்றிடுவாய்<br/>கர்த்தர் நாட்டின தோட்டத்திலே<br/>கடைசிவரை நீயும் கனி கொடுப்பாய்</lines>
+    </verse>
+    <verse name="v7">
+      <lines>அறுவடை மிகுதி ஆளோ இல்லை<br/>அந்தோ! மனிதர் அழிகின்றாரே</lines>
+    </verse>
+  </lyrics>
+</song>

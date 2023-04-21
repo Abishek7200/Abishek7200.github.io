@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Vetrikkodi pidithiduvom naam</title>
+      <title>Vetrikkodi pidithiduvom naam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>வெற்றிக்கொடி பிடித்திடுவோம் - நாம்<br/>வீரநடை நடந்திடுவோம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. வெள்ளம் போல சாத்தான் வந்தாலும்<br/>ஆவி தாமே கொடி பிடிப்பார்<br/>அஞ்சாதே என் மகனே - நீ<br/>அஞ்சாதே என் மகளே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. ஆயிரம் தான் துன்பம் வந்தாலும்<br/>அணுகாது அணுகாது<br/>ஆவியின் பட்டயம் உண்டு - நாம்<br/>அலகையை வென்று விட்டோம்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. காடானாலும் மேடானாலும்<br/>கர்த்தருக்கு பின் நடப்போம்<br/>கலப்பையில் கை வைத்திட்டோம்<br/>நாம் திருப்பி பார்க்க மாட்டோம்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. கோலியாத்தை முறியடிப்போம்<br/>இயேசுவின் நாமத்தினால்<br/>விசுவாச கேடயத்தினால்<br/>பிசாசை வென்றிடுவோம்</lines>
+    </verse>
+  </lyrics>
+</song>

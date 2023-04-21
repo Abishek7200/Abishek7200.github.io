@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-09-24T06:25:37">
+  <properties>
+    <titles>
+      <title>Uthavi varum kanmalai nokki paarkinren</title>
+      <title>Uthavi varum kanmalai nokki paarkinren</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Ft. Berckmans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>உதவி வரும் கன்மலை நோக்கிப் பார்கின்றேன்<br/>வானமும் வையமும் படைத்தவரை நான் பார்கின்றேன் (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. கால்கள் தள்ளாட விடமாட்டார்<br/>காக்கும் தேவன் உறங்க மாட்டார் (2)<br/>இஸ்ரவேலை காக்கிறவர்<br/>என்னாளும் தூங்க மாட்டார் (2) – உதவி</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. கர்த்தர் என்னை காக்கின்றார்<br/>எனது நிழலாய் இருகின்றார் (2)<br/>பகலினிலும் இரவினிலும்<br/>பாது காக்கின்றார் (2) – உதவி</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. கர்த்தர் எல்லா தீங்கிற்கும்<br/>விலக்கி என்னைக் காத்திடுவார் (2)<br/>அவர் எனது ஆத்துமாவை<br/>அனுதினம் காத்திடுவார் (2) – உதவி</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. போகும் போதும் காக்கின்றார்<br/>திரும்பும் போதும் காக்கின்றார் (2)<br/>இப்போது எப்போது<br/>என்னாளும் காக்கின்றார் (2) – உதவி</lines>
+    </verse>
+  </lyrics>
+</song>
