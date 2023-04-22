@@ -101,9 +101,9 @@ copyButton.addEventListener('click', () => {
   try {
     navigator.clipboard.writeText(text)
       .then(() => {
-        copyButton.innerHTML = 'Copied!';
+        copyButton.innerHTML = '<i class="fas fa-check"></i> Copied!';
         setTimeout(() => {
-          copyButton.innerHTML = 'Copy';
+          copyButton.innerHTML = '<i class="fas fa-copy"></i> Copy';
         }, 2000); // Change back to 'Copy' after 5 seconds
       })
       .catch((error) => {
@@ -116,9 +116,9 @@ copyButton.addEventListener('click', () => {
     textArea.select();
     document.execCommand("Copy");
     textArea.remove();
-    copyButton.innerHTML = 'Copied!';
+    copyButton.innerHTML = '<i class="fas fa-check"></i> Copied!';
     setTimeout(() => {
-      copyButton.innerHTML = 'Copy';
+      copyButton.innerHTML = '<i class="fas fa-copy"></i> Copy';
     }, 2000); // Change back to 'Copy' after 5 seconds
   }
 });
