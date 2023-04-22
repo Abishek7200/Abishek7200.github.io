@@ -96,7 +96,7 @@ const copyButton = document.querySelector('#copy-button');
 copyButton.addEventListener('click', () => {
   const stitle = document.querySelector('body h2');
   const slyrics = document.querySelector("div[id='songarea'] p verse").innerText.replace(/\n/g, '<br>');;
-  const text = stitle.innerText + '\n\n' + slyrics + '\n\n' + '\n' + "https://abishek7200.github.io/render.html";
+  const text = stitle.innerText + '\n\n' + slyrics.innerHTML + '\n\n' + '\n' + "https://abishek7200.github.io/render.html";
 
   try {
     navigator.clipboard.writeText(text)
