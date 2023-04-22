@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-22T07:19:58">
+  <properties>
+    <titles>
+      <title>Yesuve ummai pol aga</title>
+      <title>Yesuve ummai pol aga</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>இயேசுவே உம்மைப்போலாக<br/>வாஞ்சிக்குதே என்னுள்ளம்</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>என் ஆவி ஆத்மா சரீரம்<br/>முற்றும் படைத்து விட்டேன்<br/>என்னை ஏற்றுக்கொள்ளும் ஐயனே</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>பாவமறியாது பாவமே செய்யாது<br/>பாரினில் ஜீவித்தீரே<br/>பரிசுத்தர் உம்மைப் போல் ஜீவிக்கவே<br/>பெலமதை தாருமையா – உந்தன்</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>உபத்திரவம் உண்டு உலகினில் என்று<br/>உலகத்தை வென்றேனென்றீர்<br/>உம்மைப்போல் உலகினை ஜெயத்திடவே<br/>பெலமதை தாருமையா – உந்தன்</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>சிலுவை சுமந்தென்றும் என் பின் வராதவன்<br/>அல்ல என் சீஷன் என்றீர்<br/>எந்தன் சிலுவையை நான் சுமக்க<br/>பெலமதைத் தாருமையா – உந்தன்</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>தலைசாய்க்க தலமில்லை<br/>தரணியில் உறவில்லை<br/>நிலையில்லா பூவில் என்றீர்<br/>நானும் உம்மைப் போல தியாகம் செய்ய<br/>பெலமதைத் தாருமையா – உந்தன்</lines>
+    </verse>
+    <verse name="v6">
+      <lines><br/>சீயோன் மலையதில் சிறந்தே இலங்கிடும்<br/>தேவாட்டுக்குட்டி நீரே<br/>சீயோனில் உம்முடன் நானிருக்க<br/>உம்மைப் போல் மாற்றும் ஐயா – என்னை</lines>
+    </verse>
+  </lyrics>
+</song>

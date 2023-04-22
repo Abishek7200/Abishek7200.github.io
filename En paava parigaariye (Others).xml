@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-04-22T07:21:35">
+  <properties>
+    <titles>
+      <title>En paava parigaariye</title>
+      <title>En paava parigaariye</title>
+    </titles>
+    <authors>
+      <author type="words">Others</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>என் பாவ பரிகாரியே<br/>என் ஜீவ உபகாரியே<br/>என் பாவ பரிகாரியே<br/>என் ஜீவ உபகாரியே</lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. இறை இயேசுவே மறைமாமணியே<br/>இறை ஆசிர் அருள்வீரையா..(2)<br/>(என்)குறையாவும் போக்கி<br/>(பாவ)கரையாவும் நீக்கி (2)<br/>புதுவாழ்வு அளிப்பீரையா – எனக்கு<br/>புதுவாழ்வு அளிப்பீரையா</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. உம் இரத்தத்தால் என்னை கழுவும் ஐயா<br/>புது ஜீவன் தரும் தேவனே..(2)<br/>மனம்மார செய்து<br/>(நல்)குணம் யாவும் தந்து (2)<br/>மருறுபம் ஆக்கும் ஐயா<br/>என்னை மருறுபம் ஆக்கும் ஐயா</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. எனக்காகவே மரித்தீர் ஐயா<br/>எனக்காக உயிர்த்தீர் ஐயா (2)<br/>வருகையில் நானும்<br/>சரியாக இருக்க-உம்<br/>வருகையில் நானும்<br/>சரியாக இருக்க<br/>கிருபையால் முடும் ஐயா -என்னை<br/>கிருபையால் முடும் ஐயா</lines>
+    </verse>
+  </lyrics>
+</song>
