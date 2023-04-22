@@ -65,7 +65,7 @@ verse[name*="v"] {
   text-align: center;
   border: 2px solid #ccc;
   border-radius: 5px;
-  background-image: url('ColorStretched\ -\ Bloom.jpg');
+  background-image: url('tcsl_background_new.jpeg');
   background-size: cover;
   background-position: center;
 }
@@ -159,11 +159,15 @@ padding: 20px;
 label {
   color: white;
   padding-right: 40px;
-  font-size: larger;
+  font-size: xxx-large;
 }
 
 input[type="radio"] {
   border: 0px;
-  width: 2%;
+  width: 3%;
   height: 3em;
+}
+#sdiv {
+  padding-bottom: 20px;
+  padding-top: 15px;
 }
