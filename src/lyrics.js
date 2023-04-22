@@ -40,16 +40,6 @@ searchButton.addEventListener('click', () => {
       const xml = parser.parseFromString(data, 'application/xml');
       const title = xml.querySelector('title').textContent;
       let lyrics = xml.querySelector('lyrics').innerHTML;
-      
-      // Remove <br> element that is the first child of each <verse> element
-      const verseElements = xml.querySelectorAll('verse');
-      verseElements.forEach(verseElement => {
-        const brElement = verseElement.querySelector('br:first-child');
-        if (brElement !== null && brElement.nextElementSibling !== null) {
-          brElement.remove();
-        }
-      });
-      lyrics = xml.querySelector('lyrics').innerHTML;
 
       // remove the loading animation and display the search button text
       loading.classList.remove('loading');
@@ -95,8 +85,8 @@ const copyButton = document.querySelector('#copy-button');
 
 copyButton.addEventListener('click', () => {
   const stitle = document.querySelector('body h2');
-  const slyrics = document.querySelector("div[id='songarea'] p verse").innerText.replace(/\n/g, '<br>');;
-  const text = stitle.innerText + '\n\n' + slyrics.innerHTML + '\n\n' + '\n' + "https://abishek7200.github.io/render.html";
+  const slyrics = document.querySelector('body p');
+  const text = stitle.innerText + '\n\n' + slyrics.innerText + '\n\n' + '\n' + "https://s0qylkppodzgzu9p6xujiw.on.drv.tw/www.tamil_christian_song_lyrics.com/render.html";
 
   try {
     navigator.clipboard.writeText(text)
