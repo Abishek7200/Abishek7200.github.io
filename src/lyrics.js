@@ -86,7 +86,7 @@ const copyButton = document.querySelector('#copy-button');
 copyButton.addEventListener('click', () => {
   const stitle = document.querySelector('body h2');
   const slyrics = document.querySelector('body p');
-  const text = stitle.innerText + '\n\n' + slyrics.innerText + '\n\n' + '\n' + "https://s0qylkppodzgzu9p6xujiw.on.drv.tw/www.tamil_christian_song_lyrics.com/render.html";
+  const text = stitle.innerText + '\n\n' + slyrics.innerText + '\n\n' + '\n' + "https://abishek7200.github.io/render.html";
 
   try {
     navigator.clipboard.writeText(text)
