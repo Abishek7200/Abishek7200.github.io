@@ -41,6 +41,9 @@ searchButton.addEventListener('click', () => {
       const title = xml.querySelector('title').textContent;
       let lyrics = xml.querySelector('lyrics').innerHTML;
 
+      lyrics.replaceAll('</lines>','<br></lines>')
+      lyrics = xml.querySelector('lyrics').innerHTML;
+
       // remove the loading animation and display the search button text
       loading.classList.remove('loading');
 
