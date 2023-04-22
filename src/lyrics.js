@@ -4,7 +4,7 @@ const clearButton = document.getElementById('clear-button');
 const loading = document.getElementById('loading');
 
 const allSongsRadio = document.getElementById('all-songs');
-const worshipSongsRadio = document.getElementById('worship-songs');
+const communionSongsRadio = document.getElementById('communion-songs');
 const songSearch = document.getElementById('search-input');
 const songList = document.getElementById('options');
 
@@ -13,9 +13,9 @@ allSongsRadio.addEventListener('change', function() {
   searchInput.setAttribute('list','all')
 });
 
-worshipSongsRadio.addEventListener('change', function() {
+communionSongsRadio.addEventListener('change', function() {
   searchInput.removeAttribute('list')
-  searchInput.setAttribute('list','worship')
+  searchInput.setAttribute('list','communion')
 });
 
 // add a click event listener to the search button
